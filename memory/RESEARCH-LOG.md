@@ -90,3 +90,39 @@ HOLD. Day 1, no positions, no urgent edge. Energy is the cleanest setup but it's
 
 ### Decision
 TRADE. 2 positions opened; 1 weekly trade slot remaining.
+
+## 2026-04-30 -- Pre-market Research
+
+### Account
+- Equity: $100,289.34 | Cash: $60,207.62 (60.0%) | BP: $160,496.96 | Daytrade count: 0
+- Positions: XLE 340 @ $58.46 (now $58.66, +$67.95 / +0.34%, intraday -0.63%), XOM 131 @ $152.03 (now $153.72, +$221.39 / +1.11%, intraday -0.61%)
+- Open orders: 2 trailing stops live -- XLE stop $53.20 (hwm $59.11), XOM stop $139.45 (hwm $154.95)
+
+### Market Context
+- WTI: ~$111 (Twelve Data Apr 30 open 111.25 / high 111.29) -- continuation higher from $105.69 close Apr 29 (+5%+ extension on Hormuz/Iran).
+- Brent: ~$113-115 implied (Brent typically +$2-10 to WTI; $104.86 quoted Apr 1 stale).
+- S&P 500 futures: ESM26 ~ -0.28% premarket; SPX -0.36% session (closed Apr 29 ~7,200 area).
+- VIX: 17.83 (Apr 28 close); intraday 18.81 Apr 29 -- still benign.
+- Today's catalysts: 8:30 ET GDP Q1 advance + March Core PCE (the print) + Employment Cost Index Q1; FOMC was YESTERDAY (Apr 29). AAPL Q2 earnings AMC.
+- Earnings BMO: nothing systemic before bell. Heavy mega-cap (META, GOOGL, MSFT, AMZN) reported this week; AAPL AMC tonight.
+- Economic calendar: GDP, Core PCE, ECI 8:30 ET; jobless claims same window. Multi-data print = vol.
+- Sector momentum: Energy still YTD leader (XLE/IXE +20-22% earlier; some Apr chop). Staples/Industrials/Materials co-leading. Financials lagging. Tech/semis still extended.
+
+### Held-ticker News
+- XOM: **earnings May 1 BMO (TOMORROW)**. Co already 8-K'd ~6% Q1 production hit + $3.5-4.9B charges from Middle East disruptions. Headline-risk binary into print, but bad news partly pre-announced; oil breakout offsets. Stock trading near record range $155-176.
+- XLE: ETF -- benefits from broad energy strength; XOM is ~24% weight so XOM earnings will leak through.
+
+### Trade Ideas
+1. HOLD XLE/XOM. Both green on basis, trailing stops well clear (>9% from current). No reason to trim ahead of XOM earnings -- 8-K pre-announce reduces surprise; trail handles downside.
+2. NO NEW ADDS today. Triple macro print 8:30 ET + AAPL AMC = wait for the dust. 1 weekly slot remains; don't burn it on a noisy session.
+3. PASS list: semis (extended), megacap tech post-earnings (chase), financials (lagging momentum).
+
+### Risk Factors
+- GDP/Core PCE 8:30 ET: hot PCE = bond/equity puke, oil could roll on USD pop. Cold print = green for everything.
+- XOM earnings tomorrow: even with pre-announced charges, guidance + capex commentary = gap risk both ways.
+- Oil at $111 is +17% in 8 sessions -- chase risk; any Iran de-escalation headline gaps energy down.
+- Concentration: 40% deployed in 2 highly correlated energy names. Adding more energy = breaks diversification.
+- VIX low but futures curve at 21+ suggests forward hedging.
+
+### Decision
+HOLD. No new trades. Run trailing stops on XLE/XOM through PCE print and into XOM earnings. Reassess at midday and post-PCE. Patience > activity.

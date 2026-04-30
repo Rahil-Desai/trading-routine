@@ -23,3 +23,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $154.82 | +2.83% | +$365.71 (+1.84%) | $139.45 (10% trail, hwm $154.95) |
 
 **Notes:** Launch day. Bought XLE and XOM at the open on the energy breakout thesis (WTI +3.4% on Iran/Hormuz risk). Both names finished green, +1-2% on the day, contributing +$566 to equity. Trailing stops live as GTC sells. Deployment 40% -- below 75-85% target but acceptable: weekly trade cap (2/3) and discipline say wait. 3 slots open, ~$60k dry powder. Tomorrow: monitor energy follow-through, scout 1 more quality entry for Thu/Fri if setups confirm; otherwise sit.
+
+### Apr 30 -- EOD Snapshot (Day 2, Thursday)
+**Portfolio:** $100,715.02 | **Cash:** $60,207.62 (59.8%) | **Day P&L:** +$149.17 (+0.15%) | **Phase P&L:** +$715.02 (+0.72%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $59.65 | +1.05% | +$404.55 (+2.04%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | 131 | $152.03 | $154.40 | -0.18% | +$310.47 (+1.56%) | $140.12 (10% trail, hwm $155.69) |
+
+**Notes:** Quiet follow-through day. Energy held bid: XLE +1.05% to a new hwm $59.84, XOM gave back a fraction (-0.18%) but unrealized still +1.56%. Both trailing stops auto-ratcheted up overnight (XLE stop $53.20 -> $53.85, XOM $139.45 -> $140.12). No trades placed -- weekly count stays 2/3, deployment 40%. Names well clear of 7% manual cut and nowhere near +15% trail-tightening trigger. Tomorrow (Fri): weekly review day; reassess energy thesis (WTI follow-through, OPEC headlines), scout 1 more entry candidate if conviction setup appears, otherwise hold and let winners breathe.

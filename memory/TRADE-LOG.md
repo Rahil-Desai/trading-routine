@@ -33,3 +33,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $154.40 | -0.18% | +$310.47 (+1.56%) | $140.12 (10% trail, hwm $155.69) |
 
 **Notes:** Quiet follow-through day. Energy held bid: XLE +1.05% to a new hwm $59.84, XOM gave back a fraction (-0.18%) but unrealized still +1.56%. Both trailing stops auto-ratcheted up overnight (XLE stop $53.20 -> $53.85, XOM $139.45 -> $140.12). No trades placed -- weekly count stays 2/3, deployment 40%. Names well clear of 7% manual cut and nowhere near +15% trail-tightening trigger. Tomorrow (Fri): weekly review day; reassess energy thesis (WTI follow-through, OPEC headlines), scout 1 more entry candidate if conviction setup appears, otherwise hold and let winners breathe.
+
+### May 01 -- EOD Snapshot (Day 3, Friday)
+**Portfolio:** $100,220.07 | **Cash:** $60,207.62 (60.1%) | **Day P&L:** -$494.95 (-0.49%) | **Phase P&L:** +$220.07 (+0.22%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $58.83 | -1.38% | +$125.75 (+0.63%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | 131 | $152.03 | $152.75 | -1.02% | +$94.32 (+0.47%) | $140.12 (10% trail, hwm $155.69) |
+
+**Notes:** Energy gave back this week's gains -- XLE -1.38%, XOM -1.02% as WTI faded on profit-taking ahead of weekend headlines. Day P&L -$495 (-0.49%); phase still green at +$220 (+0.22%). Both names remain above entry, well clear of 7% manual cut, and nowhere near +15% trail-tightening trigger. Stops unchanged (no new hwm). No trades today -- weekly count closes at 2/3, deployment 40%. Week 1 net positive but lighter than ideal deployment. Monday: pre-market review for energy continuation/reversal vs broader tape; if conviction setup outside energy appears, scout 1 entry to push deployment toward 60%+; otherwise hold.

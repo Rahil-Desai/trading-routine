@@ -126,3 +126,41 @@ TRADE. 2 positions opened; 1 weekly trade slot remaining.
 
 ### Decision
 HOLD. No new trades. Run trailing stops on XLE/XOM through PCE print and into XOM earnings. Reassess at midday and post-PCE. Patience > activity.
+
+## 2026-05-01 -- Pre-market Research
+
+### Account
+- Equity: $100,871.32 | Cash: $60,207.62 (59.7%) | BP: $161,078.94 | Daytrade count: 0
+- Positions: XLE 340 @ $58.46 (now $59.84, +$469 / +2.36%), XOM 131 @ $152.03 (now $155.10, +$402 / +2.02%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835), XOM stop $140.12 (hwm $155.69)
+- Weekly trade count: 2/3 used. 1 slot remaining.
+
+### Market Context
+- WTI: ~$105.07 (-1.69% on session, holding above $100 breakout). UAE OPEC+ withdrawal Apr 28 + Hormuz/Iran tensions still bid.
+- Brent: ~$110.84 (+0.36%).
+- S&P 500 futures: mixed pre-market (sources stale; ESM26 ~7,150-7,200 area). Volatility into ISM print + XOM earnings.
+- VIX: ~18.68 open. Benign but creeping up from 14-15 lows last week.
+- Today's catalysts: **XOM Q1 earnings BMO** (5:30am CT release / 9:30 ET call). ISM Manufacturing PMI 10:00 ET (Mar was 52.7, expansion). FOMC was Apr 29 -- digesting Powell.
+- Earnings BMO: **XOM (own)** + CVX (energy peer) -- both megacap energy print today; sector-wide read-through. SFM, RITM also.
+- Economic calendar: ISM Mfg PMI 10:00 ET (forecast ~52). NO NFP today (NFP is May 8). FOMC minutes 1pm? (some sources).
+- Sector momentum: Energy still YTD leader (XLE ~+33% YTD per Mar data, -14% in Apr per one source = chop). Materials, Industrials, Staples co-lead. Tech lagging. Semis still extended.
+
+### Held-ticker News
+- **XOM**: Q1 2026 results today BMO (5:30am CT press, 9:30 ET call). Pre-announced 8-K (~6% Q1 production hit + $3.5-4.9B charges from Mideast disruptions) reduces surprise risk, but guidance/capex commentary = gap risk both ways. Stock at $155, trail stop $140.12 = ~10% buffer. CVX prints same morning -- sector co-read.
+- **XLE**: ETF benefits from broad energy strength; XOM ~24% weight will leak through. Analyst Strong Buy maintained on oil rally; XLE +33% YTD context; some 4% weekly drawdowns flagged = volatility.
+
+### Trade Ideas
+1. HOLD XLE/XOM. Both green +2%, trailing stops well clear, sector thesis intact. Earnings binary on XOM but pre-announced + 10% trail handles drawdown.
+2. NO NEW ADDS today. XOM/CVX prints + ISM PMI = wait for the dust. 1 weekly slot remaining; preserve for confirmed setup not earnings-day chase.
+3. WATCH: post-XOM reaction in CVX/COP/EOG for sector-wide momentum signal. If XOM gaps up clean and oil holds $105, energy thesis re-confirmed for late-week add. If XOM tape-bombs and oil rolls, reassess concentration.
+4. PASS list: semis (extended), mega-cap tech (post-earnings chase), financials (lagging).
+
+### Risk Factors
+- **XOM earnings binary today** -- 40% of book is energy; XOM is half of that directly + XLE proxy. Highly correlated drawdown risk.
+- ISM Mfg PMI: weak print could pressure cyclicals (energy included) on growth concern.
+- Oil at $105 has +17% in 8 sessions -- chase risk; any Iran/Hormuz de-escalation headline gaps energy down sharply.
+- Concentration: 40% deployed in 2 highly correlated energy names. Adding more energy = breaks diversification.
+- Friday liquidity + weekend headline risk into Iran/Hormuz situation.
+
+### Decision
+HOLD. No new trades. Run trailing stops on XLE/XOM through XOM earnings + ISM PMI. Reassess at midday post-print. Patience > activity.

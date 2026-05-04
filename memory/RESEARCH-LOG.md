@@ -164,3 +164,38 @@ HOLD. No new trades. Run trailing stops on XLE/XOM through PCE print and into XO
 
 ### Decision
 HOLD. No new trades. Run trailing stops on XLE/XOM through XOM earnings + ISM PMI. Reassess at midday post-print. Patience > activity.
+
+## 2026-05-04 -- Market-Open Inline Research
+
+### Account
+- Equity: $100,022.70 | Cash: $60,207.62 (60.2%) | BP: $160,230.32 | Daytrade count: 0
+- Positions: XLE 340 @ $58.46 (now $58.79, +$102 / +0.51%), XOM 131 @ $152.03 (now $151.37, -$86 / -0.43%)
+- Open orders: 2 trailing stops live -- XLE $53.85 (hwm $59.835), XOM $140.12 (hwm $155.69)
+- Weekly trade count: 0/3 (new week starts today)
+
+### Market Context
+- WTI: ~$95.92 (CME July CLN6 -0.64%) -- pulled back from $105+ Apr 30 peak. Prediction-market implied: $102+ at 78%, $105+ only 35%. Cooling.
+- Brent: ~$107 implied from prediction markets (68% above $107).
+- S&P 500 futures: data thin pre-market; SPX closed ~7,200 area Friday.
+- VIX: not refreshed; benign regime continued from last week.
+- Today's catalysts: thin macro calendar Mon. NFP Friday May 8. CPI May 12. Energy de-rating after XOM/CVX prints last Friday + WTI fade.
+- Earnings BMO: nothing systemic flagged.
+- Economic calendar: light Monday. Factory orders 10:00 ET typical slot.
+- Sector momentum: Energy fading on WTI pullback; Staples/Industrials still co-leading; Tech mixed; semis still extended.
+
+### Held-ticker News
+- **XLE/XOM**: Both pre-market ~flat to -1%. Friday EOD positions still green on basis (XLE +0.51%, XOM was +0.47% Fri close, now -0.43%). Trailing stops well clear (>9% buffer). Energy thesis deteriorating with WTI fade but stops do the work.
+
+### Trade Ideas
+1. HOLD XLE/XOM. Stops live; no manual cuts needed (both well above -7% threshold).
+2. NO NEW ADDS. Energy momentum cooling -- no add-on conviction. No researched non-energy setup with documented catalyst. Adding more energy = breaks diversification (already 40%); adding speculative non-energy without catalyst = burns weekly slot for nothing.
+3. PASS list: semis (extended), megacap tech (post-earnings chase), financials (lagging).
+
+### Risk Factors
+- WTI fade $105 -> $96 (~9%) puts XLE/XOM at risk of giving back gains; trailing stops handle.
+- Concentration: 40% in 2 highly correlated energy names.
+- Friday's -0.49% day P&L shows the energy de-rating already in motion.
+- Light Monday catalysts = chop risk; don't force trades into illiquid tape.
+
+### Decision
+HOLD. No new trades. Run trailing stops on XLE/XOM. Preserve all 3 weekly slots for confirmed setups later this week. Patience > activity.

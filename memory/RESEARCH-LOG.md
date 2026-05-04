@@ -164,3 +164,41 @@ HOLD. No new trades. Run trailing stops on XLE/XOM through PCE print and into XO
 
 ### Decision
 HOLD. No new trades. Run trailing stops on XLE/XOM through XOM earnings + ISM PMI. Reassess at midday post-print. Patience > activity.
+
+## 2026-05-04 -- Pre-market Research
+
+### Account
+- Equity: $100,450.67 | Cash: $60,207.62 (59.9%) | BP: $160,658.29 | Daytrade count: 0
+- Positions: XLE 340 @ $58.46 (now $59.20, +$251.55 / +1.27%), XOM 131 @ $152.03 (now $153.55, +$199.12 / +1.00%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835), XOM stop $140.12 (hwm $155.69)
+- Weekly trade count: 0/3 (new week, Monday).
+
+### Market Context
+- WTI: ~$101-108 area, dipped below $110 second session in a row (TwelveData May 1 close $107.65; FXDailyReport pegs ~$101.50; Polymarket "↑$100" 100%). +17% 8-session move clearly cooling on profit-taking + Gulf stabilization headlines.
+- Brent: ~$116 (Fortune May 1, 8:45 ET).
+- S&P 500 futures: ESM26 ~+0.10% to +0.23% premarket; SPX held record-zone highs into weekend. Goldman flagged "froth" past 7,100.
+- VIX: ~16.89 (April monthly close per Fed/Tradingeconomics); creeping but benign.
+- Today's catalysts: **FOMC starts tomorrow (May 5-6)** -- Powell post-decision Wed; key for rate path. AI/Nasdaq leadership continuing. PLTR earnings AMC. RBA hike expected this week.
+- Earnings BMO: ~14 small/mid names (NFE, NESR, MGTX, GWRS, LGO, ORMP, etc.) -- nothing systemic. PLTR AMC.
+- Economic calendar: Light Mon. **FOMC Tue-Wed (decision Wed 2pm ET)**. Initial jobless claims Wed/Thu. **NFP Fri May 8 7:30 CT**. ISM Services Fri 10:00 ET. CPI May 12, PPI May 13.
+- Sector momentum: Energy (XLE) still YTD leader on rotation; Staples/Industrials/Materials co-leading; Tech/Comms/Discretionary/Financials lagging. Equal-weight S&P > cap-weighted = broadening.
+
+### Held-ticker News
+- **XOM**: Q1 2026 print Fri AM -- EPS $1.16 ex-items vs $1.03 consensus (BEAT +12.6%); revenue $85.14B beat; GAAP $1.00 hit by $3.9B derivative timing (unwinds) + $0.7B identified item. Core upstream/refining strong; analyst takes constructive ("Overweight" Wells/Barclays). Stock closed $152.75 Fri (-1.02%) -- muted reaction, headline noise dampened beat. Trail $140.12 still ~9% buffer.
+- **XLE**: Sector ETF rode XOM/CVX prints flat-to-down on Fri as oil faded. Still leading YTD; 24% XOM weight = correlated. Hwm $59.835 intact.
+
+### Trade Ideas
+1. HOLD XLE/XOM. Both green, stops well clear (>9% buffer), thesis intact (XOM beat ex-items confirms operational strength even with Hormuz disruptions). No reason to trim or add.
+2. NO NEW ADDS today. FOMC starts tomorrow; entering Mon ahead of 2-day Fed meeting + NFP Fri = wait for the dust. 3 weekly slots open; preserve for post-FOMC clarity Wed/Thu.
+3. WATCH for post-FOMC (Wed PM): if dovish + oil holds $100, energy thesis re-rates -- candidate adds: COP, EOG, or hedge with non-energy leader (XLI/XLB). If hawkish + oil rolls below $95, reassess concentration on XLE/XOM.
+4. PASS list: semis (still extended +44% YTD), megacap tech (post-earnings chase), financials (lagging momentum), PLTR (binary AMC print, no edge).
+
+### Risk Factors
+- **FOMC Tue-Wed dominates** -- any hawkish surprise = USD pop, oil gets hit, XLE/XOM correlated drawdown. 40% concentrated in one sector pre-Fed = highest single risk.
+- Oil rolling 2 sessions in a row from $111 highs -- if WTI breaks $100 cleanly, XLE/XOM thesis weakens; trail stops cushion but break of momentum = consider trim into FOMC.
+- NFP Fri May 8 = end-of-week vol layer on top of FOMC.
+- Concentration: 40% deployed in 2 highly correlated energy names; cash 60% provides flexibility but adding more energy = breaks diversification.
+- SPX at record highs + Goldman "froth" call = drawdown risk on any catalyst miss.
+
+### Decision
+HOLD. No new trades. Run trailing stops on XLE/XOM through FOMC. Reassess midday and post-Fed Wed. Patience > activity. Weekly slots untouched (0/3) -- preserve for confirmed post-FOMC setup.

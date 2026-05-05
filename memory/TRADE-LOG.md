@@ -53,3 +53,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $153.70 | +0.62% | +$218.77 (+1.10%) | $140.12 (10% trail, hwm $155.69) |
 
 **Notes:** Energy bounced back to start the week -- XLE +0.92%, XOM +0.62% reversing some of Friday's give-back. Day P&L +$315 (+0.31%); phase back near hwm at +$535 (+0.53%). No new hwm on either name (XLE hwm $59.84 vs close $59.39; XOM hwm $155.69 vs $153.70), stops unchanged. No trades -- weekly count resets to 0/3, deployment still 40%. Both names well clear of 7% manual cut and not at +15% trail-tightening trigger. Tomorrow: pre-market read on energy continuation + broader tape; if conviction setup confirms (energy follow-through or fresh sector leadership), scout 1 entry to push deployment toward 60%; otherwise hold.
+
+### May 05 -- EOD Snapshot (Day 5, Tuesday)
+**Portfolio:** $100,709.90 | **Cash:** $60,207.62 (59.8%) | **Day P&L:** +$174.98 (+0.17%) | **Phase P&L:** +$709.90 (+0.71%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $59.45 | +0.10% | +$336.55 (+1.69%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | 131 | $152.03 | $154.88 | +0.77% | +$373.35 (+1.88%) | $140.12 (10% trail, hwm $155.69) |
+
+**Notes:** Quiet grind higher. XOM led (+0.77% to $154.88), XLE flat (+0.10% to $59.45). Day P&L +$175 (+0.17%); phase pushed to fresh hwm at +$710 (+0.71%). No new closing hwm on either name (XLE close $59.45 vs hwm $59.84; XOM close $154.88 vs hwm $155.69), stops unchanged at $53.85 / $140.12. No trades -- weekly count 0/3, deployment still 40%. Both names comfortably clear of 7% manual cut and not yet at +15% trail-tightening trigger. Tomorrow: pre-market check on energy follow-through (WTI levels, OPEC/Iran headlines) + broader tape; if a conviction setup confirms (energy continuation or fresh sector leadership), scout 1 entry to lift deployment toward 60%; otherwise hold and let winners breathe.

@@ -202,3 +202,42 @@ HOLD. No new trades. Run trailing stops on XLE/XOM through XOM earnings + ISM PM
 
 ### Decision
 HOLD. No new trades. Run trailing stops on XLE/XOM through FOMC. Reassess midday and post-Fed Wed. Patience > activity. Weekly slots untouched (0/3) -- preserve for confirmed post-FOMC setup.
+
+## 2026-05-05 -- Pre-market Research
+
+### Account
+- Equity: $100,629.76 | Cash: $60,207.62 (59.8%) | BP: $160,837.38 | Daytrade count: 0
+- Positions: XLE 340 @ $58.46 (now $59.59, +$384.15 / +1.93%), XOM 131 @ $152.03 (now $153.90, +$245.61 / +1.23%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835), XOM stop $140.12 (hwm $155.69)
+- Weekly trade count: 0/3 (Tue).
+
+### Market Context
+- WTI: $104.64 (-1.67%); WTI cooling -6.91% MoM but still +77% YoY. Roll below $105 this AM.
+- Brent: ~$115.01 (+~6% early May); Brent/WTI spread ~$10 = Hormuz disruption persisting (Mideast supply tighter).
+- S&P 500 futures: ESM26 ~7,243 (+0.18% premarket). SPX still in record zone; Goldman "froth" call lingers above 7,100.
+- VIX: 18.51 May 4 close (+8.95% on the day from 16.99 May 1). Vol expanding -- elevated but not panic.
+- Today's catalysts: **ISM Services PMI 10:00 ET (April data; prior 54.0, Feb peak 56.1)**. No FOMC today (next FOMC June 16-17 per FedWatch ~95% pause). NFP was May 1 (not in front of us).
+- Earnings BMO: ~600+ tickers reporting, none systemic before bell. LTH BMO. PLTR/AMD AMC this week.
+- Economic calendar: ISM Services 10:00 ET today. CPI May 12. PPI May 13. Next FOMC June 16-17.
+- Sector momentum: Energy still leader, $SREN +31.79% YTD / +41.9% 12mo; XLE/XOM top sector weights. Materials/Industrials/Staples co-leading. Tech/Comms/Discretionary/Financials lagging. Equal-weight S&P > cap-weighted = broadening.
+- Macro shift: 5y breakeven 2.69% (highest since 2023); ~30% odds of Fed HIKE in 2026 per options pricing. Inflation re-acceleration is the live narrative -- bullish energy/materials, bearish duration.
+
+### Held-ticker News
+- **XOM**: Q1 print May 1 -- $4.2B, $1.00 GAAP / $1.16 ex-items beat; record Guyana 900k+ bbl/day; first Golden Pass LNG train online; $9.2B shareholder distributions; 1yr TSR +48%. CEO Woods on CNBC May 4: Mideast = ~20% of XOM production; if Hormuz reopens, +350k BOE/d to estimate. Stock $153.90, trail $140.12 = ~10% buffer.
+- **XLE**: $SREN +31.79% YTD; XOM/CVX/COP = ~44% of weight. Sector tracker shows XLE close $59.65 May 1 (one source -- live now $59.59 per Alpaca). Hwm $59.835 intact, 4% buffer over hwm before trail re-arms.
+
+### Trade Ideas
+1. HOLD XLE/XOM. Both green, stops well clear (>9% buffer). Energy thesis re-confirmed by XOM beat + sector momentum + inflation re-acceleration narrative. No reason to trim or add.
+2. NO NEW ADDS today. ISM Services 10:00 ET + VIX expansion (+9% in a session) + record-zone SPX = wait. Adding more energy = breaks diversification (already 40% concentrated).
+3. WATCH: post-ISM tape; if Services beats >55 + oil holds $100, energy thesis re-rates. Diversification adds candidates: XLB (Materials, co-leader, no oil correlation) or XLI (Industrials). Avoid CVX/COP/EOG (correlation duplication).
+4. PASS list: semis (still extended), megacap tech (lagging rotation, post-earnings chase), financials (lagging), PLTR/AMD AMC (binary, no edge).
+
+### Risk Factors
+- VIX +8.95% in one session = vol regime shifting; SPX record-zone drawdown risk on any catalyst miss.
+- WTI rolling -1.67% with -6.91% MoM = momentum cooling; Brent spread narrowing on Hormuz reopen headline = sharp gap risk for energy.
+- Inflation re-acceleration cuts both ways: bullish energy near-term but if Fed signals hike -> USD pop, broad equity puke.
+- Concentration: 40% in 2 highly correlated energy names; cash 60% provides flexibility but adding more energy breaks rules.
+- ISM Services miss (<52) = growth scare, cyclicals (incl energy) get hit.
+
+### Decision
+HOLD. No new trades. Run trailing stops on XLE/XOM through ISM Services 10:00 ET. Reassess at midday. Weekly slots 0/3 untouched -- preserve for high-conviction non-energy setup or post-CPI (May 12) clarity. Patience > activity.

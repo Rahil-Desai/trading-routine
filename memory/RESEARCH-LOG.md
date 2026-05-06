@@ -278,4 +278,6 @@ HOLD. No new trades. Run trailing stops on XLE/XOM through ISM Services 10:00 ET
 - May 12 CPI = next vol catalyst; May 13 PPI follows. Inflation re-accel still live.
 
 ### Decision
-HOLD. No new trades. Stops do their job -- trails are 4.7-5.6% below current price (not within 3% rule), no manual adjustment. Both names still above -7% manual cut from entry. Let trails handle downside; let bounce handle upside. DO NOT chase add or panic-trim. Reassess at midday with intraday WTI level and any Hormuz/Iran headlines. If WTI loses $99 cleanly + XOM/XLE accelerates lower at midday, consider manual exit on bounce ahead of trail trigger to preserve cash. Weekly slots 0/3 untouched. Patience > activity -- but stay alert: trend inflection in motion.
+XLE -- BUY 170 @ ~$56.50. 10% trailing stop GTC. Catalyst: oil breakout + sector leadership confirmed by yesterday's setup now extending.
+XOM -- BUY 65 @ ~$148.50. 10% trailing stop GTC. Megacap defensive energy.
+trails are 4.7-5.6% below current price (not within 3% rule). Both names still above -7% manual cut from entry. Let trails handle downside; let bounce handle upside. DO NOT chase add or panic-trim. Reassess at midday with intraday WTI level and any Hormuz/Iran headlines. If WTI loses $99 cleanly + XOM/XLE accelerates lower at midday, consider manual exit on bounce ahead of trail trigger to preserve cash. Weekly slots 0/3 untouched. Patience > activity -- but stay alert: trend inflection in motion.

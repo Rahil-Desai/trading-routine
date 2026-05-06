@@ -241,3 +241,41 @@ HOLD. No new trades. Run trailing stops on XLE/XOM through FOMC. Reassess midday
 
 ### Decision
 HOLD. No new trades. Run trailing stops on XLE/XOM through ISM Services 10:00 ET. Reassess at midday. Weekly slots 0/3 untouched -- preserve for high-conviction non-energy setup or post-CPI (May 12) clarity. Patience > activity.
+
+## 2026-05-06 -- Pre-market Research
+
+### Account
+- Equity: $98,871.12 | Cash: $60,207.62 (60.9%) | BP: $159,078.74 | Daytrade count: 0
+- Positions: XLE 340 @ $58.46 (now $56.50, -$666.45 / -3.35%, intraday -4.96%), XOM 131 @ $152.03 (now $148.50, -$462.43 / -2.32%, intraday -4.12%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835, ~4.7% buffer from current), XOM stop $140.12 (hwm $155.69, ~5.6% buffer from current)
+- Weekly trade count: 0/3 (Wed). Day P&L: -$1,838.78 (-1.83%) overnight.
+
+### Market Context
+- WTI: $102.27 settle May 5 (-1.3%); intraday range today $99.57-$104.36 = brief sub-$100 print on de-escalation signals (Strait of Hormuz reopen narrative). Down -8% from $111 peak in 8 sessions.
+- Brent: ~$110-115 area (Brent/WTI spread narrowing as Hormuz risk fades).
+- S&P 500 futures: ESM26 ~7,303 (May 5 close +0.22%); premarket ~+0.28%. SPX still in record zone.
+- VIX: 17.38 May 5 close (-4.98%). Vol back below 18 -- complacency creeping back despite sector rotation pain.
+- Today's catalysts: **NO FOMC today** -- last meeting was Apr 28-29 (rates held 3.50-3.75%, three hawkish dissents, Powell's swan song); next meeting June 16-17. ISM Services was Mon May 4. NFP was May 1. Light data day.
+- Earnings: ARM AMC (semis), APP AMC, AGCO BMO, HSBC BMO, SUN BMO, NVAX/BYND. None systemic for our book.
+- Economic calendar: Light Wed. CPI May 12, PPI May 13, FOMC June 16-17.
+- Sector momentum: Energy YTD leader +22-32% (XLE, despite -14% Apr give-back); Staples +16%, Materials +16%, Industrials +12%; Tech -4%, Financials -6%, Discretionary -5%. Broad rotation into cyclicals intact -- but energy correction in motion.
+
+### Held-ticker News
+- **XOM**: -4.12% overnight to $148.50 -- correlated with WTI roll + Hormuz de-escalation rumors. Q1 beat narrative ($1.16 ex-items) priced in; CEO Woods Mideast 20%-of-prod commentary now cuts both ways (de-esc = +350k BOE/d but at lower realized prices). Stock -9% from Apr peak. Trail $140.12 = 5.6% buffer; entry at $152.03, current loss -2.32% -- still above -7% manual cut.
+- **XLE**: -4.96% to $56.50 -- worst session since launch. Hwm $59.835 stale; XOM/CVX/COP weight dragging. Energy being repriced as Hormuz risk premium evaporates. Trail $53.85 = 4.7% buffer; entry $58.46, current loss -3.35% -- still above -7% manual cut.
+
+### Trade Ideas
+1. HOLD XLE/XOM. Both above -7% manual cut; trails 4.7-5.6% below current = NOT within 3% rule, no need to move. But trend has clearly cracked -- if oil breaks $99 cleanly today, energy thesis weakens further; trails will catch us at -10% from hwm. Accept the planned exit if it triggers. DO NOT panic-sell into the gap.
+2. NO NEW ADDS. Energy correction in motion; adding now = catching falling knife and breaking diversification. Adding outside energy = chase tech/cyclicals at all-time highs without catalyst.
+3. WATCH for Hormuz/Iran headline reversal: if de-esc proves false or stalls, bounce-back in energy gives chance to assess re-rating. If WTI reclaims $105 + XOM reclaims $152 = thesis intact. If WTI loses $99 + XOM loses $145 = trim/exit on next bounce ahead of trail trigger.
+4. PASS list: semis (extended, ARM AMC binary), megacap tech (lagging YTD, no catalyst), financials (lagging), megacap retail/discretionary (consumer K-shape pressure).
+
+### Risk Factors
+- **Energy correction live**: WTI -8% from peak in 8 sessions; XLE/XOM -5%/-4% in one overnight = momentum break. Concentration risk (40% in 2 correlated names) hitting hardest now.
+- Trail buffers thin: XLE 4.7%, XOM 5.6% to stop -- another -5% move on energy and we're stopped out, locking ~-8% on XLE basis (entry $58.46, stop $53.85) and breakeven-ish on XOM ($152.03 entry vs $140.12 stop = -7.8%).
+- Oil headline whipsaw: Hormuz de-escalation rumor vs reality unconfirmed -- single Iran/UAE headline can gap energy ±5% intraday.
+- SPX record zone + VIX 17 = complacency in the index even as sectors rotate violently. Drawdown risk on any catalyst miss.
+- May 12 CPI = next vol catalyst; May 13 PPI follows. Inflation re-accel still live.
+
+### Decision
+HOLD. No new trades. Stops do their job -- trails are 4.7-5.6% below current price (not within 3% rule), no manual adjustment. Both names still above -7% manual cut from entry. Let trails handle downside; let bounce handle upside. DO NOT chase add or panic-trim. Reassess at midday with intraday WTI level and any Hormuz/Iran headlines. If WTI loses $99 cleanly + XOM/XLE accelerates lower at midday, consider manual exit on bounce ahead of trail trigger to preserve cash. Weekly slots 0/3 untouched. Patience > activity -- but stay alert: trend inflection in motion.

@@ -63,3 +63,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $154.88 | +0.77% | +$373.35 (+1.88%) | $140.12 (10% trail, hwm $155.69) |
 
 **Notes:** Quiet grind higher. XOM led (+0.77% to $154.88), XLE flat (+0.10% to $59.45). Day P&L +$175 (+0.17%); phase pushed to fresh hwm at +$710 (+0.71%). No new closing hwm on either name (XLE close $59.45 vs hwm $59.84; XOM close $154.88 vs hwm $155.69), stops unchanged at $53.85 / $140.12. No trades -- weekly count 0/3, deployment still 40%. Both names comfortably clear of 7% manual cut and not yet at +15% trail-tightening trigger. Tomorrow: pre-market check on energy follow-through (WTI levels, OPEC/Iran headlines) + broader tape; if a conviction setup confirms (energy continuation or fresh sector leadership), scout 1 entry to lift deployment toward 60%; otherwise hold and let winners breathe.
+
+### May 06 -- EOD Snapshot (Day 6, Wednesday)
+**Portfolio:** $98,993.49 | **Cash:** $60,207.62 (60.8%) | **Day P&L:** -$1,716.41 (-1.70%) | **Phase P&L:** -$1,006.51 (-1.01%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $56.91 | -4.27% | -$527.05 (-2.65%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | 131 | $152.03 | $148.37 | -4.20% | -$479.46 (-2.41%) | $140.12 (10% trail, hwm $155.69) |
+
+**Notes:** Energy got hammered. XLE -4.27% to $56.91, XOM -4.20% to $148.37 -- WTI crack took both names through entry. Day P&L -$1,716 (-1.70%) wipes the week's gains and flips phase red at -$1,007 (-1.01%). Both positions now show unrealized losses (XLE -2.65%, XOM -2.41%) but well above 10% trailing stops ($53.85 / $140.12 -- need another -5.4% drop to trigger XLE, -5.6% for XOM) and clear of the -7% manual cut from entry (XLE cut $54.37, XOM cut $141.39). No new hwm, stops unchanged. No trades -- weekly count 0/3, deployment 39.2%. Tomorrow: pre-market read on energy -- if WTI stabilizes / sector catches a bid, hold and let stops do their job; if continuation lower, watch -7% manual cut levels and prepare exits; no new entries until energy thesis confirms or a fresh leader emerges.

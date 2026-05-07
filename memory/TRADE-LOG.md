@@ -73,3 +73,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $148.37 | -4.20% | -$479.46 (-2.41%) | $140.12 (10% trail, hwm $155.69) |
 
 **Notes:** Energy got hammered. XLE -4.27% to $56.91, XOM -4.20% to $148.37 -- WTI crack took both names through entry. Day P&L -$1,716 (-1.70%) wipes the week's gains and flips phase red at -$1,007 (-1.01%). Both positions now show unrealized losses (XLE -2.65%, XOM -2.41%) but well above 10% trailing stops ($53.85 / $140.12 -- need another -5.4% drop to trigger XLE, -5.6% for XOM) and clear of the -7% manual cut from entry (XLE cut $54.37, XOM cut $141.39). No new hwm, stops unchanged. No trades -- weekly count 0/3, deployment 39.2%. Tomorrow: pre-market read on energy -- if WTI stabilizes / sector catches a bid, hold and let stops do their job; if continuation lower, watch -7% manual cut levels and prepare exits; no new entries until energy thesis confirms or a fresh leader emerges.
+
+### May 07 -- EOD Snapshot (Day 7, Thursday)
+**Portfolio:** $98,329.48 | **Cash:** $60,207.62 (61.2%) | **Day P&L:** -$664.01 (-0.67%) | **Phase P&L:** -$1,670.52 (-1.67%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $55.71 | -2.26% | -$934.30 (-4.70%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | 131 | $152.03 | $146.41 | -1.53% | -$736.22 (-3.70%) | $140.12 (10% trail, hwm $155.69) |
+
+**Notes:** Energy bleed continues. XLE -2.26% to $55.71, XOM -1.53% to $146.41 -- second straight red day extends the rout. Day P&L -$664 (-0.67%); phase deepens to -$1,671 (-1.67%). XLE unrealized -4.70%, XOM -3.70%; both still above 10% trailing stops ($53.85 / $140.12) and above the -7% manual cut from entry (XLE $54.37, XOM $141.39). Distance to manual cut: XLE 2.4%, XOM 3.4% -- tight. Stops unchanged (no new hwm). No trades, weekly count 0/3, deployment 38.8%. Tomorrow (Fri/weekly review): if WTI catches a bid, hold; if continuation lower puts XLE through $54.37 or XOM through $141.39, execute manual cuts; no new entries until energy thesis confirms or fresh sector leadership emerges.

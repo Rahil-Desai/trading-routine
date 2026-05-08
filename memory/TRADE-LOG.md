@@ -83,3 +83,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $146.41 | -1.53% | -$736.22 (-3.70%) | $140.12 (10% trail, hwm $155.69) |
 
 **Notes:** Energy bleed continues. XLE -2.26% to $55.71, XOM -1.53% to $146.41 -- second straight red day extends the rout. Day P&L -$664 (-0.67%); phase deepens to -$1,671 (-1.67%). XLE unrealized -4.70%, XOM -3.70%; both still above 10% trailing stops ($53.85 / $140.12) and above the -7% manual cut from entry (XLE $54.37, XOM $141.39). Distance to manual cut: XLE 2.4%, XOM 3.4% -- tight. Stops unchanged (no new hwm). No trades, weekly count 0/3, deployment 38.8%. Tomorrow (Fri/weekly review): if WTI catches a bid, hold; if continuation lower puts XLE through $54.37 or XOM through $141.39, execute manual cuts; no new entries until energy thesis confirms or fresh sector leadership emerges.
+
+### May 08 -- EOD Snapshot (Day 8, Friday)
+**Portfolio:** $98,058.59 | **Cash:** $60,207.62 (61.4%) | **Day P&L:** -$270.89 (-0.28%) | **Phase P&L:** -$1,941.41 (-1.94%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $55.74 | -0.38% | -$924.85 (-4.65%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | 131 | $152.03 | $144.27 | -1.58% | -$1,016.56 (-5.10%) | $140.12 (10% trail, hwm $155.69) |
+
+**Notes:** Third straight red day in energy. XOM led lower (-1.58% to $144.27), XLE eased fractionally (-0.38% to $55.74). Day P&L -$271 (-0.28%); phase deepens to -$1,941 (-1.94%) -- new low for the campaign. XOM unrealized -5.10% now within 2.0% of the -7% manual cut at $141.39; XLE -4.65% with 2.5% to its $54.37 cut. Both still above 10% trailing stops ($53.85 / $140.12). Stops unchanged (no new hwm). No trades, weekly count closes 0/3, deployment 38.6%. Week 2 closes red, energy thesis under serious stress. Monday: pre-market read on WTI/OPEC; if XOM trades through $141.39 or XLE through $54.37, execute manual cuts no questions; if energy stabilizes, hold and let stops work; no new entries until thesis confirms or fresh sector leadership emerges. Per strategy, 2 failed energy trades = exit sector -- if cuts trigger, energy is done.

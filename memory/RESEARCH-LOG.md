@@ -319,3 +319,43 @@ HOLD. Pre-market draft proposed adds (XLE +170, XOM +65) but those FAIL the 20% 
 ### Decision
 HOLD. No new trades. Trails handle downside; both names still above -7% manual cut and trails are 4.7-5.0% below current (clear of 3% rule, never move stops down). Concentration already at 20% caps -- adds violate position size rule. Reassess at midday on WTI/Hormuz tape + jobless claims read. Weekly slots 0/3 untouched -- preserve for post-CPI (May 12) clarity or confirmed non-energy setup. Patience > activity.
 
+## 2026-05-08 -- Pre-market Research
+
+### Account
+- Equity: $98,373.43 | Cash: $60,207.62 (61.2%) | BP: $158,581.05 | Daytrade count: 0
+- Last equity: $98,432.60 (overnight Day P&L ~-$59 / -0.06%); position market value $38,165.81 (~38.8% deployed)
+- Positions: XLE 340 @ $58.46 (now $55.88, -$877.25 / -4.41%, intraday -0.13%), XOM 131 @ $152.03 (now $146.31, -$749.32 / -3.76%, intraday -0.18%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835, ~3.6% buffer from current), XOM stop $140.12 (hwm $155.69, ~4.2% buffer from current)
+- Weekly trade count: 0/3 (Fri). Phase P&L: -$1,626.57 (-1.63%) from $100k baseline.
+
+### Market Context
+- WTI: ~$94.87 May 7 close (intraday $94.21-$97.28); broken below $100 cleanly. Down ~14.5% from $111 peak in 10 sessions. Hormuz de-escalation + OPEC+ +206K bbl/d May quota = pressure persists.
+- Brent: stale data (~$110-115 area last reads); spread to WTI narrowed as Hormuz risk-premium fades.
+- S&P 500 futures: ESM26 ~7,385 premarket (May 7 cash close 7,362.75 from May 6 7,389.50). Tone slightly positive into NFP.
+- VIX: 17.08 May 7 close (-1.7% from May 6 17.39). Vol settling in low-17s -- complacency despite energy unwind.
+- Today's catalysts: **April NFP 8:30 ET** (consensus +62-65K vs prior +178K; March benefited from healthcare strike reversal +43% of gain). Wages 3.5% YoY last. No FOMC/CPI today.
+- Earnings: No systemic BMO names confirmed (Nasdaq calendar empty). Light Friday.
+- Economic calendar: NFP 8:30 ET today. CPI May 12. PPI May 13. FOMC June 16-17.
+- Sector momentum: Energy still YTD leader despite correction (early-Mar +26% snapshot); Staples +11%, Industrials +10% co-leaders. Tech-heavy QQQ leading flows recently (+$4.7B); semis (SMH -$380M), healthcare, utilities, financials seeing outflows. Cyclical/defensive rotation intact -- but energy momentum fractured.
+
+### Held-ticker News
+- **XOM**: Q1 beat ($1.16 ex-items, $2.09 ex-items+timing) priced in. EIA forecast WTI 2026 avg $53.42 vs $65.40 2025 = bearish overhang on price deck. Stock $146.31, trail $140.12 = 4.2% buffer; entry $152.03, current loss -3.76%. Manual -7% cut at $141.39 (~3.4% below current). Permian/Guyana low-cost assets cushion vs price-deck cuts; analysts model 13% earnings growth to 2030 even at lower oil.
+- **XLE**: At $55.88, -6.6% from hwm $59.835; trail $53.85 = 3.6% buffer. Manual -7% cut at $54.37 (~2.7% below current). XOM/CVX 38-40% weight = correlated drag continues with WTI sub-$100.
+
+### Trade Ideas
+1. HOLD XLE/XOM. Both still above -7% manual cut (XLE -4.41%, XOM -3.76%) and trails 3.6-4.2% below current = not within 3% rule, no manual move down. Buffers thinning fast though -- another -3-4% energy day puts XLE within 1% of manual cut.
+2. NO NEW ADDS. Cost basis: XLE $19,876 = 20.2% of $98.4k equity, XOM $19,916 = 20.2% -- both AT or ABOVE 20% cap. Adding violates position-size rule. Adding outside energy = chase tech/cyclicals at record highs without fresh catalyst day, ahead of NFP.
+3. WATCH NFP 8:30 ET: huge miss (<0K) = growth scare, USD down, energy could catch a bid as Fed cut odds rise; in-line/beat = USD steady, energy continues to grind lower on supply/demand. Key levels: WTI $95 reclaim = stabilization tell; WTI break $93 = continuation lower. XOM reclaim $150 = thesis still alive; loss of $144 = next bounce becomes trim window before manual cut/trail.
+4. CANDIDATE WATCHLIST (post-CPI May 12, NOT today): XLB (Materials, co-leader, no oil correlation), XLI (Industrials, co-leader), XLP (Staples, defensive co-leader). Pass on semis (extended), megacap tech (lagging YTD, no fresh catalyst), financials (lagging).
+
+### Risk Factors
+- **Energy concentration cushion thin**: 38.8% deployed in 2 correlated names; XLE only 3.6% from trail / 2.7% from manual cut. Single bad NFP-driven oil session can trigger one or both.
+- WTI <$100 = thesis fundamentally weakened. EIA 2026 avg forecast $53 = if curve re-rates to that view, energy sees deeper drawdown than just stops.
+- NFP 8:30 ET: prior +178K was strike-reversal-juiced; April consensus +62-65K. Big miss = recession scare hits cyclicals (energy included); big beat = sticky labor + Fed-on-hold = mixed for energy.
+- Hormuz/Iran headline whipsaw still live (any escalation reverses oil sharply).
+- May 12 CPI / May 13 PPI = next major vol leg; inflation re-accel narrative cuts both ways for energy.
+- VIX 17 + SPX record zone = complacency; any tape break = broad drawdown risk.
+
+### Decision
+HOLD. No new trades. Both XLE/XOM still above -7% manual cut and trails are 3.6-4.2% below current (clear of 3% rule, never move stops down). Concentration already at 20% caps = adds violate position-size rule. Trails handle downside if NFP surprise hits energy. Reassess at midday on NFP read + WTI tape; if XLE breaches -7% manual cut intraday ($54.37), exit manually rather than wait for trail. Weekly slots 0/3 untouched -- preserve for post-CPI clarity or confirmed non-energy setup. Patience > activity.
+

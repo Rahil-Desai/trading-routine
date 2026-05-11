@@ -359,3 +359,43 @@ HOLD. No new trades. Trails handle downside; both names still above -7% manual c
 ### Decision
 HOLD. No new trades. Both XLE/XOM still above -7% manual cut and trails are 3.6-4.2% below current (clear of 3% rule, never move stops down). Concentration already at 20% caps = adds violate position-size rule. Trails handle downside if NFP surprise hits energy. Reassess at midday on NFP read + WTI tape; if XLE breaches -7% manual cut intraday ($54.37), exit manually rather than wait for trail. Weekly slots 0/3 untouched -- preserve for post-CPI clarity or confirmed non-energy setup. Patience > activity.
 
+
+## 2026-05-11 -- Pre-market Research
+
+### Account
+- Equity: $98,513.83 | Cash: $60,207.62 (61.1%) | BP: $158,721.45 | Daytrade count: 0
+- Last equity: $98,084.29 (overnight Day P&L +$429.54 / +0.44%); position market value $38,306.21 (~38.9% deployed)
+- Positions: XLE 340 @ $58.46 (now $56.37, -$710.65 / -3.58%, intraday +1.20%), XOM 131 @ $152.03 (now $146.11, -$775.52 / -3.89%, intraday +1.07%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835, ~4.5% buffer from current), XOM stop $140.12 (hwm $155.69, ~4.3% buffer from current)
+- Weekly trade count: 0/3 (Mon; weekly window resets). Phase P&L: -$1,486.17 (-1.49%) from $100k baseline.
+
+### Market Context
+- WTI: ~$99 spot intraday (May 11 open $99.24, range $98.84-$100.35; Friday close ~$98.87 +0.37%); bounced off Thu $94.87 low. Prediction markets price ~67-77% odds WTI closes above $98-99. May futures CLK26 ~$92, June CLM26 +0.88% intraday. Down ~11% from $111 peak (3 weeks ago) but reclaiming sub-$95 weakness.
+- Brent: estimated ~$104-109 (Brent/WTI spread narrowed as Hormuz risk fades).
+- S&P 500 futures: ESM26 modestly positive premarket (~+0.1%) after SPX +0.84% Friday to fresh highs in 7,300+ zone. Six-week winning streak intact heading into CPI.
+- VIX: 17.08-17.19 (May 8 close). Low-17s = complacency, sub-18 even with energy rout in book.
+- Today's catalysts: **Quiet Monday -- no major macro releases**. Setup day before Tue CPI. BMO earnings: KGS, OVV, NOVT, SPG, STE, MARA, PLUG, RGTI, METC -- nothing systemic for our book (OVV = Ovintiv energy, watch as sector tell).
+- Economic calendar this week: **CPI Tue 5/12 8:30 ET** (consensus Headline +0.6% MoM / +3.7% YoY; Core +0.3% / +2.7%). PPI Wed 5/13. Retail Sales Thu 5/14. Univ. Mich. sentiment Fri. No FOMC (next June 16-17). Powell term end + Senate-expected Warsh confirmation Friday.
+- Catalysts: Trump-Xi summit May 14-15 (AI/semis tape risk). Fed-Warsh transition narrative driving last week's rally.
+- Sector momentum: Energy still YTD leader (S&P 500 Energy +23.67% YTD per Barchart $SREN); Energy/Materials/Industrials in Leading quadrant. Tech/Comms/Discretionary/Financials lagging. Capital rotation cyclical/defensive intact despite energy correction.
+
+### Held-ticker News
+- **XOM**: Q1 beat already priced in ($2.09 ex-items+timing, record 4.6M boe/d, Permian on track 1.8M boe/d FY26, Golden Pass LNG Train 1 first production, $20B FY buyback pace, Q2 div $1.03 payable Jun 10). At $146.11 (-3.89% from entry), trail $140.12 = 4.3% buffer, manual -7% cut at $141.39 = 3.4% below current. Bouncing +1.07% intraday on WTI reclaim of $99.
+- **XLE**: At $56.37, -3.58% from entry, -5.8% from hwm $59.835; trail $53.85 = 4.5% buffer, manual -7% cut at $54.37 = 3.7% below current. Sector +23.67% YTD despite recent rout. XOM/CVX 38-40% weight. Bouncing +1.20% intraday with crude.
+
+### Trade Ideas
+1. HOLD XLE/XOM into CPI. Both bouncing premarket on WTI reclaim of $99. Trails 4.3-4.5% below current = not within 3% rule, do not move. Manual -7% cuts at $54.37 (XLE) / $141.39 (XOM) = 3.4-3.7% below current; if WTI rolls back through $95 today, expect re-test.
+2. NO NEW ADDS. XLE cost basis $19,876 = 20.2% of equity, XOM $19,916 = 20.2% -- both AT 20% max-position cap. Adding violates concentration rule. Adding outside energy = chasing into record-zone SPX 24 hours before CPI = poor R:R.
+3. WATCH for sector-leader re-rate post-CPI: if CPI softer than +0.6% headline / +0.3% core, expect cyclicals/Materials/Industrials lead extension and possible energy bid on dollar weakness; if hot CPI (>+0.8% head, >+0.4% core), expect bond yields up, Fed-cut hopes punished, broader tape pullback. Watchlist for Wed/Thu pending CPI clarity: XLB (Materials co-leader), XLI (Industrials co-leader), XLP (Staples co-leader). Avoid CVX/COP/EOG (energy duplication), semis (extended + Trump-Xi binary), megacap tech (lagging YTD, no fresh catalyst).
+4. OVV BMO earnings = sector tell. If OVV beats and rallies, supports XLE/XOM near-term hold; if guides down on price deck, adds pressure.
+
+### Risk Factors
+- **CPI tomorrow 8:30 ET = primary vol catalyst**. Hot print = SPX pullback, yields up, energy mixed (dollar-up bearish, sticky-inflation thesis bullish). Soft print = melt-up continuation, energy possibly catches dollar-weakness bid.
+- **Energy concentration cushion still thin**: 38.9% deployed in 2 correlated names. XLE 3.7% from manual cut, XOM 3.4% from manual cut. Single bad oil session on Hormuz reopen / OPEC+ supply headline can trigger one or both.
+- Per strategy: 2 failed energy trades = exit sector. Cuts not triggered yet but margin shrinking.
+- WTI $95 break = continuation; $105 reclaim = thesis restored. Currently mid-range ~$99 = noise zone.
+- Trump-Xi summit Thu-Fri = headline risk for semis/tech, could spill into broader tape sentiment.
+- VIX 17 + SPX record-zone + six-week win streak = complacency setup; any CPI surprise gets a magnified reaction.
+
+### Decision
+HOLD. No new trades. Both positions bouncing premarket; trails handle downside (4.3-4.5% below current, clear of 3% rule, never move down). Manual -7% cuts still untriggered (3.4-3.7% buffer). Concentration at 20% caps = no adds. Day plan: monitor OVV BMO + WTI tape; if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; otherwise let positions breathe into CPI. Weekly slots 0/3 untouched -- preserve for post-CPI clarity (Tue PM / Wed) or confirmed non-energy setup. Patience > activity.

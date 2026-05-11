@@ -93,3 +93,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $144.27 | -1.58% | -$1,016.56 (-5.10%) | $140.12 (10% trail, hwm $155.69) |
 
 **Notes:** Third straight red day in energy. XOM led lower (-1.58% to $144.27), XLE eased fractionally (-0.38% to $55.74). Day P&L -$271 (-0.28%); phase deepens to -$1,941 (-1.94%) -- new low for the campaign. XOM unrealized -5.10% now within 2.0% of the -7% manual cut at $141.39; XLE -4.65% with 2.5% to its $54.37 cut. Both still above 10% trailing stops ($53.85 / $140.12). Stops unchanged (no new hwm). No trades, weekly count closes 0/3, deployment 38.6%. Week 2 closes red, energy thesis under serious stress. Monday: pre-market read on WTI/OPEC; if XOM trades through $141.39 or XLE through $54.37, execute manual cuts no questions; if energy stabilizes, hold and let stops work; no new entries until thesis confirms or fresh sector leadership emerges. Per strategy, 2 failed energy trades = exit sector -- if cuts trigger, energy is done.
+
+### May 11 -- EOD Snapshot (Day 9, Monday)
+**Portfolio:** $99,265.26 | **Cash:** $60,207.62 (60.7%) | **Day P&L:** +$1,206.67 (+1.23%) | **Phase P&L:** -$734.74 (-0.73%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $57.22 | +2.73% | -$421.65 (-2.12%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | 131 | $152.03 | $149.64 | +3.51% | -$313.09 (-1.57%) | $140.12 (10% trail, hwm $155.69) |
+
+**Notes:** Energy ripped back. XLE +2.73% to $57.22, XOM +3.51% to $149.64 -- biggest up day of the campaign reverses ~60% of last week's drawdown. Day P&L +$1,207 (+1.23%); phase recovers to -$735 (-0.73%) from Friday's -$1,941 low. Unrealized losses narrow (XLE -2.12%, XOM -1.57%); both names now 5.0% / 5.8% above the -7% manual cut ($54.37 / $141.39) -- breathing room restored. Stops unchanged ($53.85 / $140.12, no new hwm since Apr 30). No trades, weekly count 0/3, deployment 39.3%. Thesis gets a reprieve but not confirmation -- one strong day after three red days. Tomorrow: confirm WTI/energy follow-through; if XLE/XOM continue higher and tag fresh hwm, hold and let trail work; if reversal back through entry, tighten attention to manual cuts; no new entries until follow-through confirms or fresh sector leadership emerges.

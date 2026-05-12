@@ -399,3 +399,43 @@ HOLD. No new trades. Both XLE/XOM still above -7% manual cut and trails are 3.6-
 
 ### Decision
 HOLD. No new trades. Both positions bouncing premarket; trails handle downside (4.3-4.5% below current, clear of 3% rule, never move down). Manual -7% cuts still untriggered (3.4-3.7% buffer). Concentration at 20% caps = no adds. Day plan: monitor OVV BMO + WTI tape; if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; otherwise let positions breathe into CPI. Weekly slots 0/3 untouched -- preserve for post-CPI clarity (Tue PM / Wed) or confirmed non-energy setup. Patience > activity.
+
+## 2026-05-12 -- Pre-market Research (CPI DAY)
+
+### Account
+- Equity: $99,656.83 | Cash: $60,207.62 (60.4%) | BP: $159,864.45 | Daytrade count: 0
+- Last equity: $99,253.50 (overnight Day P&L +$403.33 / +0.41%); position market value $39,449.21 (~39.6% deployed)
+- Positions: XLE 340 @ $58.46 (now $57.77, -$234.65 / -1.18%, intraday +1.05%), XOM 131 @ $152.03 (now $151.20, -$108.52 / -0.55%, intraday +1.02%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835, ~6.8% buffer from current), XOM stop $140.12 (hwm $155.69, ~7.3% buffer from current)
+- Weekly trade count: 0/3 (Tue). Phase P&L: -$343.17 (-0.34%) from $100k baseline.
+
+### Market Context
+- WTI: ~$100 spot (intraday $98-101 range; May 11 Investing.com close $101.03 +3.02%); CLM26 June ~$100.37 (+2.30); CLK26 May ~$92.13 settle. Bouncing off Thu $94.87 low after two-session rip. Down ~10% from $111 peak but reclaiming $100 psych level.
+- Brent: ~$104-109 estimated (Brent/WTI spread narrowed; Hormuz risk premium continuing to fade).
+- S&P 500 futures: ESM26 ~7,434.25 (-0.03% premarket) after SPX +0.84% Mon to fresh highs (~7,399). Six-week win streak intact heading into 8:30 ET CPI.
+- VIX: 17.39 May 6 close (last available); VIX May futures 19.80. Sub-18 = complacency despite vol setup.
+- Today's catalyst: **April CPI 8:30 ET = primary vol event**. Consensus headline +0.6% MoM / +3.7-3.9% YoY (vs Mar +0.9% / +3.3%); Core +0.3% MoM / ~2.6% YoY (vs Mar +0.2% / +2.6%). Cleveland Fed nowcast core 2.56%; Kalshi/Kiplinger headline ~3.8-3.9% YoY.
+- Economic calendar this week: PPI Wed 5/13; Retail Sales Thu 5/14; Univ. Mich. sentiment Fri. Powell -> Warsh Fed Chair transition Friday. FOMC June 16-17.
+- Earnings: 171 reports today, none systemic for our book. Cisco/Alibaba/Applied Materials later this week = AI/tech sentiment gauges.
+- Sector momentum: Energy still YTD leader (S&P 500 Energy +19.87-22% YTD); Materials +7.5-15% co-leader; Industrials +5.9-7%; Tech -4.42% worst. Cyclical/value rotation intact, dispersion widening.
+
+### Held-ticker News
+- **XOM**: Q1 priced in ($4.2B reported / $8.8B ex-timing, $2.09 ex-items, 4.6M boe/d record, Guyana 900k+ bbl/d, Golden Pass LNG online). TD Cowen target $172 (~14% upside from $151.20). 52w range $101.18-$176.41. Stock +3.17% May 11 with sector. At $151.20, -0.55% from entry, trail $140.12 = 7.3% buffer, manual -7% cut $141.39 = 6.5% below current. Buffer fully restored.
+- **XLE**: Closed $57.17 May 11 +2.64%, intraday $57.77 +1.05%. -5.6% (was -3.58% Mon) from hwm $59.835; trail $53.85 = 6.8% buffer, manual -7% cut $54.37 = 5.9% below current. XOM/CVX 38-40% weight = continues to track megacap energy on WTI re-bid.
+
+### Trade Ideas
+1. HOLD XLE/XOM into CPI. Both bouncing hard off Thu lows -- WTI reclaim of $100 + sector +2.6% Mon close has restored 6.5-7.3% buffer to manual/trail cuts. Trails NOT within 3% rule, do not move. Let CPI tape decide.
+2. NO NEW ADDS. XLE cost basis $19,876 = 19.9% of $99.7k equity, XOM $19,916 = 20.0% -- both AT 20% max-position cap. Adding violates concentration rule. Adding outside energy 30 min before CPI = poor R:R; CPI surprise can gap any sector ±2-3% intraday.
+3. WATCH CPI 8:30 ET: soft print (headline <+0.6% / Y/Y <3.7%, core <+0.3% / Y/Y <2.6%) = USD down, yields down, tech/cyclicals melt-up extension, energy possibly catches dollar-weakness bid. Hot print (headline >+0.8% / Y/Y >4.0%, core >+0.4%) = SPX pullback from record zone, yields up, broad de-risk; energy mixed (sticky-inflation bullish vs dollar-up bearish).
+4. CANDIDATE WATCHLIST (post-CPI/PPI clarity, NOT pre-print): XLB (Materials, co-leader, no oil correlation), XLI (Industrials, co-leader). Pass on semis (extended + Trump-Xi binary Thu-Fri), megacap tech (lagging YTD, no fresh catalyst), financials (lagging).
+
+### Risk Factors
+- **CPI 8:30 ET = binary vol catalyst**: hot print = SPX correction setup from 7,399 record zone; soft print = melt-up continuation. Both scenarios produce magnified reactions given six-week win streak + VIX sub-18 complacency.
+- **Energy concentration**: 39.6% deployed in 2 correlated names. Buffer restored (6.5-7.3% from manual cut) but a hot CPI + dollar pop can re-pressure oil through $95.
+- WTI noise zone $98-101: clean break $95 = continuation lower; break $105 = thesis restored; current = wait-and-see.
+- Per strategy: 2 failed energy trades = exit sector. Cuts still untriggered; bounce restored breathing room.
+- Fed Chair Warsh transition Friday + Trump-Xi summit Thu-Fri = headline-rich back-half of week.
+- SPX 7,399 ATH + VIX 17 + six-week win streak = complacency setup; any CPI surprise magnified.
+
+### Decision
+HOLD. No new trades pre-CPI. Both positions bouncing into the print; trails 6.8-7.3% below current (clear of 3% rule, never move down). Manual -7% cuts untriggered with 5.9-6.5% buffer = breathing room restored from last week's tight margin. Concentration at 20% caps = no adds. Day plan: do NOT trade in the first 30 min after CPI release (8:30-9:00 ET) -- let dust settle, read tape. If XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation. Reassess at midday post-CPI for fresh non-energy setup (XLB/XLI) if tape stabilizes. Weekly slots 0/3 untouched -- preserve for post-CPI clarity. Patience > activity.

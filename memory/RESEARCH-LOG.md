@@ -439,3 +439,45 @@ HOLD. No new trades. Both positions bouncing premarket; trails handle downside (
 
 ### Decision
 HOLD. No new trades pre-CPI. Both positions bouncing into the print; trails 6.8-7.3% below current (clear of 3% rule, never move down). Manual -7% cuts untriggered with 5.9-6.5% buffer = breathing room restored from last week's tight margin. Concentration at 20% caps = no adds. Day plan: do NOT trade in the first 30 min after CPI release (8:30-9:00 ET) -- let dust settle, read tape. If XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation. Reassess at midday post-CPI for fresh non-energy setup (XLB/XLI) if tape stabilizes. Weekly slots 0/3 untouched -- preserve for post-CPI clarity. Patience > activity.
+
+## 2026-05-13 -- Pre-market Research (PPI DAY, post-hot-CPI)
+
+### Account
+- Equity: $99,261.77 | Cash: $60,207.62 (60.7%) | BP: $159,469.39 | Daytrade count: 0
+- Last equity: $99,513.95 (overnight Day P&L -$252.18 / -0.25%); position market value $39,054.15 (~39.3% deployed)
+- Positions: XLE 340 @ $58.46 (now $57.28, -$401.56 / -2.02%, intraday -0.51%), XOM 131 @ $152.03 (now $149.46, -$336.67 / -1.69%, intraday -0.78%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835, ~6.0% buffer from current), XOM stop $140.12 (hwm $155.69, ~6.2% buffer from current)
+- Weekly trade count: 0/3 (Wed). Phase P&L: -$738.23 (-0.74%) from $100k baseline.
+
+### Market Context
+- WTI: ~$100.57-$101.52 spot May 13 (Polymarket $100.63, down 1.52% daily; CLM26 June $101.87 +3.80 yesterday). Up ~10% MoM on US-Iran/Hormuz escalation premium. Off the Thu $94.87 low for 4 sessions.
+- Brent: ~$110.43 (May 12 9am ET). Brent/WTI spread ~$10 = Hormuz risk premium re-priced higher.
+- S&P 500 futures: ESM26 ~-0.4% premarket (~7,425 zone) after Mon record ~7,399 / Tue CPI dip. Six-week win streak threatened; first material pullback since early April rotation.
+- VIX: 17.08 last available (May 7 close); May VIX futures 19.80 = vol curve in slight contango, light hedging into CPI/PPI.
+- Yesterday CPI (April): **Headline +0.6% MoM / +3.8% YoY (vs 3.7e), Core +0.4% MoM / +2.8% YoY (vs 2.7e)** -- slightly hot across the board. Fed-cut odds collapsed (Fed 97.6% hold June). 10Y 4.33%, 2Y 3.97%. SPX -0.4-0.6%, Nasdaq -0.94%, Dow flat.
+- Today's catalyst: **April PPI 8:30 ET = primary vol event**. Confirms or refutes hot CPI's pipeline. Consensus near +0.3% MoM headline/core. Sticky-inflation print extends rate-cut pushback; soft print rescues melt-up.
+- Earnings: Cisco CSCO AMC (EPS $0.92e / rev $14B) = AI/tech sentiment gauge. Light BMO (no systemic names; FFIV, SFM, RITM, TLK). Nothing book-relevant.
+- Economic calendar this week: PPI today 8:30. Retail Sales Thu 5/14 8:30. Univ. Mich. sentiment Fri. Warsh Fed Chair confirmation vote Fri. Trump-Xi summit Thu-Fri.
+- Sector momentum YTD: Energy still #1 (~+22%), Staples +10.7%, Industrials +9.6%, Materials +17.2% 6M (Materials co-leader). Tech lagging (+4.7% 6M), Financials -2% 6M, Discretionary +0.4% 6M. Cyclical/defensive rotation intact; hot CPI gives Energy a sticky-inflation hedge bid.
+
+### Held-ticker News
+- **XOM**: No fresh news today; Q1 priced in ($4.2B rep / $8.8B ex-timing, record 4.6M boe/d, Guyana 900k+, Golden Pass LNG Train 1 live, $20B FY buyback pace, TD Cowen $172 target). 20-analyst Buy, consensus PT $162.05. Stock $149.46, -1.69% from entry, trail $140.12 = 6.2% buffer, manual -7% cut $141.39 = 5.4% below current. NJ -> TX reincorp vote May 27. Today's -0.78% = mild sympathy with WTI -1.5%; no name-specific catalyst.
+- **XLE**: At $57.28, -2.02% from entry, -4.3% from hwm $59.835; trail $53.85 = 6.0% buffer, manual -7% cut $54.37 = 5.1% below current. Sector still YTD leader ~+22%; technically RSI ~36-44 (neutral/oversold), key support $56.35 / $55.54. Wedbush/247wallst flag "bunker asset" thesis (geopolitical hedge) post-Hormuz escalation. XOM/CVX weight = -0.51% today tracks crude pullback.
+
+### Trade Ideas
+1. HOLD XLE/XOM into PPI. Both names well above manual cuts (5.1-5.4% buffer) and trails 6.0-6.2% below current. Trails NOT within 3% rule, do not move down. Let PPI tape decide direction.
+2. NO NEW ADDS. XLE cost basis $19,876 = 20.0% of $99.3k equity, XOM $19,916 = 20.1% -- both AT 20% max-position cap. Adding violates concentration rule. Adding outside energy 30 min before PPI = poor R:R; hot PPI + dollar pop could whipsaw any sector.
+3. WATCH PPI 8:30 ET: hot print (>+0.5% headline / >+0.4% core) = doubles down on CPI's sticky-inflation message, SPX extends pullback, energy mixed (sticky-inflation bullish vs USD strength bearish for crude). Soft/in-line print = relief rally, melt-up resumes, energy possibly catches dollar-weakness bid back toward $59 XLE / $155 XOM.
+4. CANDIDATE WATCHLIST (post-PPI clarity, NOT pre-print): XLB (Materials, co-leader, +17% 6M, breakout setup toward $56.8), XLI (Industrials, +9.6% YTD), XLP (Staples, defensive co-leader +10.7%). Pass on semis (extended + Trump-Xi binary Thu-Fri), megacap tech (lagging YTD, no fresh catalyst), financials (lagging). If PPI is soft AND XLE/XOM tag fresh hwm intraday, hold and let trails ratchet rather than add risk.
+
+### Risk Factors
+- **PPI 8:30 ET = binary vol catalyst**. Post-hot-CPI tape leans tense; hot PPI confirmation = SPX pullback extends (next support ~7,300); soft PPI = melt-up reset. Either way magnified given six-week win streak fatigue + VIX sub-18 complacency.
+- Energy concentration: 39.3% deployed in 2 correlated names. Buffer 5.1-6.2% to manual cut = healthy but a hot PPI + dollar pop could compress oil through $95 again.
+- WTI noise zone $98-103: clean break $105 = thesis reactivated; break $95 = continuation lower / hwm in the rearview for weeks; current = wait-and-see.
+- Per strategy: 2 failed energy trades = exit sector. Cuts untriggered; bounce from last week's low has restored breathing room but thesis not yet "confirmed" (XLE/XOM still below entry, no fresh hwm since Apr 30).
+- Trump-Xi summit Thu-Fri = headline-rich back half (semis/AI sentiment + dollar/crude crosswinds).
+- Fed Chair Warsh confirmation Friday = transition narrative; hawkish-but-pro-easing tone could swing yields.
+- Cisco AMC = AI-spend gauge; miss could re-pressure tech, soft positive cross-asset signal for cyclicals.
+
+### Decision
+HOLD. No new trades pre-PPI. Both XLE/XOM bouncing into the print with manual-cut buffer fully restored (5.1-5.4%) and trails 6.0-6.2% below current (clear of 3% rule, never move down). Concentration at 20% caps = no adds. Day plan: do NOT trade in the first 30 min after PPI release (8:30-9:00 ET) -- let dust settle, read tape. If XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation. If PPI is soft AND XLE/XOM push back through $58 / $153 toward fresh hwm, hold and let trails ratchet rather than add. Reassess at midday for fresh non-energy setup (XLB/XLI) only if tape stabilizes AND we get a clear sector-leadership catalyst. Weekly slots 0/3 -- preserve for post-PPI/Retail-Sales clarity. Patience > activity.

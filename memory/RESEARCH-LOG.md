@@ -481,3 +481,47 @@ HOLD. No new trades pre-CPI. Both positions bouncing into the print; trails 6.8-
 
 ### Decision
 HOLD. No new trades pre-PPI. Both XLE/XOM bouncing into the print with manual-cut buffer fully restored (5.1-5.4%) and trails 6.0-6.2% below current (clear of 3% rule, never move down). Concentration at 20% caps = no adds. Day plan: do NOT trade in the first 30 min after PPI release (8:30-9:00 ET) -- let dust settle, read tape. If XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation. If PPI is soft AND XLE/XOM push back through $58 / $153 toward fresh hwm, hold and let trails ratchet rather than add. Reassess at midday for fresh non-energy setup (XLB/XLI) only if tape stabilizes AND we get a clear sector-leadership catalyst. Weekly slots 0/3 -- preserve for post-PPI/Retail-Sales clarity. Patience > activity.
+
+## 2026-05-14 -- Pre-market Research (RETAIL SALES DAY, post-PPI SHOCK)
+
+### Account
+- Equity: $99,646.35 | Cash: $60,207.62 (60.4%) | BP: $159,853.97 | Daytrade count: 0
+- Last equity: $99,657.49 (overnight Day P&L -$11.14 / -0.01%); position market value $39,438.73 (~39.6% deployed)
+- Positions: XLE 340 @ $58.46 (now $57.69, -$261.95 / -1.32%, intraday +0.10%), XOM 131 @ $152.03 (now $151.33, -$91.70 / -0.46%, intraday -0.16%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835, ~6.7% buffer from current), XOM stop $140.12 (hwm $155.69, ~7.4% buffer from current)
+- Weekly trade count: 0/3 (Thu). Phase P&L: -$353.65 (-0.35%) from $100k baseline.
+
+### Market Context
+- WTI: ~$101.65 spot (Twelve Data close); CLM26 June ~$101.87 +3.80 prior; spot range $101.64-$101.87. Up ~10% MoM on Iran/Hormuz war premium; 4 sessions off Thu $94.87 low; back above $100 psych. Prediction markets: ~62% odds WTI closes >=$101, ~73% >=$100.
+- Brent: ~$110.43 (May 12); spread ~$10 holds. Hormuz risk premium re-priced higher.
+- S&P 500 futures: ESM26 +0.25% premarket; SPX close May 13 ~7,478 (mild rebound from Tue CPI dip despite hot PPI -- limited damage). Six-week win streak fragile but intact heading into Retail Sales.
+- VIX: 17.99 close May 12; May 13 likely held high-17s/low-18s. Sub-18 = persistent complacency despite back-to-back hot inflation prints.
+- **PPI SHOCK May 13 (April data)**: Headline **+1.4% MoM** (vs +0.5% exp, nearly 3x); **+6.0% YoY** (4-year high, vs ~+4.5% exp); Core **+1.0% MoM** (vs +0.3% exp, 3x); core ex-food/energy/trade +0.6%. Services intermediate +1.1% (truck freight +8.1%). Tape muted: Dow -175 pre, SPX +3, Nas +109; 10Y yield 4.46% -> 4.48% (11-month high); DXY +0.17%; gold -0.54%. Fed-cut odds gone; **hike odds: +32% Dec 2026, +59% Apr 2027**.
+- **Fed Chair transition Friday May 15**: Senate confirmed hawkish Kevin Warsh (Powell exits). Warsh framework leans hawkish, anti-easy-money -- amplifies sticky-inflation regime.
+- Today's catalysts: **April Retail Sales 8:30 ET** (Census; March was +1.7% MoM / +4.0% YoY -- strong base; April consensus not in feed). Post-hot-PPI tape will read RS as consumer-resilience tell -- strong RS = stagflation lite (sticky inflation + hot consumer), weak RS = "growth cracks" narrative.
+- Trump-Xi summit Day 1 (Beijing May 14-15): AI chips, farm goods, rare earths, jetliners, Iran weapons letter on agenda. Binary for semis/AI; tangential for energy/our book (Iran de-escalation = oil down risk; status quo = neutral).
+- Earnings: Barrick Gold (B) BMO; AMC includes Cisco-class names later week. Nothing systemic for our book.
+- Friday: Univ Mich sentiment + Warsh confirmation ceremony.
+- Sector momentum YTD: Energy still #1 (~+17-28% YTD per Barchart $SREN; +43% 52W). Materials/Industrials/Staples co-leaders. Tech lagging (-4 to -16% YTD on megacaps). Cyclical/defensive rotation reinforced by sticky-inflation regime; Energy = preferred inflation hedge.
+
+### Held-ticker News
+- **XOM**: At $151.33, -0.46% from entry, intraday -0.16%. No fresh name-specific catalyst today. Backdrop: Q1 priced in (record 4.6M boe/d, $52B YTD cash flow, $40B+ FY FCF pace, $20B buyback). Stock +39.5% TTM. War-premium dependency = downside risk if Hormuz reopens (analyst PT $126 fair value vs $151 = 17% downside on de-rate); upside if sticky-inflation + WTI >$105 holds. Trail $140.12 = 7.4% buffer; manual -7% cut $141.39 = 6.6% below current. NJ -> TX reincorp vote May 27 (latent positive).
+- **XLE**: Closed May 13 at $57.63 (+0.10%, range $56.96-$57.71); now $57.69 premarket (+0.10%). At $57.69, -1.32% from entry, -3.6% from hwm $59.835. Trail $53.85 = 6.7% buffer; manual -7% cut $54.37 = 5.7% below current. Sector +28.46% 6M / +43% 52W -- still leadership; XOM/CVX 38-40% weight = tracks crude rebid.
+
+### Trade Ideas
+1. HOLD XLE/XOM into Retail Sales. Both names well clear of cuts -- buffer 5.7-7.4% to manual/trail. Trails NOT within 3% rule, do not move down. Sticky-inflation regime post-PPI = thesis tailwind; let RS tape decide near-term direction.
+2. NO NEW ADDS to energy. XLE cost basis $19,876 = 19.9% of $99.6k equity, XOM $19,916 = 20.0% -- both AT 20% max cap. Adding violates concentration rule. Adding outside energy 30 min before RS = poor R:R given vol regime.
+3. WATCH Retail Sales 8:30 ET: hot/strong (>+0.5% MoM headline) post-hot-PPI = stagflation-lite confirmation, yields spike further, broad de-risk EXCEPT energy/staples/industrials hedge bid; weak (<+0.1% MoM) = consumer cracks narrative, growth fears, dollar down (energy bid on weaker USD), Fed-hike repricing unwinds slightly. In-line = muted, sticky-inflation thesis dominates.
+4. POST-RS WATCHLIST (mid/late session only, NOT pre-print): XLB (Materials, sticky-inflation hedge, +17% 6M, breakout setup); XLI (Industrials, co-leader); XLP (Staples, defensive +10.7% YTD = stagflation hedge); GLD (gold pulled back on PPI -- counter-intuitive setup, watch only). Pass on semis (Trump-Xi binary Day 1 today + extended), megacap tech (-4-16% YTD, no fresh catalyst, hot inflation = duration headwind), financials (yield curve flat-to-inverted bear).
+
+### Risk Factors
+- **Retail Sales 8:30 ET = primary vol catalyst** atop the PPI shock. Magnified given six-week win streak fatigue + VIX sub-18 complacency + hot CPI+PPI back-to-back.
+- **Hot inflation regime confirmed**: PPI +6.0% YoY, core +1.0% MoM = sharpest pipeline pressure in 4 years. Fed-hike repricing well underway (+32% Dec, +59% Apr 2027). Higher yields = duration/growth/tech headwind; commodity/value/cyclical tailwind. Our book aligned.
+- **Hormuz/Iran headline risk = double-edged**: re-escalation = WTI >$105 = XLE/XOM hwm break possible (positive); de-escalation/ceasefire chatter = WTI <$95 = positions hit again (negative). Trump's Iran-weapons letter to Xi today could read either way.
+- **Trump-Xi Day 1 today + Day 2 tomorrow**: AI/semis binary (not in book) but rare-earths/tariff/Iran outcomes can spill into broader tape sentiment + dollar/oil.
+- Energy concentration: 39.6% deployed in 2 correlated names. Buffer healthy (5.7-7.4%) but single bad oil session can compress fast. Per strategy 2-failed-trades rule, cuts still untriggered -- one more leg down through $54.37/$141.39 = sector exit.
+- Warsh confirmation Friday = transition narrative; first hawkish-Fed-Chair tape could amplify yield grind or trigger short-squeeze melt-up depending on day-one tone.
+- SPX still in record zone (~7,478) with VIX 17-18 = setup remains vulnerable to any RS surprise.
+
+### Decision
+HOLD. No new trades. Both XLE/XOM with manual-cut buffer fully restored (5.7-6.6%) and trails 6.7-7.4% below current (clear of 3% rule, never move down). Concentration at 20% caps = no adds. Sticky-inflation regime (hot CPI + shock PPI + hawkish Warsh confirmation tomorrow) is a tailwind for energy/commodity hedge thesis -- but positions still below entry, no fresh hwm since Apr 30, so thesis is "supportive" not "confirmed." Day plan: do NOT trade in the first 30 min after Retail Sales (8:30-9:00 ET) -- let dust settle, read tape. If XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation. If RS triggers a dollar-down + crude-up move and XLE/XOM push toward $59.84+ / $155.69+ (fresh hwm), hold and let trails ratchet rather than add. Reassess at midday for fresh non-energy setup (XLB/XLI/XLP -- sticky-inflation hedge candidates) only if tape stabilizes AND sector confirms. Weekly slots 0/3 -- preserve for confirmed leadership outside energy. Patience > activity.

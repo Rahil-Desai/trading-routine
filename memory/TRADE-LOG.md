@@ -123,3 +123,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $151.57 | +0.62% | -$60.26 (-0.30%) | $140.12 (10% trail, hwm $155.69) |
 
 **Notes:** Third straight green day in energy, pace still cooling. XOM led (+0.62% to $151.57) and is back within 0.30% of entry; XLE essentially flat (+0.03% to $57.59) with unrealized -1.49%. Day P&L +$166 (+0.17%); phase trims to -$356 (-0.36%) from the May 08 low of -$1,941. Both names now well clear of the -7% manual cut (XLE 5.9% above $54.37, XOM 7.2% above $141.39); stops unchanged at $53.85 / $140.12, no fresh hwm since Apr 30 (XLE needs $59.84+, XOM $155.69+ to ratchet). No trades, weekly count 0/3, deployment 39.6%. Bounce intact but no breakout -- XOM nearly recovered, XLE still ~1.5% under entry. Tomorrow: pre-market read on WTI/energy continuation; if XOM tags fresh hwm $155.69+ or XLE breaks $58.46 with conviction, hold and let trail ratchet; if bounce stalls and reverses, monitor manual-cut levels; no new entries until a name tags fresh hwm or fresh sector leadership confirms.
+
+### May 14 -- EOD Snapshot (Day 12, Thursday)
+**Portfolio:** $99,923.82 | **Cash:** $60,207.62 (60.3%) | **Day P&L:** +$279.93 (+0.28%) | **Phase P&L:** -$76.18 (-0.08%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $58.055 | +0.74% | -$137.75 (-0.69%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | 131 | $152.03 | $152.50 | +0.61% | +$61.57 (+0.31%) | $140.12 (10% trail, hwm $155.69) |
+
+**Notes:** Fourth straight green day in energy. XLE +0.74% to $58.055, XOM +0.61% to $152.50 -- XOM crosses back above entry into the green, XLE still ~0.7% under. Day P&L +$280 (+0.28%); phase nearly flat at -$76 (-0.08%), back from the May 08 low of -$1,941. Both names comfortably clear of the -7% manual cut (XLE 6.8% above $54.37, XOM 7.9% above $141.39); stops unchanged at $53.85 / $140.12, no fresh hwm since Apr 30 (XLE needs $59.84+, XOM $155.69+ to ratchet -- 3.1% and 2.1% away respectively). No trades, weekly count 0/3, deployment 39.7%. Steady grind higher continues but still no breakout to fresh hwm. Tomorrow (Fri/weekly review): pre-market read on WTI/energy follow-through; if XOM tags $155.69+ or XLE breaks $59.84+ with conviction, hold and let trail ratchet; if bounce stalls or reverses, monitor manual-cut levels; no new entries until a name tags fresh hwm or fresh sector leadership confirms. Weekly review session in afternoon.

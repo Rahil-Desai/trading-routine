@@ -133,3 +133,13 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $152.50 | +0.61% | +$61.57 (+0.31%) | $140.12 (10% trail, hwm $155.69) |
 
 **Notes:** Fourth straight green day in energy. XLE +0.74% to $58.055, XOM +0.61% to $152.50 -- XOM crosses back above entry into the green, XLE still ~0.7% under. Day P&L +$280 (+0.28%); phase nearly flat at -$76 (-0.08%), back from the May 08 low of -$1,941. Both names comfortably clear of the -7% manual cut (XLE 6.8% above $54.37, XOM 7.9% above $141.39); stops unchanged at $53.85 / $140.12, no fresh hwm since Apr 30 (XLE needs $59.84+, XOM $155.69+ to ratchet -- 3.1% and 2.1% away respectively). No trades, weekly count 0/3, deployment 39.7%. Steady grind higher continues but still no breakout to fresh hwm. Tomorrow (Fri/weekly review): pre-market read on WTI/energy follow-through; if XOM tags $155.69+ or XLE breaks $59.84+ with conviction, hold and let trail ratchet; if bounce stalls or reverses, monitor manual-cut levels; no new entries until a name tags fresh hwm or fresh sector leadership confirms. Weekly review session in afternoon.
+
+### May 15 -- EOD Snapshot (Day 13, Friday)
+**Portfolio:** $101,107.11 | **Cash:** $60,207.62 (59.5%) | **Day P&L:** +$1,183.29 (+1.18%) | **Phase P&L:** +$1,107.11 (+1.11%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $59.42 | +2.33% | +$326.35 (+1.64%) | $53.85 (10% trail, hwm $59.835) |
+| XOM | 131 | $152.03 | $157.99 | +3.41% | +$780.76 (+3.92%) | $142.20 (10% trail, hwm $158.00) |
+
+**Notes:** Energy breakout day. XOM ripped +3.41% to $157.99 -- punched through entry, prior hwm ($155.69), and tagged fresh hwm $158, auto-ratcheting the trailing stop from $140.12 to $142.20 (Alpaca order confirmed). XLE +2.33% to $59.42 -- back above entry but still 0.7% short of old hwm $59.835, stop unchanged at $53.85. Day P&L +$1,183 (+1.18%) flips phase green for the first time since May 06 -- fresh hwm +$1,107 (+1.11%), erasing the May 08 -$1,941 drawdown entirely. Both names well clear of -7% manual cut and not yet at +15% trail-tightening trigger (XOM +3.9% unrealized, XLE +1.6%). No trades, weekly count closes 0/3, deployment 40.5%. Week 3 closes strongly positive, energy thesis confirmed by the break. Monday: pre-market read on WTI/energy follow-through; if XOM extends to fresh hwm or XLE breaks $59.835+, hold and let trail ratchet; if reversal, monitor stops; scout for a third entry to lift deployment toward 60% only if a high-conviction setup confirms (energy continuation leader or fresh sector breakout) -- 3 weekly trades available, 3 open slots.

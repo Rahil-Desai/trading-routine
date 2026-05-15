@@ -525,3 +525,45 @@ HOLD. No new trades pre-PPI. Both XLE/XOM bouncing into the print with manual-cu
 
 ### Decision
 HOLD. No new trades. Both XLE/XOM with manual-cut buffer fully restored (5.7-6.6%) and trails 6.7-7.4% below current (clear of 3% rule, never move down). Concentration at 20% caps = no adds. Sticky-inflation regime (hot CPI + shock PPI + hawkish Warsh confirmation tomorrow) is a tailwind for energy/commodity hedge thesis -- but positions still below entry, no fresh hwm since Apr 30, so thesis is "supportive" not "confirmed." Day plan: do NOT trade in the first 30 min after Retail Sales (8:30-9:00 ET) -- let dust settle, read tape. If XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation. If RS triggers a dollar-down + crude-up move and XLE/XOM push toward $59.84+ / $155.69+ (fresh hwm), hold and let trails ratchet rather than add. Reassess at midday for fresh non-energy setup (XLB/XLI/XLP -- sticky-inflation hedge candidates) only if tape stabilizes AND sector confirms. Weekly slots 0/3 -- preserve for confirmed leadership outside energy. Patience > activity.
+
+## 2026-05-15 -- Pre-market Research (XOM EX-DIV DAY, Warsh confirmation, Friday/weekly review)
+
+### Account
+- Equity: $100,058.68 | Cash: $60,207.62 (60.2%) | BP: $160,266.30 | Daytrade count: 0
+- Last equity: $99,965.60 (overnight Day P&L +$93.08 / +0.09%); position market value $39,851.06 (~39.8% deployed)
+- Positions: XLE 340 @ $58.46 (now $58.39, -$23.85 / -0.12%, intraday +0.55%), XOM 131 @ $152.03 (now $152.66, +$82.53 / +0.41%, intraday -0.08%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835, ~7.8% buffer from current), XOM stop $140.12 (hwm $155.69, ~8.2% buffer from current)
+- Weekly trade count: 0/3 (Fri). Phase P&L: +$58.68 (+0.06%) from $100k baseline -- BACK TO BREAKEVEN from May 8 low of -$1,941.
+
+### Market Context
+- WTI: ~$101.65 May 14 close (Twelve Data 101.6476 close / 101.87 high); 5 sessions off Thu $94.87 low; holding $100 psych. Prediction markets ~55% odds WTI >=$101 today, ~73% >=$100. CLM26 June reference ~$101.87.
+- Brent: ~$110.43 (May 12 9am ET Fortune); spread ~$10 = Hormuz war premium intact.
+- S&P 500 futures: ESM26 7,464.00 -61.50 (-0.82%) per CME (likely stale; weekly close levels SPX ~7,478 May 13). Six-week win streak fragile after Tue CPI dip / Wed PPI shock; mild Thu rebound. Premarket leaning slightly negative.
+- VIX: 17.39 last available close (May 6); persistent sub-18 = complacency despite back-to-back hot inflation prints + Fed hawkish transition.
+- Today's catalysts: **Empire State Manufacturing 8:30 ET**, **Industrial Production 9:15 ET**, **Existing Home Sales 10:00 ET**, EIA Petroleum 10:30 ET. **Warsh Fed Chair confirmation ceremony today** (post-hawkish-PPI -> tape-relevant first-day tone). **Trump-Xi summit Day 2** (Iran-weapons letter, AI/semis, rare earths).
+- **XOM EX-DIV TODAY**: $1.03/share dividend, record date today, payable June 10. Expect ~$1.03 mechanical gap-down at open on XOM (~-0.67% from $152.66 -> ~$151.63). Position will collect $1.03 x 131 = $134.93 cash on June 10. NOT a price catalyst, do not confuse with thesis change.
+- Earnings: BMO Friday tape light -- no systemic names; Greenlane Renewables, Citycon, Nippon Paint. AMC light. Cisco/Alibaba/AMAT already absorbed earlier in the week.
+- Sector momentum YTD: Energy still #1 (+22% per Investing.com sector rotation; +24% YTD per Zacks Apr 21; +38.8% TTM; "dominant leader, broken out of long-term consolidation"). Materials/Industrials/Staples co-leaders in "Leading" quadrant. Tech/Comms/Discretionary/Financials lagging. Sticky-inflation regime (hot CPI + shock PPI) reinforces Energy hedge bid.
+- Yesterday's Retail Sales tape: assumed in-line / muted given overnight equity flat (+0.09%); sticky-inflation regime intact, no major repricing.
+
+### Held-ticker News
+- **XOM**: Ex-div date today $1.03/share (annualized $4.12, 2.7% yield). Q1 priced in ($4.2B reported / $8.8B ex-timing, $1.16 EPS adj, $83.16B rev beat, record 4.6M boe/d, Guyana 900k+, Golden Pass LNG Train 1, $9.2B Q1 shareholder distributions, $20B FY buyback pace). Bernstein Strategic Decisions Conference May 28. Stock $152.66 = +0.41% above entry (first green crossing since the May 8 drawdown). Trail $140.12 = 8.2% buffer, manual -7% cut $141.39 = 7.4% below current. NJ -> TX reincorp vote May 27 (latent positive).
+- **XLE**: At $58.39, -0.12% from entry, -2.4% from hwm $59.835; trail $53.85 = 7.8% buffer, manual -7% cut $54.37 = 6.9% below current. Sector still YTD leader (+22-24% YTD, +38-43% TTM); technical reads mixed (one source flags "sell signals / falling trend"; others see post-breakout pullback support; medium-term Elliott target $75-98). XOM/CVX 38-40% weight = tracks crude rebid.
+
+### Trade Ideas
+1. HOLD XLE/XOM through Friday session and into weekly review. Both positions now essentially flat-to-green from entry for first time since May 8 collapse. Buffer to manual cut 6.9-7.4% / trails 7.8-8.2% below current -- healthy, clear of 3% rule, never move down. Thesis recovered from drawdown without triggering 2-failed-trades sector-exit rule. Patience pays.
+2. NO NEW ADDS to energy. XLE cost basis $19,876 = 19.9% of $100.1k equity, XOM $19,916 = 19.9% -- both AT 20% max cap. Adding violates concentration rule.
+3. NO NEW NON-ENERGY ADDS today either. Friday into Warsh confirmation + Trump-Xi Day 2 + post-PPI-shock tape = elevated headline risk, poor R:R for fresh entries. Better to preserve weekly slots and re-engage Mon-Tue with confirmed setup.
+4. POST-SESSION WATCHLIST (for next week / weekly-review consideration, NOT today): XLB (Materials, sticky-inflation hedge, +17% 6M, breakout setup); XLI (Industrials, co-leader); XLP (Staples, defensive +10.7% YTD = stagflation hedge). Pass on semis (Trump-Xi Day 2 binary today, then extended), megacap tech (-4-16% YTD, hot inflation = duration headwind), financials (yield curve flat-to-inverted bear).
+
+### Risk Factors
+- **Warsh confirmation Day 1 tape**: first hawkish-Fed-Chair signal could whip yields/dollar/oil. Hawkish tone = USD up = crude headwind; pragmatic/balanced tone = relief = melt-up reset.
+- **Trump-Xi Day 2**: Iran-weapons letter outcome = biggest spillover risk for our book (de-escalation = WTI <$95 hit; status quo or escalation = WTI >$100 hold). AI/semis binary is not in our book.
+- **XOM mechanical ex-div gap**: ~-$1 gap-down at open is normal/expected and does NOT change thesis. Don't react. Stop is well below (trail $140.12 vs $151.63 expected open = 7.5% buffer post-gap).
+- **Hot inflation regime confirmed (CPI +3.8% / PPI +6.0% YoY / Core PPI +1.0% MoM 4-year high)**: Fed-cut odds gone, hike odds +32% Dec / +59% Apr 2027. 10Y 4.46-4.48% (11-month high). Duration/growth/tech headwind; commodity/value/cyclical tailwind. Our book aligned, but rapid bond/dollar moves can whipsaw oil.
+- Energy concentration: 39.8% deployed in 2 correlated names. Buffer healthy (6.9-8.2%) but a single bad oil session can compress fast.
+- Per strategy: 2 failed energy trades = exit sector. Cuts untriggered; thesis recovered, "supportive" not yet "confirmed" (XOM back over entry, XLE nearly flat, but no fresh hwm since Apr 30).
+- VIX sub-18 + SPX still in record zone (~7,478) + Friday into weekend = complacency setup with headline-rich back half (Warsh ceremony, Trump-Xi conclusions, weekend Iran/Hormuz risk).
+
+### Decision
+HOLD. No new trades. Both XLE/XOM back at/near entry with manual-cut buffer 6.9-7.4% and trails 7.8-8.2% below current (clear of 3% rule, never move down). Concentration at 20% caps = no adds in energy; Friday-into-weekend headline risk + post-PPI-shock tape = no adds outside energy either. **Phase P&L back to +$58 / +0.06% from May 8 low of -$1,941 -- discipline (no panic cuts, no chasing) paid**. Day plan: ignore XOM mechanical ex-div gap at open (~-$1, expected); do NOT trade first 30 min after Empire State / Industrial Production releases; if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; if XOM tags $155.69+ or XLE tags $59.84+ with conviction, hold and let trails ratchet. **Afternoon weekly review session** -- evaluate energy thesis stress-test (held through 3-day drawdown without triggering cuts), assess Week 3 setup vs. sticky-inflation regime, candidate non-energy adds (XLB/XLI/XLP) for Week 3 if leadership confirms. Weekly slots 0/3 -- preserve for Monday/Tuesday post-Warsh/post-Trump-Xi tape clarity. Patience > activity.

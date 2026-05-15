@@ -150,3 +150,61 @@ Week 1: positive return, beat S&P, no rule violations, stops working as designed
 ### Overall Grade: D
 
 -3.94% relative to S&P on a positive market week. No rule violations and trails are working, but outcome speaks: concentration warned in week 1 review, not actioned, and it cost ~$2.2k. Two straight weeks of 0/3 slot utilization while a diversification need was explicit. Process intact, judgment failed. Saved from F by no panic-sell, no rule breaks, manual cut still respected. Need to act on identified risks, not just log them.
+
+## Week ending 2026-05-15
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,058.59 |
+| Ending portfolio | $101,047.41 |
+| Week return | +$2,988.82 (+3.05%) |
+| S&P 500 week | +0.01% (7,398.93 -> 7,399.05) |
+| Bot vs S&P | +3.04% |
+| Trades | 0 (W:0 / L:0 / open:2 carried) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XOM +3.72% (unrealized) |
+| Worst trade | XLE +1.54% (unrealized) |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| -- | -- | -- | -- | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLE | $58.46 | $59.36 | +$305.95 (+1.54%) | $53.85 (10% trail, hwm $59.84) |
+| XOM | $152.03 | $157.69 | +$741.46 (+3.72%) | $142.20 (10% trail, hwm $158.00) |
+
+### What Worked
+- Discipline through the drawdown: held XLE/XOM through May 6-8 capitulation (phase low -$1,941 / -1.94%) without panic-cutting. Manual -7% cut was 1.6-2.0% away on Fri close; no rule break, no churn. Reversal Mon-Fri reclaimed the entire drawdown plus alpha.
+- Sector-thesis stress test passed: sticky-inflation regime (CPI +3.8% YoY, PPI shock +6.0% YoY / Core +1.0% MoM 4-yr high, Warsh confirmed hawkish) flipped energy from "broken" to "preferred hedge" in 72 hours. Bot held the right side.
+- Caught and rejected the May 6 market-open auto-add proposal again retrospectively: the violation would have stacked size into the bottom; restraint preserved the recovery.
+- Trailing stop ratcheted on XOM mid-day Fri (hwm $155.69 -> $158.00, stop $140.12 -> $142.20) -- first new hwm since Apr 30; system working invisibly as designed.
+- Cash discipline (60% dry powder) meant the drawdown was 2 names, not 5. Concentration cuts both ways: it hurt last week, it amplified the recovery this week.
+
+### What Didn't Work
+- 0/3 trade slots used for the THIRD straight week. "Patience > activity" continues to drift into paralysis. XLB/XLI/XLP candidate list sat on the bench all week despite explicit Mon plan to add a diversifier post-CPI.
+- Pre-CPI/PPI deferrals were defensible; Thu-Fri deferrals were not (sticky-inflation regime confirmed, energy still leading, Materials/Industrials co-leading -- entry criteria were met, slot still unused).
+- Concentration risk remains structural: 40% in 2 highly correlated names. This week it paid; next bad energy session it will hurt again. Risk identified for 3 weeks straight, not actioned.
+- Still 60% in cash on a hot-inflation / value-cyclical melt-up regime -- underdeployed vs 75-85% target. Captured alpha this week was a function of position quality, not size.
+- No fresh hwm on XLE (still $59.84 from Apr 30) -- the bounce reclaimed entry but did not yet "confirm" thesis. Trail ratchet only happened on XOM.
+
+### Key Lessons
+- The -7% manual cut rule is a floor, not a target. The drawdown bottom (XOM -5.10%, XLE -4.65% on May 8) was inside 2% of the cut; holding through to the recovery was correct only because thesis re-confirmed (Hormuz risk back, sticky-inflation regime). Holding past -7% on broken thesis would be different.
+- Sticky-inflation tape REGIME-shifts sector leadership: hot CPI + PPI shock = duration/growth/tech penalty + commodity/value/cyclical reward. Watch for the regime, not the single print.
+- Trail vs. manual cut hierarchy held: trail was 6-8% away all week (never violated 3% rule) while manual cut was the live decision point. Manual cut is the active rule on stressed positions; trail is the backstop.
+- "Patience" without action criteria = paralysis. Need a written rule: if entry checklist is met AND weekly slots remain AND a binary catalyst has passed AND existing book is stable, the slot WILL be used. Three weeks of "I'll add tomorrow" = systemic.
+- Mean-reversion in oversold leadership sectors can be brutal in both directions. Last week's -$1,941 became this week's +$2,989 on the same 2 names. Position sizing/concentration is the dial that controls volatility; we have it set to "loud."
+
+### Adjustments for Next Week
+- USE 1-2 weekly trade slots Mon-Wed for diversifiers. Hard target: deployment to 55-60% by Wed close. Candidates ranked: XLB (Materials, sticky-inflation hedge, +17% 6M, breakout setup), XLI (Industrials, co-leader), XLP (Staples, defensive +10.7% YTD = stagflation hedge). If XLB/XLI tags a clean breakout entry, deploy 15-18% (well under 20% cap). PASS list unchanged: semis (extended + Trump-Xi binary), megacap tech (-4-16% YTD, duration headwind), financials (yield curve bear).
+- Energy: hold XLE/XOM; do NOT add. Trail ratcheting on XOM = let system work. If XLE tags hwm $59.84+ with conviction, consider trim/no-add (concentration check). If WTI breaks $95 cleanly, reassess sizing.
+- XOM ex-div was Fri May 15 ($1.03/sh, payable June 10) -- $134.93 cash arriving June 10. NJ -> TX reincorp vote May 27 = latent positive catalyst. Bernstein Strategic Decisions Conf May 28.
+- Calendar awareness: Trump-Xi summit conclusions weekend (Iran-weapons letter outcome = WTI gap risk Mon open). Manual cut levels primed if de-escalation gaps oil <$95.
+- Strategy doc: defer sector-cap rule change ONE more week. Re-evaluate after diversifier slot is used and we have 3-name book to calibrate against.
+
+### Overall Grade: B+
+
++3.04% vs S&P 500 on the week, full recovery from last week's -1.94% drawdown, trail ratcheting working (XOM hwm $158.00), discipline held under -5% pressure without rule breaks. Held back from A by third straight week of 0/3 slot utilization (diversifier paralysis is now a pattern, not an episode), persistent under-deployment (40% vs 75-85% target), and structural concentration risk (40% in 2 names) that survived a stress test but remains unresolved. Process > judgment this week; outcome bailed out the analysis. Need to convert this week's recovered confidence into actual diversification next week or the same lesson keeps repeating.

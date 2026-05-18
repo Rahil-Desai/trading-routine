@@ -567,3 +567,43 @@ HOLD. No new trades. Both XLE/XOM with manual-cut buffer fully restored (5.7-6.6
 
 ### Decision
 HOLD. No new trades. Both XLE/XOM back at/near entry with manual-cut buffer 6.9-7.4% and trails 7.8-8.2% below current (clear of 3% rule, never move down). Concentration at 20% caps = no adds in energy; Friday-into-weekend headline risk + post-PPI-shock tape = no adds outside energy either. **Phase P&L back to +$58 / +0.06% from May 8 low of -$1,941 -- discipline (no panic cuts, no chasing) paid**. Day plan: ignore XOM mechanical ex-div gap at open (~-$1, expected); do NOT trade first 30 min after Empire State / Industrial Production releases; if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; if XOM tags $155.69+ or XLE tags $59.84+ with conviction, hold and let trails ratchet. **Afternoon weekly review session** -- evaluate energy thesis stress-test (held through 3-day drawdown without triggering cuts), assess Week 3 setup vs. sticky-inflation regime, candidate non-energy adds (XLB/XLI/XLP) for Week 3 if leadership confirms. Weekly slots 0/3 -- preserve for Monday/Tuesday post-Warsh/post-Trump-Xi tape clarity. Patience > activity.
+
+## 2026-05-18 -- Pre-market Research (NVDA / FOMC minutes week, Monday)
+
+### Account
+- Equity: $101,328.57 | Cash: $60,207.62 (59.4%) | BP: $161,536.19 | Daytrade count: 0
+- Last equity: $101,104.74 (overnight Day P&L +$223.83 / +0.22%); position market value $41,120.95 (~40.6% deployed)
+- Positions: XLE 340 @ $58.46 (now $59.74, +$435.15 / +2.19%, intraday +0.51%), XOM 131 @ $152.03 (now $158.85, +$893.42 / +4.49%, intraday +0.59%)
+- Open orders: 2 trailing stops live -- XLE stop $53.85 (hwm $59.835, ~9.9% buffer), XOM stop $142.20 (hwm $158.00, ~10.5% buffer; price now above hwm -- auto-ratchet expected at session open toward ~$142.97)
+- Weekly trade count: 0/3 (Mon, fresh week). Phase P&L: +$1,328.57 (+1.33%) -- NEW PHASE HWM, exceeding prior peak (+$709.90 May 5).
+
+### Market Context
+- WTI: ~$103.55 CME quote (May 17 PM CT); Twelve Data May 15 close $102.46 / high $106.34. WTI bid restored, holding $100 psych for 6+ sessions, Hormuz war premium intact (~$10 Brent spread).
+- Brent: ~$110+ implied via spread (no fresh live quote in sources).
+- S&P 500 futures: ESM6 7,387.00 -45.25 (-0.61%) premarket per CME. Mild de-risk into NVDA/FOMC-minutes week after Friday's rally. SPX ~7,478 May 13/14 zone; six-week win streak fragile.
+- VIX: 17.87 May 13 close (latest verifiable); May 19 = monthly VIX expiration (today is last full trading day for May contract -- typical pin/decay).
+- Today's catalysts: light tape -- no major macro release; minor earnings (Vivos Therapeutics BMO, no systemic names).
+- Week catalysts: **NVDA earnings Wed AMC = primary AI-trade vol event**. **FOMC minutes Wed May 20 2pm ET = first minutes of Warsh-era / April 28-29 meeting** (post-hot-CPI / shock-PPI tape). Walmart + Home Depot earnings = consumer/housing tells. Trump-Xi summit outcomes carry over.
+- Sector momentum YTD: Energy still #1 (~+22% YTD per S&P momentum map; Schwab trailing 6M +30.3%, 12M +41.9%). Headlines flag **"Energy sector logs record 14-week winning streak"**. Materials/Industrials in Leading quadrant. Tech lagging (-4 to -16% YTD megacaps); Financials/Discretionary weak. Sticky-inflation regime + Energy strength = thesis tailwind.
+
+### Held-ticker News
+- **XOM**: At $158.85 (+0.59% intraday, +4.49% from entry) -- punched fresh hwm above the $158.00 trail anchor; trailing stop will auto-ratchet today toward ~$142.97 (10% off $158.85). Mfg trail $142.20 last on file -- buffer ~10.5%. Argus raised 2026 EPS estimate $0.30 to $7.91 May 9 on production growth. Hong Kong fuel-station sale talks ($500-600M) ongoing. NJ -> TX redomicile vote May 27. Bernstein Strategic Decisions Conference May 28. No fresh May 16-18 negative catalyst. Manual -7% cut $141.39 (10.9% buffer).
+- **XLE**: At $59.74 (+0.51% intraday, +2.19% from entry, -0.16% from hwm $59.835 -- knocking on hwm). Sector "14-week winning streak" tape support; 21 holdings, 89.82% Oil/Gas/Consumable Fuels. P/E ~21, AUM $41.7B, 52w range $40.36-$63.46. Trail $53.85 = 9.9% buffer; manual -7% cut $54.37 = 9.0% buffer. Breakout setup -- close > $59.835 today auto-ratchets trail higher for first time since Apr 30.
+
+### Trade Ideas
+1. HOLD XLE/XOM. XOM already through prior hwm $158.00 -- trail should ratchet by ~$0.77 today; XLE within 0.16% of $59.835 hwm. Energy thesis CONFIRMED (sector 14-week streak, XOM +4.5%, fresh phase hwm). No action required -- let trails do the work.
+2. NO NEW ENERGY ADDS. XLE $19,876 = 19.6% of $101.3k equity, XOM $19,916 = 19.7% -- both at/near 20% cap (concentration ceiling). Adding violates the cap.
+3. DEFER NEW NON-ENERGY ENTRIES today. Premarket -0.6% + NVDA Wed AMC + FOMC minutes Wed 2pm = de-risk window. Better R:R to scout entries post-NVDA / post-minutes once vol resolves. Pre-NVDA dispersion in semis = poor entry tape.
+4. CANDIDATE WATCHLIST (for Thu-Fri post-NVDA/minutes, NOT today): XLB (Materials co-leader, sticky-inflation hedge), XLI (Industrials co-leader). Pass on semis (NVDA binary Wed), megacap tech (duration headwind in sticky-inflation regime), financials (weak YTD).
+
+### Risk Factors
+- **NVDA earnings Wed AMC = binary AI/semi vol event**. Miss/guide-down = broad de-risk could spill into all sectors via VAR/dollar/yield channel; beat/raise = melt-up reset. Energy moves second-order via dollar/oil.
+- **FOMC minutes Wed 2pm = first Warsh-era minutes covering April 28-29 meeting** (held in the post-CPI/PPI shock window). Hawkish dissent / hike-bias chatter = yields up, dollar up, oil headwind; balanced tone = relief.
+- **VIX May expiration Tue May 19**: today is the last full trading day -- pin risk / decay near 17-18 level; potential gamma unwind tomorrow afternoon.
+- **Energy concentration**: 40.6% deployed in 2 correlated names at 20% caps -- a single bad oil session can compress fast. Hormuz/Iran de-escalation = WTI <$95 downside risk; status quo or escalation = WTI >$105 upside.
+- **Phase at fresh hwm (+1.33%) on a 14-week sector streak** = mean-reversion risk elevated. Discipline = don't chase, let trails ratchet, manual cuts armed at $54.37/$141.39.
+- Per strategy: 2 failed energy trades = exit sector. Cuts untriggered; thesis now confirmed (positions green, fresh hwm), but one giveback week could re-pressure book.
+- Trump-Xi summit follow-through (rare earths, AI chips, Iran weapons letter) = headline-rich into Wed. Walmart/Home Depot earnings = consumer/housing tells (housing names downside risk per outlook).
+
+### Decision
+HOLD. No new trades. Both XLE/XOM working as intended -- XOM through prior hwm into fresh territory (trail auto-ratchets), XLE knocking on hwm $59.835. Buffer to manual cuts 9.0-10.9%, trails 9.9-10.5%. Concentration at 20% caps = no energy adds; NVDA/FOMC-minutes Wed = de-risk window for non-energy entries (defer to Thu-Fri tape). Phase at fresh +$1,329 / +1.33% hwm vindicates patience-through-drawdown discipline (May 8 low was -$1,941). Day plan: monitor XOM trail ratchet (expect new stop ~$142.97 once Alpaca updates on $158.85+ print); if XLE closes > $59.835 with conviction, hold and let trail ratchet for first time since Apr 30; if SPX gives back morning losses and energy follows lower, do NOT cut early -- trails are armed; manual cuts only triggered intraday on breach of $54.37 (XLE) or $141.39 (XOM). Reassess midday and pre-NVDA Wed for non-energy add candidate (XLB or XLI) ONLY if leadership confirms. Weekly slots 0/3 -- preserve for post-Wed clarity. Patience > activity.

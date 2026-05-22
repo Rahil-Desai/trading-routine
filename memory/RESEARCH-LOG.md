@@ -729,3 +729,43 @@ HOLD. No new trades. Both XLE/XOM making fresh highs (May 19 hwm XLE $61.49, XOM
 
 ### Decision
 HOLD. No new trades. Both XLE/XOM with manual-cut buffer healthy (9.4-10.2%) and trails 6.5-7.5% below current (clear of 3% rule, never move down). Concentration at 20% caps = no energy adds; post-NVDA + post-hawkish-FOMC-minutes + WMT BMO morning = de-risk window for non-energy entries (defer to midday post-WMT confirmation or Fri). Phase +$1,253 / +1.25% gave back ~$700 from May 20 hwm but discipline intact -- patience through drawdown (May 8 low -$1,941) -> patience through new-high mean-reversion. Day plan: do NOT trade first 30 min after WMT BMO / jobless claims 8:30 ET -- let dust settle; if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; if XLE/XOM tag fresh hwm > $61.70 / $163.68, hold and let trails ratchet further. Reassess midday for XLB/XLI add ONLY if leadership confirms post-WMT + tape stabilizes; otherwise hold. Weekly slots 0/3 -- preserve for confirmed setup. Patience > activity.
+
+## 2026-05-22 -- Pre-market Research (Univ Mich final 10am, no BMO earnings, weekly review day)
+
+### Account
+- Equity: $100,762.92 | Cash: $60,207.62 (59.8%) | BP: $160,970.54 | Daytrade count: 0
+- Last equity: $100,654.81 (overnight Day P&L +$108.11 / +0.11%); position market value $40,555.30 (~40.2% deployed)
+- Positions: XLE 340 @ $58.46 (now $59.29, +$282.15 / +1.42%, intraday +0.27%), XOM 131 @ $152.03 (now $155.70, +$480.77 / +2.41%, intraday +0.26%)
+- Open orders: 2 trailing stops live -- XLE stop $55.53 (hwm $61.70, ~6.3% buffer), XOM stop $147.312 (hwm $163.68, ~5.4% buffer)
+- Weekly trade count: 0/3 (Fri). Phase P&L: +$762.92 (+0.76%) -- off May 20 hwm +$1,956 (giveback ~$1,200 over 2 sessions).
+
+### Market Context
+- WTI: ~$98.45 May 22 (Investing.com); CME front-month CLN26 ~$98.08 +$1.73. Pulled back under $100 psych; trend cooling but Hormuz premium intact.
+- Brent: ~$110-116 (Fortune May 1 print; no fresh quote). Spread ~$11-17.
+- S&P 500 futures: ESM6 7,482.75 +16.75 (+0.22%) per CME May 21 evening read; premarket mildly positive into Univ Mich. SPX hit fresh ATH this week per Schwab.
+- VIX: 16.76 May 21 close (-3.90% from 17.44). Sub-17 = complacency restored post-NVDA + post-hawkish-FOMC-minutes digestion.
+- Today's catalysts: **Univ Mich Consumer Sentiment FINAL 10am ET** (prelim 48.2 = historic low; 1yr inflation expectations 4.5%, 5-10yr 3.4%). NO notable BMO earnings; AMC = LULU, SNPS. Light tape otherwise -- pure macro read.
+- Week ahead: **XOM TX redomicile vote May 27 (Tue, 3 trading days)** = primary binary event. Bernstein Strategic Decisions Conference May 28. Memorial Day weekend = Mon May 25 closed -- 4 trading days next week.
+- Sector momentum YTD: Energy still #1 (Schwab 6M +30.3%, 12M +41.9%); Materials co-leader (+17.2% 6M); Industrials co-lead. Tech lagging; financials/discretionary weak. Sticky-inflation + cyclical bid intact, but WTI back under $100 = pace test.
+
+### Held-ticker News
+- **XOM**: At $155.70 (+0.26% intraday, +2.41% from entry, off May 20 hwm $163.68 by 4.9%). Q1 2026 reported May 1: $4.2B net income, $1.00/share diluted (or $1.16 adj per quiver); first LNG at Golden Pass Train 1; record Guyana production. Public.com consensus PT $162.05. **TX redomicile vote May 27** (ISS opposed, XOM publicly rebutted May 16). Bernstein conf May 28. Trail $147.312 = 5.4% buffer; manual -7% cut $141.39 = 9.2% buffer.
+- **XLE**: At $59.29 (+0.27% intraday, +1.42% from entry, off May 20 hwm $61.70 by 3.9%). Sector still YTD #1; "rose nearly 2% Monday" on crude bounce earlier in week. XOM 22.58% / CVX 16.52% top weights. Trail $55.53 = 6.3% buffer; manual -7% cut $54.37 = 8.3% buffer. WTI sub-$100 = mild headwind but sector momentum intact.
+
+### Trade Ideas
+1. HOLD XLE/XOM into weekly review. Trails ratcheted (XLE $55.53, XOM $147.312); buffers 5.4-6.3% (clear of 3% rule, never move down). Energy thesis intact -- sector YTD leader, 14-week streak, sticky-inflation tailwind. Pullback after May 20 hwm = normal digestion; both names still green vs entry.
+2. NO NEW ENERGY ADDS. XLE cost basis $19,876 = 19.7% of equity; XOM $19,916 = 19.8% -- both at 20% concentration cap.
+3. NO NEW NON-ENERGY ENTRIES today. Friday + weekly review + XOM redomicile binary in 3 trading days + Memorial Day weekend = preserve weekly slots and powder for clarity post-vote (Wed May 27 onward). Univ Mich final 10am could whip tape on inflation expectations -- not an entry trigger, a wait-and-see.
+4. WATCHLIST (for post-Memorial-Day / post-XOM-vote week): XLB (Materials, sticky-inflation hedge, Schwab "More Favored", +17.2% 6M), XLI (Industrials co-leader). Pass on semis (NVDA AH muted = no FOMO), megacap tech (sticky-inflation duration headwind), financials (yield curve fluid post-Warsh), discretionary (Univ Mich 48.2 = stagflation-lite risk).
+
+### Risk Factors
+- **XOM TX redomicile vote May 27 (Tue, 3 trading days)**: ISS opposed; XOM rebutted May 16. Binary governance event. No-vote = -1 to -2% one-day expected; approval = neutral-to-positive. Trail $147.312 (5.4% buffer) handles either way; not thesis-altering.
+- **Univ Mich final 10am ET**: prelim 48.2 = historic low. Inflation expectations 4.5% 1yr / 3.4% 5-10yr already elevated. Hot upward revision = yields up, dollar up, stagflation-lite spike -- choppy but value/energy aligned. Cool revision = relief rally.
+- **WTI back under $100**: 8+ sessions holding broken; mild thesis pace concern. Hormuz premium still intact ($11-17 spread). Not a thesis crack yet -- monitor for follow-through next week.
+- **VIX 16.76 = sub-17 complacency**: SPX at ATH + complacency + holiday-weekend illiquid Friday afternoon = elevated whip risk on any tape surprise.
+- **Phase at +$762 / +0.76%** (off May 20 hwm +$1,956 = $1,200 giveback). Discipline = let trails work; if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation.
+- **Energy concentration 40.2% in 2 correlated names at 19.7-19.8% caps** -- single bad oil session compresses fast. Manual cuts armed.
+- Memorial Day weekend = 3-day weekend headline risk (Iran/Hormuz, OPEC chatter, geopolitical surprises). Gap risk Tue open.
+
+### Decision
+HOLD. No new trades. Both XLE/XOM with manual-cut buffers 8.3-9.2% and trails 5.4-6.3% below current (clear of 3% rule, never move down). Concentration at 20% caps = no energy adds; Friday + XOM redomicile vote Tue + Memorial Day weekend = de-risk window for non-energy entries (defer to post-vote week, May 28+). Phase +$762 / +0.76% gave back $1,200 from May 20 hwm but discipline intact -- trails armed, manual cuts armed. Day plan: do NOT trade first 30 min after Univ Mich final 10am ET -- let dust settle; if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; if either tags fresh hwm > $61.70 / $163.68, hold and let trails ratchet further. Weekly review session in afternoon -- weekly slots 0/3 (preserve); reassess sector leadership and post-vote entry candidates (XLB or XLI) for next week. Patience > activity.

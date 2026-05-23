@@ -208,3 +208,62 @@ Week 1: positive return, beat S&P, no rule violations, stops working as designed
 ### Overall Grade: B+
 
 +3.04% vs S&P 500 on the week, full recovery from last week's -1.94% drawdown, trail ratcheting working (XOM hwm $158.00), discipline held under -5% pressure without rule breaks. Held back from A by third straight week of 0/3 slot utilization (diversifier paralysis is now a pattern, not an episode), persistent under-deployment (40% vs 75-85% target), and structural concentration risk (40% in 2 names) that survived a stress test but remains unresolved. Process > judgment this week; outcome bailed out the analysis. Need to convert this week's recovered confidence into actual diversification next week or the same lesson keeps repeating.
+
+## Week ending 2026-05-22
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $101,107.11 |
+| Ending portfolio | $100,726.34 |
+| Week return | -$380.77 (-0.38%) |
+| S&P 500 week | ~+1.21% (7,399.05 -> ~7,489) |
+| Bot vs S&P | -1.59% |
+| Trades | 0 (W:0 / L:0 / open:2 carried) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XOM +1.89% (unrealized) |
+| Worst trade | XLE +1.76% (unrealized) |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| -- | -- | -- | -- | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLE | $58.46 | $59.49 | +$350.15 (+1.76%) | $55.53 (10% trail, hwm $61.70) |
+| XOM | $152.03 | $154.90 | +$376.19 (+1.89%) | $147.31 (10% trail, hwm $163.68) |
+
+### What Worked
+- Trail ratcheting hit a new gear: XLE hwm $59.835 -> $61.70 (first new hwm since Apr 30, ratcheted Mon May 18); XOM hwm $158.00 -> $163.68 (May 19). Both stops now sit NET-POSITIVE vs entry -- XLE stop $55.53 locks in -$2.93/-1.00% worst case (vs -10% trail loss); XOM stop $147.31 locks in -$4.72/-3.10%. Structural risk continues to decline; worst-case outcome on these positions is a small locked loss, not the original -7-10% loss.
+- Discipline through 2-day giveback: phase fresh hwm +$1,956 on May 19 -> bled to +$726 by Fri (-$1,200 over 2 sessions) with zero panic, no trim, no rule break. Both names stayed comfortably above -7% manual cut (8.3-9.2% buffer at Fri close).
+- Pre-NVDA / pre-FOMC-minutes (Wed) restraint: did NOT chase semis into binary AMC + 2pm minutes. NVDA beat-but-muted (-0.6% AH); hawkish FOMC minutes confirmed sticky-inflation thesis = energy/cyclical tailwind. No FOMO trade made = no FOMO loss to digest.
+- Energy thesis stayed on the right side of macro: hawkish minutes + sticky inflation + Hormuz premium ($11-17 Brent/WTI spread) = commodity-value-cyclical bid sustained through the week. Two-day Wed-Thu pullback was digestion within range, not a thesis crack.
+- May 6 auto-add proposal pattern check held: no impulse adds at the May 20 dip either. Concentration cap binding, system intact.
+
+### What Didn't Work
+- 0/3 weekly trade slots used for the FOURTH straight week. Diversifier paralysis is now a 4-week pattern, despite explicit Mon plan ("add XLB or XLI Thu-Fri post-NVDA/minutes ONLY if sector leadership confirms"). Sector leadership did confirm (Materials Schwab "More Favored," sticky-inflation regime intact), slot still unused.
+- Underperformed S&P by -1.59% on a +1.21% S&P week. Same losing combination from week 2 -- underdeployed (40% vs 75-85%) + sector-concentrated -- repeated mechanically on a tape where Materials/Industrials co-led and were available all week.
+- No trim into May 19/20 strength: XOM was +5.83% / $163.68 hwm on Tue/Wed -- the textbook trim-into-strength window to free 6-8% concentration before the Wed -3.72% rip. Full position rode the giveback from +5.83% back to +1.89%. ~$700 of paper P&L gave back unnecessarily.
+- WTI lost $100 cleanly Thu/Fri (closed ~$98.45). Watched line for weeks; no defensive trim taken when the line broke. Trails still 5.4-6.3% from current (clear of 3% rule) so no rule break, but pace concern is now real.
+- Phase volatility (May 20 hwm +$1,956 -> Fri +$726) too loud for the underlying setup. Position sizing/diversification is the dial controlling this; we have it set to "amplifier" not "smoother."
+
+### Key Lessons
+- The trail ratchet IS working as designed -- both stops are now net-positive vs entry. That changes the calculus: it's no longer "diversify to reduce downside on concentrated book" (downside is now floored at small locked loss). It's "diversify because energy is defensively positioned -- the risk budget is freed up to deploy elsewhere without compounding concentration."
+- Four weeks of "next week I'll add the diversifier" = systemic paralysis, not patience. Reflection alone hasn't fixed it; need a commitment device. Mon AM research log MUST pre-define explicit entry triggers (level, size, stop, R:R) before the week opens -- not deferring to "post-X clarity." Defer-to-clarity has been the failure mode for 4 weeks running.
+- Trim-into-strength is the missing offense. At +5-7% unrealized on concentrated single-name positions (sector >30%), trim 25-50% to free capital, reduce concentration, lock partial gain. May 19/20 XOM at +5.83% was the moment; it passed unused. Pattern repeats unless ruled.
+- Sector cap rule still informal. 4 consecutive weeks of "deferred." Energy concentration is structural at this point -- it has now hurt (week 2 -1.94%), helped (week 3 +3.04%), and capped upside (this week -1.59% relative). Rule needed.
+- Trails ratcheting + manual cut held + thesis intact > underperforming a positive S&P week. Outcome was OK; the missing alpha is the lesson.
+
+### Adjustments for Next Week
+- HARD COMMIT for Tue May 26 or Wed May 27: deploy XLB OR XLI IF sector tape green on Tue open AND no panic on XOM redomicile vote outcome. Size: 15-18% (well under 20% cap). Mon May 25 (Memorial Day, closed) used to pre-write Tue research log with EXPLICIT entry levels for both candidates -- no deferring to "post-X" language. This is the line.
+- XOM TX redomicile vote May 27 (Tue): hold through binary; trail $147.31 (5.4% buffer) handles either outcome. No pre-vote size change. Post-vote: if XOM tags $165+ fresh hwm, trim 30-50 shares to free 6-8% concentration (trim-into-strength rule applied).
+- Energy thesis monitoring: WTI back under $100 with 14-week sector streak technically intact. If WTI breaks $95 cleanly AND XLE breaks $58.46 entry concurrently, trim XLE 50% on next bounce ahead of trail trigger. If WTI reclaims $105 + sector streak extends, hold full.
+- No new energy adds. 20% caps binding on both XLE/XOM.
+- Strategy doc: defer formal sector-cap (30-35%) one more week, contingent on Tue-Wed XLB/XLI add resolving concentration organically. If 4-week paralysis becomes 5, sector cap goes into the doc next Friday review NO MATTER WHAT.
+- Memorial Day weekend headline risk (Iran/Hormuz, OPEC chatter): trails armed, manual cuts armed at $54.37 / $141.39. Gap risk Tue open priced in.
+
+### Overall Grade: C+
+
+Down -0.38% vs S&P +1.21% = -1.59% relative on a positive market week. Trails worked beautifully (both stops now net-positive vs entry -- a structural milestone that matters more than the weekly outcome), discipline through 2-day giveback intact, no rule violations, no manual cut triggered (8.3-9.2% buffer at Fri close). Saved from C by clean process, trail ratchet milestones (XLE first new hwm since Apr 30, XOM second hwm series), and pre-NVDA restraint. Held back from B by FOURTH straight 0/3 slot week (diversifier paralysis is now a habit, not an episode), no trim into May 19/20 strength when XOM was +5.83% (textbook trim-into-strength miss = ~$700 of paper P&L given back unnecessarily), persistent under-deployment (40%), and WTI <$100 break that went un-actioned. Process > judgment for the fourth week running; the trail ratchet is the moat -- the offense (diversification, trim discipline) is still missing. Pre-commit Tue/Wed next week or this grade slides.

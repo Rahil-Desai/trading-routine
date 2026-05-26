@@ -808,3 +808,42 @@ HOLD. No new trades. Both XLE/XOM with manual-cut buffers 8.3-9.2% and trails 5.
 
 ### Decision
 **HOLD -- heightened alert. No new trades.** Stops armed & net-positive vs entry; rulebook says let trails/manual cuts work, not pre-empt a move equities haven't priced. But the Hormuz-premium deflation directly threatens the energy thesis -- this is a watch-closely hold, not a relax. Tue May 26 plan: read the open -- if XLE/XOM gap down on the crude crash, do NOT panic-sell into the gap, but if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; if either tags fresh hwm (>$61.70 / >$163.68) hold and let trails ratchet. If Hormuz reopening confirms and energy rolls over multi-day, begin thesis re-evaluation and prepare sector rotation (XLB/XLI) post-Core-PCE Thu -- do NOT add to a deflating energy book. Weekly slots 0/3: preserve through XOM vote (Wed) + Core PCE (Thu); reassess Fri. Patience > activity.
+
+
+## 2026-05-26 -- Pre-market Research (Tue, first trading day post-Memorial Day; Consumer Confidence; XOM vote Wed; Core PCE Thu)
+
+### Account
+- Equity: $100,243.23 | Cash: $60,207.62 (60.1%) | BP: $160,450.85 | Daytrade count: 0
+- Last equity $100,728.74 -> overnight Day P&L -$485.51 (-0.48%); position market value $40,035.61 (~39.9% deployed)
+- Positions: XLE 340 @ $58.46 (now $58.86, +$135.81 / +0.68%, intraday -1.06%), XOM 131 @ $152.03 (now $152.85, +$107.42 / +0.54%, intraday -1.34%)
+- Open orders: 2 trailing stops live -- XLE stop $55.53 (hwm $61.70, 5.7% buffer), XOM stop $147.312 (hwm $163.68, 3.6% buffer)
+- Weekly trade count: 0/3 (new week). Phase P&L: +$243.23 (+0.24%) -- off May 19 hwm +$2,330.
+
+### Market Context
+- **Crude gap MILDER than feared.** WTI ~$91.94 (FxPro live), down from ~$98 Fri but the 3-6% equity gap-down the holiday note feared did NOT print -- XLE only -1.06%, XOM -1.34%. Equity lagged the commodity exactly as anticipated. Conflicting reads: Barchart commentary says crude actually rose as US-Iran deal "remains elusive" + Hormuz still closed; Rubio cited only "slight progress," major enrichment disagreements remain. Net: Hormuz premium NOT yet deflated -- thesis not cracked, but unresolved binary.
+- Brent: stale ~$112.78 (Barchart May '26 front). Spread wide (~$20) = Hormuz shipping premium intact.
+- S&P futures: ESM6 7,548.25 +57.25 (+0.76%, CME May 25 read) -- risk-ON into the open. SPX record zone.
+- VIX: 16.85 (May 26, +1.57%); sub-17 complacency persists.
+- Today's catalysts: **May Consumer Confidence** (household-spending read), PPI YoY, Chicago PMI, **Fed Cook speech**, API crude inventories (AH). Earnings: AutoZone (AZO), Zscaler (ZS).
+- Week ahead: **XOM redomicile NJ->TX vote Wed May 27** (binary governance). **Q1 GDP 2nd est + April Core PCE Thu May 28** = week's biggest macro.
+- Sector momentum YTD: Energy still YTD #1 across sources; Materials co-leader. Tech-concentrated SPX rally per Cboe. Energy leadership intact but under Hormuz-unwind watch.
+
+### Held-ticker News
+- **XOM** $152.85 (-1.34% intraday, +0.54% from entry, 6.6% below May 20 hwm $163.68). Consensus Buy (20 analysts), PT $162.05; Q1 $4.2B earnings beat. **Redomicile vote tomorrow Wed** -- ISS + NYC Comptroller oppose Item 4; board unanimously recommends. Outcome not yet known. Trail $147.312 = 3.6% buffer; manual -7% cut $141.39 = 7.5% below.
+- **XLE** $58.86 (-1.06% intraday, +0.68% from entry, 4.6% below May 20 hwm $61.70). Sector YTD #1; XLE lags spot crude (equity vs commodity), cushioning the one-day repricing. Trail $55.53 = 5.7% buffer; manual -7% cut $54.37 = 7.6% below.
+
+### Trade Ideas
+1. **HOLD XLE/XOM -- gap absorbed, stops armed.** Feared 3-6% gap-down did not materialize; both still net green, both trails net-positive vs entry (worst case = small locked-in gain). Rulebook = let armed trails/manual cuts work, do not pre-empt. Heightened-alert hold through XOM vote + Core PCE.
+2. **NO NEW ENERGY ADDS.** Both at ~19.9% concentration caps; thesis under active Hormuz watch -- adding is doubly wrong.
+3. **NO NEW NON-ENERGY ENTRIES today.** XOM binary vote Wed + Core PCE Thu = preserve 0/3 weekly slots & powder until macro clears (post-PCE Thu/Fri). Better R:R after resolution.
+4. **WATCHLIST (post-PCE Thu/Fri):** if Hormuz deal confirms and energy rolls multi-day, rotate to XLB (Materials, "More Favored") or XLI (Industrials) on confirmed leadership -- NOT into a falling-knife energy book. Defensive staples a hedge if PCE runs hot.
+
+### Risk Factors
+- **Hormuz premium status = primary thesis variable.** WTI low-$90s but Iran deal UNRESOLVED ("slight progress" only); equities barely flinched. Durable de-escalation would reverse the YTD energy bid; a stall re-arms it. Trigger: XLE breaches $54.37 or XOM breaches $141.39 intraday -> manual cut, no hesitation.
+- **XOM redomicile vote Wed (ISS + NYC Comptroller opposed):** binary. No-vote/contested = -1 to -2% one-day; approval = neutral-positive. Trail (3.6% buffer) handles either; XOM buffer is the tightest in the book.
+- **Core PCE Thu May 28:** hot = yields/dollar up, risk-off, multiple compression; cool = relief melt-up. Don't position for a guess.
+- **Concentration 39.9% in 2 correlated energy names** at caps -- single bad oil session compresses fast. Manual cuts armed.
+- **VIX 16.85 sub-17 complacency + record-zone SPX + unresolved commodity binary** = whip risk into a macro-heavy, holiday-shortened week.
+
+### Decision
+**HOLD -- heightened alert. No new trades.** The feared post-holiday gap-down was milder than expected (XLE -1.06%, XOM -1.34%); both names net green, trails net-positive vs entry. Rulebook: let armed trails/manual cuts work, don't pre-empt. Day plan: do NOT trade the first 30 min (let Consumer Confidence + open dust settle); if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; if either tags fresh hwm (>$61.70 / >$163.68) hold and let trails ratchet. XOM trail buffer tightest at 3.6% -- monitor closely around tomorrow's vote. If Hormuz de-escalation confirms and energy rolls multi-day, begin thesis re-evaluation and prep sector rotation (XLB/XLI) post-Core-PCE Thu -- do NOT add to a deflating energy book. Weekly slots 0/3: preserve through XOM vote (Wed) + Core PCE (Thu); reassess Fri. Patience > activity.

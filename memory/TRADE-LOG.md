@@ -193,3 +193,19 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XOM | 131 | $152.03 | $154.86 | -0.28% | +$370.73 (+1.86%) | $147.31 (10% trail, hwm $163.68) |
 
 **Notes:** Energy stabilizes after the two-day fade. XLE +0.61% to $59.49 leads the modest bounce; XOM -0.28% to $154.86 ticks lower but pace of selling has cooled markedly vs Wed -3.72% / Thu -0.81%. Day P&L +$102 (+0.10%) -- nearly flat. Phase finishes week 3 at +$721 (+0.72%), down from May 19 hwm +$2,330 but still green. Both names hold positive unrealized (XLE +1.76%, XOM +1.86%) and well clear of -7% manual cut (XLE 9.4% above $54.37, XOM 8.5% above $141.39). Stops unchanged at $55.53 / $147.31 (no fresh hwm; XLE needs $61.70+, XOM $163.68+ to ratchet -- 3.7% and 5.7% away). Both stops still net-positive vs entry -- worst-case outcome remains a small locked-in gain. No trades, weekly count closes 0/3, deployment 40.2%. Week 3 closes green, energy thesis intact but breakout momentum stalled -- digestion phase. Weekly review session this afternoon. Monday: pre-market read on WTI/energy continuation; if XLE/XOM resume up and tag fresh hwm, hold and let trail ratchet; if break below recent lows (XLE under $59.00 or XOM under $154.00), monitor stops; scout for a third entry to lift deployment toward 60% only if a high-conviction setup confirms (energy continuation leader or fresh sector breakout) -- 3 weekly trades available, 3 open slots next week.
+
+## 2026-05-27 -- Market-Open (XOM STOPPED OUT)
+
+| Date | Ticker | Side | Shares | Entry | Exit | Realized P&L | Hold |
+|------|--------|------|--------|-------|------|--------------|------|
+| 2026-05-27 | XOM | SELL (trail stop) | 131 | $152.03 | $146.42 | -$734.91 (-3.69%) | Apr 29 -> May 27 |
+
+**Notes:** XOM trailing stop (GTC, $147.312, hwm $163.68) triggered at the 09:33 ET open and filled 131 @ $146.42 -- gapped ~$0.89 through the stop on the energy roll-down. Exact thesis crack flagged in May 25 research: WTI cratered to low-$90s ($91-93 vs ~$98 Fri) on US-Iran/Hormuz de-escalation headlines, deflating the supply-risk premium that drove the energy bid. Realized loss -$734.91 (-3.69%); first losing close-out of the campaign. This is **failed energy trade #1** -- two consecutive failed energy trades = sector exit per rulebook; XLE is the swing name. No new trades placed at the open: energy thesis under active pressure + Core PCE Thu May 28 + XOM redomicile vote today = preserve powder. Weekly new-trade count stays 0/3 (an exit is not a new entry).
+
+**Account post-fill:** Equity $98,661.54 | Cash $79,388.64 (80.5%) | Day P&L -$840.19 (-0.84%) | Phase P&L -$1,338.46 (-1.34%).
+
+| Ticker | Shares | Entry | Now | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------------|------|
+| XLE | 340 | $58.46 | $56.79 | -$567 (-2.85%) | $55.53 (10% trail, hwm $61.70) |
+
+**XLE HOLD decision:** -2.85% from entry, above the -7% manual cut ($54.37, ~4.1% below current). Trail $55.53 armed = ~2.2% buffer (locks ~-5% on basis if hit). Per rulebook: never move a stop down, let the armed trail/manual cut work, don't pre-empt. XLE lags spot crude (equity vs commodity) so the one-day repricing is cushioned vs XOM. Single open position, deployment 19.5%, 79% cash dry powder. WATCH: breach of $54.37 -> manual cut without hesitation; that would be failed energy trade #2 -> exit sector, rotate (XLB/XLI) post-PCE. If energy stabilizes/bounces, hold and let trail ratchet. Reassess midday + post-Core-PCE Thu.

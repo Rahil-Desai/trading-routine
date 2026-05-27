@@ -808,3 +808,44 @@ HOLD. No new trades. Both XLE/XOM with manual-cut buffers 8.3-9.2% and trails 5.
 
 ### Decision
 **HOLD -- heightened alert. No new trades.** Stops armed & net-positive vs entry; rulebook says let trails/manual cuts work, not pre-empt a move equities haven't priced. But the Hormuz-premium deflation directly threatens the energy thesis -- this is a watch-closely hold, not a relax. Tue May 26 plan: read the open -- if XLE/XOM gap down on the crude crash, do NOT panic-sell into the gap, but if XLE breaches $54.37 or XOM breaches $141.39 intraday, execute manual cut without hesitation; if either tags fresh hwm (>$61.70 / >$163.68) hold and let trails ratchet. If Hormuz reopening confirms and energy rolls over multi-day, begin thesis re-evaluation and prepare sector rotation (XLB/XLI) post-Core-PCE Thu -- do NOT add to a deflating energy book. Weekly slots 0/3: preserve through XOM vote (Wed) + Core PCE (Thu); reassess Fri. Patience > activity.
+
+
+## 2026-05-27 -- Pre-market Research (Day 19, Wednesday; XOM redomicile-vote day)
+
+### Account (premarket, balance_asof 2026-05-26)
+- Equity: $99,219.52 | Cash: $60,207.62 (60.7%) | BP: $159,427.14 | Daytrade count: 0
+- Position market value: $39,011.90 (~39.3% deployed) | last_equity $99,501.73
+- Positions (BOTH NOW RED vs entry -- first time this phase):
+  - XLE 340 @ $58.46, now $57.38 -- **-$367.25 (-1.85%)**. lastday $57.85.
+  - XOM 131 @ $152.03, now $148.88 -- **-$413.23 (-2.08%)**. lastday $149.81.
+- Open orders: 2 trailing stops live -- XLE $55.53 (hwm $61.70, 3.2% buffer), XOM $147.312 (hwm $163.68, **1.05% buffer -- imminent-trigger range**).
+- Weekly trade count: 0/3. Phase P&L: **-$780.48 (-0.78%)** -- flipped underwater, off May 19 hwm +$2,330 (~$3,110 giveback).
+
+### Market Context
+- **WTI $92.87** (CME, May 26 evening, -1.09% session) -- holding low $90s, ~6% below the pre-crash ~$98. The Hormuz/Iran de-escalation thesis crack is now CONFIRMED in price; Brent stale ~$104.68. Polymarket/Barchart still cite Hormuz + elusive US-Iran deal as dominant crude driver -- premium deflating but not fully gone (Qatar mediating Tehran talks).
+- S&P futures: modestly green premarket (~+0.1% to +0.6%); risk-ON continues. SPX record zone (~7,200s).
+- VIX: ~16.6 (May 25 close 16.59) -- sub-17 complacency persists.
+- Calendar: **Today May 27 -- XOM redomicile NJ->TX vote at annual meeting** (binary governance event). Light macro today. **Thu May 28 = week's biggest: April Core PCE + Q1 GDP 2nd est + April durable goods (8:30am).**
+- Sector momentum YTD: Energy still #1 (+20-22%), Materials co-leader, Tech lagging -- but these readings PRE-DATE the Hormuz unwind; forward driver (geopolitical premium) is reversing.
+
+### Held-ticker News
+- **XOM** $148.88 (-2.08% from entry, 9.0% below May 20 hwm $163.68). Q1 strong (adj EPS $1.16 beat 15%, record Guyana >900kbpd, $9.2B returned). Analyst Buy, PT $163. **Redomicile vote TODAY** (ISS + NYC Comptroller opposed; board unanimous). Trail $147.312 = **1.05% buffer (will auto-exit on any further weakness, locking ~-3.1% / ~-$617)**; manual -7% cut $141.39 = 5.0% below.
+- **XLE** $57.38 (-1.85% from entry, 7.0% below May 20 hwm $61.70). $57.85 May 26 close confirms Hormuz-driven fade; 89.8% oil/gas weight, XOM/CVX top holdings -- direct crude beta. Trail $55.53 = 3.2% buffer; manual -7% cut $54.37 = 5.2% below.
+
+### Trade Ideas
+1. **HOLD both, stops armed -- let them work.** XOM trail $147.312 is 1.05% below: any continued weakness auto-exits at a small thesis-based loss (~-3.1% vs entry) -- this IS the system working, do not pre-empt. XLE trail $55.53 (3.2%) + manual cut $54.37 armed. Both above -7% manual cut; rulebook = let trails/manual cuts work, patience > activity.
+2. **NO NEW ENERGY ADDS.** Both at ~20% concentration caps (XLE cost $19,876 = 20.0%, XOM $19,916 = 20.1%) AND thesis is actively deflating -- adding is doubly wrong.
+3. **NO NEW NON-ENERGY ENTRIES today.** XOM binary vote today + Core PCE Thu (biggest macro) + energy-rollover contagion risk = preserve 0/3 weekly slots & powder until tape clears post-PCE (Thu/Fri). Better R:R after macro resolves.
+4. **WATCHLIST (post-PCE Thu/Fri):** if energy rolls multi-day and confirms the thesis break, rotate toward XLB (Materials, co-leader, "More Favored") or XLI (Industrials) on confirmed leadership -- NOT into a falling energy book. Defensive staples a hedge if PCE runs hot.
+
+### Risk Factors
+- **HORMUZ DEFLATION NOW MATERIALIZING = primary risk realized.** WTI stuck low $90s; both positions flipped red. Talks not yet sealed (Iran resists full dismantle) -- could stabilize OR be a structural top. If multi-day rollover continues, energy thesis is invalidated -> rotate.
+- **XOM trail 1.05% buffer = imminent trigger** on any weakness. By design; let it exit, don't anticipate.
+- **XOM redomicile vote today** (ISS + NYC Comptroller opposed): binary. No-vote/contested = -1 to -2% one-day; approval = neutral-positive. Trail handles either.
+- **Core PCE Thu May 28** (+ Q1 GDP, durable goods): hot = yields/dollar up, risk-off; cool = relief melt-up. Don't position for a guess.
+- **Concentration ~40% in 2 correlated energy names at caps** -- single bad oil session compresses fast; we are mid-compression.
+- **VIX ~16.6 sub-17 complacency + record SPX + active thesis crack** = whip risk.
+- **Phase flipped red -$780 (-0.78%)** -- first underwater this phase. Discipline = let trails/manual cuts work; do not revenge-trade.
+
+### Decision
+**HOLD -- heightened alert. No new trades.** The Hormuz-premium deflation we flagged is now in price -- both XLE/XOM flipped red and XOM sits ~1% above its trail. Rulebook holds: let armed trails/manual cuts work, do not pre-empt. XOM's tight trail ($147.312) will auto-exit on continued weakness at a small thesis-based loss (~-3.1%) -- accept it, that is the system. XLE trail $55.53 (3.2%) + manual $54.37 armed. NO adds (caps + deflating thesis); NO non-energy entries (XOM vote today + Core PCE Thu = preserve 0/3 slots & powder for post-PCE clarity). Triggers: if XLE breaches $54.37 or XOM breaches $141.39 intraday -> manual cut without hesitation (trails should fire first); if either tags fresh hwm (>$61.70 / >$163.68) hold and let trails ratchet. If energy rollover confirms multi-day, begin rotation prep (XLB/XLI) post-PCE -- do NOT add to a falling energy book. Reassess Thu after Core PCE. Patience > activity.

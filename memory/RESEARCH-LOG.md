@@ -841,3 +841,40 @@ HOLD. No new trades. Both XLE/XOM with manual-cut buffers 8.3-9.2% and trails 5.
 
 ### Decision
 **HOLD XLE, no new trades.** XOM stop did its job at the open (-$734.91 realized, -3.69%) -- automatic, no intervention needed. XLE stays: above manual cut, trail armed, rulebook says let it work. Preserve 79% cash through the XOM vote (today) + Core PCE (Thu). If XLE breaches $54.37 intraday -> manual cut (failed energy trade #2 -> exit sector, rotate XLB/XLI post-PCE). If energy stabilizes, hold and let the trail ratchet. Reassess at midday and post-Core-PCE Thu. Patience > activity.
+
+## 2026-05-28 -- Pre-market Research (Core PCE 8:30 ET + Q1 GDP 2nd estimate; XLE only position)
+
+### Account (live, balance_asof 2026-05-27)
+- Equity: $98,880.81 | Cash: $79,388.61 (80.3%) | BP: $178,269.42 | Daytrade count: 0
+- Last equity (May 27 close): $98,765.21 -> overnight/intraday Day P&L +$115.60 (+0.12%); position market value $19,492.20 (~19.7% deployed, single name)
+- Position: XLE 340 @ $58.46 (now $57.33, -$384.25 / -1.93%, intraday +0.60% from $56.99)
+- Open orders: 1 trailing stop live -- XLE $55.53 (hwm $61.70, ~3.1% buffer; manual -7% cut $54.37 ~3.1% buffer)
+- Weekly new-trade count: 0/3 (Thu). Phase P&L: -$1,119.19 (-1.12%) from $100k baseline -- gave back from May 19 hwm +$2,330; one realized loss (XOM -$734.91 on May 27).
+
+### Market Context
+- **WTI: ~$90.96** (CME CLN6 front-month, May 28 02:03 CT, +2.57% / +$2.28 overnight bounce). Brent stale ~$118 (EIA 1Q26 print); fresh quote not in results but tracking lower with WTI. Hormuz-premium unwind continues but mild overnight rebound after Tue/Wed slide.
+- **S&P futures: ESM6 7,532.25 -7.75 (-0.10%)** -- flat/mildly red into Core PCE; SPX still record zone.
+- **VIX: 17.01** (May 27 close, +2.53%); sub-17 complacency cracked modestly post-XOM/energy-rollover pattern. Quiet but bid.
+- **Today's catalysts (in order)**: **Core PCE Price Index (April) 8:30 ET** -- cons 0.3% MoM, 3.3% YoY (Fed's preferred gauge, week's biggest macro). **Q1 GDP 2nd estimate 8:30 ET**. **Initial Jobless Claims 8:30 ET** (typical). Trimmed Mean PCE 11:00 ET. No notable BMO earnings -- only small caps (CRMT, PLCE, RRGB, NFE; AMC = LULU prior reports).
+- Sector momentum YTD: Energy still YTD #1 (+22% per Investing.com Mar) but leadership actively cracking on Hormuz unwind (XOM stopped 5/27 = failed energy trade #1). Industrials & Materials in "Leading" quadrant, both Schwab "More Favored" (AI/data-center capex, reshoring, sticky-inflation hedge). Rotation candidates if energy rolls multi-day.
+
+### Held-ticker News
+- **XLE** $57.33 (intraday +0.60% from May 27 close $56.99; -1.93% from $58.46 entry; -7.1% from May 20 hwm $61.70). Tickeron May 27: **Stochastic moved into oversold** = potential short-term bounce setup, but pre-dates Core PCE. Daily range May 27 $56.50-$57.50 suggests stabilization after Tue/Wed slide. Trail $55.53 = **~3.1% buffer**; manual -7% cut $54.37 = **~5.2% buffer**. Both thinner than any prior pre-market this campaign. Per StockInvest May 7 stale comment: Brent ~$62.51 / WTI ~$58.95 mention is OLD data unrelated to current $90.96 print -- ignore.
+
+### Trade Ideas
+1. **HOLD XLE through Core PCE.** Above manual cut, trail $55.53 armed, oversold technicals = potential bounce setup. Rulebook = let armed trail/manual cut work, never move down, don't pre-empt. WTI's overnight +2.57% bounce off the Tue lows is a tentative stabilization signal but unconfirmed until equities open.
+2. **NO NEW TRADES pre-PCE.** Core PCE 8:30 ET = binary tape-driver. Hot print -> yields/USD up, multiple compression, energy can extend lower. Cool print -> relief rally, melt-up potential. Better R:R post-print confirmation (10-11am ET earliest) or Fri/next week if leadership confirms.
+3. **NO NEW ENERGY ADDS** under any scenario -- thesis under active pressure (failed trade #1), 2nd failed trade = sector exit, adding is doubly wrong.
+4. **POST-PCE WATCHLIST**: XLB (Materials, sticky-inflation hedge, "More Favored", Leading quadrant) and XLI (Industrials co-leader, AI/data-center/defense capex). Entry trigger = confirmed leadership on the post-PCE tape + XLE either rolling (sector rotation) OR stabilizing (additive bid). Pass on semis (NVDA-related AH wobble pattern persists), megacap tech (duration headwind on hot PCE), discretionary (consumer K-shape).
+
+### Risk Factors
+- **Core PCE 8:30 ET = primary risk.** Hot print (>0.3% MoM / >3.3% YoY) = stagflation-lite spike, yields/USD up, broad multiple compression. Energy: paradoxically could catch a sticky-inflation bid OR extend lower on USD strength -- net choppy. Cool print = relief melt-up, energy gets caught up but underlying Hormuz-unwind thesis still bearish energy.
+- **XLE thin buffers**: trail ~3.1%, manual cut ~5.2%. Another -2% energy day puts XLE near trail; another -5% day = manual cut trigger. **If XLE breaches $54.37 intraday -> manual cut, no hesitation = failed energy trade #2 -> sector exit per rulebook.**
+- **WTI bounce sustainability**: overnight +2.57% off Tue lows is encouraging but unconfirmed. US-Iran/Hormuz headlines remain whipsaw risk both directions; no sealed deal yet.
+- **Single-name concentration risk gone, opportunity-cost risk live**: 80.3% cash dry powder is the right posture INTO PCE but mistiming the post-PCE rotation = opportunity cost. Discipline = wait for confirmation, don't chase.
+- **Q1 GDP 2nd estimate 8:30 ET**: revisions either direction can amplify or dampen the PCE reaction; if hot growth + hot inflation = strongest hawkish combo.
+- **VIX 17.01 with sub-17 cracked**: term-structure tension into the print = elevated whip risk.
+- **Phase -$1,119 / -1.12%**: first net-negative phase reading of the campaign post-XOM stop. Discipline check: do NOT revenge-trade or reach for entries to "make it back" -- patience > activity.
+
+### Decision
+**HOLD XLE, no new trades pre-PCE.** Trail $55.53 + manual cut $54.37 both armed; XLE oversold + WTI bouncing overnight = decent odds of a stabilization print, but not actionable until tape confirms. Core PCE 8:30 ET is the binary event of the week -- do NOT trade first 30-60 min after print, let dust settle. Preserve 80% cash through the print. Day plan: if XLE breaches $54.37 intraday -> manual cut without hesitation (= failed energy trade #2, sector exit, prepare XLB/XLI rotation); if XLE tags fresh hwm > $61.70 -> hold and let trail ratchet; otherwise hold and reassess midday + EOD. Post-PCE: ONLY consider XLB or XLI add if (a) PCE in-line/cool AND (b) leadership confirms intraday with broad sector strength -- not a single-bar rally. Weekly slots 0/3, 4 trading days left in week (Thu+Fri only this short week post-Memorial-Day). Patience > activity.

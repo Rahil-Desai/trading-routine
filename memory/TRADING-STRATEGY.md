@@ -12,7 +12,7 @@ Beating the index means OUT-returning it -- holding index-proxy ETFs or megacaps
 
 ## Core Rules
 1. NO OPTIONS -- ever.
-2. STAY DEPLOYED: 90-100% target, hard floor 85%. Idle cash beyond one trading day with an open slot is a rule violation, not caution. Every session with cash > 15% must either deploy or log a specific blocking reason.
+2. STAY DEPLOYED: 90-100% target, hard floor 85%. Idle cash > 15% past ONE trading day = mandatory deploy on the next session, not a logged exception. The previous "log a specific blocking reason" loophole is removed -- a session with cash > 15% may not roll forward without a placed order.
 3. 5-8 positions at a time. Max 25% per position (highest-conviction only; typical 15-20%).
 4. Up to 6 new trades per week (PDT only limits same-day round-trips, not swings).
 5. Bias to ACTION: take the best available setup each week. A good setup at full deployment beats a perfect setup left in cash. Don't wait for certainty.
@@ -23,6 +23,7 @@ Beating the index means OUT-returning it -- holding index-proxy ETFs or megacaps
 10. Never within 3% of current price; never move a stop down.
 11. Rotate fast: exit dead money (flat laggards, stalled/broken theses) to free capital for stronger setups. Don't let slots rot.
 12. Follow sector AND single-name momentum. Exit a sector after 2 consecutive failed trades.
+13. Max 30% of book per GICS sector (added 2026-05-29 after 5 consecutive weeks of energy-concentration paralysis). Sector ETFs count fully toward their sector; megacap proxies (e.g. XOM under Energy, NVDA under Tech) count toward the underlying sector even when held as singles. Breach = trim on next strength to reach compliance; no add that would lift a sector above 30%.
 
 ## Entry Checklist
 - Specific catalyst? (earnings, breakout, rotation, news)

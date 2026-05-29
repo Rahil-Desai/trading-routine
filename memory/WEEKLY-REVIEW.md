@@ -267,3 +267,64 @@ Week 1: positive return, beat S&P, no rule violations, stops working as designed
 ### Overall Grade: C+
 
 Down -0.38% vs S&P +1.21% = -1.59% relative on a positive market week. Trails worked beautifully (both stops now net-positive vs entry -- a structural milestone that matters more than the weekly outcome), discipline through 2-day giveback intact, no rule violations, no manual cut triggered (8.3-9.2% buffer at Fri close). Saved from C by clean process, trail ratchet milestones (XLE first new hwm since Apr 30, XOM second hwm series), and pre-NVDA restraint. Held back from B by FOURTH straight 0/3 slot week (diversifier paralysis is now a habit, not an episode), no trim into May 19/20 strength when XOM was +5.83% (textbook trim-into-strength miss = ~$700 of paper P&L given back unnecessarily), persistent under-deployment (40%), and WTI <$100 break that went un-actioned. Process > judgment for the fourth week running; the trail ratchet is the moat -- the offense (diversification, trim discipline) is still missing. Pre-commit Tue/Wed next week or this grade slides.
+
+## Week ending 2026-05-29
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,720.61 (Tue May 26 open = Fri May 22 close; Mon May 25 = Memorial Day holiday) |
+| Ending portfolio | $98,534.45 |
+| Week return | -$2,186.16 (-2.17%) |
+| S&P 500 week | ~+0.7% (SPX ~7,469 -> ~7,520; approximate, single-source) |
+| Bot vs S&P | ~-2.87% |
+| Trades | 1 (W:0 / L:1 / open:1 carried) |
+| Win rate | 0% (1 closed, 0 winners) |
+| Best trade | XLE -3.68% (unrealized, open) |
+| Worst trade | XOM -3.69% realized (trail stop-out, -$734.91) |
+| Profit factor | 0.00 (no winners closed) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| XOM | $152.03 | $146.42 | -$734.91 (-3.69%) | Trail-stop GTC ($147.312, hwm $163.68) triggered 09:33 ET May 27; gapped ~$0.89 through stop on WTI roll to low-$90s + Hormuz de-escalation. Failed energy trade #1. |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| XLE | $58.46 | $56.31 | -$730.61 (-3.68%) | $55.53 (10% trail, hwm $61.70, 1.4% buffer) |
+
+### What Worked
+- Trail stop did its job EXACTLY as designed on XOM: GTC at $147.312 fired at the open on May 27, filled 131 @ $146.42, single-day gap absorbed without manual intervention. Realized loss capped at -3.69% (vs entry) and -9.95% (vs hwm) -- on a name that gave back -10.6% from peak in 5 sessions. No panic, no discretion, no overhang.
+- Rule discipline through a thesis crack: WTI cratered $98 -> low-$90s on US-Iran/Hormuz de-escalation (May 25-27); the supply-risk premium that drove the bid evaporated in 48 hours. Bot let the trail handle the exit instead of pre-empting or freezing. Clean execution.
+- No revenge trade at the XOM open: cash spiked from ~$60k to ~$79k (80% of book); zero impulse re-deploys into the gap. Preserved powder through Core PCE Thu + weekend headline risk. The book did NOT compound the loss.
+- XLE manual cut held under pressure: at -3.68% vs -7% cut ($54.37) at week's end, ~3.7% buffer above cut and 1.4% above trail. Position respected; no preemptive sell, no average-down.
+- Concentration risk that was warned for 5 weeks straight resolved itself organically via trail stop -- exactly the structural backstop the rule was designed for. The 40% energy concentration is now 20% (single name), down without a rule break.
+
+### What Didn't Work
+- First realized loss of the campaign. The XOM trail-stop outcome was process-clean but it locked in -$735 against a thesis that had quietly broken Wed-Thu of the prior week (WTI <$100, two-day fade) -- a trim into May 19/20 strength at +5.83% would have de-risked the position to 50% size at +6% and converted Tue's stop-out into a -3% loss on half-size instead of -3.69% on full-size. Same paragraph as last week's review, same miss.
+- 0/3 weekly trade slots used for the FIFTH straight week. Memorial Day (Mon May 25) was supposed to be the "pre-write Tue research log with explicit XLB/XLI entry levels" commitment. XOM stopped out at the Tue open, the deferral cascade kicked in (Core PCE Thu + post-stop powder preservation), and the diversifier never went in. Same outcome as weeks 1-4: setup confirmed, slot unused.
+- IDLE CASH RULE VIOLATION: deployment dropped to 19.4% (single XLE position) vs 85% hard floor. After XOM stop-out Tue, the book sat at ~80% cash through Wed/Thu/Fri = 3 consecutive trading days with deployment far below floor. This is the rule that says "idle cash beyond one trading day with an open slot is a rule violation, not caution." First documented rule break of the campaign.
+- Underperformed S&P by -2.87% on a positive market week -- worse relative miss than week 2 (-3.94%). Same losing combination: one stressed energy position + 80% cash on a melt-up tape = captured the energy downside and zero broad-market upside.
+- New campaign low: phase P&L -$1,466 (-1.47%) on Fri close, deeper than week 2's -$1,941 trough recovered. The structural problem (paralysis + concentration + under-deployment) has now cost real money, not just opportunity cost.
+
+### Key Lessons
+- Trail stops are the floor, not the strategy. They worked perfectly on XOM (caught the thesis crack mechanically), but a thesis crack should trigger a trim BEFORE the trail catches it. WTI lost $100 Thu-Fri of week 4; the trim window was open all of that Friday and Tue May 26. Trim discipline = the offense; trail = the defense. We've ridden defense for 5 weeks.
+- "Powder preservation" after a loss becomes a new form of paralysis. The XOM stop-out was a planned, rule-respected exit -- not a cash-machine event that warrants "wait and see." Tue-Wed (post-stop) was THE diversifier window: cash freed, slot open, weekly count fresh, sector-cap pressure relieved. Did not act. Five-week pattern now applied through a stop-out.
+- Sector-exit rule (rule 12) is now LIVE on energy. XOM = failed energy trade #1. If XLE breaches $54.37 manual cut, that's #2 = sector exit per rulebook. Decision pre-committed; no Tuesday-morning agonizing required.
+- The "85% deployment floor" rule has no enforcement mechanism in the current routine. It was written as a hard floor and was broken silently for 3 trading days this week. Need a daily check that turns idle cash > 15% into a forced action prompt, not a "log specific blocking reason" loophole.
+- The sector-cap deferral promise from week 4 ("if 4-week paralysis becomes 5, sector cap goes in NO MATTER WHAT") is now triggered. Week 5 paralysis confirmed (0/3 slots, plus failure to deploy post-stop). Strategy doc gets the rule this week, per the pre-commitment.
+
+### Adjustments for Next Week
+- HARD COMMIT Tue Jun 2: deploy 2 weekly slots Mon/Tue to lift deployment from 19% to 50%+. Targets ranked: XLB (Materials, sticky-inflation hedge, 5-week co-leader), XLI (Industrials, co-leader, no energy correlation), XLP (Staples, defensive co-leader). Sizes 15-18% each (well under 20% cap, well under new 30% sector cap). If neither tags clean entry, single-leg one of QQQE/SPHQ to satisfy floor while monitoring sector setups. Idle cash > 15% past Tue close = forced deploy regardless of "perfect" setup.
+- XLE decision tree: above $57.50 + WTI reclaims $95 = hold and let trail work (current $55.53, 1.4% buffer); below $54.37 (manual -7% cut) = exit at market, log as failed energy trade #2 = sector exit per rule 12, rotate cash to XLB/XLI immediately. No further energy adds under any condition.
+- Trim-into-strength rule (operationalize): on any single position >25% of book and >+5% unrealized, trim 25-50% on the next strength day to free concentration and lock partial gain. Pre-written; no future-tense deferrals.
+- WTI watch: $95 reclaim + Hormuz re-escalation = pause sector exit if XLE breaches cut. $90 break + de-escalation confirmed = accelerate the sector exit decision.
+- Strategy doc update applied this week (see below): added max 30% per sector, and idle-cash > 15% = day-1 forced-action rule (no more "log a blocking reason" loophole).
+
+### Strategy Rule Changes Applied This Week
+- Added: max 30% per sector cap (deferred 4 consecutive weeks; week-5 paralysis trigger met per May 22 pre-commitment).
+- Tightened: rule 2 deployment floor now reads "idle cash > 15% past one trading day = mandatory deploy, not a logged exception" -- removes the soft loophole that allowed 3-day cash drift this week.
+
+### Overall Grade: D
+
+-2.17% on a +0.7% S&P week = -2.87% relative on a positive market week, deeper miss than week 2. First realized loss of the campaign (XOM -$734.91, trail stop). New phase low -$1,466 (-1.47%). Idle-cash rule violation accrued for 3 trading days post-XOM stop. Fifth straight week of 0/3 slot utilization. Held back from F by: XOM trail-stop execution was textbook (no rule break on the cut, no panic, no overhang), XLE manual cut respected (held with 3.7% buffer instead of pre-empting), no revenge trade at the gap, sector-exit trigger pre-committed for next week. Process > outcome on the XOM exit; outcome > process on the paralysis. The rule changes this review aren't decorative -- they exist because the 5-week pattern is now actively destroying capital, not just opportunity cost.

@@ -887,3 +887,22 @@ HOLD. No new trades. Both XLE/XOM with manual-cut buffers 8.3-9.2% and trails 5.
 - **Step 4 (tighten winners +15%/+20%)**: NO -- XLE is red, not a winner. No action.
 - **Step 5 (thesis check)**: Energy thesis remains under pressure post-XOM stop (failed #1), but no fresh crack today. WTI low-$90s holding; XLE base-building near $56.50-$57.50. Hold per rulebook -- let armed trail/manual cut work.
 - **No-op midday**: no trades, no stop changes, no ClickUp ping. Reassess EOD. If XLE breaches $54.37 -> manual cut = failed energy trade #2 -> exit sector, rotate XLB/XLI Fri. Patience > activity.
+
+## 2026-05-29 -- Midday Scan (Fri, weekly review day; XLE only position)
+
+### Account (live, balance_asof 2026-05-28)
+- Equity: $98,539.11 | Cash: $79,388.61 (80.6%) | BP: $177,927.72 | Daytrade count: 0
+- Last equity (May 28 close): $98,751.61 -> Day P&L -$212.50 (-0.22%). Phase P&L -$1,460.89 (-1.46%) from $100k baseline.
+- Position: XLE 340 @ $58.46 (now $56.335, -$722.55 / -3.64%; intraday -1.08% from $56.95). Deployment ~19.4% (single name).
+- Open orders: 1 trailing stop live -- XLE $55.53 (hwm $61.70, ~1.43% buffer); manual -7% cut $54.37 (~3.49% buffer).
+- Weekly new-trade count: 0/3.
+
+### Step-by-Step
+- **Step 3 (cut losers <=-7%)**: NO -- XLE -3.64%, above -7% cut at $54.37. No action.
+- **Step 4 (tighten winners +15%/+20%)**: NO -- XLE is red, not a winner. No action.
+- **Step 5 (thesis check)**: Energy thesis still under pressure post-XOM stop (failed #1). XLE gave back yesterday's small bounce (-1.08% intraday), now back near the $56.50 base zone. No fresh crack -- WTI low-$90s holding, no obvious incremental headline -- just slow grind. Trail buffer compressed to ~1.43% (thin); manual-cut buffer ~3.49%. Per rulebook: never move stop down, never tighten within 3% of current price (trail already <3% buffer = leave it), let armed trail/manual cut work. HOLD.
+- **Step 6 (intraday research)**: Not warranted. Move is in-trend, not sharp/unexplained.
+- **Step 7 (ClickUp)**: SKIP -- no action taken.
+
+### No-op midday
+No trades, no stop changes, no ClickUp ping. Reassess EOD (weekly review session this afternoon). If XLE breaches $54.37 -> manual cut without hesitation = failed energy trade #2 -> exit sector, rotate XLB/XLI next week. If XLE trail $55.53 triggers, automatic exit (lock ~-5% on basis). Patience > activity.

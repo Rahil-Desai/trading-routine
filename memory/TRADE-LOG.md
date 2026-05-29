@@ -209,3 +209,12 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XLE | 340 | $58.46 | $56.79 | -$567 (-2.85%) | $55.53 (10% trail, hwm $61.70) |
 
 **XLE HOLD decision:** -2.85% from entry, above the -7% manual cut ($54.37, ~4.1% below current). Trail $55.53 armed = ~2.2% buffer (locks ~-5% on basis if hit). Per rulebook: never move a stop down, let the armed trail/manual cut work, don't pre-empt. XLE lags spot crude (equity vs commodity) so the one-day repricing is cushioned vs XOM. Single open position, deployment 19.5%, 79% cash dry powder. WATCH: breach of $54.37 -> manual cut without hesitation; that would be failed energy trade #2 -> exit sector, rotate (XLB/XLI) post-PCE. If energy stabilizes/bounces, hold and let trail ratchet. Reassess midday + post-Core-PCE Thu.
+
+### May 28 -- EOD Snapshot (Day 21, Thursday)
+**Portfolio:** $98,751.61 | **Cash:** $79,388.61 (80.4%) | **Day P&L:** -$13.60 (-0.01%) | **Phase P&L:** -$1,248.39 (-1.25%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLE | 340 | $58.46 | $56.95 | -0.07% | -$513.45 (-2.58%) | $55.53 (10% trail, hwm $61.70) |
+
+**Notes:** Quietest day of the campaign. Core PCE released this morning -- tape essentially flat through the close. XLE -0.07% to $56.95 (basically pinned to yesterday's $56.99); Day P&L -$13.60 (-0.01%). Phase steady at -$1,248 (-1.25%), unchanged in any meaningful sense from yesterday's -$1,338. XLE unrealized -2.58% from $58.46 entry; 3.7% above the -7% manual cut at $54.37 and 2.5% above the $55.53 trail (hwm $61.70 since May 19). Stop unchanged. No trades, weekly new-trade count closes 0/3, deployment 19.6%, cash 80.4%. Single-position book post-XOM stop-out -- energy on a one-failed-trade strike, XLB/XLI on deck if XLE goes #2. Tomorrow (Fri/weekly review): pre-market read on WTI + post-PCE tape -- if XLE stabilizes/bounces above $57, hold and let trail work; if breach of $54.37 manual cut, exit without hesitation = failed energy trade #2 -> exit sector, rotate to XLB or XLI; no new entries on long-side conviction unless a fresh sector setup confirms. 3 weekly trades available next week, 4 open slots.

@@ -887,3 +887,47 @@ HOLD. No new trades. Both XLE/XOM with manual-cut buffers 8.3-9.2% and trails 5.
 - **Step 4 (tighten winners +15%/+20%)**: NO -- XLE is red, not a winner. No action.
 - **Step 5 (thesis check)**: Energy thesis remains under pressure post-XOM stop (failed #1), but no fresh crack today. WTI low-$90s holding; XLE base-building near $56.50-$57.50. Hold per rulebook -- let armed trail/manual cut work.
 - **No-op midday**: no trades, no stop changes, no ClickUp ping. Reassess EOD. If XLE breaches $54.37 -> manual cut = failed energy trade #2 -> exit sector, rotate XLB/XLI Fri. Patience > activity.
+
+## 2026-05-29 -- Pre-market Research (Post-PCE Fri / WTI cracks $90 -> $88; weekly-review day; XLE thin buffer)
+
+### Account (live, balance_asof 2026-05-28)
+- Equity: $98,666.61 | Cash: $79,388.61 (80.5%) | BP: $178,055.22 | Daytrade count: 0
+- Last equity (May 28 close): $98,751.61 -> overnight Day P&L -$85 (-0.09%); position market value $19,278 (~19.5% deployed, single name)
+- Position: XLE 340 @ $58.46 (now $56.70, -$598.45 / -3.01%, intraday -0.44% from $56.95 lastday)
+- Open orders: 1 trailing stop live -- XLE $55.53 (hwm $61.70, ~2.1% buffer; manual -7% cut $54.37 ~2.1% buffer)
+- Weekly new-trade count: 0/3 (Fri). Phase P&L: -$1,333.39 (-1.33%) from $100k baseline -- one realized loss (XOM -$734.91 on May 27).
+
+### Market Context
+- **WTI ~$88.11-89.47** (down ~3% from $90.96 yesterday). **Brent ~$92.40-94.00** (Brent down 2.38% May 28 to $92.05). Hormuz/Iran de-escalation premium continues to bleed -- thesis pressure on energy compounds.
+- **S&P futures: ESM26 +0.10% to +0.36%** premarket; cash SPX in the 7,520-7,585 zone (record territory).
+- **VIX: 16.29** (-4.23% from 17.01 yesterday close) -- complacency restored post-PCE.
+- **Today's catalysts**: Light tape. No major US macro release Fri (BLS calendar empty until JOLTS Jun 30; PCE was Thu). No notable BMO earnings (only small/micro-cap DLNG etc.). Memorial-Day-shortened week wraps; Fri = month-end + weekly review.
+- Sector momentum YTD (per First Trust, thru 3/6): **Energy +26.47% #1** (still leading but actively rolling), **Staples +10.66% #2**, **Industrials +9.61% #3**. Schwab "More Favored" = Materials + Industrials. Momentum factor ETF (MTUM) **+20% YTD vs SPX +8%**.
+- Single-name momentum: Top YTD movers per stocktitan = NINE/MGRT/ANL (microcaps -- skip). Zacks "RS into 2026" watchlist: CMC, KGC, ILMN, LVS, HG. Tech 12-month +52.7% (Schwab) but 6-month only +4.7% = duration drag.
+
+### Held-ticker News
+- **XLE** $56.70 (intraday -0.44%; -3.01% from $58.46 entry; -8.1% from May 20 hwm $61.70). WTI's overnight -$2-3 retest of the Hormuz-unwind lows pressures XLE going into the open. Daily range narrowing ($56.50-$57.50 last two sessions) = base-build or pre-break TBD. Trail $55.53 = **~2.1% buffer**; manual -7% cut $54.37 = **~4.1% buffer**. Both buffers tightest of the campaign. **2-for-1 split** referenced in fund news (housekeeping, not a thesis driver). Exxon (22.4%) and Chevron (16.5%) are 39% of XLE -- both leaking with WTI.
+
+### Trade Ideas
+1. **HOLD XLE -- watch closely.** Trail $55.53 armed (~2.1%), manual cut $54.37 (~4.1%). Rulebook: let armed exits work, never move down, don't pre-empt. If XLE breaches $54.37 intraday -> **manual cut without hesitation = failed energy trade #2 -> sector exit, no further XLE adds, ever**.
+2. **NO new energy adds, ever.** Thesis under active pressure (XOM stopped, XLE on thin ice). Adding is doubly wrong.
+3. **STAGE XLB (Materials) for Monday open** -- conditional on XLE getting stopped or stabilizing. Sector #2 momentum, Schwab "More Favored", sticky-inflation + reshoring/AI-infra hedge. Entry $84-86 area; size 200 shares (~$17K, ~17% deploy); 10% trail stop ~$76; first tighten at +15% (~$98).
+4. **STAGE XLI (Industrials) for Monday open** -- co-leader, AI/data-center/defense capex thesis. Entry $145-148 area; size 130 shares (~$19K, ~19% deploy); 10% trail stop ~$130; first tighten at +15% (~$167).
+5. **MTUM (momentum factor ETF) -- fast deployment vehicle** if no single-name conviction confirms. +20% YTD vs SPX +8% = an actual alpha-vehicle (unlike SPY which IS the benchmark). Entry $260 area; size 75 shares (~$19.5K); 10% trail stop ~$234. Better than idle cash and not an index-proxy.
+6. **WATCHLIST single-names**: KGC (gold momentum, RS list), CMC (steel/reshoring, RS list), LVS (consumer reopening, RS list). Pass if no fresh catalyst by Mon-Tue open.
+
+### Risk Factors
+- **WTI breakdown.** $88 print is below the post-May-22 Hormuz-headline lows; if WTI loses $85, XLE likely tags $54.37 manual cut today/Monday -- prepare execution.
+- **Friday + month-end + weekly-review tape**: window-dressing flows can create false breakouts/breakdowns. Don't initiate fresh entries Fri afternoon into weekend headline risk (Hormuz, Iran, OPEC weekend leaks).
+- **XLE buffers tightest of campaign** (~2.1% trail). One -2% energy day = trail trigger. Worst-case still locks +$2.27/share (~+$770 vs basis on the stop), so the structural risk is opportunity cost, not blow-up.
+- **Deployment 19.5% vs 85% floor = active rule violation**. Justified Thu pre-PCE; Fri-into-weekend with thesis still cracking is a thinner justification. Monday is the deploy deadline -- staging it is allowed; deferring beyond Mon-Tue without a fresh blocker is not.
+- **Single-name concentration risk gone, sequencing risk live**: dual-tracking an active stop-out candidate + new entries Fri = poor focus. Better to let XLE resolve Fri (stop or no), then deploy Mon with full attention.
+
+### Decision
+**HOLD XLE today, no new entries Fri, deploy Mon open.** Concrete blocking reason for Fri non-deployment: (1) WTI cracked $90 -> $88 overnight, raising odds of an XLE manual-cut trigger today/Mon -- bad sequencing to open new positions alongside an active stop-out candidate; (2) Fri month-end + weekend Hormuz/OPEC headline risk on energy-adjacent rotations; (3) weekly review session this afternoon = re-baseline before redeploying.
+
+**Mon May 30 plan (post weekly review)**:
+- If XLE stopped Fri/Mon AM -> failed energy trade #2 -> exit sector, deploy ~$60K across XLB (~$17K) + XLI (~$19K) + MTUM (~$19K) at open with 10% trails. Targets: lift deployment from 19.5% (or 0% post-stop) to 55-60% Mon, balance to 85%+ Tue-Wed on confirmed leadership.
+- If XLE stabilizes (closes Fri $57+, intraday low > $55.53) -> hold XLE, layer XLB + XLI Mon open as adds (not energy replacements) to lift deployment to 55%+ Mon.
+- 3 weekly trades available next week, 4 open slots. Target deployment >= 85% by Wed Jun 3.
+

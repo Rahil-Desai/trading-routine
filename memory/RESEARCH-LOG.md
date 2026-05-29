@@ -878,3 +878,12 @@ HOLD. No new trades. Both XLE/XOM with manual-cut buffers 8.3-9.2% and trails 5.
 
 ### Decision
 **HOLD XLE, no new trades pre-PCE.** Trail $55.53 + manual cut $54.37 both armed; XLE oversold + WTI bouncing overnight = decent odds of a stabilization print, but not actionable until tape confirms. Core PCE 8:30 ET is the binary event of the week -- do NOT trade first 30-60 min after print, let dust settle. Preserve 80% cash through the print. Day plan: if XLE breaches $54.37 intraday -> manual cut without hesitation (= failed energy trade #2, sector exit, prepare XLB/XLI rotation); if XLE tags fresh hwm > $61.70 -> hold and let trail ratchet; otherwise hold and reassess midday + EOD. Post-PCE: ONLY consider XLB or XLI add if (a) PCE in-line/cool AND (b) leadership confirms intraday with broad sector strength -- not a single-bar rally. Weekly slots 0/3, 4 trading days left in week (Thu+Fri only this short week post-Memorial-Day). Patience > activity.
+
+### Midday Addendum (2026-05-28)
+- **Account**: Equity $98,881 | Cash $79,389 (80.3%) | Day P&L +$116 (+0.12%) | Phase -$1,119 (-1.12%)
+- **XLE**: 340 @ $58.46, now $57.05 (-$479 / -2.41%, intraday +0.10% from $56.99). Stabilizing -- no follow-through to the downside post-PCE.
+- **Trail**: $55.53 armed (hwm $61.70) -- ~2.7% buffer; manual -7% cut $54.37 = ~4.7% buffer. Both intact.
+- **Step 3 (cut losers <=-7%)**: NO -- XLE -2.41%, above -7% cut. No action.
+- **Step 4 (tighten winners +15%/+20%)**: NO -- XLE is red, not a winner. No action.
+- **Step 5 (thesis check)**: Energy thesis remains under pressure post-XOM stop (failed #1), but no fresh crack today. WTI low-$90s holding; XLE base-building near $56.50-$57.50. Hold per rulebook -- let armed trail/manual cut work.
+- **No-op midday**: no trades, no stop changes, no ClickUp ping. Reassess EOD. If XLE breaches $54.37 -> manual cut = failed energy trade #2 -> exit sector, rotate XLB/XLI Fri. Patience > activity.

@@ -8,9 +8,9 @@ Args: SYMBOL SHARES SIDE (buy or sell). If missing, ask.
 
 1. Pull state: account, positions, quote SYMBOL (capture ask price P).
 2. For BUY, validate:
-   - Total positions after fill <= 6
-   - Trades this week + 1 <= 3
-   - SHARES * P <= 20% of equity
+   - Total positions after fill <= 8
+   - Trades this week + 1 <= 6
+   - SHARES * P <= 25% of equity
    - SHARES * P <= available cash
    - daytrade_count < 3
    - Catalyst documented (ask for thesis if not in today's RESEARCH-LOG)

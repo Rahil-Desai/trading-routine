@@ -31,9 +31,9 @@ bash scripts/alpaca.sh positions
 bash scripts/alpaca.sh quote <each planned ticker>
 
 STEP 3 -- Hard-check rules BEFORE every order. Skip any trade that fails and log the reason:
-- Total positions after trade <= 6
-- Trades this week <= 3
-- Position cost <= 20% of equity
+- Total positions after trade <= 8
+- Trades this week <= 6
+- Position cost <= 25% of equity
 - Catalyst documented in today's RESEARCH-LOG
 - daytrade_count leaves room (PDT: 3/5 rolling business days)
 

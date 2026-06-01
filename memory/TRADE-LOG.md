@@ -227,3 +227,14 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | XLE | 340 | $58.46 | $56.3113 | -1.12% | -$730.61 (-3.68%) | $55.53 (10% trail, hwm $61.70) |
 
 **Notes:** Quiet drift lower. XLE -1.12% to $56.3113; Day P&L -$217 (-0.22%). Phase widens to -$1,466 (-1.47%) -- new campaign low post-XOM stop-out. XLE unrealized -3.68% from $58.46 entry; 3.7% above the -7% manual cut at $54.37 and 1.4% above the $55.53 trail (hwm $61.70 since May 19). Stop unchanged. No trades, weekly new-trade count closes 0/3, deployment 19.4%, cash 80.6% -- well above the 85% floor only because the floor is an upper bound on idle cash; rule violation accruing on duration. Single-position book, energy on a one-failed-trade strike. Week 4 closes red. Weekly review session this afternoon. Monday: pre-market read on WTI + tape -- if XLE stabilizes/bounces above $57, hold and let trail work; if breach of $54.37 manual cut, exit without hesitation = failed energy trade #2 -> exit sector, rotate to XLB or XLI; given the idle-cash rule violation, scout 1-2 fresh sector leaders to re-deploy regardless of XLE outcome -- preserve powder only if no setup confirms. 3 weekly trades available next week, 4 open slots.
+
+## 2026-06-01 -- Market-Open Trades (DEPLOY day: XLB + XLI + MTUM + DELL)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-06-01 | XLB | BUY | 198 | $50.37 | $45.39 (10% trail, hwm $50.435) | Materials sector #3 YTD (+9.7%); Schwab "More Favored"; sticky-inflation + reshoring hedge; "Leading" quadrant | $57.92 (+15%) | 2.5:1 |
+| 2026-06-01 | XLI | BUY | 130 | $171.67 | $154.61 (10% trail, hwm $171.79) | Industrials sector #2 YTD (+9.6%); AI/data-center/defense capex + reshoring tailwinds; "Leading" quadrant | $197.42 (+15%) | 2.5:1 |
+| 2026-06-01 | MTUM | BUY | 75 | $315.59 | $284.11 (10% trail, hwm $315.68) | Momentum factor ETF +20% YTD vs SPX +8% = real alpha vehicle (not index-proxy); broad multi-sector momentum exposure | $362.93 (+15%) | 2.5:1 |
+| 2026-06-01 | DELL | BUY | 25 | $457.95 | $404.33 (12% trail, hwm $459.47) | Single-name AI capex leader; +32.8% Fri 5/29 on blow-out earnings; gap-and-go breakout; analyst targets $460-475 | $526.64 (+15%) | 2.5:1 |
+
+New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment ~$87,283 / $98,784 = **88.4%** -- clears the 85% floor cash-rule violation that ran since 5/27. Cash falls from $79,388 (80.4%) to ~$11,981 (~12.1%). Sector mix: XLE 19.6% Energy, XLB 10.1% Materials, XLI 22.6% Industrials, MTUM 23.96% multi-sector, DELL 11.6% Tech -- all under 25% per-position cap and 30% per-sector cap. Weekly new-trade count: 4/6 used (2 slots reserved Tue-Fri for SANM/LYB/GNRC/SNDK/TPL watchlist if setup confirms). XLE position untouched -- existing $55.53 trail handles downside; never moved a stop down.

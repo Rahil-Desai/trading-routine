@@ -931,3 +931,55 @@ HOLD. No new trades. Both XLE/XOM with manual-cut buffers 8.3-9.2% and trails 5.
 - If XLE stabilizes (closes Fri $57+, intraday low > $55.53) -> hold XLE, layer XLB + XLI Mon open as adds (not energy replacements) to lift deployment to 55%+ Mon.
 - 3 weekly trades available next week, 4 open slots. Target deployment >= 85% by Wed Jun 3.
 
+## 2026-06-01 -- Pre-market Research (Monday open / ISM Mfg PMI 10:00 ET / week of JOLTS+ADP+NFP / DEPLOY day)
+
+### Account (live, balance_asof 2026-05-29)
+- Equity: $98,670.01 | Cash: $79,388.61 (80.4%) | BP: $178,058.62 | Daytrade count: 0
+- Last equity (May 29 close): $98,527.21 -> overnight/intraday Day P&L +$142.80 (+0.14%); position market value $19,281.40 (~19.5% deployed, single name)
+- Position: XLE 340 @ $58.46 (now $56.71, -$595.05 / -2.99%, intraday +0.75% from $56.29 lastday)
+- Open orders: 1 trailing stop live -- XLE $55.53 (hwm $61.70, ~2.1% buffer; manual -7% cut $54.37 ~4.1% buffer)
+- Weekly new-trade count: RESET 0/3 (new week). Phase P&L: -$1,329.99 (-1.33%) from $100k baseline -- one realized loss (XOM -$734.91 on May 27).
+
+### Market Context
+- **WTI ~$89.75** (Mon overnight: open $91.34, high $92.66, low $89.02 -- choppy bounce after Fri ~$88 lows). **Brent ~$92.66**. WTI off the lows, but still well below the pre-Hormuz-unwind $98 base. Forecasts cite $100 pivot / $85 major support.
+- **S&P futures: ESM26 ~7,577-7,600** (-0.07% to +0.20% range premarket); cash SPX in record zone ~7,520-7,585. Goldman raised year-end target to 8,000 from 7,600.
+- **VIX: 15.92** (low/complacent); SPX RSI 73.6 = overbought but momentum strong.
+- **Today's catalysts (Mon)**: **ISM Manufacturing PMI 10:00 ET** (cons 53.1 / prior 52.7); **ISM Mfg Employment subindex** = first labor-market datapoint of the week; **Construction Spending** 10:00 ET.
+- **This week's macro stack**: Tue JOLTS; Wed ADP + ISM Services; Thu Initial Claims; **Fri NFP** (cons 95K, UR 4.3%) = primary risk event.
+- **Today's earnings BMO**: HPE, CRDO. AMC this week: PANW, DG, ULTA; AVGO later.
+- **Sector momentum YTD 2026**: Energy still #1 (+22-26% YTD per Investing/First Trust, leadership cracking on Hormuz unwind), Industrials #2 (+9.6%), Materials #3 (+9.7%) -- both in "Leading" quadrant. MTUM (momentum factor) +20% YTD vs SPX +8%.
+- **Single-name leaders / breakouts**: **DELL +32.8% Fri 5/29 on earnings blow-out** (AI compute demand, pre-market highs $446, targets $460-475) = cleanest BMO breakout of the week. **MPC, CHRD, LYB, BTSG, PBI** = Zacks 12/4/1-week RS-beats-SPX list (MPC/CHRD are energy = skip per energy thesis crack). **SANM, ALH, HRB** = Zacks Rank #1 growth. **SNDK +172% YTD**, **TPL +75%**, **MRNA +68%**, **GNRC +64%**, **RXT/INOD** = AI infra extreme movers.
+
+### Held-ticker News
+- **XLE** $56.71 (intraday +0.75%; -2.99% from $58.46 entry; -8.1% from May 20 hwm $61.70). WTI's overnight bounce (off Fri ~$88 lows, intraday peak $92.66) provides modest support. Daily range narrowing ($56.50-$57.50 last three sessions) suggests stabilization / base-building. Trail $55.53 = ~2.1% buffer; manual -7% cut $54.37 = ~4.1% buffer. Both tightest of the campaign but intact. Friday weekly-review pattern: 2-for-1 split referenced (housekeeping). XOM (22.4%) and CVX (16.5%) drive 39% of XLE -- both leaking with WTI but stabilizing this AM.
+
+### Trade Ideas
+1. **DEPLOY XLB (Materials Select SPDR)** -- Sector #3 YTD (+9.7%), Schwab "More Favored", sticky-inflation + reshoring hedge, "Leading" quadrant. **Entry ~$84-86 at open**, size 200 shares (~$17K, ~17% deploy). **Stop**: 10% trail (~$76 at entry $84). **First tighten**: 7% trail at +15% (~$96). Target: 20%+ run = $101+.
+2. **DEPLOY XLI (Industrials Select SPDR)** -- Sector #2 YTD (+9.6%), Schwab "More Favored", AI/data-center/defense capex + reshoring. **Entry ~$145-148 at open**, size 130 shares (~$19K, ~19% deploy). **Stop**: 10% trail (~$130 at entry $145). **First tighten**: 7% at +15% (~$167). Target: $172+.
+3. **DEPLOY MTUM (iShares MSCI USA Momentum)** -- Factor ETF +20% YTD vs SPX +8% = real alpha vehicle (not index-proxy). Diversified across hot momentum names. **Entry ~$260 at open**, size 75 shares (~$19.5K, ~20% deploy). **Stop**: 10% trail (~$234). **First tighten**: 7% at +15% (~$299). Target: $310+.
+4. **DEPLOY DELL** (Dell Technologies) -- Single-name AI capex leader, +32.8% Fri 5/29 on blow-out earnings, gap-and-go pattern, pre-market highs ~$446, analyst targets $460-475. High-beta -> 12% trail allowance. **Entry ~$435-445 area at open** (post-gap; let first 15-30 min set; avoid chasing if it rips +5% from premarket). Size 25 shares (~$11K, ~11% deploy starter). **Stop**: 12% trail (~$382 at $435 entry). **First tighten**: 7% at +15% (~$500). Target: $475+ near-term, $520+ extended.
+5. **WATCHLIST single-names (Tue-Wed scout)**: **SANM** (Zacks Rank #1, EMS for AI servers), **LYB** (RS leader, Materials), **GNRC** (+64% YTD, AI/power/data-center generator), **SNDK** (+172% YTD, AI memory cycle), **TPL** (+75% YTD, land/royalty -- NOT energy single-name, mineral rights). Add a 5th name Tue-Wed only if XLB/XLI/MTUM/DELL fills hold green AND a fresh setup confirms.
+
+### Risk Factors
+- **ISM Mfg PMI 10:00 ET binary**: Hot print (>53.5) = yields up, growth/cyclical bid, supportive of XLB/XLI/DELL. Cool print (<52) = growth-scare, defensives rotate in, MTUM/DELL stumble. Recommendation: place market-orders at the 09:30 ET open BEFORE the 10:00 ET print -- the campaign needs deployment, not data-anticipation hedging.
+- **NFP Friday is the primary week-risk event**: 95K cons / 4.3% UR; hot = yields up multiple compression; very cool = growth scare. By Wed should be ~85% deployed, then NFP risk is sized into existing positions, not added.
+- **XLE thin buffers persist** (~2.1% trail). WTI bounce overnight is positive but unconfirmed by equity tape. If XLE breaches $54.37 intraday today -> manual cut without hesitation = failed energy trade #2 -> sector exit. New XLB/XLI/MTUM/DELL adds proceed independently of XLE outcome.
+- **DELL post-earnings gap risk**: +32.8% one-day is extreme; profit-taking typical days 2-3 post-print. Use starter size (25 sh), set 12% trail to allow noise, plan to add on a breakout-continuation pattern (close > Fri high) not on a chase from the open.
+- **VIX 15.92 + SPX RSI 73.6**: low-vol overbought condition = elevated odds of a 2-4% pullback near-term. Trails are armed for this; don't pre-empt.
+- **Sector concentration check**: post-deploy book = XLE 19% (Energy) + XLB 17% (Materials) + XLI 19% (Industrials) + MTUM 20% (multi-sector) + DELL 11% (Tech) = ~87% deployed, all under 30% sector cap. Cash falls from 80% to ~13%, **clearing the rule violation**.
+- **Single-name DELL exposure to AI capex**: highly correlated to NVDA, AVGO (Thu AMC). If AVGO disappoints AMC Thu, DELL gaps with it. Acceptable given starter size + 12% trail.
+
+### Decision
+**DEPLOY at the open**: XLB (200 sh ~$17K) + XLI (130 sh ~$19K) + MTUM (75 sh ~$19.5K) + DELL (25 sh ~$11K) = ~$66.5K total -> lifts deployment from 19.5% to **~87%**, clears the 85% floor cash-rule violation that has run since 5/27. **Place 10% trailing stop GTC** on XLB/XLI/MTUM and **12% trailing stop GTC** on DELL (high-beta) immediately after fills. **Hold XLE** (above trail and manual cut; intraday +0.75% with WTI bouncing); rulebook = let armed exits work, never move down, don't pre-empt.
+
+Weekly slot use: **4 of 6 new trades on Mon** (XLB, XLI, MTUM, DELL); 2 weekly slots reserved Tue-Fri for single-name leader add (SANM/LYB/GNRC/SNDK/TPL watchlist) if setup confirms. XLE 2nd-strike risk handled by existing armed stop = no manual intervention required.
+
+**Day plan**:
+- 09:30 ET: Place 4 market orders at the open (XLB / XLI / MTUM / DELL); confirm fills; place 4 trailing stops.
+- 10:00 ET: ISM Mfg PMI -- if hot, hold; if cool, monitor for accelerated XLE rolldown toward $54.37 (then manual cut without hesitation).
+- Midday: re-confirm deployment %, all 5 stops armed, XLE status.
+- EOD: log entries to TRADE-LOG, snapshot in midday log.
+- Tue-Wed: scout single-name 5th leader if any new pos goes green +5%+ and a fresh catalyst confirms.
+
+Patience phase done; DEPLOY phase live. Idle cash > 15% beyond today = unjustifiable.
+

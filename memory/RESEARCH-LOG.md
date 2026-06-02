@@ -983,3 +983,41 @@ Weekly slot use: **4 of 6 new trades on Mon** (XLB, XLI, MTUM, DELL); 2 weekly s
 
 Patience phase done; DEPLOY phase live. Idle cash > 15% beyond today = unjustifiable.
 
+## 2026-06-02 -- Market-Open Inline Research (Day 24, Tue; JOLTS 10:00 ET; 5-position book confirmation day)
+
+### Account (live, 09:40 ET intraday)
+- Equity: $99,942.96 | Cash: $11,979.70 (12.0%) | BP: $111,922.66 | Daytrade count: 0
+- Last equity (Jun 01 close): $99,374.61 -> intraday Day P&L +$568.35 (+0.57%); position market value $87,963.26 (~88.0% deployed across 5 names)
+- Positions: XLE 340 ($57.61, -1.46%), XLB 198 ($51.31, +1.86%), XLI 130 ($174.23, +1.49%), MTUM 75 ($321.93, +2.01%), DELL 25 ($456.83, -0.02% intraday -1.96%)
+- Open orders: 5 trailing stops live -- DELL $413.13 (hwm $469.47, 12% trail), MTUM $289.76 (hwm $321.96), XLB $46.20 (hwm $51.33), XLE $55.53 (hwm $61.70), XLI $156.81 (hwm $174.23). All ratcheted overnight on fresh hwm prints (except XLE, no new hwm since May 19).
+- Weekly new-trade count: 4/6 used (XLB/XLI/MTUM/DELL Mon). 2 slots available Tue-Fri.
+
+### Market Context
+- WTI: ~$89-90 area (Mon close ~$89.75); base-building post-Hormuz-unwind. Brent ~$92-93.
+- S&P futures: cash SPX recovered to record-zone ~7,600 area; ISM Mfg PMI Mon was constructive (no growth-scare).
+- VIX: low-16s area (still complacent regime).
+- Today's catalysts: **JOLTS (April) 10:00 ET** = first labor data of week (NFP Fri = primary risk). Light tape otherwise. AMC: PANW.
+- Sector momentum: leadership broadening -- Industrials/Materials/Momentum factor confirmed by yesterday's price action; energy stabilizing but not leading.
+
+### Held-ticker Quick Check
+- **MTUM** $321.93 (+2.01%, hwm $321.96) -- leading the new book, ratcheted stop $289.76.
+- **XLB** $51.31 (+1.86%, hwm $51.33) -- breaking out, ratcheted stop $46.20.
+- **XLI** $174.23 (+1.49%, hwm $174.23) -- new hwm at the open, ratcheted stop $156.81.
+- **DELL** $456.83 (intraday -1.96%) -- post-earnings cool-down day-2, holding above 12% trail $413.13 with massive buffer (~10.5%). Normal profit-taking.
+- **XLE** $57.61 (-1.46% basis, +0.53% intraday) -- still red vs entry but bouncing with WTI. Trail $55.53 = 3.6% buffer; manual cut $54.37 = 5.6%. No fresh hwm since May 19.
+
+### Trade Ideas
+1. **HOLD all 5 positions.** Stops armed and ratcheting; 4 of 5 names green; no -7% manual cut triggered; no +15% trail-tighten triggered.
+2. **NO NEW TRADES today.** Three reasons: (a) **Deployment 88.0% already clears the 85% floor** -- no rule violation pressure; (b) **Cash $11,980 (12.0%)** only funds a thin starter (~12% max position size) which is sub-conviction; (c) **No fresh single-name catalyst documented** for today's tape -- yesterday's watchlist (SANM/LYB/GNRC/SNDK/TPL) needs intraday confirmation, not a pre-open chase.
+3. **Tue-Wed scout: single-name 5th leader** -- only if (a) one of the new positions extends +5%+, freeing conviction signal, AND (b) a fresh catalyst confirms (earnings beat, breakout-and-hold, sector rotation tag). Per yesterday's plan: SANM (EMS/AI servers), LYB (Materials RS), GNRC (AI power/data-center), SNDK (AI memory), TPL (royalty -- non-energy). NOT today without confirmation.
+4. **No trims.** None of the 5 positions hit +15% trail-tighten (best is MTUM +2.0%); none breach -7% manual cut (worst is XLE -1.46%).
+
+### Risk Factors
+- **JOLTS 10:00 ET**: any cool labor print (<7M openings) starts the NFP-Fri growth-scare narrative; tape could chop. Stops handle.
+- **DELL day-2 post-earnings**: -1.96% intraday is normal cool-down after Fri +32.8%; but 12% trail = $413 = ~10% below current, plenty of room.
+- **XLE thin buffers persist** (3.6% trail, 5.6% manual cut). Failed energy trade #2 still possible -- 2nd strike = sector exit. New non-energy positions independent.
+- **Cash 12.0%** is the floor-skirting range -- no add capacity without trimming. Trims pre-mature on day-2 winners.
+
+### Decision
+**HOLD. NO TRADES.** All 5 positions working with armed trails; deployment 88% clears rule violation; cash too tight for conviction add; no fresh catalyst today. Day plan: monitor JOLTS 10:00 ET (no entry trigger -- just risk read); midday confirm stops still armed and no -7% manual cut triggered; EOD log snapshot. Tue-Wed: scout single-name 5th leader only on confirmed setup. Weekly slots 4/6 used, 2 reserved. Patience > activity.
+

@@ -238,3 +238,18 @@ Cost basis deployed: $39,792 (~39.8% of $100k equity). Cash ~$60,208. Weekly tra
 | 2026-06-01 | DELL | BUY | 25 | $457.95 | $404.33 (12% trail, hwm $459.47) | Single-name AI capex leader; +32.8% Fri 5/29 on blow-out earnings; gap-and-go breakout; analyst targets $460-475 | $526.64 (+15%) | 2.5:1 |
 
 New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment ~$87,283 / $98,784 = **88.4%** -- clears the 85% floor cash-rule violation that ran since 5/27. Cash falls from $79,388 (80.4%) to ~$11,981 (~12.1%). Sector mix: XLE 19.6% Energy, XLB 10.1% Materials, XLI 22.6% Industrials, MTUM 23.96% multi-sector, DELL 11.6% Tech -- all under 25% per-position cap and 30% per-sector cap. Weekly new-trade count: 4/6 used (2 slots reserved Tue-Fri for SANM/LYB/GNRC/SNDK/TPL watchlist if setup confirms). XLE position untouched -- existing $55.53 trail handles downside; never moved a stop down.
+
+### Jun 01 -- EOD Snapshot (Day 23, Monday)
+**Portfolio:** $99,388.01 | **Cash:** $11,979.70 (12.1%) | **Day P&L:** +$853.56 (+0.87%) | **Phase P&L:** -$611.99 (-0.61%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| DELL | 25 | $457.95 | $466.00 | +1.76%* | +$201.25 (+1.76%) | $413.13 (12% trail, hwm $469.47) |
+| MTUM | 75 | $315.5848 | $316.93 | +0.43%* | +$100.89 (+0.43%) | $286.76 (10% trail, hwm $318.62) |
+| XLB | 198 | $50.3747 | $50.92 | +1.08%* | +$107.96 (+1.08%) | $45.95 (10% trail, hwm $51.05) |
+| XLE | 340 | $58.46 | $57.3381 | +1.86% | -$381.50 (-1.92%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $172.40 | +0.42%* | +$94.34 (+0.42%) | $155.57 (10% trail, hwm $172.86) |
+
+*New entry today -- day change measured entry-to-close.
+
+**Notes:** Deployment day. Four buys at the open (XLB/XLI/MTUM/DELL) lifted deployment from 19.4% to 87.9%, clearing the 85% floor cash-rule violation that had run since 5/27 XOM stop-out. All four new positions closed green entry-to-close: DELL led (+1.76%, +$201), XLB +1.08%, MTUM +0.43%, XLI +0.42%. XLE finally bounced after Fri's drift (+1.86% to $57.3381, unrealized -1.92% vs $58.46 entry, still 3.5% above $54.37 manual cut). Day P&L +$854 (+0.87%) -- best day since May 18; phase trims from Fri -$1,466 low to -$612 (-0.61%). All trailing stops auto-ratcheted intraday as new highs printed: DELL $404.33->$413.13 (hwm $469.47), MTUM $284.11->$286.76 (hwm $318.62), XLB $45.39->$45.95 (hwm $51.05), XLI $154.61->$155.57 (hwm $172.86). XLE stop unchanged at $55.53 (hwm $61.70 since May 19). Sector mix: Energy 19.6%, Materials 10.1%, Industrials 22.6%, Multi-sector momentum 23.9%, Tech 11.7% -- all under per-position 25% cap. Weekly count 4/6, 2 slots open Tue-Fri. Tomorrow: pre-market read on tape continuation -- if breakout extends, hold and let trails ratchet; if any name reverses to stop, let it trigger automatically; XLE needs to reclaim $58.46 entry for thesis confirmation, otherwise watch $54.37 cut closely; scout SANM/LYB/GNRC/SNDK/TPL for a 5th entry only if setup confirms with conviction -- no forced trades.

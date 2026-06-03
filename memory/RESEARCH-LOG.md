@@ -1063,3 +1063,67 @@ Weekly slot use: 4/6 used; 2 reserved Tue-Fri. XLE 2nd-strike risk handled by ex
 - **Action: NONE.** All trails auto-ratcheted on MTUM/XLB/XLI; DELL/XLE stops unchanged (no new hwm). No closes, no replacements, no new entries.
 - **PM watch**: DELL bounce attempt vs continuation lower toward $425.89 cut; AVGO AMC Thu remains the binary; XLE WTI tape into close. 5th-entry scout deferred -- DELL volatility consumes the attention budget; revisit on Wed post-ADP/ISM only if a watchlist name breaks out AND a portfolio winner confirms.
 
+
+## 2026-06-03 -- Pre-market Research (Wednesday / ADP 8:15 ET + ISM Services 10:00 ET / AVGO AMC Thu / Day 3 post-deploy)
+
+### Account (live, balance_asof 2026-06-02)
+- Equity: $100,279.54 | Cash: $11,979.70 (12.0%) | BP: $112,259.24 | Daytrade count: 0
+- Last equity (Jun 02 close): $99,831.71 -> overnight Day P&L +$447.83 (+0.45%); position market value $88,299.84 (~88.1% deployed, 5 positions)
+- Positions:
+  - DELL 25 @ $457.95 -> $438.00 (-$499 / -4.36%, intraday +0.62%)
+  - MTUM 75 @ $315.5848 -> $328.58 (+$975 / +4.12%, intraday +0.78%, **new hwm zone**)
+  - XLB 198 @ $50.3747 -> $51.50 (+$223 / +2.23%, intraday -0.04%)
+  - XLE 340 @ $58.46 -> $58.42 (-$13 / -0.07%, intraday +0.80%, **near entry**)
+  - XLI 130 @ $171.67 -> $174.20 (+$329 / +1.47%, intraday +0.01%)
+- Open orders: 5 trailing stops live (all GTC, sell_to_close):
+  - DELL $413.13 (12% trail, hwm $469.47)
+  - MTUM $293.72 (10% trail, hwm $326.35) -- will re-ratchet if 328.58+ holds
+  - XLB $46.50 (10% trail, hwm $51.665)
+  - XLE $55.53 (10% trail, hwm $61.70)
+  - XLI $157.05 (10% trail, hwm $174.50)
+- Weekly new-trade count: 4/6 (Mon deploy); 2 slots Wed-Fri. Phase P&L: +$279.54 (+0.28%) from $100k baseline -- **first green close on the campaign post-XOM stop-out**.
+
+### Market Context
+- **WTI ~$95-96** / **Brent ~$103** -- substantial recovery from late-May $88 lows; supply premium re-pricing on geopolitical re-tightening per cited reports. Bullish read-through for XLE.
+- **S&P futures: ESM26 ~7,595-7,624** settlement; flat-to-modestly-green premarket. Cash SPX still in record zone.
+- **VIX: ~17 spot / 17.84 Jun futures** -- low/complacent.
+- **Today's catalysts**: **ADP National Employment 8:15 ET** (cons 117K / prior 109K / TE forecast 75K) -- pre-NFP read-through; **ISM Services PMI 10:00 ET**.
+- **Today's earnings**: BMO -- light (CPB, HRL, DLTR); AMC -- HPE, CRWD, FIVE, PVH. **AVGO AMC Thursday** = primary AI-capex read-through for DELL/MTUM.
+- **This week's macro stack**: Wed ADP + ISM Services; Thu Initial Claims + AVGO AMC; **Fri NFP** (cons 95K, UR 4.3%) = primary risk event.
+- **Sector momentum YTD 2026**: Energy #1 (+22-26%, base WTI $95+ re-firming the thesis), Industrials #2 (+9.6%), Materials #3 (+9.7%) -- both "Leading". MTUM +20% YTD vs SPX +8%. Tech lagging at sector level but DELL the single-name exception.
+
+### Held-ticker News
+- **DELL** $438.00 (-4.36% from entry $457.95; trail $413.13 = 5.7% buffer; manual -7% cut $425.89 = 2.8% buffer). Tue UBS downgrade Buy->Neutral citing valuation after near-doubling YTD; **NOT** a fundamentals crack (FQ4: rev +39% to $33.4B, AI-optimized server rev +342%, $64B AI orders, FY27 guide $138-142B +23% YoY). **AVGO AMC Thu** = next direct AI-capex catalyst. 2.8% manual-cut buffer is the thinnest position in the book.
+- **MTUM** $328.58 (+4.12%; fresh hwm zone -- when stop file updates, trail ratchets $293.72 -> ~$295.72). Momentum factor delivering alpha as designed; broad multi-sector exposure cushions any single-sector wobble.
+- **XLB** $51.50 (+2.23%; intraday flat). Materials thesis intact -- "Leading" quadrant, reshoring/AI-infra hedge.
+- **XLE** $58.42 (-0.07%; effectively at entry). WTI bounce from $88 to $95-96 is a meaningful thesis revalidation. Stop $55.53 = 4.9% buffer; hwm $61.70 since May 19 -- needs reclaim for fresh ratchet. **XLE may have just dodged failed-energy-trade #2** if this WTI bid sustains.
+- **XLI** $174.20 (+1.47%; near hwm $174.50). Industrials AI/data-center/defense capex tailwind intact.
+
+### Trade Ideas
+1. **HOLD all 5 positions through ADP/ISM and into AVGO AMC Thu**. Day 3 post-deploy; book is positioned, trails armed. ADP+ISM at 8:15/10:00 ET = binary window; new entries pre-data = poor sequencing.
+2. **No new energy adds, ever** (single-strike rule on XLE).
+3. **5th-entry scout (post-ISM Wed or Thu)**: Watchlist remains **SANM** (Zacks #1, EMS for AI servers), **LYB** (Materials RS), **GNRC** (+64% YTD, AI/power/data-center generator), **SNDK** (+172% YTD, AI memory), **TPL** (+75% YTD, land/royalty). Triggers: (a) breakout-continuation on a candidate, (b) AVGO AMC Thu confirms AI-capex risk-on, (c) cash sized starter ~$5-8K with 10-12% trail.
+4. **DELL HOLD discipline**: -4.36% from entry, above -7% manual cut by 2.8%, above 12% trail by 5.7%. UBS downgrade is sentiment not fundamentals. AVGO Thu is the real binary -- let trail work, don't pre-trim.
+5. **XLE re-evaluation if WTI holds $95+**: thesis intact, hwm $61.70 still 5.6% away. Hold and let trail ratchet on any new high.
+
+### Risk Factors
+- **ADP 8:15 ET binary**: Hot (>120K) = yields up, growth multiple compression risk on MTUM/DELL. Cool (<70K) = growth-scare = defensives rotate in. Recommendation: hold; no entries first 30 min post-print.
+- **ISM Services 10:00 ET binary**: Strong services (>54) = consumer/AI/momentum supportive; weak (<52) = growth scare for cyclicals (XLI/XLB). Existing book sized for either.
+- **AVGO AMC Thursday = primary AI-capex risk event** (DELL/MTUM materially exposed). 12% trail on DELL handles noise; MTUM diversification cushions.
+- **NFP Friday is primary week-risk event**: 95K cons / 4.3% UR. Book is sized into NFP, not adding pre-print.
+- **DELL thinnest buffer in book** (2.8% to manual cut, 5.7% to trail). Watch closely intraday; if it breaks $425.89, manual cut without hesitation.
+- **VIX 17 + SPX record zone**: low-vol overbought = elevated odds of 2-4% pullback. Trails armed for this.
+- **Sector concentration**: post-deploy book = XLE 19.8% (Energy) + XLB 10.2% (Materials) + XLI 22.6% (Industrials) + MTUM 24.6% (multi-sector) + DELL 10.9% (Tech) = **88.1% deployed, all under 25% per-position and 30% per-sector caps**. Compliant.
+
+### Decision
+**HOLD all 5 positions today; no new entries pre-data; scout 5th leader only post-ISM if a watchlist name breaks out AND AVGO Thu tape sets up risk-on.** Day 3 of deploy phase -- the book is positioned, trails are working, phase P&L just flipped positive overnight (+$280). Cash floor satisfied at 12% (well under 15% threshold). The work is monitoring, not adding.
+
+**Day plan**:
+- 08:15 ET: **ADP print** -- HOLD through it; no trades first 30 min post-print.
+- 09:30 ET: Open -- monitor DELL ($425.89 manual cut watch), MTUM hwm advance, XLE bounce continuation.
+- 10:00 ET: **ISM Services PMI** -- HOLD through it; no entries first 30 min post-print.
+- Midday: re-confirm all 5 stops armed at new hwm; check XLE vs hwm $61.70 (5.6% away); check DELL vs $425.89 cut; identify any watchlist breakouts.
+- Afternoon: if a watchlist name confirms breakout-continuation + portfolio winner extending green, place 1 starter buy (~$5-8K, 10-12% trail GTC). Otherwise: HOLD.
+- EOD: TRADE-LOG snapshot; tee up Thu for Claims + AVGO AMC.
+
+Weekly slot use: 4/6 used; 2 reserved Wed-Fri. AVGO AMC Thu = the binary that decides whether to extend (Fri scout green light) or trim (Fri scout deferred).

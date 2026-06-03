@@ -1046,3 +1046,20 @@ Patience phase done; DEPLOY phase live. Idle cash > 15% beyond today = unjustifi
 
 Weekly slot use: 4/6 used; 2 reserved Tue-Fri. XLE 2nd-strike risk handled by existing armed stop = no manual intervention required unless $54.37 breached intraday.
 
+### Midday Addendum (2026-06-02 ~11:30 ET)
+- **Account**: Equity ~$87,745 mkt val + $11,980 cash = ~$99,725. Day P&L ~+$103 (small green); intraday whipsaw led by DELL reversal.
+- **Position snapshot vs pre-mkt**:
+  - DELL $440.83 (intraday -5.39%; flipped from +2.92% AM to -3.74% from entry). hwm $469.47 (unchanged), trail $413.13 = 6.3% buffer; manual -7% cut $425.89 = 3.4% buffer.
+  - MTUM $324.51 (+2.83% from entry; intraday +2.39%). **New hwm $325.04**, trail ratcheted $286.76 -> $292.54 = 9.9% buffer.
+  - XLB $51.30 (+1.84%; intraday +0.75%). **New hwm $51.665**, trail ratcheted $45.95 -> $46.50 = 9.4% buffer.
+  - XLE $57.975 (-0.83%; intraday +1.18%). Bounce -- back near entry. Stop unchanged $55.53 = 4.2% buffer.
+  - XLI $173.21 (+0.90%; intraday +0.47%). **New hwm $174.50**, trail ratcheted $155.57 -> $157.05 = 9.3% buffer.
+- **DELL catalyst (Perplexity check)**: UBS downgrade Buy -> Neutral citing +170% YoY rally / valuation; **NOT** an AI-demand or fundamental crack. Profit-taking + crowded-trade rotation off Fri +32.8% gap. Thesis (AI infra leader, record backlog, AVGO Thu AMC read-through) intact.
+- **Rule checks**:
+  - -7% manual cut: none triggered (worst is DELL -3.74%).
+  - +15%/+20% trail-tighten: none eligible (best is MTUM +2.83%).
+  - Thesis crack: DELL = no (analyst opinion, not fundamental); HOLD.
+  - 3% / move-down rules: no manual stop moves made.
+- **Action: NONE.** All trails auto-ratcheted on MTUM/XLB/XLI; DELL/XLE stops unchanged (no new hwm). No closes, no replacements, no new entries.
+- **PM watch**: DELL bounce attempt vs continuation lower toward $425.89 cut; AVGO AMC Thu remains the binary; XLE WTI tape into close. 5th-entry scout deferred -- DELL volatility consumes the attention budget; revisit on Wed post-ADP/ISM only if a watchlist name breaks out AND a portfolio winner confirms.
+

@@ -266,3 +266,22 @@ New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment
 | XLI | 130 | $171.67 | $174.19 | +1.04% | +$327.60 (+1.47%) | $157.05 (10% trail, hwm $174.50) |
 
 **Notes:** Split tape. MTUM led (+2.87% to $326.03, fresh hwm $326.35 -> trail ratcheted $286.76 to $293.72); XLI +1.04% to $174.19 (fresh hwm $174.50 -> trail $155.57 to $157.05); XLB +1.18% to $51.52 (fresh hwm $51.665 -> trail $45.95 to $46.50); XLE +1.14% to $57.99 (second straight green day, now within 0.81% of entry but no fresh hwm). DELL was the standout loser -- gapped/sold off -6.43% to $436 after Monday's +1.76% entry pop, unrealized flipped to -4.79% (-$549) from yesterday's +$201. DELL stop unchanged at $413.13 (5.3% below current, 12% trail, hwm $469.47 from intraday peak); 2.2% above the -7% manual cut at $425.90 -- worth flagging, not breaching. Day P&L +$507 (+0.51%); phase trims from -$612 to -$105 (-0.11%) -- nearly flat for the campaign. Deployment 88.0%, well clear of 85% floor. Three of four new positions extending; DELL fading the earnings gap. No trades, weekly count 4/6, 2 slots open Wed-Fri. Tomorrow: pre-market read on DELL -- if it breaks $425.90 (-7% from entry), manual cut without hesitation; if it stabilizes/bounces, hold and let 12% trail work to $413.13; MTUM/XLI/XLB extending = let trails ratchet; XLE needs to reclaim $58.46 entry for thesis confirmation; scout SANM/LYB/GNRC/SNDK/TPL only if a high-conviction setup confirms -- no forced trades.
+
+## 2026-06-03 -- Midday Scan (DELL STOPPED OUT)
+
+| Date | Ticker | Side | Shares | Entry | Exit | Realized P&L | Hold |
+|------|--------|------|--------|-------|------|--------------|------|
+| 2026-06-03 | DELL | SELL (trail stop) | 25 | $457.95 | $413.448 | -$1,112.55 (-9.72%) | Jun 01 -> Jun 03 |
+
+**Notes:** DELL trailing stop (GTC, $413.13, 12% trail, hwm $469.47) triggered ~09:47 ET, filled 25 @ $413.448 -- gapped ~$0.32 through the stop. Tue UBS Buy->Neutral sentiment downgrade + Tue -6.43% fade compressed buffer to 2.8% above the -7% manual cut overnight; AM pressure took it through both manual cut ($425.89) and trail in the first 30 min. Realized -$1,112.55 (-9.72%); 2-day hold. **Failed Tech trade #1** -- two consecutive failed Tech trades = sector exit per rulebook; Tech currently has zero exposure, watchlist Tech names (SNDK, SANM) gated to one more strike. No manual cuts on other positions; MTUM/XLB/XLE/XLI all green, none at +15% so no trail-tightening. Trails auto-ratcheted intraday on fresh hwm: MTUM $293.72 -> $298.34 (hwm $326.35 -> $331.49), XLB $46.50 -> $46.82 (hwm $51.665 -> $52.025), XLI $157.05 -> $158.49 (hwm $174.50 -> $176.103); XLE $55.53 unchanged (hwm $61.70 since May 19).
+
+**Account post-fill (~midday):** Equity $100,088.35 | Cash $22,315.90 (22.3%) | Day P&L +$256.64 (+0.26%) | Phase P&L +$88.35 (+0.09%).
+
+| Ticker | Shares | Entry | Now | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------------|------|
+| MTUM | 75 | $315.5848 | $329.12 | +$1,015.14 (+4.29%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | 198 | $50.3747 | $51.75 | +$272.30 (+2.73%) | $46.82 (10% trail, hwm $52.025) |
+| XLE | 340 | $58.46 | $59.19 | +$246.65 (+1.24%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $174.77 | +$403.00 (+1.81%) | $158.49 (10% trail, hwm $176.103) |
+
+**Decision:** No new entries midday. Cash 22.3% breaches 15% floor as of today's stop-out; rule = mandatory deploy on NEXT session (Thu) if still > 15%. AVGO AMC Thursday is the binary AI-capex catalyst -- preserve dry powder until post-print, then scout from SANM/LYB/GNRC/SNDK/TPL watchlist for a high-conviction breakout. Weekly count stays 4/6 (exit not new entry). Risk reduced: tech-single-name buffer gone; remaining book is 3 sector ETFs + multi-sector momentum factor = lower idiosyncratic risk, all stops ratcheting on fresh hwm. EOD: full snapshot.

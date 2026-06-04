@@ -1127,3 +1127,61 @@ Weekly slot use: 4/6 used; 2 reserved Tue-Fri. XLE 2nd-strike risk handled by ex
 - EOD: TRADE-LOG snapshot; tee up Thu for Claims + AVGO AMC.
 
 Weekly slot use: 4/6 used; 2 reserved Wed-Fri. AVGO AMC Thu = the binary that decides whether to extend (Fri scout green light) or trim (Fri scout deferred).
+
+## 2026-06-04 -- Market-Open Inline Research (Thursday / Initial Claims 8:30 ET / AVGO AMC tonight / mandatory deploy)
+
+### Account (live, balance_asof 2026-06-03)
+- Equity: $99,282.56 | Cash: $22,315.88 (22.5%) | BP: $243,196.88 | Daytrade count: 0
+- Last equity (Jun 03 close): $99,839.02 -> overnight Day P&L -$556 / -0.56% pre-open print; position market value $76,966.68 (~77.5% deployed, 4 positions post-DELL stop)
+- Positions:
+  - MTUM 75 @ $315.5848 -> $320.81 (+$391.89 / +1.66%, intraday -2.64%)
+  - XLB 198 @ $50.3747 -> $52.015 (+$324.77 / +3.26%, intraday +0.75%)
+  - XLE 340 @ $58.46 -> $58.47 (+$3.35 / +0.02%, intraday -0.41%)
+  - XLI 130 @ $171.67 -> $174.845 (+$412.75 / +1.85%, intraday +0.46%)
+- Open orders: 4 trailing stops live (GTC, sell_to_close):
+  - MTUM $298.34 (10% trail, hwm $331.49)
+  - XLB $46.82 (10% trail, hwm $52.025)
+  - XLE $55.53 (10% trail, hwm $61.70)
+  - XLI $158.49 (10% trail, hwm $176.103)
+- Weekly new-trade count: 4/6 used (Mon deploy XLB/XLI/MTUM/DELL; DELL stop-out not a new entry). 2 slots Thu-Fri.
+- **Cash floor breach**: cash 22.5% > 15% since Jun 03 DELL stop-out. Rule = mandatory deploy THIS session (Thu, next session after breach).
+
+### Market Context
+- **Initial Jobless Claims 8:30 ET** (pre-NFP read-through; NFP Fri).
+- **AVGO AMC TONIGHT** = THE binary AI-capex catalyst for the week (DELL stopped already; MTUM holds NVDA/AVGO/AAPL = AI exposure intact via factor).
+- S&P futures: pre-mkt soft after Wed's record-zone close; XLK -2.8% pre-mkt ($196.23 -> $190.82) = pre-AVGO de-risk in Tech.
+- WTI: holding $95-96 area; Brent ~$103. XLE thesis intact.
+- VIX: low-17 spot; complacent into binary.
+- Sector momentum YTD: Energy #1 (+22-26%), Industrials #2 (+9.6%), Materials #3 (+9.7%) -- our 3 sector ETFs cover all three leaders. MTUM (factor) +20% YTD covers AI/tech beta. Tech sector lagging post-DELL.
+
+### Watchlist Re-assessment (yesterday's gated names)
+- **SANM** ($282->$274 pre-mkt, -2.9%): EMS for AI servers, direct AVGO read-through, pulling back pre-print = catching knife into binary. GATED.
+- **LYB** ($73->$67 over 2 weeks, basing low-$67s): -RS downtrend, FAILS entry checklist (rule: hunt +RS leaders). GATED.
+- **GNRC** ($285->$278 pre-mkt): Industrials (Electrical Equipment GICS). Adding pushes Industrials XLI+GNRC = ~31% sector = **BREACHES 30% sector cap**. GATED.
+- **SNDK** ($1831->$1800 pre-mkt): AI memory, direct AVGO correlate, pre-print de-risk. Tech sector still on 1-strike from DELL fail. GATED.
+- **TPL** ($400->$371 over 2 weeks): -RS downtrend AND Energy adjacency (XOM stop + XLE under-water = energy on second-strike risk). GATED.
+
+### Trade Decision
+**TOP-UP XLB +165 shares ~$52.04 = ~$8,587 deploy.** Rationale:
+1. Cash-floor rule (mandatory deploy this session, loophole removed).
+2. Watchlist single names all gated by sector strikes, sector caps, or -RS.
+3. XLB is sector #3 YTD leader, existing position +3.26% with fresh hwm yesterday, no AVGO correlation, breakout-continuation thesis intact.
+4. Strategy allows ETFs as "fast deployment vehicle" (rule 6) -- not the core, but here serves the floor.
+5. Compliance: position cost $9,974 + $8,587 = $18,561 = 18.7% < 20% per-position cap; Materials sector 19.3% < 30% cap; positions stay at 4; weekly count 4/6 -> 5/6 (1 slot reserved Fri post-AVGO).
+6. 10% trailing stop GTC on new 165 shares (existing 198-share trail at $46.82 stays untouched per "never move stop down").
+
+### Risk Factors
+- **AVGO AMC tonight = primary risk**. MTUM holds AVGO/NVDA = factor exposure to gap; trail $298.34 = 7.0% buffer below $320.81 handles a normal post-print fade. Disaster-print (-15%+ correlated AI selloff) = MTUM trail catches; XLB/XLE/XLI uncorrelated, cushion the book.
+- Initial Claims 8:30 ET: hot print (>250K) = growth scare hits cyclicals (XLI/XLE); cool print = bid for risk.
+- XLE flat at entry -- thesis still in proving phase. Stop $55.53 = 5.0% buffer.
+- Weekly count after this trade: 5/6. Friday post-AVGO scout has 1 slot only.
+
+### Day Plan
+- Open: BUY 165 XLB market day. Wait for fill. Place 10% trail GTC on new 165.
+- Through 8:30 ET (claims): trails handle downside.
+- Midday: re-confirm all stops armed at new hwm. Monitor MTUM into AVGO close. XLE bounce continuation.
+- AVGO AMC (post-close): no action (after-hours). Friday open = read tape, decide on last weekly slot (SANM/SNDK if AVGO good; cash if disaster).
+- EOD: TRADE-LOG snapshot.
+
+### Decision
+**TRADE. 1 buy: XLB top-up 165 @ market.** Cash-floor rule satisfied. Book remains 4 positions (top-up), 5/6 weekly slots used.

@@ -285,3 +285,26 @@ New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment
 | XLI | 130 | $171.67 | $174.77 | +$403.00 (+1.81%) | $158.49 (10% trail, hwm $176.103) |
 
 **Decision:** No new entries midday. Cash 22.3% breaches 15% floor as of today's stop-out; rule = mandatory deploy on NEXT session (Thu) if still > 15%. AVGO AMC Thursday is the binary AI-capex catalyst -- preserve dry powder until post-print, then scout from SANM/LYB/GNRC/SNDK/TPL watchlist for a high-conviction breakout. Weekly count stays 4/6 (exit not new entry). Risk reduced: tech-single-name buffer gone; remaining book is 3 sector ETFs + multi-sector momentum factor = lower idiosyncratic risk, all stops ratcheting on fresh hwm. EOD: full snapshot.
+
+## 2026-06-04 -- Market-Open Trade (XLB top-up; cash-floor mandatory deploy)
+
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-06-04 | XLB | BUY (top-up) | 165 | $52.15 | $46.9485 (10% trail, hwm $52.165) | Materials sector #3 YTD (+9.7%) leader; existing 198-share position +3.26% with fresh hwm; non-AI / no AVGO correlation; satisfies cash-floor mandatory-deploy rule | $59.97 (+15%) | ~2.5:1 |
+
+**Why XLB top-up vs single name:** All 5 watchlist candidates GATED today -- SANM/SNDK = direct AVGO read-through + Tech on 1-strike post-DELL; GNRC = breaches 30% Industrials sector cap when added to XLI; LYB/TPL = -RS downtrends (fail entry checklist). Strategy doc rule 6 allows ETFs as "fast deployment vehicle" -- this serves the 15% cash floor rule (loophole removed) without forcing a knife-catch ahead of AVGO AMC tonight.
+
+**Compliance:** XLB position cost basis $9,974 + $8,604.75 = $18,579 = 18.7% of $99,283 equity (under 20% per-position cap). Materials sector exposure 19.3% (under 30% sector cap). Total positions stays at 4 (top-up). Weekly count 4/6 -> 5/6 (1 slot reserved Fri post-AVGO).
+
+**Stops:** Existing 198-share XLB trail @ $46.82 (hwm $52.025) UNCHANGED (never move down). NEW 165-share trail @ $46.9485 (hwm $52.165) placed separately GTC. Both protect 100% of 363-share position.
+
+**Account post-fill:** Equity ~$99,283 | Cash ~$13,711 (13.8%) | Deployment ~86.2% (clears 85% floor). Day P&L pre-open ~-$556 (-0.56%) per overnight mark.
+
+| Ticker | Shares | Avg Entry | Now | Unrealized P&L | Stop(s) |
+|--------|--------|-----------|-----|----------------|---------|
+| MTUM | 75 | $315.5848 | $320.81 | +$391.89 (+1.66%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | 363 | $51.18 | $52.015 | +$303.30 (+0.81%) | $46.82 (198 sh, hwm $52.025) + $46.95 (165 sh, hwm $52.165) |
+| XLE | 340 | $58.46 | $58.47 | +$3.35 (+0.02%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $174.845 | +$412.75 (+1.85%) | $158.49 (10% trail, hwm $176.103) |
+
+**Risks today:** AVGO AMC tonight = primary -- MTUM holds AVGO/NVDA = factor-exposed but $298.34 trail = 7.0% buffer below current. Initial Claims 8:30 ET = secondary. XLB top-up = uncorrelated to AVGO, cushions book if AI gaps down. Friday open = decide on last weekly slot (5/6 used now, 1 reserved).

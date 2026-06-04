@@ -284,4 +284,32 @@ New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment
 | XLE | 340 | $58.46 | $59.19 | +$246.65 (+1.24%) | $55.53 (10% trail, hwm $61.70) |
 | XLI | 130 | $171.67 | $174.77 | +$403.00 (+1.81%) | $158.49 (10% trail, hwm $176.103) |
 
+## 2026-06-04 -- Market-Open Trade (XLB ADD) + Midday Scan (HOLD)
+
+| Date | Ticker | Side | Shares | Entry (avg) | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------------|------|--------|--------|-----|
+| 2026-06-04 | XLB | BUY | 165 (add) | ~$52.16 | $46.98 (10% trail, hwm $52.1999) | Mandatory-deploy (cash > 15% floor 2nd session); double-down on existing Materials winner ("Leading" quadrant, sticky-inflation + reshoring); AVGO blowout = risk-on tape | $59.98 (+15%) | 2.5:1 |
+
+**Notes:** Market-open add of 165 XLB lifted XLB position 198 -> 363 shares; new avg cost $51.18168 (was $50.3747). Cost basis added ~$8,605; deployment 77.7% -> 86.3% (clears 85% floor compliance from Jun 03 stop-out). Diverged from pre-market LYB plan -- chose to concentrate on existing Materials winner ("Leading" quadrant + clean technical setup at new hwm $52.1999) rather than open a new single-name slot pre-NFP. Both XLB trail-stop orders armed at $46.97991 (10% trail, hwm $52.1999); covers all 363 shares. Sector mix: Materials now 18.8% of book (still well under 30% sector cap). Weekly count 5/6 (1 slot Fri reserved post-NFP).
+
+**Midday account:** Equity $99,789.48 | Cash $13,711.13 (13.7%) | Day P&L -$49.54 (-0.05%) | Phase P&L -$210.52 (-0.21%)
+
+| Ticker | Shares | Entry | Now | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------------|------|
+| MTUM | 75 | $315.5848 | $325.89 | +$772.89 (+3.27%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | 363 | $51.18168 | $51.70 | +$188.15 (+1.01%) | $46.98 (10% trail, hwm $52.1999) |
+| XLE | 340 | $58.46 | $58.935 | +$161.45 (+0.81%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $175.56 | +$505.70 (+2.27%) | $158.56 (10% trail, hwm $176.18) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none triggered (worst MTUM intraday -1.10%, unrealized still +3.27%).
+- +15%/+20% trail-tighten: none eligible (best MTUM +3.27%).
+- Thesis crack: none -- AVGO blowout AMC Jun 3 ($22.2B rev +48%, AI semi $10.8B +143%, FY27 AI >$100B) is direct tailwind for MTUM (momentum) and XLI (AI/data-center capex); WTI ~$95.50 with 3-day bid intact = XLE thesis revalidated; Materials/Industrials in "Leading" quadrant unchanged.
+- 3% / move-down rules: no manual stop moves made; existing trails ratcheting on fresh hwm as printed at Alpaca.
+- Sector concentration: Energy 20.1% / Materials 18.8% / Industrials 22.9% / Multi-sector momentum 24.5% / Tech 0% = compliant (all under 30% cap, all under 25% per-position).
+
+**Action: NONE.** No cuts, no tightens, no new entries. Morning XLB add already restored 85% floor compliance. Letting trails work into NFP Fri.
+
+**PM watch:** XLE bid continuation (WTI tape) vs hwm $61.70 (4.7% away); MTUM extension post-AVGO; XLI follow-through on AI-capex; pre-NFP positioning -- 1 weekly slot reserved Fri for post-NFP setup, not pre-print chase.
+
 **Decision:** No new entries midday. Cash 22.3% breaches 15% floor as of today's stop-out; rule = mandatory deploy on NEXT session (Thu) if still > 15%. AVGO AMC Thursday is the binary AI-capex catalyst -- preserve dry powder until post-print, then scout from SANM/LYB/GNRC/SNDK/TPL watchlist for a high-conviction breakout. Weekly count stays 4/6 (exit not new entry). Risk reduced: tech-single-name buffer gone; remaining book is 3 sector ETFs + multi-sector momentum factor = lower idiosyncratic risk, all stops ratcheting on fresh hwm. EOD: full snapshot.

@@ -1127,3 +1127,54 @@ Weekly slot use: 4/6 used; 2 reserved Tue-Fri. XLE 2nd-strike risk handled by ex
 - EOD: TRADE-LOG snapshot; tee up Thu for Claims + AVGO AMC.
 
 Weekly slot use: 4/6 used; 2 reserved Wed-Fri. AVGO AMC Thu = the binary that decides whether to extend (Fri scout green light) or trim (Fri scout deferred).
+
+## 2026-06-04 -- Pre-market Research
+
+### Account
+- Equity: $100,061.38 | Cash: $22,315.88 (22.3%) | BP: $244,754.52 | Daytrade count: 0
+- Positions (4): MTUM 75 @ $315.58 (now $329.50, +$1,043.64 / +4.41%), XLB 198 @ $50.37 (now $51.70, +$262.40 / +2.63%), XLE 340 @ $58.46 (now $58.96, +$169.95 / +0.86%), XLI 130 @ $171.67 (now $175.00, +$432.90 / +1.94%)
+- Position market value: $77,745.50 / equity = **77.7% deployed** -- below 85% floor (post-DELL stop-out Jun 3)
+- Open trail stops (4): MTUM $298.34 (hwm $331.49), XLB $46.82 (hwm $52.025), XLE $55.53 (hwm $61.70), XLI $158.49 (hwm $176.103)
+- Weekly trade count: 4/6 used; 2 slots Wed-Fri. Phase P&L: +$61.38 (+0.06%) from $100k baseline.
+
+### Market Context
+- **WTI ~$95.50** -- 3rd straight up session on US-Iran peace-talk uncertainty keeping geopolitical risk premium. Intraday range $93.64-$96.04. Bullish read-through for XLE.
+- **S&P 500 futures: ESM26 ~7,545** (-0.35% premarket). SPX cash closed 9-day winning streak Jun 3 on geopolitical conflict headlines.
+- **VIX ~16.29** (latest May print) / **Jun futures 17.85**. Vol still benign.
+- **Today's catalysts**: Light data. NO CPI/PPI/FOMC. **Q1 Productivity & Costs 8:30 ET**. Initial Jobless Claims 8:30 ET. **NFP Friday June 5 8:30 ET** = primary week-risk event (cons 95K, UR 4.3%).
+- **Today's earnings**: BMO light (CIEN, JOBY, etc.); AMC light. **AVGO REPORTED Jun 3 AMC = BLOWOUT**: $22.2B rev +48% YoY, AI semi $10.8B +143%, Q3 guide $29.4B +84%, FY26 AI semi guide $56B reaffirmed, FY27 >$100B. Beat $2.44 vs $2.32 cons. **Massive AI-capex green light**.
+- **Sector momentum YTD 2026**: Energy #1 (+26%), Materials #2-3 (+13%), Industrials #2 (+12%). MTUM (momentum factor ETF) intact as alpha vehicle. Tech rotating back in post-AVGO print but DELL stopped out Jun 3 (-9.72%) = Tech sector on 1-strike strike per rulebook.
+
+### Held-ticker News
+- **MTUM** $329.50 (+4.41%; fresh hwm $331.49). AVGO blowout = direct tailwind to momentum factor; broad multi-sector exposure intact. Trail $298.34 = 9.5% buffer.
+- **XLB** $51.70 (+2.63%; hwm $52.025). Materials thesis intact -- "Leading" quadrant, sticky-inflation + reshoring hedge. Trail $46.82 = 9.4% buffer.
+- **XLE** $58.96 (+0.86%; +1.04% from Jun 3 $58.42). WTI 3-day bounce to $95+ revalidates thesis. Trail $55.53 = 5.8% buffer; hwm $61.70 since May 19 = needs reclaim (4.6% away). **Energy strike count: 1 failed (XOM); XLE survived another close above entry**.
+- **XLI** $175.00 (+1.94%; near hwm $176.103). Industrials AI/data-center/defense capex tailwind reinforced by AVGO print. Trail $158.49 = 9.4% buffer.
+
+### Trade Ideas
+1. **DEPLOY MANDATORY at market open** -- Cash 22.3% breached 15% floor since Jun 3 midday stop-out; rule = mandatory deploy on next session (today). One $10-13K entry lifts deployment from 77.7% to ~87-88%, restoring compliance.
+2. **Primary candidate: LYB (LyondellBasell, Materials)**. Sticky-inflation + reshoring + chemicals reset. Adds to materials theme without breaking 30% sector cap (Materials 10.2% -> ~22%). No energy duplication, no tech-strike risk. ~$10K, 10% trail, 10-12% target stop.
+3. **Secondary candidate: SNDK (SanDisk/storage, Tech)**. AVGO blowout = direct AI-memory tailwind; +172% YTD per prior research. But Tech is on 1-strike strike; another failure = sector exit. Smaller starter ~$5-7K, 12% trail to absorb high-beta noise.
+4. **Tertiary: GNRC (generators, Industrials)** or **TPL (royalty land, Energy)** -- both leadership names; GNRC reinforces industrials, TPL adds energy diversification (but pushes Energy near 30% cap).
+5. **NO ADDS to existing winners** -- 25% per-position cap not yet hit but adding to MTUM/XLI/XLB at extended levels = chase. New name only.
+6. **No trim on any holding** -- all four green, trails armed, none at +15% trail-tightening trigger.
+
+### Risk Factors
+- **NFP Friday** = primary risk. New entry Thu still gives one full session for trail to absorb pre-NFP gap risk before the print. Acceptable.
+- **Geopolitical risk-off opened market lower** -- SPX 9-day streak broke Jun 3. Buy-the-dip context but vol can extend.
+- **Tech 1-strike rule** -- SNDK is gated; LYB is the safer deploy if conviction is similar.
+- **DELL stop-out aftermath** -- $1,113 realized loss freshly booked; preserve discipline, no revenge trades.
+- **XLE buffer thinnest** (5.8% to trail, 7.8% to manual cut $54.37) -- another -3-4% WTI move puts XLE on watch. WTI bounce intact for now.
+- **VIX 16 + SPX record zone** -- complacency creeping back; pullback risk if any catalyst cracks tape.
+- **Sector concentration post-deploy** if LYB added: Energy 20.0% / Materials 22.0% / Industrials 22.7% / Multi-sector momentum 24.7% / Tech 0% = compliant under 30% cap.
+
+### Decision
+**TRADE. Deploy 1 new entry at market open. Primary: LYB (~$10K, 10% trail GTC). Secondary fallback: SNDK (~$5-7K, 12% trail GTC) only if LYB setup is broken at open. Reason: mandatory deploy (cash > 15% floor for 2nd session); AVGO blowout confirms risk-on AI-capex tape; sector-leadership names remain "Leading" quadrant. Weekly count 4/6 -> 5/6 after fill; 1 slot reserved Fri.**
+
+**Day plan**:
+- 08:30 ET: Productivity & Costs + Jobless Claims -- noise, no trade pre-data.
+- 09:30 ET: Open -- if LYB tape constructive (not gap-down >2%), place market buy ~$10K + trailing-stop 10% GTC. Skip if open is panic-red on tape; redirect to midday scout.
+- Midday: confirm fill, verify trail armed at Alpaca; verify all other trails ratcheted on any fresh hwm (MTUM/XLI/XLB candidates).
+- Afternoon: monitor XLE vs hwm $61.70 (4.6% away); watch for AVGO follow-through extending semis/AI cohort.
+- EOD: TRADE-LOG snapshot.
+- Pre-NFP Fri: 1 slot reserved; preserve for post-NFP setup, not pre-NFP chase.

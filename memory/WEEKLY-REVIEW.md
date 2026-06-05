@@ -328,3 +328,65 @@ Down -0.38% vs S&P +1.21% = -1.59% relative on a positive market week. Trails wo
 ### Overall Grade: D
 
 -2.17% on a +0.7% S&P week = -2.87% relative on a positive market week, deeper miss than week 2. First realized loss of the campaign (XOM -$734.91, trail stop). New phase low -$1,466 (-1.47%). Idle-cash rule violation accrued for 3 trading days post-XOM stop. Fifth straight week of 0/3 slot utilization. Held back from F by: XOM trail-stop execution was textbook (no rule break on the cut, no panic, no overhang), XLE manual cut respected (held with 3.7% buffer instead of pre-empting), no revenge trade at the gap, sector-exit trigger pre-committed for next week. Process > outcome on the XOM exit; outcome > process on the paralysis. The rule changes this review aren't decorative -- they exist because the 5-week pattern is now actively destroying capital, not just opportunity cost.
+
+## Week ending 2026-06-05
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,534.45 (Fri May 29 close = Mon Jun 1 open baseline) |
+| Ending portfolio | $97,041.84 |
+| Week return | -$1,492.61 (-1.51%) |
+| S&P 500 week | -1.57% (7,580.08 -> ~7,461) |
+| Bot vs S&P | +0.06% (essentially flat to index) |
+| Trades | 5 new entries (W:0 / L:1 / open:4) |
+| Win rate | 0% (1 closed, 0 winners) |
+| Best trade | XLI +0.96% unrealized (book leader at week close) |
+| Worst trade | DELL -9.72% realized (-$1,112.55, trail stop Jun 3) |
+| Profit factor | 0.00 (no winners closed) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| DELL | $457.95 | $413.448 | -$1,112.55 (-9.72%) | 12% trail GTC ($413.13, hwm $469.47) fired ~09:47 ET Jun 3; UBS Buy->Neutral downgrade Tue + Tue -6.43% fade compressed buffer; AM pressure took it through manual cut + trail in first 30 min. Failed Tech trade #1. 2-day hold. |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| MTUM | $315.5848 | $305.00 | -$793.86 (-3.35%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | $51.18168 | $50.34 | -$305.53 (-1.64%) | $46.98 (10% trail, hwm $52.1999) |
+| XLE | $58.46 | $57.80 | -$224.45 (-1.13%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | $171.67 | $173.31 | +$213.20 (+0.96%) | $158.80 (10% trail, hwm $176.44) |
+
+### What Worked
+- **BROKE the 5-week deployment paralysis.** Jun 1 quadruple-deploy (XLB+XLI+MTUM+DELL) + Jun 4 XLB add lifted deployment from 19% post-XOM-stop to 86%+. Used 5/6 weekly trade slots vs prior weeks' 0/3 -- the deferral cascade ended on schedule with last week's pre-commitment. Idle-cash rule violation closed within 2 trading days of the new floor going live.
+- New sector-cap rule (added 5/29) immediately operative and binding: book now spans 5 sectors (Energy 20.2%, Materials 18.8%, Industrials 23.0%, Multi-sector momentum 24.2%, Tech 0%), all under 30% sector cap and 25% per-position cap. Concentration risk that haunted weeks 1-5 is structurally addressed.
+- DELL trail-stop execution was textbook -- a second time in 5 sessions. 12% trail (high-beta name) caught the Wed gap-down inside 30 min, capped loss at -9.72% vs the manual -7% cut at $425.89. Process held, no discretion, no overhang.
+- XLE carried position quietly recovered from -3.68% Fri May 29 low to back-to-green ($0.46% Jun 4) before today's NFP fade -- never breached $54.37 manual cut. Failed energy trade #2 averted; sector-exit rule not triggered.
+- All 4 trails ratcheted on fresh hwm Mon-Thu before today's reversal: MTUM hwm $331.49 (+5.0% from entry), XLB hwm $52.1999 (+3.6%), XLI hwm $176.44 (+2.8%). Structural risk declining at the start of the week.
+
+### What Didn't Work
+- **Second realized loss in 5 sessions (DELL -$1,112.55).** Bought Mon at $457.95 chasing the +32.8% Fri 5/29 earnings gap = exact setup ("post-earnings chase," "extended single-name tech") that prior PASS lists were designed to filter. Sentiment downgrade Tue + ride-the-gap fade Wed = 2-day round trip. Strategy-checklist let it through; instinct should have flagged the chase pattern.
+- **Trim-into-strength was ignored AGAIN.** MTUM peaked +4.29% unrealized Wed Jun 3 midday ($329.12 vs $315.58 entry) at 24.5% of book -- textbook trim-25% moment under any "concentration + extension" framework. No trim taken; today's -6.4% intraday rip on NFP took MTUM from +4.29% back to -3.35%. Same paragraph as XOM May 19/20 +5.83% miss. The pattern is now 2-for-2 against the bot when single positions reach 25% of book and +5% unrealized.
+- **Correlated entry-day timing risk.** Four buys on the same Mon open = every position sits at the same point on its drawdown curve when broad tape reverses (today's NFP). No timing diversification = today's -2.73% day P&L (-$2,723) hit all four lines roughly equally. Stagger entries.
+- **Jun 4 XLB add (165 sh) vs starting a fresh line.** Rule-compliant (sector cap intact) and the cleanest technical setup on the board, but it amplified XLB to 18.8% in one ticker right before NFP. A diversifier single-name (LYB, GNRC) would have spread the slot. The mandatory-deploy floor rule did its job; selection could have been broader.
+- **New phase low.** Phase P&L now -$2,958 (-2.96%) -- deeper than May 29's -$1,466 trough. Two realized losses, four open positions all carrying drawdowns or fractional gains, no realized winner of the campaign.
+
+### Key Lessons
+- The trail stop continues to be the only mechanically reliable rule in the system. 2-for-2 on triggered exits (XOM, DELL) -- both fired clean, capped loss inside the design band, zero discretion needed. The downside floor is set. The offense (entry selection, trim-into-strength, profit-taking) is still where the system gives up alpha.
+- The "trim-into-strength" rule needs to be CODIFIED in the strategy doc, not just discussed. 2 consecutive cycles (XOM +5.83% week 4, MTUM +4.29% this week) of identifying the moment in real time and not acting on it = it's not a discipline problem at this point, it's a missing rule. Should be: any single position >20% of book AND >+4% unrealized = trim 25% on the next strength day; no judgment.
+- Post-earnings gap chasing is structurally bad R:R in this strategy. DELL +32.8% Fri -> entry Mon at the gap = no pullback, no consolidation, no edge. The PASS list ("semis extended," "megacap tech post-earnings chase") was wisdom from the first 4 weeks and was abandoned at the moment the system needed cash deployed. Filter: a single-name catalyst <5 sessions old + already extended >+20% = SKIP regardless of weekly slot pressure.
+- Same-day quadruple-deploy creates correlated entry-timing exposure that masquerades as diversification. Five tickers across 4 sectors LOOKS diversified; but if all five enter Mon at the same MA level, they share the same time-on-book and same drawdown phase. Stagger entries Mon-Wed.
+- Beating S&P by +0.06% on a down week is not alpha -- it's "lost less." On a positive market week we lag (week 2: -3.94%; week 5: -2.87%); on a negative market week we match. The book is currently low-beta-to-downside (5 ETFs + factor), not high-beta-to-upside (the strategy intent). Concentration tradeoff is doing the work in the wrong direction.
+
+### Adjustments for Next Week
+- **CODIFY trim-into-strength.** Strategy doc update planned next Friday: any single position >20% of book AND >+4% unrealized = trim 25% on the next green session, no further deferral. Two cycles of identifying-not-acting is enough.
+- **Stagger entries.** Max 2 new positions on Monday open; remaining 1-2 slots used Tue-Thu only after tape confirms. NO Friday entries unless post-data conviction setup. Trade slots Mon Jun 8: pick the single highest-conviction setup; reserve the rest.
+- **Tech sector gated to one strike.** DELL = failed Tech trade #1. One more = sector exit per rule 12. SNDK/SANM watchlist must show 2-day confirmation + clean technical entry; NO post-earnings gap chases. Better to leave Tech at 0% than force a trade.
+- **Energy carry plan unchanged.** XLE stop $55.53 (hwm $61.70, 5.8% buffer today close). If breached = failed energy trade #2 = sector exit, rotate cash to XLI/XLB single-names or LYB. If WTI reclaims $100+ and XLE tags fresh hwm, trail ratchets and concentration is unproblematic.
+- **MTUM concentration.** At 24.2% of book and now -3.35% unrealized, sits exactly on the line where the trim-into-strength rule (if codified) would have already fired. Hold through the trail $298.34 (6.6% below current $326 from Wed peak; ~2% from today's close $305) -- if breached, that's a -5.6% realized loss on a position that touched +4.29% three sessions ago. Watch the stop carefully Mon Jun 8.
+- **Deployment target 85-90%.** Don't push to 95% on a forced trade. The DELL stop-out -> Jun 4 XLB add cycle worked because there was ~12-22% cash available to recycle. The system needs ~10-15% turnover capacity.
+- Strategy doc: no rule changes this week. Last week's two new rules (sector cap, idle-cash) are both binding and working. Trim-into-strength has 2 cycles of evidence -- codify NEXT Friday only if (a) MTUM trim moment occurs and is again ignored, OR (b) the new entry slot triggers another single-name >20% / +4% situation.
+
+### Overall Grade: C+
+
+-1.51% week vs S&P -1.57% = +0.06% relative (no alpha; matched the index down). Broke the 5-week deployment paralysis (deployment 19% -> 86%, used 5/6 slots, idle-cash rule restored). Second realized loss of the campaign (DELL -$1,112.55, trail stop clean). New phase low -$2,958 (-2.96%). Sector-cap rule now binding and protecting structure. Two trail stops in 5 sessions = downside mechanically controlled. Held back from B- by: gap-chase entry on DELL (PASS-list type setup), trim-into-strength missed again on MTUM at +4.29% (second consecutive cycle), correlated 4-position Mon entry = single-day timing risk. Saved from C by: paralysis genuinely ended (the structural problem of weeks 1-5), sector cap immediately operative, trail stops continuing to do their job, XLE recovered from -3.68% to back-near-flat without breaching #2 trigger. The deployment side of the playbook is now functional; the profit-taking side is the next bottleneck.

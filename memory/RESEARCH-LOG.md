@@ -1178,3 +1178,54 @@ Weekly slot use: 4/6 used; 2 reserved Wed-Fri. AVGO AMC Thu = the binary that de
 - Afternoon: monitor XLE vs hwm $61.70 (4.6% away); watch for AVGO follow-through extending semis/AI cohort.
 - EOD: TRADE-LOG snapshot.
 - Pre-NFP Fri: 1 slot reserved; preserve for post-NFP setup, not pre-NFP chase.
+
+## 2026-06-05 -- Pre-market Research
+
+### Account
+- Equity: $99,319.08 | Cash: $13,711.12 (13.8%) | BP: $226,060.40 | Daytrade count: 0
+- Last equity: $99,765.23 (overnight Day P&L ~-$446 / -0.45%); position market value $85,607.96 (86.2% deployed) -- clears 85% floor
+- Positions: MTUM 75 @ $315.5848 (now $320.00, +$331 / +1.40%, intraday -1.80%), XLB 363 @ $51.18168 (now $51.62, +$159 / +0.86%, flat today), XLE 340 @ $58.46 (now $58.92, +$156 / +0.79%, intraday +0.29%), XLI 130 @ $171.67 (now $175.67, +$520 / +2.33%, intraday -0.28%)
+- Open orders: 5 trailing stops live -- XLE $55.53 (hwm $61.70), XLB 198sh $46.98 (hwm $52.1999), XLB 165sh $46.98 (hwm $52.1999), XLI $158.80 (hwm $176.44 fresh), MTUM $298.34 (hwm $331.49)
+- Weekly trade count: 5/6 used (XLB +XLI +MTUM +DELL Jun 1, XLB add Jun 4). 1 slot remaining for Fri.
+
+### Market Context
+- WTI: ~$94-96/bbl (sources split: $94 area per same-day market update, $96.35 front-month per Barchart). Brent: ~$96-110 area; spread vs WTI suggests Brent ~$100-105. Oil holding sub-$100 zone, stable after Hormuz-deescalation crack.
+- S&P 500 futures: ESM26 ~7,545.25 premarket (-0.35% / -26.5pts). SPX cash recent close ~7,555 zone. Tone defensive into NFP.
+- VIX: 15.40-16.11 (YCharts 15.40, Cboe spot $16.11, TradingEconomics 16.06). Low-vol regime; little fear priced for the print.
+- Today's catalysts: **NFP 8:30 ET = the day** (May payrolls; consensus +85K vs prior +115K; unemp 4.3% unchanged; AHE 3.9% YoY est). FactSet S&P Q1 EPS update at 8:30 ET (FactSet forecast +28.4% Q1).
+- Earnings BMO: light -- MDT only confirmed pre-market; AVGO/CRWD/DOCU/LULU were AMC slate (AVGO blowout Thu = direct AI capex tailwind for MTUM/XLI).
+- Economic calendar: NFP + AHE + unemp 8:30 ET today. Next FOMC June 16-17 (~95% pause priced). Next CPI/PPI mid-month.
+- Sector momentum: Energy +26-27% YTD (XLE leader), Materials +~13% (XLB co-leader), Industrials +~12% (XLI co-leader), Comms/Tech mid-pack; Discretionary/Financials laggards. Our book is concentrated in the three best-performing sector ETFs + momentum factor = aligned with leadership.
+
+### Held-ticker News
+- **MTUM**: Strong April-May outperformance vs SPX confirmed (multiple sources). Holds AVGO/leadership names = direct beneficiary of Thu's AVGO AI semi blowout ($22.2B rev +48%, AI segment $10.8B +143%, FY27 AI >$100B). Unrealized +1.40%, hwm $331.49, trail $298.34 (6.8% below current).
+- **XLB**: Materials sector confirmed +~13% YTD. AVGO/AI capex spillover into materials feedstock + reshoring narrative intact. Position added Jun 4 (363 total @ $51.18 avg). Unrealized +0.86%, hwm $52.1999, trail $46.98 (8.9% below current).
+- **XLI**: Industrials sector +~12% YTD. Fresh hwm $176.44 ratcheted overnight (trail $158.80, 9.6% below current). AI/data-center/defense capex + reshoring tailwinds = unchanged. Unrealized +2.33% (book leader).
+- **XLE**: Energy sector +26-27% YTD still group leader; WTI sub-$100 but stable in $94-96 range. Unrealized +0.79% back to green (was -2.85% post-XOM stopout May 27). Hwm $61.70 (May 19), trail $55.53 (5.8% below current; 4.7% away from new hwm).
+
+### Trade Ideas
+1. HOLD all four. Every position green, every trail armed and ratcheting on fresh hwm (XLI new hwm $176.44 today). None at +15% trail-tighten trigger (best XLI +2.33%); none near -7% manual cut (worst MTUM intraday -1.8% but unrealized +1.4%).
+2. NO PRE-NFP ADDS. NFP 8:30 ET is binary: hot print (>100K + wages firm) = USD pop, energy/cyclicals catch bid OR get hit on yield spike; soft print (<70K) = rate-cut bid for duration/growth, dollar down. Pre-positioning into a binary catalyst = giving up edge. 1 weekly slot reserved for post-NFP setup, not pre-NFP chase.
+3. POST-NFP WATCHLIST (action at midday/market-open, NOT here):
+   - Continuation longs if tape stays risk-on: SANM, GNRC, SNDK (AI-adjacent industrial/storage with technical setups);
+   - Energy add candidate if WTI reclaims $98+ on USD reaction: COP or single-name E&P with relative strength (avoid XOM dupe given May 27 stopout).
+   - Materials/Industrials second-leg: LYB (chemicals), or fresh XLI single-name leader if XLI breaks $176.44 hwm and holds.
+4. PASS list: AVGO/megacap semis post-blowout (chase, +20% IV crush risk), CRWD/DOCU/LULU AMC results unread, Tech single-names broadly (Tech sector currently zero exposure -- one more failed trade = sector exit per rulebook, gate tightly).
+
+### Risk Factors
+- **NFP 8:30 ET dominates the day** -- our 86% deployed book is fully exposed. Cyclical-sector tilt (Materials/Industrials/Energy = ~60% of equity) = high-beta to NFP miss in either direction. MTUM (24% of book) is the largest single line and most rate-sensitive on the surprise.
+- Sector concentration check: Energy 20.2%, Materials 18.9%, Industrials 23.0%, Multi-sector momentum 24.2%, Tech 0% -- all under 30% sector cap and 25% per-position cap. Compliant.
+- WTI sub-$100 cushion thin: XLE 4.7% below hwm with trail 5.8% under current -- another -5% energy day takes XLE to trail trigger = failed energy trade #2 = sector exit per rulebook. Watch carefully.
+- VIX 15-16 = complacency into a binary print; any miss is unhedged.
+- Weekly slot count 5/6 = only one entry left; should not be wasted on a forced trade. Save for high-conviction post-NFP setup or skip entirely.
+- Pre-Fed pause (June 16-17) data window opens after NFP; market increasingly data-dependent on each release into the meeting.
+
+### Decision
+**HOLD.** No new trades pre-NFP. All four positions green, all trails armed and ratcheting (XLI fresh hwm overnight). Deployment 86.2% compliant. Letting NFP 8:30 ET print and the tape reveal direction before committing the final weekly slot. Weekly review session this afternoon.
+
+### Plan for the day
+- 8:30 ET: NFP print. Read: NFP vs 85K consensus, unemp vs 4.3%, AHE vs 3.9%. Hot = energy/cyclicals catch USD bid OR yield-spike pain; soft = duration/growth bid, USD soft, momentum extends.
+- 9:30 ET market-open: HOLD unless a name breaks -7% manual cut on the NFP gap. If post-NFP tape is constructive on a single-name leader (SANM/SNDK/GNRC/LYB), scout entry with conviction (5/6 -> 6/6, week closed). If tape is messy, skip and preserve.
+- Midday: verify all trails ratcheted on any fresh hwm; confirm no manual cuts triggered; assess weekly review setup.
+- Afternoon: **Weekly Review** -- full WEEKLY-REVIEW.md entry covering Week 5 P&L, XOM/DELL stopouts retrospective, current book health, next week's deployment plan.
+- EOD: TRADE-LOG snapshot.

@@ -325,3 +325,26 @@ New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment
 | XLI | 130 | $171.67 | $176.16 | +1.21% | +$583.70 (+2.62%) | $158.80 (10% trail, hwm $176.44) |
 
 **Notes:** Quiet pre-NFP tape. XLI led (+1.21% to $176.16, fresh hwm $176.44 -> trail ratcheted $158.49 -> $158.80) on AI/data-center capex follow-through from AVGO AMC Jun 3 blowout; XLB +0.12% to $51.69 (363-share book stable post-morning add); XLE +0.03% to $58.73 (third straight green day, now +0.46% unrealized vs entry); MTUM -1.10% to $325.87 (small fade off Tue/Wed extension, hwm $331.49 unchanged, still +3.26% unrealized = best position). Day P&L -$55 (-0.06%) -- essentially flat. Phase trims slightly from midday -$210 to -$216 (-0.22%), still inside the noise band. Morning XLB add (165 sh @ ~$52.16, lifted position 198 -> 363 at $51.18168 avg) restored 85% floor compliance after Jun 03 DELL stop-out; deployment now 86.3% (long_market_value $86,073 / equity $99,784). Sector mix: Energy 20.0% / Materials 18.8% / Industrials 23.0% / Multi-sector momentum 24.5% / Tech 0% -- all under 25% per-position cap, all under 30% sector cap. No trail-tightening triggers (best MTUM +3.26% << +15% threshold). No -7% manual cuts (worst XLE unrealized +0.46%). No new entries midday by design -- 1 weekly slot reserved Fri for post-NFP setup, not pre-print chase. Weekly count 5/6. Tomorrow (Fri/NFP + weekly review): pre-market read on NFP print (consensus matters less than tape reaction); if risk-on continuation, scout SANM/LYB/GNRC/SNDK/TPL for final weekly slot with high-conviction breakout; if sell-off, let trails work and preserve dry powder; weekly review session in afternoon. 1 weekly trade available, 4 open slots.
+
+## 2026-06-08 -- Midday Scan (HOLD)
+
+**Midday account:** Equity $97,916.76 | Cash $13,711.12 (14.0%) | Day P&L +$590.50 (+0.61%) | Phase P&L -$2,083.24 (-2.08%)
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| MTUM | 75 | $315.5848 | $315.315 | +2.89% | -$20.24 (-0.09%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | 363 | $51.18168 | $49.985 | -1.27% | -$434.39 (-2.34%) | $46.98 (10% trail, hwm $52.1999) |
+| XLE | 340 | $58.46 | $58.265 | +1.03% | -$66.35 (-0.33%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $173.74 | -0.25% | +$269.10 (+1.21%) | $158.80 (10% trail, hwm $176.44) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none triggered (worst XLB -2.34% unrealized, well above -7% cut at $47.60).
+- +15%/+20% trail-tighten: none eligible (best XLI +1.21%).
+- Thesis crack: none -- XLB intraday -1.27% is mild rotation noise, "Leading" quadrant unchanged; XLI giving back small after Friday breakout; MTUM/XLE bouncing post-NFP weekend gap.
+- 3% / move-down rules: no manual stop moves; existing trails unchanged (no fresh hwm today on any name).
+- Sector concentration: Energy 20.2% / Materials 18.5% / Industrials 23.1% / Multi-sector momentum 24.2% / Tech 0% = compliant.
+- Deployment: $84,205.64 / $97,916.76 = **86.0%** -- clears 85% floor.
+
+**Action: NONE.** No cuts, no tightens, no new entries. Trails working as designed.
+
+**PM watch:** XLB stabilization below entry (watching $47.60 manual cut, 4.7% away); MTUM follow-through on day-1 bounce; XLI defense of $176.44 hwm; XLE WTI tape. Weekly count 5/6 used -- 1 slot for Mon-Fri high-conviction setup only; no forced trades.

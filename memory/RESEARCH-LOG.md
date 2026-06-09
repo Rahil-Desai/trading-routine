@@ -1292,3 +1292,73 @@ Reasoning: (a) fresh week, deployment 86% clears floor compliance; (b) Mon is li
 - Tue: NFIB Small Business, light. Pre-position thinking for CPI Wed.
 - Wed 8:30 ET CPI: the binary. Hold through, no entries first 30 min post-print, then assess for first new trade of the week.
 
+## 2026-06-09 -- Pre-market Research (Tuesday / pre-CPI day / Day 29)
+
+### Account
+- Equity: $97,887.91 | Cash: $13,711.12 (14.01%) | BP: $290,539.49 | Daytrade count: 0
+- Last equity (Mon close): $97,881.70 -- overnight Day P&L +$6.21 (+0.01%, essentially flat)
+- Position market value: $84,176.79 / equity = **86.0% deployed** -- clears 85% floor
+- Positions (4):
+  - MTUM 75 @ $315.5848 -> $315.08 (-$37.86 / -0.16%, intraday 0%)
+  - XLB 363 @ $51.18168 -> $50.23 (-$345.46 / -1.86%, intraday +0.54%)
+  - XLE 340 @ $58.460 -> $58.06 (-$136.05 / -0.68%, intraday -0.46%)
+  - XLI 130 @ $171.67 -> $173.63 (+$254.80 / +1.14%, intraday 0%)
+- Open trail stops (5, all GTC sell_to_close):
+  - XLE $55.53 (10% trail, hwm $61.70)
+  - XLB 198sh $46.98 (10% trail, hwm $52.1999)
+  - XLB 165sh $46.98 (10% trail, hwm $52.1999)
+  - XLI $158.80 (10% trail, hwm $176.44)
+  - MTUM $298.34 (10% trail, hwm $331.49)
+- Weekly trade count: 0/6 (Tue, fresh week). Phase P&L: -$2,112.09 (-2.11%) from $100k baseline.
+
+### Market Context
+- **WTI ~$92-93** (Kalshi prediction market resolves yes above $92.99 for today's settle); **Brent ~$96-100**. Oil holding the mid-$90s after Mon's modest bid; supportive of XLE but no breakout.
+- **S&P 500 futures: ESM26 ~7,434.25 (+0.25%)** premarket; Dow futures +0.11%, NQ +0.51%. Constructive tone after Mon's bounce (book +$574 Mon).
+- **VIX: 18.16 spot (Jun 9 Cboe; -4.02% / -0.76 from Mon's 18.92)**. Off the post-NFP highs but still well above the 15-16 zone -- vol regime stickier than complacency narrative.
+- **Today's catalysts**: LIGHT data Tue -- NFIB Small Business Optimism (6:00 ET), Wholesale Trade Inventories (10:00 ET). **No major US macro.** Pre-CPI positioning is the whole story.
+- **This week's macro stack**: **CPI Wed Jun 10 8:30 ET = primary catalyst** (May CPI); **PPI Thu Jun 11 8:30 ET**. No FOMC (June 16-17 ~95% pause priced).
+- **Earnings BMO**: light -- ASO (Academy Sports), SJM (Smucker), SAIL (SailPoint), UNFI (United Natural). No direct held-ticker exposure.
+- **Sector momentum YTD**: Energy still #1 (~+22% YTD), Materials and Industrials both in "Leading" quadrant per Investing.com sector rotation analysis. **S&P 500 Momentum Index +31.72% YTD as of Jun 8** -- factor delivering massive alpha vs SPX ~+8% YTD. Confirms MTUM thesis.
+
+### Held-ticker News
+- **MTUM** $315.08 (-0.16% unrealized; iShares NAV total return +22.61% YTD per Jun 5 mark). Mon recovery (+2.81%) erased part of Fri NFP drawdown but stop-cushion cracked. Hwm $331.49 (Jun 4), trail $298.34 = 5.3% buffer to current, 6.8% to manual cut at $293.49. Largest dollar position (24.1% of book), most rate-sensitive into CPI.
+- **XLB** $50.23 (-1.86% unrealized; Mon -1.19%). **Tickeron flagged 50DMA break Jun 5; not yet reclaimed.** Materials "Leading" quadrant intact per S&P sector data but technically wobbling. Hwm $52.1999 (Jun 4), trail $46.98 = 6.5% buffer to current. 363-share book is the largest by share count; if Tue/Wed doesn't reclaim ~$50.50 area, thesis erosion accelerates.
+- **XLE** $58.06 (-0.68% unrealized; Mon +1.11%). WTI mid-$90s holding above the pre-Hormuz-deescalation base; supportive but not breakout. Hwm $61.70 (May 19), trail $55.53 = 4.4% buffer to current, 6.4% to manual cut at $54.37. **Still 1-strike state (XOM stopped May 27); next stopout = sector exit per rulebook.**
+- **XLI** $173.63 (+1.14% unrealized; Mon -0.32%). Book leader; AI/data-center/defense capex thesis intact (AVGO Jun 3 blowout + Industrials "Leading" quadrant). Hwm $176.44 (Jun 4), trail $158.80 = 8.5% buffer to current. Best-performing position into CPI binary.
+
+### Trade Ideas
+1. **HOLD all 4 through CPI.** None at -7% manual cut (worst XLB -1.86%), none at +15% trail-tighten (best XLI +1.14%). Trails are the risk control; let them work the binary.
+2. **NO new entries Tue.** Cash 14.0% is under 15% floor = compliant (no mandatory deploy). Light-data Tue + CPI Wed 8:30 ET binary = bad sequencing for fresh entry. Deploy post-CPI Wed/Thu if tape clears.
+3. **Post-CPI Wed watchlist (action mid-week, NOT today)**:
+   - **LYB** (chemicals, Materials RS) -- doubles down on "Leading" Materials quadrant; sector cap math: Materials 18.8% -> ~28% (under 30%).
+   - **GNRC** (+64% YTD, AI/data-center power gen, Industrials reinforcement).
+   - **SANM** (Zacks #1, EMS for AI servers) -- Tech on 1-strike strike post-DELL; gate tightly.
+   - **SNDK** (+172% YTD AI memory) -- same Tech-strike gate.
+   - **TPL** (+75% YTD royalty/land, Energy) -- Energy duplication near sector cap, avoid.
+4. **No trims, no manual cuts.** Discipline check: don't pre-empt the binary.
+5. **No stop moves down, no moves within 3% of current.** All 5 trails already auto-armed at hwm; no manual updates required.
+
+### Risk Factors
+- **CPI Wed 8:30 ET = primary week-risk event** (May CPI). Consensus likely 2.4-2.6% YoY headline, 3.0-3.2% core. Hot = yields up, MTUM/growth most exposed; cool = relief bid, momentum extends. Book has zero rate hedge.
+- **Sticky-inflation narrative live**: Lance Roberts substack today flags CPI mechanics + sticky core-services pressure as the live driver; AI-capex itself cited as potentially inflation-contributing per Schwab outlook. Asymmetric risk on a hot print.
+- **XLB technical crack persists**: 50DMA broken Jun 5, not reclaimed Mon (+0.12% close). Largest share-count position; if Wed-Thu fails to reclaim 50DMA after CPI, thesis erosion = prepare cut on next bounce ahead of trail trigger.
+- **XLE 1-strike state**: trail buffer 4.4% to current, 6.4% to manual cut. A -3% energy day on a hot CPI/USD rally puts XLE on watch.
+- **MTUM rate-sensitivity**: 24.1% of book is the momentum factor -- direct exposure to growth multiple compression on a hot CPI surprise. 5.3% buffer to trail is the thinnest of the four.
+- **VIX 18 + Jun futures 18.9** = realized vol elevated; complacency narrative wrong. Don't add into the binary.
+- **Sector concentration**: Energy 20.2% / Materials 18.6% / Industrials 23.1% / Multi-sector momentum 24.1% / Tech 0% / Cash 14.0% = compliant under 30% sector cap and 25% per-position cap. Cyclical book = high beta to CPI surprise either way.
+- **6 weekly trades available, fresh week**; no PDT constraint (count 0). Don't waste a slot on a pre-CPI entry.
+
+### Decision
+**HOLD all 4 today. No new entries. No trims. No manual stop moves.**
+
+Reasoning: (a) cash 14.0% compliant under 15% floor = no mandatory deploy pressure; (b) CPI Wed 8:30 ET is the binary -- entering Tue pre-print = giving up edge; (c) all 5 trails armed at fresh hwm from Jun 4, working as designed; (d) Mon's +$574 bounce trimmed Fri's NFP drawdown but no thesis confirmation; (e) XLB technical crack (50DMA break) is the watchlist item, not yet actionable; (f) preserve all 6 weekly slots for post-CPI clarity Wed/Thu. The work today is monitoring, not trading.
+
+### Plan for the day
+- 06:00 ET: NFIB Small Business Optimism -- noise, no trade.
+- 09:30 ET open: monitor XLB vs $50.50 reclaim attempt; XLE bounce continuation on WTI mid-$90s; MTUM stabilization into CPI.
+- 10:00 ET: Wholesale Trade Inventories -- noise, no trade.
+- Midday: verify all 5 trails armed at Alpaca; no fresh hwm requiring update; check no -7% manual-cut watch (none within 5% buffer; MTUM the thinnest at 6.8%).
+- Afternoon: if XLB fails to reclaim 50DMA AND closes below $50, prep mental cut order for post-CPI Wed if confirms.
+- EOD: TRADE-LOG snapshot, Day 29 (Tue).
+- Wed 8:30 ET **CPI = the binary**: HOLD through; no entries first 30 min post-print; then assess for first new trade of the week from LYB/GNRC watchlist if tape clears constructive.
+

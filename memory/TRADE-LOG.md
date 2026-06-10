@@ -349,3 +349,26 @@ New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment
 | XLI | 130 | $171.67 | $175.51 | +1.08% | +$499.20 (+2.24%) | $158.92 (10% trail, hwm $176.58) |
 
 **Notes:** Choppy split tape, essentially flat at the close. Day P&L -$53 (-0.05%) -- noise. Phase widens marginally to -$2,152 (-2.15%), fresh campaign low by ~$53. XLI led the upside again (+1.08% to $175.51, fresh hwm $176.58 -> trail ratcheted $158.80 -> $158.92), AI/data-center capex thesis still working; XLB +1.54% to $50.73 (Materials recovered Mon's give-back, unrealized improves to -0.88%, 7.4% above $46.98 trail). Downside: XLE -1.51% to $57.45 (WTI bid faded, unrealized worst at -1.73%, 3.3% above $55.53 trail and 6.0% above -7% manual cut at $54.37); MTUM -1.10% to $311.63 (broke Mon's $315.08 recovery, unrealized flipped from -0.16% to -1.25%, hwm $331.49 unchanged, 4.5% above $298.34 trail). No fresh hwm on MTUM/XLB/XLE; XLI only ratchet today. Deployment 86.0% ($84,137 long_market_value / $97,848 equity), still 1pp above 85% floor. Sector mix: Energy 20.0% / Materials 18.8% / Industrials 23.3% / Multi-sector momentum 23.9% / Tech 0% -- all under 25% per-position and 30% sector caps. No -7% manual cuts triggered (worst XLE -1.73%, far from threshold). No +15% trail tightens (best XLI +2.24%, well under +15%). No trades today, weekly count 0/6. Tomorrow (Wed/CPI is tomorrow, FOMC Jun 18 looms): pre-market read on CPI print + tape -- if risk-on continuation and MTUM reclaims $315.58 entry, hold and let trails work; if XLE breaches $55.53 trail or any position hits -7% manual cut, exit without hesitation = second failed energy trade ends sector exposure; if drawdown extends and deployment slips under 85%, redeploy via XLB add or LYB/GNRC/TPL high-conviction entry; 6 weekly trades available, 4 open slots.
+
+## 2026-06-10 -- Midday Scan (HOLD)
+
+**Midday account:** Equity $97,204.17 | Cash $13,711.12 (14.11%) | Day P&L -$649.31 (-0.66%) | Phase P&L -$2,795.83 (-2.80%)
+
+| Ticker | Shares | Entry | Now | Intraday | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------|----------------|------|
+| MTUM | 75 | $315.5848 | $306.96 | -1.50% | -$646.86 (-2.73%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | 363 | $51.18168 | $50.115 | -1.29% | -$387.20 (-2.08%) | $46.98 (10% trail, hwm $52.1999) |
+| XLE | 340 | $58.46 | $58.895 | +2.62% | +$147.85 (+0.74%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $171.27 | -2.47% | -$52.00 (-0.23%) | $158.92 (10% trail, hwm $176.58) |
+
+**Midday Rule Checks:**
+- -7% manual cut: NONE triggered. Worst MTUM -2.73% (4.27pp buffer to threshold), XLB -2.08%, XLI -0.23%, XLE +0.74%.
+- +15%/+20% trail-tighten: NONE eligible. Best XLE +0.74%, well under +15% threshold.
+- Thesis crack: NONE. XLE bounced +2.62% on WTI bid resilience (thesis re-confirming); MTUM/XLB/XLI faded on pre-CPI de-risking, not thesis-specific breaks -- AI capex / Materials reshoring / Industrials data-center theses all intact. CPI print AM tomorrow is the binary; today's fade is positioning, not deterioration.
+- 3% / move-down rules: no manual stop moves. Existing GTC trails handle downside (XLB $46.98 = 6.3% below current; MTUM $298.34 = 2.8% below current -- noted, within 3% buffer but never move down; XLI $158.92 = 7.2% below current; XLE $55.53 = 5.7% below current).
+- Sector concentration: Energy 20.6% / Materials 18.7% / Industrials 22.9% / Multi-sector momentum 23.7% / Tech 0% = all under 25% per-position and 30% sector cap.
+- Deployment: $83,493 / $97,204 = 85.9% (1pp above 85% floor; same razor-thin buffer as Mon/Tue).
+
+**Action: NONE.** No cuts, no tightens, no new entries. Letting trails work into CPI print AM Thu. No ClickUp notification (no action).
+
+**PM watch:** XLE follow-through on WTI bid vs $58.46 entry reclaim (currently 0.74% above = thesis-positive); MTUM/XLI pre-CPI fade reversal vs continuation; XLB stability above $50; if any position breaches -7% manual cut intraday on a CPI-tape acceleration, exit without hesitation. Weekly count stays 0/6; 4 open slots; mandatory-deploy trigger (cash > 15%) NOT active (cash 14.11%, just inside floor). EOD: full snapshot.

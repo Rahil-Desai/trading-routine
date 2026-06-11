@@ -1438,3 +1438,41 @@ Reasoning: (a) deployment 85.94% clears floor (thinnest margin of campaign but c
 - **AMC ORCL**: AI/cloud capex confirmation read for XLI/MTUM thesis (relevant for Thu setup).
 - **EOD**: TRADE-LOG snapshot, Day 30 (Wed).
 - **Thu**: PPI 08:30 ET + ORCL post-mortem. Second deploy window if Wed slot unused.
+
+## 2026-06-11 -- Market-Open Inline Research (Thursday / PPI day / Day 31)
+
+### Account
+- Equity: $97,388.89 | Cash: $13,711.12 (14.08%) | BP: $289,142.24 | Daytrade count: 0
+- Last equity (Wed close): $96,445.72 -- Wed CPI-day -$1,401.94 (-1.43%); Thu intraday +$943.17 (+0.98%) bounce
+- Position market value: $83,677.77 / equity = **85.92% deployed** (1pp above 85% floor, thin)
+- Positions (4) -- BELOW 5-8 rule, mandates an add:
+  - MTUM 75 @ $315.5848 -> $310.16 (-$406.86 / -1.72%, intraday +1.72%)
+  - XLB 363 @ $51.18168 -> $50.14 (-$378.13 / -2.04%, intraday +1.09%)
+  - XLE 340 @ $58.46 -> $58.65 (+$64.55 / +0.32%, intraday +0.69%)
+  - XLI 130 @ $171.67 -> $171.37 (-$39 / -0.17%, intraday +1.01%)
+- Open trail stops (5, GTC): XLE $55.53 | XLB 198sh $46.98 | XLB 165sh $46.98 | XLI $158.922 | MTUM $298.341
+- Weekly trade count: 0/6. Phase P&L: -$2,611 (-2.61%) from $100k baseline.
+
+### Market Context
+- **May PPI (08:30 ET): COOL miss**. Headline +0.1% MoM vs +0.2% consensus; core +0.1% MoM vs +0.3% consensus; YoY core 3.0% vs 3.1%. **First cool inflation print of the campaign** -- reverses CPI hot read from Wed Jun 10. Risk-on response: Dow +0.20%, EUR/USD +0.18%, gold +0.12% immediately post-print.
+- **ORCL Q4 FY26 (AMC Jun 10): BEAT**. EPS $2.11 vs $1.96 (+8%), revenue $19.2B (+21% YoY) vs $19.1B est. FY26 capex guide unchanged at $50B = massive AI/cloud confirmation. RPO Q2 was $523B +438% YoY (Q4 figure pending). Direct tailwind for XLI/MTUM AI-capex thesis.
+- **Tape today**: SPX premarket bid; intraday SPX ~7,395 (recovering Wed -0.54%). VIX retreating from 19.87.
+- **Sector momentum YTD**: Energy +29%, Industrials/Materials "Leading", Tech AI-leaders extending on ORCL+AVGO chain.
+
+### Trade Ideas
+1. **BUY GNRC 25 shares at market** (~$251 mid; ~$6,275 cost ~6.5% of book). Catalyst: AI/data-center power generation +64% YTD; ORCL $50B capex guide + AVGO blowout = direct power-demand spillover; XLI book leader reinforcement. Sector cap binding: Industrials currently 22.9% / $22,317 cost basis; 30% cap = $29,217 max -- GNRC sized to ~6.5% adds Industrials to ~29.4%, under cap. 12% trail (high-beta single-name).
+2. **HOLD all 4 existing positions**. All intraday green, no -7% manual cuts, no +15% trail-tightens. Trails armed and auto-ratcheting.
+3. **PASS LYB**: Materials sector showing technical crack (XLB bearish 10/50 cross, 50DMA broken) -- adding to weakness violates rotation principle.
+4. **PASS SANM/SNDK**: Tech 1-strike post-DELL; SNDK extended +172% YTD = late-cycle chase; SANM wider Alpaca spread = data quality concern at open; defer until next clean setup.
+5. **PASS TPL**: Energy near sector cap (XLE 20.5%), would push Energy past comfort.
+
+### Risk Factors
+- **Deployment 85.92% thin**: GNRC add lifts to ~92.4% = healthy buffer above floor.
+- **GNRC +64% YTD**: high-beta = 12% trail; cut at -7% manually if it cracks. 1-strike risk on single-name volatility.
+- **Industrials sector concentration**: 22.9% -> ~29.4% after GNRC = near 30% cap; no further Industrials adds permitted until trim.
+- **PPI cool may unwind if FOMC hawkish-pause Jun 17-18**: keep dry powder for post-FOMC clarity (6 trades available, plenty of weekly slots).
+- **XLE 1-strike state**: trail buffer 5.3% to current; WTI tape independent of inflation read.
+
+### Decision
+**TRADE 1**: BUY GNRC 25 sh @ market, 12% trailing stop GTC. Adds 5th position (5-8 compliance), reinforces strongest sector theme, sized within sector cap.
+

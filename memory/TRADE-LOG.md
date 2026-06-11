@@ -349,3 +349,24 @@ New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment
 | XLI | 130 | $171.67 | $175.51 | +1.08% | +$499.20 (+2.24%) | $158.92 (10% trail, hwm $176.58) |
 
 **Notes:** Choppy split tape, essentially flat at the close. Day P&L -$53 (-0.05%) -- noise. Phase widens marginally to -$2,152 (-2.15%), fresh campaign low by ~$53. XLI led the upside again (+1.08% to $175.51, fresh hwm $176.58 -> trail ratcheted $158.80 -> $158.92), AI/data-center capex thesis still working; XLB +1.54% to $50.73 (Materials recovered Mon's give-back, unrealized improves to -0.88%, 7.4% above $46.98 trail). Downside: XLE -1.51% to $57.45 (WTI bid faded, unrealized worst at -1.73%, 3.3% above $55.53 trail and 6.0% above -7% manual cut at $54.37); MTUM -1.10% to $311.63 (broke Mon's $315.08 recovery, unrealized flipped from -0.16% to -1.25%, hwm $331.49 unchanged, 4.5% above $298.34 trail). No fresh hwm on MTUM/XLB/XLE; XLI only ratchet today. Deployment 86.0% ($84,137 long_market_value / $97,848 equity), still 1pp above 85% floor. Sector mix: Energy 20.0% / Materials 18.8% / Industrials 23.3% / Multi-sector momentum 23.9% / Tech 0% -- all under 25% per-position and 30% sector caps. No -7% manual cuts triggered (worst XLE -1.73%, far from threshold). No +15% trail tightens (best XLI +2.24%, well under +15%). No trades today, weekly count 0/6. Tomorrow (Wed/CPI is tomorrow, FOMC Jun 18 looms): pre-market read on CPI print + tape -- if risk-on continuation and MTUM reclaims $315.58 entry, hold and let trails work; if XLE breaches $55.53 trail or any position hits -7% manual cut, exit without hesitation = second failed energy trade ends sector exposure; if drawdown extends and deployment slips under 85%, redeploy via XLB add or LYB/GNRC/TPL high-conviction entry; 6 weekly trades available, 4 open slots.
+
+## 2026-06-11 -- Market-Open Trade (GNRC ADD)
+
+| Date | Ticker | Side | Shares | Entry (avg) | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------------|------|--------|--------|-----|
+| 2026-06-11 | GNRC | BUY | 25 | $247.0368 | $215.80 (12% trail, hwm $245.23) | Industrials reinforcement; AI/data-center power gen +64% YTD; ORCL $50B capex unchanged + AVGO blowout chain confirms power-demand spillover; cool May PPI risk-on; XLI book leader | $284.09 (+15%) | 2.5:1 |
+
+**Notes:** First add this week. PPI cool (headline +0.1% vs +0.2%, core +0.1% vs +0.3%; core YoY 3.0% vs 3.1%) + ORCL beat (EPS $2.11 vs $1.96, $50B FY26 capex guide unchanged) = risk-on tape. GNRC chosen over LYB (XLB technical crack live), SANM/SNDK (Tech 1-strike post-DELL, defer), TPL (Energy near cap). Sector cap binding kept size to 25 sh / $6,176 (6.34% of book) -- Industrials cost basis now $22,317 + $6,176 = $28,493 / equity $97,389 = 29.3%, under 30% cap. 12% trail given high-beta single-name profile (+64% YTD). Positions lift 4 -> 5 (back inside 5-8 mandate); deployment 85.92% -> 92.26%, well clear of 85% floor.
+
+**Account post-fill:** Equity $97,388.89 | Cash $7,535.20 (7.74%) | Day P&L +$943.17 (+0.98%) | Phase P&L -$2,611.11 (-2.61%).
+
+| Ticker | Shares | Entry | Now | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------------|------|
+| GNRC | 25 | $247.0368 | $245.23 | -$45.17 (-0.73%) | $215.80 (12% trail, hwm $245.23) |
+| MTUM | 75 | $315.5848 | $310.16 | -$406.86 (-1.72%) | $298.341 (10% trail, hwm $331.49) |
+| XLB | 363 | $51.18168 | $50.14 | -$378.13 (-2.04%) | $46.98 (10% trail, hwm $52.1999) |
+| XLE | 340 | $58.460 | $58.65 | +$64.55 (+0.32%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $171.37 | -$39.00 (-0.17%) | $158.922 (10% trail, hwm $176.58) |
+
+Sector mix: Energy 20.5% / Materials 18.7% / Industrials 29.3% / Multi-sector momentum 23.9% / Tech 0% / Cash 7.7%. All under 30% sector cap and 25% per-position cap. Weekly count 1/6 (5 slots remain Fri).
+

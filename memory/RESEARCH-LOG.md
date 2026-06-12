@@ -1513,3 +1513,76 @@ Reasoning: (a) deployment 85.81% clears floor (thinnest margin, but compliant); 
 - **AMC ADBE Thu**: AI-creative software read; secondary cross-current for MTUM.
 - **EOD**: TRADE-LOG snapshot, Day 31 (Thu).
 - **Fri**: weekly review session + Day 32 EOD. If post-PPI conviction trade not taken Thu, Fri is the last weekly-slot deploy window.
+
+
+## 2026-06-12 -- Pre-market Research (Friday / **WEEKLY REVIEW DAY** / Day 32)
+
+### Account
+- Equity: $98,794.21 | Cash: $7,535.19 (7.63%) | BP: $285,666.02 | Daytrade count: 0
+- Last equity (Thu close): $98,677.35 -- overnight Day P&L +$116.86 (+0.12%) on quiet premarket
+- Position market value: $91,259.02 / equity = **92.37% deployed** -- clears 85% floor by 7.37pp (best buffer in 2 weeks post-GNRC add)
+- Positions (5):
+  - GNRC 25 @ $247.0368 -> $258.00 (+$274.08 / +4.44%, **NEW Thu Jun 11 entry** -- intraday +0.26%)
+  - MTUM 75 @ $315.5848 -> $319.01 (+$256.89 / +1.09%, Thu **+4.62%** post-PPI rally recovery)
+  - XLB 363 @ $51.18168 -> $51.59 (+$148.22 / +0.80%, Thu **+4.01%** recovery from sub-$50, reclaimed $50 + technical repair)
+  - XLE 340 @ $58.46 -> $56.79 (-$567.85 / -2.86%, Thu **-2.86%** -- only loser on Iran de-escalation/WTI slide)
+  - XLI 130 @ $171.67 -> $175.75 (+$530.40 / +2.38%, Thu **+2.96%** ORCL afterglow + AI capex)
+- Open trail stops (6, all GTC sell_to_close):
+  - GNRC $228.59232 (12% trail, hwm $259.764) -- NEW
+  - XLE $55.53 (10% trail, hwm $61.70)
+  - XLB 198sh $46.97991 (10% trail, hwm $52.1999)
+  - XLB 165sh $46.97991 (10% trail, hwm $52.1999)
+  - XLI $158.922 (10% trail, hwm $176.58)
+  - MTUM $298.341 (10% trail, hwm $331.49)
+- Weekly trade count: 1/6 (GNRC Thu). Phase P&L: -$1,205.79 (-1.21%) from $100k baseline -- **recovered $2,142 from Wed/Thu low**.
+
+### Market Context
+- **WTI ~$84.85 (Jun 12 settle) / Jul contract $86.71 -1.14%**: WTI cratered ~$7 Wed->Thu->Fri on **Trump calls off Iran strikes + deal close** (Bloomberg/TheStreet Jun 11). Off May $112 peak; off Jun 10 $90+ pre-deal. Brent ~$96-100 still elevated. **Iran de-escalation = direct XLE headwind**.
+- **S&P 500 futures: ESM26 ~7,397 (+0.02%) premarket**, range 7,387.5-7,421.25. Cash SPX closed Thu **+1.75% to 7,394.30** -- biggest single-day rally of 2026; recovered all Wed CPI losses.
+- **VIX: 19.44 spot Jun 11 close** (down from 22.22 Jun 10) -- **vol crush -12.5% post-Iran-deal**. Active risk regime persists but binary digestion done.
+- **Today's catalyst stack -- WEEKLY REVIEW DAY**:
+  - **OPEC monthly oil market report** (today) -- direct XLE input; Iran deal = supply-side easing baked in.
+  - **Earnings BMO**: light (JFIN Jiayin, REPL Replimune, PLCE Children's Place -- none book-relevant).
+  - **No FOMC** (June 16-17 ~95% pause priced).
+  - PPI Thu print **6.5% YoY actual vs 6.4% cons (+1.1% MoM headline vs 0.7% cons, +0.4% core vs 0.5% cons)** = headline hot, core in-line; biggest move since Nov 2022. Goods +2.8% (energy-driven), services +0.3% (cooling).
+- **ADBE AMC Thu**: Beat ($6.62B rev +13% vs $6.45B cons; $5.96 EPS vs $5.83 cons; ARR $27.10B incl ~$480M Semrush) BUT stock **-5.6% AH** on guidance/digestion -- AI-creative sentiment cross-current (MTUM holds NVDA/AVGO/AMD; ADBE not in MTUM top weights).
+- **Sector momentum YTD (Investing.com / S&P Global Jun 11)**: Energy +22-38% YTD (still "Leading" but Thu lagged on Iran deal), Materials/Industrials "Leading," Tech in "Lagging" quadrant despite Thu bounce. **Thu sector leaders: Tech / Industrials / Materials; laggards: Energy / Staples / RE**. Book aligned with leadership ex-XLE which faces fresh thesis pressure.
+
+### Held-ticker News
+- **GNRC** $258.00 (+4.44% unrealized, intraday +0.26%). Mkt commentary: hyperscaler global supply agreement (Jun 2) + $300M data-center backlog confirmed; CEO Jagdfeld guides C&I biz double over 3-5 yrs. AI-capex / data-center power thesis intact. Hwm $259.764 (intraday Jun 11), trail $228.59 = **11.4% buffer to current**, 7.7% to manual cut at $229.74. Sub-7% notional sizing (6.5% of book) keeps Industrials at 29.7% cap-compliant.
+- **MTUM** $319.01 (+1.09% unrealized, +4.62% Thu). IT 39.7% / Industrials 16.4%; AI-capex names NVDA/AVGO/MU/LRCX/AMD = direct beneficiaries of Thu Iran-deal risk-on + ORCL beat AMC Wed. Hwm $331.49 (Jun 4), trail $298.34 = 6.5% buffer, 8.0% to manual cut at $293.49. **Largest dollar position (24.2% of book)**. PPI hot is the residual headwind; geo-de-escalation is the tailwind.
+- **XLB** $51.59 (+0.80% unrealized, +4.01% Thu). **Technical repair** -- reclaimed $50 and 50DMA broken Jun 5; bear cross still on chart but Thu bounce begins repair. Hwm $52.1999 (Jun 4), trail $46.98 = 8.9% buffer, 7.7% to manual cut at $47.60. Largest by share count (363 sh). **Cut-watch suspended for now**, but needs 5DMA holdback to confirm repair.
+- **XLE** $56.79 (-2.86% unrealized, **Thu -2.86% only loser**). WTI cratered $90 -> $85 on Iran deal; Mish/GuruFocus pivot $57.21 broken to downside. Hwm $61.70 (May 19), trail $55.53 = **2.22% buffer to current (thinnest of book)**, 4.26% to manual cut at $54.37. **Still 1-strike state post-XOM May 27**; second stop-out = Energy sector exit per rulebook. **OPEC report today + WTI trajectory = make-or-break window**. Sticky-inflation hedge thesis dented by geo-driven crude sell.
+- **XLI** $175.75 (+2.38% unrealized, +2.96% Thu). Hwm $176.58 (Jun 9), trail $158.922 = 9.6% buffer. ORCL beat Wed AMC + AI/data-center capex thesis + GNRC reinforcement = thesis intact. Best buffered + GNRC complement.
+
+### Trade Ideas
+1. **HOLD all 5 today.** Book in repair: 4 of 5 green, XLE the lone laggard. None at -7% manual cut (worst XLE -2.86%), none at +15% trail-tighten (best GNRC +4.44%). Trails armed.
+2. **NO new entries today.** Deployment 92.4% (best of campaign post-GNRC), cash 7.6% well below 15% floor = no mandatory deploy. Sector mix: Energy 19.5% / Materials 19.0% / **Industrials 29.7% (cap-near)** / Multi-sector momentum 24.2% / Tech 0%. **Industrials 0.3pp from 30% cap = no add room**. Materials/Momentum have add room IF a catalyst presents, but weekly count 1/6 with 5 slots open = preserve dry powder for Mon post-weekend or post-FOMC Jun 18 setup.
+3. **XLE cut-watch live**: WTI $85 + Iran-deal risk + OPEC report today. **Trigger conditions**: (a) XLE breaches $55.53 trail -> auto-exit + Energy sector closed per rulebook; (b) XLE breaches $54.37 manual cut -> immediate cut; (c) OPEC bearish surprise + WTI sub-$80 = pre-emptive cut even with 2.22% buffer (rule: never within 3% of current price -- so no stop move, but manual cut is acceptable on thesis crack).
+4. **Watchlist for Mon Jun 15**: post-weekend / pre-FOMC Jun 18 setup -- SANM/SNDK gated to Tech 1-strike post-DELL; LYB Materials reinforce if XLB reclaims 50DMA + $52; no Industrials adds (cap).
+5. **No trims, no manual stop moves**: All 6 trails armed; never-move-down rule binding; never-within-3% rule binding.
+
+### Risk Factors
+- **OPEC monthly oil report TODAY** -- direct XLE input. Bullish (cuts deeper, demand strong) = XLE bounce. Bearish (production discipline easing) = XLE breaks trail / sector exit.
+- **WTI $85 = critical support zone**. Sub-$80 weekend = Mon XLE gap-down risk. Iran deal narrative = persistent crude headwind even if no fresh news.
+- **Industrials 29.7% sector cap** = 0.3pp from breach. Any GNRC/XLI intraday 1% move higher = breach. Rule: no add lifting sector >30%; trim on next strength if breached.
+- **Friday weekend risk**: Iran deal could unwind weekend (geopolitics is binary), ADBE AH -5.6% AI-sentiment crosscurrent, PPI hot residual rate-cut hesitation.
+- **MTUM 24.2% of book** = largest exposure, AI-capex sentiment binary. ADBE AH miss + sticky PPI = mild crosscurrent; ORCL beat + Iran deal = tailwind. Net neutral but high vol.
+- **XLE buffer 2.22% trail / 4.26% manual** = tightest in campaign. Energy 1-strike state means rule-driven exit, not discretionary.
+- **Phase P&L -$1,206 (-1.21%)** = recovered from -$3,348 Wed low (+$2,142 / +2.16% recovery). Discipline check: don't add risk into the bounce; this is the recovery, not validation.
+- **VIX 19.44 + futures 19.20** = vol regime normalized post-CPI/PPI binary. Implied < realized risk removed.
+- **6 weekly trades available**, 1 used (GNRC). PDT 0/3 -- no constraint. Friday adds rare value unless OPEC/geopolitics opens a high-conviction window.
+
+### Decision
+**HOLD all 5 today. No new entries. No trims. No manual stop moves.**
+
+Reasoning: (a) deployment 92.4% well clear of 85% floor -- best of campaign; (b) 4 of 5 positions green post-Thu rally, recovery phase intact; (c) XLE cut-watch live -- trails will trigger automatic exit if thesis breaks; (d) Industrials 29.7% sector cap blocks meaningful adds; (e) phase recovery $2,142 in 1 day = discipline test, don't chase; (f) weekly review session this afternoon = retrospective discipline; (g) Mon Jun 15 + FOMC Jun 18 = next high-conviction setup window. Friday = sit, observe, weekly review.
+
+### Plan for the day
+- **08:30 ET**: No major US prints (PPI was Thu).
+- **OPEC monthly oil report** (timing intraday) -- read for XLE thesis. Bullish/in-line = XLE relief; bearish = exit risk lit.
+- **09:30 ET market open**: HOLD; no first-hour entries. If XLE gaps below $55.53 trail = auto-exit (Energy sector closed); below $54.37 manual cut = immediate cut.
+- **Midday**: verify trails armed at Alpaca; check XLE buffer vs WTI tape; cut-watch on XLE only.
+- **Afternoon**: **WEEKLY REVIEW SESSION** -- update memory/WEEKLY-REVIEW.md with week-over-week performance, win/loss ratio, sector exposure trends, rule adherence audit, next-week thesis.
+- **EOD**: TRADE-LOG snapshot, Day 32 (Fri).
+- **Mon Jun 15**: pre-market read on weekend geopolitics + OPEC reaction. If post-weekend tape constructive + XLE survives, scout for second weekly slot. Pre-FOMC Jun 18 = thesis-stable setups only.

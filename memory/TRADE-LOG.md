@@ -349,3 +349,26 @@ New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment
 | XLI | 130 | $171.67 | $175.51 | +1.08% | +$499.20 (+2.24%) | $158.92 (10% trail, hwm $176.58) |
 
 **Notes:** Choppy split tape, essentially flat at the close. Day P&L -$53 (-0.05%) -- noise. Phase widens marginally to -$2,152 (-2.15%), fresh campaign low by ~$53. XLI led the upside again (+1.08% to $175.51, fresh hwm $176.58 -> trail ratcheted $158.80 -> $158.92), AI/data-center capex thesis still working; XLB +1.54% to $50.73 (Materials recovered Mon's give-back, unrealized improves to -0.88%, 7.4% above $46.98 trail). Downside: XLE -1.51% to $57.45 (WTI bid faded, unrealized worst at -1.73%, 3.3% above $55.53 trail and 6.0% above -7% manual cut at $54.37); MTUM -1.10% to $311.63 (broke Mon's $315.08 recovery, unrealized flipped from -0.16% to -1.25%, hwm $331.49 unchanged, 4.5% above $298.34 trail). No fresh hwm on MTUM/XLB/XLE; XLI only ratchet today. Deployment 86.0% ($84,137 long_market_value / $97,848 equity), still 1pp above 85% floor. Sector mix: Energy 20.0% / Materials 18.8% / Industrials 23.3% / Multi-sector momentum 23.9% / Tech 0% -- all under 25% per-position and 30% sector caps. No -7% manual cuts triggered (worst XLE -1.73%, far from threshold). No +15% trail tightens (best XLI +2.24%, well under +15%). No trades today, weekly count 0/6. Tomorrow (Wed/CPI is tomorrow, FOMC Jun 18 looms): pre-market read on CPI print + tape -- if risk-on continuation and MTUM reclaims $315.58 entry, hold and let trails work; if XLE breaches $55.53 trail or any position hits -7% manual cut, exit without hesitation = second failed energy trade ends sector exposure; if drawdown extends and deployment slips under 85%, redeploy via XLB add or LYB/GNRC/TPL high-conviction entry; 6 weekly trades available, 4 open slots.
+
+## 2026-06-12 -- Midday Scan (HOLD all 5)
+
+**Midday account:** Equity $100,013.93 | Cash $7,535.19 (7.53%) | Day P&L +$1,336.58 (+1.35%) | Phase P&L +$13.93 (+0.01%)
+
+| Ticker | Shares | Entry | Now | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------------|------|
+| GNRC | 25 | $247.0368 | $261.50 | +$361.58 (+5.86%) | $232.94 (12% trail, hwm $264.71) |
+| MTUM | 75 | $315.5848 | $325.53 | +$745.89 (+3.15%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | 363 | $51.18168 | $52.23 | +$380.54 (+2.05%) | $47.03 (10% trail, hwm $52.2573) |
+| XLE | 340 | $58.46 | $57.745 | -$243.15 (-1.22%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $176.40 | +$614.90 (+2.76%) | $158.95 (10% trail, hwm $176.61) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none triggered (worst XLE -1.22%, 5.84% above manual cut $54.37).
+- +15% / +20% trail-tighten: none eligible (best GNRC +5.86%, well below +15% threshold).
+- Thesis crack: none -- PPI Thu came in cooler than feared (post-print risk-on tape today), ORCL beat AMC Wed reinforces AI-capex thesis (XLI/MTUM/GNRC), WTI mid-$90s holding XLE base, Materials reclaimed $52 (XLB hwm $52.2573 = fresh trail ratchet $46.98 -> $47.03).
+- 3% / move-down rules: no manual stop moves. All trails auto-ratcheting on fresh hwm via Alpaca.
+- Sector concentration: Energy 19.63% / Materials 18.96% / Industrials 22.93% / Multi-sector momentum 24.41% / Industrials-adjacent (GNRC) 6.54% -- Industrials+GNRC combined ~29.47% (under 30% sector cap by 0.5pp); all single positions under 25% per-position cap.
+
+**Action: NONE.** No cuts, no tightens, no new entries. GNRC entry Jun 11 post-PPI (+5.86% unrealized) working as planned; deployment lifted from 85.81% to 92.47% via that entry alone. All 6 GTC trails armed at Alpaca; XLB hwm ratchet $52.1999 -> $52.2573 today (stop $46.98 -> $47.03), XLI hwm ratchet $176.58 -> $176.61 today (stop $158.92 -> $158.95), GNRC hwm $264.71 (intraday peak Jun 11) holds. Phase flipped GREEN (+$14) for first time since May 18 -- discipline check: do not over-trade the relief bounce.
+
+**PM watch:** GNRC extension toward $264.71 hwm (push to fresh hwm = continued ratchet); XLE buffer (3.84% to trail $55.53 -- thinnest of book); ADBE AMC Thu post-mortem cross-current for MTUM; ITF/CPI follow-through into Fri weekly review. 5 weekly trades available (1 used: GNRC), 3 open slots.

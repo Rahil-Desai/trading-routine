@@ -328,3 +328,67 @@ Down -0.38% vs S&P +1.21% = -1.59% relative on a positive market week. Trails wo
 ### Overall Grade: D
 
 -2.17% on a +0.7% S&P week = -2.87% relative on a positive market week, deeper miss than week 2. First realized loss of the campaign (XOM -$734.91, trail stop). New phase low -$1,466 (-1.47%). Idle-cash rule violation accrued for 3 trading days post-XOM stop. Fifth straight week of 0/3 slot utilization. Held back from F by: XOM trail-stop execution was textbook (no rule break on the cut, no panic, no overhang), XLE manual cut respected (held with 3.7% buffer instead of pre-empting), no revenge trade at the gap, sector-exit trigger pre-committed for next week. Process > outcome on the XOM exit; outcome > process on the paralysis. The rule changes this review aren't decorative -- they exist because the 5-week pattern is now actively destroying capital, not just opportunity cost.
+
+## Week ending 2026-06-12
+
+Note: Week ending 2026-06-05 review was not logged (NFP-Fri cadence break). This review covers Mon Jun 8 -> Fri Jun 12 only.
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $97,326.26 (Mon Jun 8 open = Fri Jun 5 close per Alpaca balance_asof) |
+| Ending portfolio | $99,914.59 |
+| Week return | +$2,588.33 (+2.66%) |
+| S&P 500 week | +0.73% (7,383.74 -> ~7,437.32) |
+| Bot vs S&P | +1.93% |
+| Trades | 1 (W:0 / L:0 / open:1 new + 4 carried = 5 open) |
+| Win rate | N/A (no closed trades) |
+| Best trade | GNRC +6.20% (unrealized) |
+| Worst trade | XLE -1.56% (unrealized) |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| -- | -- | -- | -- | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| GNRC | $247.04 | $262.36 | +$383.08 (+6.20%) | $232.94 (12% trail, hwm $264.71) |
+| MTUM | $315.58 | $324.40 | +$661.14 (+2.79%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | $51.18 | $52.29 | +$402.32 (+2.17%) | $47.12 (10% trail, hwm $52.355) |
+| XLE | $58.46 | $57.55 | -$309.72 (-1.56%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | $171.67 | $176.48 | +$625.30 (+2.80%) | $158.95 (10% trail, hwm $176.61) |
+
+### What Worked
+- Binary-day discipline through CPI Wed + PPI Thu: held all 4 through both 08:30 ET prints; no panic, no pre-emptive trim, no revenge. CPI 4.2% YoY (HOT) sold off MTUM/XLB (-2.15%/-1.80%) while XLE absorbed +1.59% as sticky-inflation hedge; PPI in-line + ORCL beat AMC drove the Thu/Fri relief bid that delivered the week.
+- BROKE the 5-week paralysis: GNRC 25 sh @ $247.04 entered Thu post-PPI per pre-written playbook (sub-7% notional to keep Industrials under 30% cap). Closed week +6.20% / +$383 in ~1.5 sessions held. First new single-name idea since DELL stop, rule-clean, immediately rewarded.
+- Trail ratcheting worked across multiple names: XLB hwm $52.20 -> $52.355 (stop $46.98 -> $47.12), XLI hwm $176.58 -> $176.61 (stop $158.92 -> $158.95), GNRC fresh hwm $264.71 (stop $232.94 armed at 12% high-beta trail). MTUM held through the CPI thinning (peak buffer 2.16% at $304.92) without trigger.
+- Zero rule breaks for the 7th straight week: no -7% manual cuts, no 3% rule violations, no stop-down moves, deployment floor cleared every session (thinnest 85.81% Thu). The new "no roll-forward without an order" floor rule held.
+- Beat S&P 500 by +1.93% on a positive market week -- the cleanest deployment-aligned alpha week since week 1. Sector concentration that hurt in week 2 paid off post-PPI with Industrials/Materials co-leading and Energy absorbing the inflation print.
+
+### What Didn't Work
+- Only 1 of 6 weekly slots used. Post-CPI Wed slot was defensibly deferred to PPI Thu, but the LYB / second-leader add never followed even with ORCL beat AMC Wed confirming AI-capex risk-on. Sixth straight week of single-digit slot utilization.
+- Trim-into-strength STILL unexercised. MTUM ran to +5%+ unrealized Wed AM pre-CPI; XLI extended post-AVGO/ORCL; no trim taken at any peak. Same missed-offense lesson as weeks 3-5. Until this becomes a hard procedural step, it will keep being passed by.
+- Floor-buffer thinness: 0.81-1.06pp clearance above 85% every session. Any single -1% drawdown would have triggered a forced redeploy on Fri AM open. Technically compliant; spirit of "stay deployed" (90-100% target) not met. 7.5% cash at week's close is closer to compliance but still under-deployed vs target.
+- XLE remains the lone red at -1.56% in 1-strike state (XOM May 27). WTI ~$90-92 vs May $112 peak = thesis weakening; trail $55.53 has only 3.7% buffer at Fri close. Next stop-out = Energy sector exit per rule 12.
+- Missing Jun 5 weekly-review session (NFP Fri / phase low). Cadence break -- the 5-week paralysis lessons did not get the Friday accountability check that would have set up Mon Jun 8 deployment with sharper triggers.
+
+### Key Lessons
+- Single-name leader hunting beats ETF-only deployment for alpha. GNRC (+64% YTD entrant) was the cleanest setup of the week and the best weekly P&L driver per dollar deployed (+6.20% in ~1.5 sessions vs +2-3% ETF lift). Rule 6 ("ETFs are fast deployment vehicles only") is right -- single-name leaders > ETFs for alpha. Bias next week.
+- Binary-day discipline is now a 7-week consistent strength. Two binaries in 2 days, held without rule break, tape paid off net +$2,588. Trust the trail through binaries. Don't pre-empt.
+- Sector cap is binding and working. Industrials closed at 29.53% (XLI 22.96% + GNRC 6.57%) -- the 30% cap forced GNRC to sub-7% sizing, exactly as designed. Cap is doing the protective job; the offset is that reinforce-the-winner sizing is now capped. Implies a future rule: trim correlated ETF (XLI 25 sh) to free room for higher-conviction single-name adds.
+- Trim-into-strength is a SYSTEMIC gap, not an episodic miss. Six weeks now of "next time at +5%+ I'll trim." Need a hard procedural trigger: on ANY position at +15% unrealized OR >25% book, trim 25-50% on next strength day -- no future-tense deferrals.
+- ETF-floor + single-name-leader pairing is the playbook that works. Two weeks of evidence: Mon Jun 1 deploy (4 ETFs/factor lifted deployment + restored floor) + Thu Jun 11 GNRC single-name (alpha layer on top). Repeat the structure: ETF for deployment compliance, single-name leaders for alpha.
+
+### Adjustments for Next Week
+- FOMC Jun 17-18 is THE binary of the week. ~95% pause priced; dot plot + Powell tone are the move. Pre-FOMC Tue/Wed: HOLD + scout. Post-FOMC Wed AMC + Thu: deploy 2nd slot from watchlist (LYB if XLB reclaims $52.20, SNDK/SANM only if clear AI-tech risk-on post-Powell).
+- Use 2-3 slots Mon-Fri (week starts 0/6). Targets ranked: (1) LYB (Materials reinforce contingent on XLB reclaim), (2) GNRC ADD on next strength if Industrials cap relieved by XLI trim, (3) SNDK/SANM (Tech 1-strike, FOMC-gated). PASS list: TPL (energy cap binding), megacap tech (FOMC binary).
+- XLE decision tree refresh: WTI break $90 + XLE breach $55.53 trail = sector exit per rule 12 (failed-trade #2), rotate cash to Materials/Industrials immediately. WTI reclaims $95 + XLE reclaims $58.46 entry = thesis re-confirmed, hold full. No XLE add under any condition.
+- Trim-into-strength OPERATIONALIZE (pre-written, no deferrals): on any position at +15% unrealized OR >25% of book, trim 25-50% on next strength day. GNRC is the candidate to watch first (currently +6.20%, +15% threshold = $284.10). MTUM watch >$329 (would push >25% of book).
+- Sector-cap pressure: Industrials at 29.53% is at the cap. If GNRC extends to +15%, trim 8-10 sh GNRC (trim-into-strength rule) or trim 25 sh XLI (cap-relief rotation) to free room for the next high-conviction add.
+- Cadence: catch up on the Jun 5 review gap by holding the Friday-review discipline tight next week. No Friday slip-throughs.
+
+### Overall Grade: B
+
++1.93% vs S&P on a positive market week, broke the 5-week single-name paralysis with GNRC (rule-clean, sub-7% sized, +6.20% in ~1.5 sessions), held binary-day discipline through both CPI and PPI without a rule break, trails ratcheted on XLB/XLI/GNRC. Phase P&L back to nearly flat at -$85.41 (-0.09%) -- recovered the entire -$3,348 mid-week low. Held back from A by: still only 1 of 6 weekly slots used (the offensive playbook is one trade short), trim-into-strength missed yet again (MTUM/XLI both extended without a trim), floor compliance via 0.8-1.1pp margin (the spirit of "stay deployed" is not 14% cash structural), and the missing Jun 5 review (cadence break). XLE 1-strike state unchanged; FOMC week ahead is the next binary. No strategy rule changes this week.

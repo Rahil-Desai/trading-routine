@@ -1586,3 +1586,87 @@ Reasoning: (a) deployment 92.4% well clear of 85% floor -- best of campaign; (b)
 - **Afternoon**: **WEEKLY REVIEW SESSION** -- update memory/WEEKLY-REVIEW.md with week-over-week performance, win/loss ratio, sector exposure trends, rule adherence audit, next-week thesis.
 - **EOD**: TRADE-LOG snapshot, Day 32 (Fri).
 - **Mon Jun 15**: pre-market read on weekend geopolitics + OPEC reaction. If post-weekend tape constructive + XLE survives, scout for second weekly slot. Pre-FOMC Jun 18 = thesis-stable setups only.
+
+
+## 2026-06-15 -- Pre-market Research (Monday / Day 33 / **FOMC WEEK / Warsh debut**)
+
+### Account
+- Equity: **$100,432.15** -- **FIRST GREEN OF CAMPAIGN** (+$432 / +0.43% from $100k baseline)
+- Cash: $7,535.19 (7.50%) | BP: $290,252.25 | Daytrade count: 0/3
+- Last equity (Fri close): $99,835.93 -- overnight Day P&L **+$596.22 (+0.60%)** on premarket risk-on
+- Position market value: $92,896.96 / equity = **92.49% deployed** -- well clear of 85% floor (best post-GNRC)
+- Positions (5):
+  - GNRC 25 @ $247.0368 -> $262.36 (+$383 / +6.20%, intraday flat premarket -- weekend gap pending)
+  - MTUM 75 @ $315.5848 -> **$333.00** (+$1,306 / +5.52%, intraday **+2.65% premarket = fresh ATH** above $331.49 hwm)
+  - XLB 363 @ $51.18168 -> $52.72 (+$558 / +3.01%, intraday +1.04% premarket)
+  - XLE 340 @ $58.46 -> $56.18 (-$775 / -3.90%, intraday **-2.38% premarket on WTI sub-$82 weekend slide**)
+  - XLI 130 @ $171.67 -> $177.88 (+$807 / +3.62%, intraday +0.97% premarket; **fresh hwm pending**)
+- Open trail stops (6, all GTC sell_to_close):
+  - GNRC $232.94 (12% trail, hwm $264.71)
+  - XLE $55.53 (10% trail, hwm $61.70) -- **buffer 1.16% to current $56.18** (THINNEST of book)
+  - XLB 198sh $47.12 (10% trail, hwm $52.355)
+  - XLB 165sh $47.12 (10% trail, hwm $52.355)
+  - XLI $158.95 (10% trail, hwm $176.61) -- ratchet pending if XLI prints fresh hwm
+  - MTUM $298.34 (10% trail, hwm $331.49) -- **ratchet pending: at $333 = trail moves to $299.70**
+- Weekly trade count: 0/6 (new week). Phase P&L: **+$432.15 (+0.43%) -- first green of campaign**, recovered $3,780 from Wed CPI low.
+
+### Market Context
+- **WTI ~$81 / Brent low-to-mid $80s**: Fri -3.23% to $84.85 + weekend slide on **US-Iran interim deal close** -- WTI down ~20% from early-June $100+ peak. Critical $80 zone in play; sub-$80 = XLE thesis terminal break. OPEC trimmed 2026 demand-growth outlook = bearish demand cross-current. Brent still elevated mid-$80s; spread reflects geopolitical premium fade.
+- **S&P 500 futures ESM26 ~7,524-7,590 premarket (+1.21%)**: cash SPX +1.75% Fri to 7,394 (biggest 2026 rally); premarket bid carries SpaceX IPO + US-Iran deal afterglow. Range 7,387-7,421 -> 7,524+ = clean breakout setup if held.
+- **VIX 19.44 (Fri close)**: post-CPI/PPI vol crush intact; no fresh Mon print. Active risk regime persists but binary digestion done. FOMC binary returns Wed.
+- **Today's catalyst stack -- pre-FOMC Wed**:
+  - **BMO earnings**: **NONE noteworthy** (Kiplinger confirms). Quiet open.
+  - **Economic prints today**: NONE major (Empire State Manufacturing 08:30 only; not market-moving).
+  - **Big week ahead**: **Tue Housing Starts 08:30 / Wed Retail Sales 08:30 + FOMC 14:00 + Warsh press conf 14:30 / Thu jobless claims / Fri JUNETEENTH (market CLOSED)** = 4-day week, all data front-loaded into Wed binary.
+  - **FOMC Jun 16-17 = ~95% pause priced** but **first meeting of new Fed Chair Kevin Warsh** = max policy-tone uncertainty. Warsh historically more hawkish than Powell -- any pivot signal = direct rate-sensitive impact (MTUM AI-capex, XLB Materials, GNRC).
+- **Weekend headlines**:
+  - **SpaceX IPO Fri = $75B, largest in history**; +11% day 1 to ~$2T mkt cap. Nasdaq +2.5% Fri on AI/space-tech sentiment carry; spillover bid for MTUM (NVDA/AVGO/AMD/MU top weights).
+  - **US-Iran interim deal close** (Bloomberg/multiple Fri-weekend confirms) = persistent crude headwind through FOMC. XLE = primary book victim.
+  - Trump weekend rhetoric: "more Iran strikes" threats per Bloomberg headline -- weekend tail risk for crude reversal exists but baseline = deal trajectory holds.
+- **Sector momentum (Investing.com / StockCharts RRG Jun 14)**: Energy "dominant leader" YTD +22% but **rolling over post-Iran-deal**; Industrials + Materials still **Leading**; Tech **Lagging quadrant** despite Fri Nasdaq +2.5% bounce; Staples + Utilities improving on defensive bid. **Book aligned with leadership ex-XLE thesis pressure**.
+
+### Held-ticker News
+- **MTUM** $333.00 premarket (+5.52% unrealized, **+2.65% gap = fresh ATH above $331.49 hwm**). SpaceX IPO + US-Iran deal + post-PPI relief rally + AI capex thesis (NVDA/AVGO/MU/LRCX/AMD = top weights) = quad-tailwind. **Largest dollar position (24.87% of book)**. Hwm $331.49 -> if Mon close above, trail ratchets $298.34 -> $299.70+. **Best recovery candidate post-FOMC if Warsh dovish**.
+- **GNRC** $262.36 (last close, +6.20% unrealized). Hyperscaler global supply agreement (Jun 2) + $300M data-center backlog; CEO Jagdfeld guides C&I biz double over 3-5 yrs. AI-capex / data-center power thesis intact. Hwm $264.71 (Jun 11 intraday peak), trail $232.94 = 11.21% buffer to current, 8.08% to manual cut at $229.74. **No add room: Industrials sector at 29.55% (0.45pp from 30% cap)**.
+- **XLB** $52.72 premarket (+3.01% unrealized, +1.04% gap). **Technical repair intact** post-Thu reclaim of $50 + 50DMA; sticky-inflation + reshoring + Materials Leading quadrant. Hwm $52.355 (Jun 4) -> if Mon close above $52.355, trail ratchets $47.12 -> ~$47.45. Largest by share count (363 sh). Cut-watch suspended; repair trajectory holds.
+- **XLE** $56.18 premarket (-3.90% unrealized, **-2.38% gap on weekend WTI sub-$82 slide**). WTI $81 + Iran deal + OPEC demand cut = triple headwind. Hwm $61.70 (May 19), trail $55.53 = **1.16% buffer to current (thinnest of book)**; manual cut at $54.37 = 3.22% buffer. **STILL 1-strike state post-XOM May 27**; second stop-out = Energy sector exit per rulebook. **CUT-WATCH HIGHEST RISK**: WTI sub-$80 sustained intraday = pre-emptive manual cut acceptable per thesis-crack rule, even with trail buffer remaining.
+- **XLI** $177.88 premarket (+3.62% unrealized, +0.97% gap = **fresh hwm pending**). ORCL beat (Wed AMC) + AVGO Jun 3 + AI/data-center capex thesis + GNRC reinforcement = thesis intact. Hwm $176.61 (Jun 12) -> if Mon close above $177.88, trail ratchets $158.95 -> ~$160.09. Best buffered + complementary to GNRC.
+
+### Trade Ideas
+1. **HOLD all 5 today.** Premarket book +$596 (+0.60%) on bid tape. 4 of 5 green entry-to-spot; XLE the lone laggard on geo-driven crude sell. None at -7% manual cut (worst XLE -3.90%). None at +15% trail-tighten (best GNRC +6.20%). All 6 trails armed and working.
+2. **NO new entries today**. Pre-FOMC Wed = max binary positioning destroys edge; new Chair Warsh's first meeting = additional uncertainty layer. Deployment 92.49% well above 85% floor = no mandatory deploy. Industrials cap 29.55% blocks XLI/GNRC adds anyway. Cash 7.50% under 15% floor = no rule-driven action.
+3. **XLE cut-watch ACTIVE**: WTI $81 + weekend Iran-deal headlines + OPEC demand cut. Trigger conditions:
+   - (a) XLE breaches $55.53 trail intraday -> auto-exit + Energy sector closed (2nd strike rule);
+   - (b) XLE breaches $54.37 manual cut -> immediate cut;
+   - (c) WTI prints sub-$80 sustained + XLE acts weak -> pre-emptive manual cut on thesis crack (rulebook: thesis crack = acceptable discretionary exit even pre-trail trigger).
+   - **Energy sector exit closes 19.0% of book ($19,101) -> cash spikes to 26.5% temporarily; mandatory deploy on next session into Materials/Industrials reinforcement (LYB Materials, GNRC/XLI capped).**
+4. **MTUM/XLI trail ratchets pending**: If MTUM closes above $331.49 (currently $333 premarket), Alpaca auto-ratchets trail $298.34 -> ~$299.70. Same for XLI above $176.61 -> $158.95 -> ~$160.09. No manual action required.
+5. **Watchlist for post-FOMC (Wed PM / Thu)**: LYB (Materials, chemicals leader -- XLB repair confirms add window if cleared); SANM/SNDK (Tech 1-strike post-DELL, only with Warsh dovish + clear AI risk-on); avoid Energy adds while XLE under thesis pressure. **Preserve dry powder for post-FOMC conviction trade Wed PM / Thu**.
+
+### Risk Factors
+- **FOMC Wed 14:00 ET + Warsh press conf 14:30 = THE binary of the week**. Pause priced (~95%) -- the risk is in the dot plot, statement language, and Warsh's tone vs Powell. Hawkish surprise = MTUM/XLB/GNRC pressure (rate-sensitive AI capex + Materials cyclicals + high-beta single-name). Dovish surprise = momentum extension across book ex-XLE.
+- **WTI $81 = critical support / $80 = thesis terminal line**. Sub-$80 sustained = XLE auto-exit + Energy sector closure. WTI bounce on Iran-deal unwind / OPEC surprise cut = relief but unlikely without geopolitical re-escalation. **Asymmetric: down risk = sector exit; up reward = recovery to flat at best.**
+- **Retail Sales Wed 08:30** (consensus +0.2% MoM vs prior +0.1%) -- stronger print before Warsh = hawkish setup; weaker print = dovish setup. Sequence matters.
+- **Industrials 29.55% sector cap** = 0.45pp from breach. ANY GNRC +2% or XLI +1% Mon move = breach -> trim on next strength required per rulebook. Watch sector concentration intraday.
+- **MTUM 24.87% of book = max single-position concentration**. Premarket +2.65% gap = either continuation (extends to 25%+ -- but ETF treated as multi-sector, no per-position breach until 25%) or fade. AI sentiment binary on Warsh tone.
+- **Phase P&L +$432 (+0.43%) = FIRST GREEN of campaign**. **Discipline check: don't add risk into the breakout**; this is the recovery completing, not validation. Pre-FOMC positioning = wait, don't chase.
+- **Cash 7.50% under 15% floor**, but **deployment 92.49% well above 85%** = no mandatory deploy; rule allows cash under 15% as long as deployment > 85%. (Cash drift > 15% past 1 trading day = trigger; we're at 7.5%, comfortable.)
+- **Tail risk weekend**: Trump "more Iran strikes" threat per Bloomberg = crude reversal possible on geopolitical re-escalation. Pre-deal Iran headlines = XLE relief, MTUM growth-risk-off, gold/staples bid. Asymmetric news binary -- can't position for it.
+- **Fri Juneteenth market CLOSED** = 4-day week, all binaries front-loaded into Wed. Plan: zero weekend exposure adds Mon-Thu; if Thu PM weekend tail risk, consider light trim. (For now: no action -- 4-day week is feature not bug.)
+- **6 weekly trades available, fresh week, PDT 0/3** -- plenty of dry powder; preserve for post-FOMC conviction trade Wed PM / Thu.
+
+### Decision
+**HOLD all 5 today. No new entries. No trims. No manual stop moves.**
+
+Reasoning: (a) deployment 92.49% well clear of 85% floor -- best of campaign; (b) phase P&L +$432 = first green of campaign, recovery thesis validated -- discipline says don't chase; (c) all 6 trails armed and working, MTUM/XLI fresh-hwm ratchets pending; (d) XLE cut-watch live but no breach yet -- let trail/manual-cut rules trigger on data, not on weekend headlines; (e) Industrials 29.55% sector cap blocks meaningful adds; (f) **FOMC Wed + Warsh debut + Retail Sales Wed = max binary positioning destroys edge** -- preserve dry powder for post-print conviction trade; (g) Fri Juneteenth = 4-day week, all action concentrated Tue-Thu.
+
+### Plan for the day
+- **08:30 ET**: Empire State Manufacturing print (minor); no major data.
+- **09:30 ET market open**: HOLD; let premarket gaps fill or extend on real volume. If MTUM holds $333+ at open, trail ratchet begins; if XLE gaps through $55.53 trail = auto-exit + Energy sector closed; if XLE -7% gaps to $54.37 manual cut = immediate cut.
+- **Midday**: verify trails armed at Alpaca (esp. MTUM/XLI hwm ratchets); check XLE buffer vs WTI tape; cut-watch on XLE only. **No new entries -- pre-FOMC discipline.**
+- **Afternoon**: monitor for XLE thesis crack signals (WTI sub-$80 sustained); no other action expected.
+- **EOD**: TRADE-LOG snapshot, Day 33 (Mon). Check Industrials sector % vs 30% cap; document fresh hwm / trail ratchets.
+- **Tue Jun 16**: pre-market read on Housing Starts + day-2 of premarket WTI tape; HOLD pattern continues.
+- **Wed Jun 17 = THE binary day**: Retail Sales 08:30, FOMC 14:00, Warsh press 14:30. Pre-print HOLD; post-print scout window 14:45-15:30 ET on constructive tape only. Conviction trade: LYB (if XLB repair confirms), SANM/SNDK (if Warsh dovish + AI risk-on -- Tech 1-strike), or XLI/GNRC reinforce (if Industrials trims open cap room post-trim, unlikely Mon-Wed).
+- **Thu Jun 18**: jobless claims 08:30; weekly slot deploy if post-FOMC conviction trade not taken Wed; pre-weekend trim consideration on any approaching trail.
+- **Fri Jun 19**: market CLOSED Juneteenth.

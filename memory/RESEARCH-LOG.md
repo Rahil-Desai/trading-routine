@@ -1670,3 +1670,94 @@ Reasoning: (a) deployment 92.49% well clear of 85% floor -- best of campaign; (b
 - **Wed Jun 17 = THE binary day**: Retail Sales 08:30, FOMC 14:00, Warsh press 14:30. Pre-print HOLD; post-print scout window 14:45-15:30 ET on constructive tape only. Conviction trade: LYB (if XLB repair confirms), SANM/SNDK (if Warsh dovish + AI risk-on -- Tech 1-strike), or XLI/GNRC reinforce (if Industrials trims open cap room post-trim, unlikely Mon-Wed).
 - **Thu Jun 18**: jobless claims 08:30; weekly slot deploy if post-FOMC conviction trade not taken Wed; pre-weekend trim consideration on any approaching trail.
 - **Fri Jun 19**: market CLOSED Juneteenth.
+
+
+## 2026-06-16 -- Pre-market Research (Tuesday / Day 34 / **FOMC eve / Warsh debut tomorrow**)
+
+### Account
+- Equity: **$100,752.38** (+$246.45 / +0.25% overnight from Mon close $100,505.93; **2nd straight green close vs $100k baseline**)
+- Cash: **$1,707.16 (1.69%)** -- under 15% floor but deployment well above 85% = compliant
+- BP: $284,155.25 | Daytrade count: 0/3 | PDT false
+- Position market value: $99,045.22 / equity = **98.31% deployed** -- highest of campaign (designed post-XLE rotation Mon)
+- Last equity (Mon close): $100,465.36 -- overnight Day P&L **+$287.02 (+0.29%)** on ES +1.22% premarket tape
+- Positions (6, all green):
+  - GNRC 25 @ $247.0368 -> $270.10 (+$576.58 / **+9.34%**, intraday flat premarket; closing in on +15% trail-tighten trigger $284.09)
+  - MTUM 75 @ $315.5848 -> $333.63 (+$1,353.39 / +5.72%, flat premarket; $0.98 from hwm $334.61 -- ratchet pending)
+  - XLB 363 @ $51.18168 -> $52.94 (+$638.27 / +3.44%, **+0.84% intraday premarket = fresh hwm pending above $53.195**)
+  - XLI 130 @ $171.67 -> $178.68 (+$911.30 / +4.08%, flat premarket; hwm $179.98 needs +0.73% to ratchet)
+  - XLK 65 @ $190.41 -> $192.86 (+$159.40 / +1.29%, **+0.56% intraday premarket = fresh hwm $192.07 cleared**)
+  - XLV 80 @ $152.67825 -> $153.61 (+$74.54 / +0.61%, **+0.47% intraday premarket = fresh hwm $153.40 cleared**)
+- Open trail stops (7 GTC, all armed):
+  - GNRC $241.12 (12% trail, hwm $274.00) -- 10.7% buffer to current
+  - MTUM $301.149 (10% trail, hwm $334.61) -- 9.7% buffer
+  - XLB 198sh $47.8755 (10% trail, hwm $53.195) -- 9.6% buffer
+  - XLB 165sh $47.8755 (10% trail, hwm $53.195) -- 9.6% buffer
+  - XLI $161.982 (10% trail, hwm $179.98) -- 9.3% buffer
+  - XLK $172.863 (10% trail, hwm $192.07) -- 10.4% buffer (premarket new hwm pending ratchet)
+  - XLV $138.06 (10% trail, hwm $153.40) -- 10.1% buffer (premarket new hwm pending ratchet)
+- Weekly trade count: **2/6** (XLK + XLV Mon); 4 slots Tue-Thu (Fri CLOSED Juneteenth)
+- Phase P&L: **+$752.38 (+0.75%) -- fresh campaign high**; recovered +$2,905 from Wed Jun 10 -$2,152 phase low
+
+### Market Context
+- **WTI $80.49 (Jun 16 01:27 CT)** -- **sub-$80 zone breached / approached** post-Iran-deal + weekend slide; off $112 May peak. **Energy book already closed (XLE stopped Mon)** so direct exposure = zero; second-order USD/inflation read only.
+- **Brent $84.62 (Jun 15 09:00 ET)** -- spread narrowing.
+- **S&P 500 futures ESM26 +1.22% premarket** -- sharply higher open setup, post-Mon SPX continuation; NQM26 +1.99% = Tech leading premarket bid (XLK/MTUM tailwind).
+- **VIX ~16.25 (Jun '26 futures) / spot 16.2** -- **vol crushed from 19.44 Fri (-18%)**; complacent into Warsh's FOMC debut tomorrow = realized > implied risk re-emerging.
+- **Today's catalyst stack -- pre-FOMC Wed**:
+  - **08:30 ET: May Housing Starts + Building Permits** (cons ~1.46M after 1.465M; -2.8% MoM last). Single-family fell 9.0% Apr -- weakness backdrop. **Direct XLB read** (Materials/construction) + secondary XLI (Industrials/capex) read.
+  - **08:30 ET: Trade Price Indices** (export/import prices for May, secondary).
+  - **BMO earnings: WLY John Wiley & Sons** (cons EPS $1.65) -- **not book-relevant**, no other notable names.
+  - **No FOMC today** (Wed 14:00 ET / Warsh press 14:30 ET = THE binary 24h out).
+- **Tomorrow Wed Jun 17 = THE binary day**: Retail Sales 08:30 (cons +0.1% MoM after +0.2%) + **FOMC 14:00 + Warsh first press conf 14:30**. Pause ~95% priced; risk = hawkish dot plot / Warsh hike-isn't-ruled-out language / balance-sheet shrink signals.
+- **Sector momentum (June)**: Tech leading (AI capex narrative); Energy strong but rolling on Iran-deal; Industrials + Materials "Leading" quadrant; **Healthcare -3.49% YTD = laggard but XLV defensive bid post-OMCL signal**. Book covers leadership ex-defensive XLV diversification.
+- **Warsh narrative**: Multiple sources confirm Warsh has signaled **rate hike "cannot be ruled out"** + preference to **shrink Fed balance sheet**. Markets shifted from cuts pricing to debating hikes. **Hawkish surprise risk asymmetric vs ~95% pause priced**.
+
+### Held-ticker News
+- **GNRC** $270.10 (+9.34% unrealized, **best position**). Jun 2 hyperscale supply agreement + $700M data-center backlog (Q1 EPS $1.80 beat $1.33). Investor Day disappointed on no follow-on contract = Jun 10 -7.6% scare but Mon ripped back to fresh hwm $274. Hwm $274 / trail $241.12 = 10.7% buffer. **+15% trail-tighten trigger at $284.09 = 5.2% away** -- one strong day flips to 7% trail. Industrials sector cap **29.85% AT CAP = no add room**.
+- **MTUM** $333.63 (+5.72%). AI-capex sticky theme; NVDA/AVGO/MU/LRCX/AMD top weights = direct hawkish-Fed sensitivity. $0.98 from hwm $334.61 -- intraday +0.3% Tue = ratchet trail $301.149 -> ~$301.50+. **Largest position 24.83% of book (under 25% cap)**. Warsh hawkish = direct hit; dovish = continuation tailwind.
+- **XLB** $52.94 (+3.44%, +0.84% premarket). Materials/chemicals/construction; **Housing Starts 8:30 = direct read** -- weak print = headwind, in-line/beat = continuation. Hwm $53.195, intraday $52.94 -- close above $53.20 = trail ratchet $47.88 -> ~$47.88+.
+- **XLI** $178.68 (+4.08%). ORCL beat + AVGO Jun 3 + GNRC reinforcement = AI-capex + data-center capex theme intact. Hwm $179.98 / trail $161.982 = 9.3% buffer. Industrials cap binding (29.85%).
+- **XLK** $192.86 (+1.29%, **+0.56% premarket = fresh hwm above $192.07**). NVDA/AAPL/MSFT/AVGO top holdings -- 49% semis + 21% software. **Strike-2 Tech bet post-DELL failure**; Warsh hawkish surprise = direct hit (rate-sensitive). Hwm ratchet pending: trail $172.86 -> ~$173.50+ if close above $192.07.
+- **XLV** $153.61 (+0.61%, **+0.47% premarket = fresh hwm above $153.40**). LLY 16% / JNJ 10% / ABBV 7% / UNH 7% / MRK 5% -- pharma 38%. Defensive bid into FOMC uncertainty = natural Warsh-hedge characteristic (beta 0.58-0.63). Hwm ratchet pending: trail $138.06 -> ~$138.25+.
+
+### Trade Ideas
+1. **HOLD all 6 today.** Pre-FOMC discipline: max binary positioning destroys edge with Warsh's first meeting + dot-plot risk 24h out. Book all green; worst XLV +0.61%, best GNRC +9.34%. All trails armed, multiple hwm ratchets pending Tue.
+2. **NO new entries today.** Cash $1,707 = 1.69% = no dry powder anyway. **Industrials at 29.85% sector cap = no XLI/GNRC adds**. Tech (XLK) on strike-2 = no XLK add either (single-name Tech adds blocked). Materials room exists (XLB 19.1%); Healthcare room exists (XLV 12.2%); MTUM (multi-sector) room exists -- but no powder + pre-FOMC = stand down.
+3. **Trail ratchets pending (auto-armed at Alpaca)**:
+   - XLK above $192.07 (already there premarket $192.86) -> trail $172.86 -> $173.57+
+   - XLV above $153.40 (already there premarket $153.61) -> trail $138.06 -> $138.25+
+   - MTUM above $334.61 (close: needs +0.29% = $0.98) -> trail $301.149 -> $301.60+
+   - XLB above $53.195 (premarket $52.94 -- needs +0.48%) -> trail $47.88 -> $47.88+
+   - XLI above $179.98 (needs +0.73%) -> trail $161.98 -> $162.20+
+   - GNRC above $274 (needs +1.44%) -> trail $241.12 -> $241.46+; **+15% tighten trigger at $284.09 (+5.2%) = MONITOR**
+4. **Watchlist for post-FOMC (Wed PM / Thu)** -- preserve from yesterday: LYB (Materials add if XLB clean break above $53.20 + dovish Fed); SANM/SNDK (Tech strike-2 if Warsh dovish + AI risk-on -- HIGH risk, XLK already burns the second Tech slot via ETF); avoid Industrials/GNRC/XLI adds (cap binding); no Energy adds (sector closed for campaign). **Conditional dry powder: only via trim, none available pre-Wed**.
+5. **No trims, no manual stop moves**. Rules: never within 3% of current price; never move stop down; trails are the risk control.
+
+### Risk Factors
+- **FOMC Wed 14:00 ET + Warsh press 14:30 = THE binary**. 24h out. Asymmetric: ~95% pause priced + Warsh "hike not ruled out" + balance-sheet hawk = surprise = down-side concentrated. Hawkish hit = MTUM (24.8% of book, AI capex rate-sensitive) + XLK (12.4%, semis 49%) + GNRC (Industrials high-beta single-name) = ~46% of book directly exposed.
+- **Today's 8:30 Housing Starts = pre-FOMC read**: weak (sub-1.40M) = construction Materials pressure (XLB); in-line/beat = XLB continuation. Secondary XLI read. Permits more forward-looking than starts.
+- **VIX 16.25 = complacency into Warsh's debut** = implied vol underpriced. Realized vol expansion likely post-print Wed PM regardless of direction. Pre-print = HOLD discipline binding.
+- **WTI $80 zone testing** -- crude weakness signals demand softness backdrop for Warsh; risk-off rotation into Treasuries/USD if sub-$78 sustained. Book has zero direct Energy exposure post-XLE Mon = neutral.
+- **Industrials sector 29.85% AT CAP** = no add room on GNRC/XLI strength. If GNRC + XLI continue ripping, sector breach mechanically possible without action -- rule: trim on next strength to comply, but mark-to-market drift not a violation. Watch intraday vs 30% line.
+- **MTUM 24.83% of book = max single-position concentration**. AI-capex sentiment binary on Warsh. Pre-FOMC = no trim (rulebook: never within 3% of current; trail at $301.149 = 9.7% buffer absorbs reasonable shock).
+- **XLK is strike-2 Tech**. DELL failed Jun 03 (-9.72%, -$1,113). XLK stop-out = **Tech sector CLOSED for campaign** (joins Energy as 2nd closed sector). Hawkish Warsh + XLK gap-down -10%+ = sector exit + cash spike to ~12% = mandatory redeploy Thu into Materials/Healthcare/MTUM-adjacent. Asymmetric.
+- **Cash 1.69% = no dry powder for post-FOMC opportunistic add Wed PM** unless a position trims/stops out. Conviction trades Wed PM/Thu blocked by capital constraint until rotation event.
+- **Phase P&L +$752 (+0.75%) = fresh campaign high**. **Discipline check: do NOT chase the breakout pre-FOMC** -- this is the recovery completing, not validation. Recovery $2,905 in 4 sessions = unstable speed.
+- **Fri Jun 19 = market CLOSED Juneteenth**. 4-day week with all binaries Wed; Thu = post-FOMC settle + potential weekly slot deploy; weekend exposure constructive only with explicit FOMC clarity.
+- **4 weekly trade slots remaining**, PDT 0/3 = no constraint. Slots reserved for post-FOMC conviction trade(s) Wed PM / Thu only.
+
+### Decision
+**HOLD all 6 today. No new entries. No trims. No manual stop moves.**
+
+Reasoning: (a) deployment 98.31% = highest of campaign, well clear of 85% floor; (b) all 6 positions green, worst XLV +0.61% = no -7% manual cut risk; (c) all 7 trails armed and ratcheting (XLK + XLV new hwms hitting today, MTUM/XLB/XLI/GNRC ratchets pending on close above hwm); (d) **FOMC Wed + Warsh debut + Retail Sales = max binary 24h out -- pre-print positioning destroys edge**; (e) cash 1.69% blocks new entries anyway -- preserves Wed PM / Thu post-print conviction trade ONLY via stop-out / trim rotation; (f) Industrials cap binding (29.85%) + Tech strike-2 = mechanical adds blocked; (g) phase fresh high +$752 = discipline test, NOT validation; (h) WTI $80 / VIX 16 / ES +1.22% = strong tape continuation favors trail-ratchet harvest, not new exposure.
+
+### Plan for the day
+- **08:30 ET: Housing Starts + Building Permits + Trade Price Indices**. Read for XLB direct + XLI secondary. Weak print = expect XLB intraday pressure (still 9.6% trail buffer = no breach risk); in-line/beat = continuation. NO action -- pre-FOMC binary.
+- **09:30 ET market open**: HOLD. Let premarket gaps (XLK +0.56%, XLB +0.84%, XLV +0.47%) fill or extend on real volume. Trail hwm ratchets on XLK / XLV automatically if intraday levels hold.
+- **Midday scan**: verify trails armed at Alpaca (esp. XLK/XLV new hwms); check intraday Industrials sector % vs 30% line (29.85% Mon EOD); confirm GNRC distance to +15% trigger $284.09 (5.2% away). NO new entries -- pre-FOMC discipline binding.
+- **Afternoon**: monitor for any pre-FOMC drift / repositioning; XLK + MTUM = the two rate-sensitive watch names.
+- **EOD**: TRADE-LOG snapshot, Day 34 (Tue). Document fresh hwm / trail ratchets; record sector mix vs caps; note Day-1 of 24h FOMC countdown.
+- **Wed Jun 17 = THE binary**: Retail Sales 08:30, FOMC 14:00, Warsh press 14:30. Pre-print HOLD (all session AM). Post-print scout window 14:45-15:30 ET on constructive tape only. **Conviction trade requires capital = stop-out or manual trim**: if MTUM/XLK fade -3%+ on hawkish print, let trails work; if any name stops out, mandatory redeploy same session into post-print leader. Dovish hold = trail ratchets accelerate, no trim needed.
+- **Thu Jun 18**: jobless claims 08:30; weekly slot deploy (2-4 remaining) if post-FOMC conviction trade not taken Wed; pre-weekend trim consideration if any position approaching trail or +15% tighten trigger (GNRC the candidate).
+- **Fri Jun 19**: market CLOSED Juneteenth. No actions.
+

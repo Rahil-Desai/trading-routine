@@ -413,3 +413,31 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | XLV | 80 | $152.67825 | $152.95 | +0.04% | +$21.74 (+0.18%) | $138.3435 (10% trail, hwm $153.715) |
 
 **Notes:** Pre-FOMC chop, Tech-led fade. Day P&L -$763 (-0.76%), phase slips back below water to -$298 (-0.30%) -- gives back yesterday's +$670 V-recovery push, but well off the -$2,152 trough. Sector split: defensives/cyclicals bid (XLB +0.51%, XLI +0.72%, XLV +0.04%), risk/momentum sold (XLK -2.83%, MTUM -2.27%, GNRC -1.64%). XLK led the downside on the AVGO/AI-capex profit-take, closed -2.83% to $186.36 = strike-2 Tech now -2.13% unrealized, 7.4% above $173.025 trail and 8.5% above -7% manual cut at $177.08. MTUM -2.27% to $326.05 (fresh intraday hwm $336.10 -> trail ratcheted $301.149 -> $302.49 BEFORE the fade), unrealized cushion still healthy at +3.32%. GNRC -1.64% to $265.66 (still +7.54% unrealized, no fresh hwm so trail stays $241.12). Greens: XLI +0.72% to $179.96 (fresh hwm $181.10 -> trail ratcheted $161.982 -> $162.99); XLB +0.51% to $52.77 (no fresh hwm vs $53.195); XLV +0.04% to $152.95 (fresh intraday hwm $153.715 -> trail ratcheted $138.06 -> $138.3435). Deployment 98.29% ($97,994.96 / $99,702.12) -- lean cash 1.71%, no dry powder. **Sector mix shift:** Industrials (XLI + GNRC) 30.13% -- nominally over 30% sector cap by 13 bps due to XLI intraday print, but driven by market move not active add, no rule violation; Multi-sector momentum (MTUM) 24.53%; Materials (XLB) 19.21%; Healthcare (XLV) 12.27%; Tech (XLK) 12.15%; Energy 0% (closed). All positions under 25% per-position cap. No -7% manual cuts triggered (worst XLK -2.13%, well off threshold). No +15% trail tightens (best GNRC +7.54%, 7.5pp below trigger). No trades today, weekly count holds 2/6 (XLK + XLV from Mon). **Tomorrow (Wed/FOMC):** binary catalyst day -- 2pm ET decision + 2:30pm presser. Pre-print: no new entries, no defensive trims (preserve trail discipline). Hawkish hold scenario = MTUM/XLK/GNRC further downside risk; XLK most exposed (already -2.13%, second strike), needs to hold $177.08 to avoid -7% manual cut and $173.025 to avoid trail stop -- breach closes Tech for campaign. Dovish hold/cut = risk-on continuation, MTUM/GNRC ratchet fresh hwms, XLK recovers. Plan: let stops work, no pre-decision repositioning. 4 weekly trade slots remaining (Wed-Fri).
+
+## 2026-06-18 -- Midday Scan (GNRC TRAIL TIGHTENED 12% -> 7% @ +15% TRIGGER)
+
+| Date | Ticker | Action | Old Stop | New Stop | Trail % | HWM |
+|------|--------|--------|----------|----------|---------|-----|
+| 2026-06-18 | GNRC | Trail tighten | $254.32 (12%) | $265.05 (7%) | 12 -> 7 | $285 (reset) |
+
+**Midday account:** Equity $101,012.06 | Cash $1,707.16 (1.69%) | Long MV $99,304.90 | Day P&L +$1,614.59 (+1.62%) | Phase P&L +$1,012.06 (+1.01%)
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| GNRC | 25 | $247.0368 | $285.00 | +6.26% | +$949.08 (+15.37%) | $265.05 (7% trail, hwm $285) |
+| MTUM | 75 | $315.5848 | $337.48 | +2.81% | +$1,642.14 (+6.94%) | $305.802 (10% trail, hwm $339.78) |
+| XLB | 363 | $51.18168 | $52.095 | +0.14% | +$331.54 (+1.78%) | $47.979 (10% trail, hwm $53.31) |
+| XLI | 130 | $171.67 | $181.32 | +0.96% | +$1,254.50 (+5.62%) | $164.628 (10% trail, hwm $182.92) |
+| XLK | 65 | $190.41 | $190.95 | +2.77% | +$35.10 (+0.28%) | $173.025 (10% trail, hwm $192.25) |
+| XLV | 80 | $152.67825 | $149.36 | -0.90% | -$265.46 (-2.17%) | $138.3435 (10% trail, hwm $153.715) |
+
+**Midday Rule Checks:**
+- **+15%/+20% trail-tighten: GNRC TRIGGERED.** GNRC unrealized +15.37% (entry $247.04 -> current $285.00) -- first +15% trail-tighten of the campaign. Cancelled old 12% high-beta trail (stop $254.32, hwm $289), placed new 7% trail GTC (qty 25, stop_price $265.05, hwm $285 reset, order id ff1bf588). Distance to current: 6.99% (above 3% rule); new stop ($265.05) > old stop ($254.32) = valid move-up. No other position at +15% (next-best MTUM +6.94%, XLI +5.62%).
+- -7% manual cut: none triggered (worst XLV -2.17%, well off -7% threshold).
+- Thesis crack: none. **FOMC Wed Jun 17 read as dovish** -- post-Warsh debut tape, risk-on continuation visible Thu open (MTUM +2.81% / XLK +2.77% / GNRC +6.26% gap; XLB/XLI both green). AI-capex / momentum theses intact; XLK strike-2 Tech survived the binary with positive day. XLV -0.90% the lone fade, defensive bid unwinding post-dovish print -- not a thesis crack, holding.
+- 3% / move-down rules: GNRC new stop $265.05 vs current $285 = 6.99% buffer (above 3% rule); no manual stop moves on others.
+- Sector concentration: Industrials (XLI 23.34% + GNRC 7.05%) = 30.39% -- 39 bps over 30% cap due to GNRC +15% run and XLI extension, market-move drift not active add (no rule violation; trim on next strength if persists). MTUM 25.06% -- 6 bps over 25% per-position cap, also drift. Materials 18.72%, Tech 12.29%, Healthcare 11.83%, Energy 0% (closed).
+
+**Action: GNRC trail tightened 12% -> 7% per +15% rule. No other actions.**
+
+**PM watch:** GNRC at $285 = 7.0% above new trail $265.05; one more strong day to +20% trigger ($296.44) would tighten to 5%. MTUM $337.48 fresh hwm above $339.78 trail-hwm = trail will auto-ratchet to $305.80+ if extends; XLI $181.32 below $182.92 hwm = no fresh ratchet yet. XLK +2.77% from $185.80 yesterday close = strong post-FOMC bounce, survived strike-2 Tech risk. Cash 1.69% = no dry powder, Industrials over cap = no GNRC/XLI add; weekly count 2/6 with 2 slots Thu open (Fri Juneteenth CLOSED). EOD snapshot Day 36 (Thu) on next workflow.

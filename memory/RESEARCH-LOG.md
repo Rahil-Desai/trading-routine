@@ -1856,3 +1856,95 @@ Reasoning: (a) deployment 98.29% = highest of campaign, well clear of 85% floor 
 - **Thu Jun 18**: jobless claims 08:30; post-FOMC weekly slot deploy if not taken Wed; pre-weekend trim consideration on GNRC at +15% if hit. Last full session before Juneteenth.
 - **Fri Jun 19**: market CLOSED. Weekly review only.
 
+
+## 2026-06-18 -- Pre-market Research (Thursday / Day 36 / **Post-FOMC + Triple-witching + Juneteenth Eve**)
+
+### Account
+- Equity: **$100,534.81** (+$1,137.34 / +1.14% overnight from Wed close $99,397.47; **strong relief bid post-Warsh fade**)
+- Cash: **$1,707.16 (1.70%)** -- under 15% floor but deployment 98.30% well above 85% = compliant
+- BP: $283,546.06 | Daytrade count: 0/3 | PDT false
+- Position market value: $98,827.65 / equity = **98.30% deployed**
+- Last equity (Wed close): $99,397.47 -- Wed Day P&L on hawkish FOMC was **-$276.60 / -0.28%** at Alpaca mark (SPX -1.21% / Dow -0.98% / NQ -0.99% but our book outperformed = cyclical-defensive mix worked)
+- Positions (6, **5 green / 1 red premarket**):
+  - GNRC 25 @ $247.0368 -> $268.20 (+$529.08 / **+8.57%**; **Wed intraday hit fresh hwm $279.27** captured by trail ratchet; premarket flat)
+  - MTUM 75 @ $315.5848 -> $336.99 (+$1,605.39 / **+6.78%**; **+2.66% premarket = $8.72 above Wed close $328.27**; fresh hwm pending above $336.10)
+  - XLB 363 @ $51.18168 -> $52.00 (+$297.05 / +1.60%; flat premarket; **Wed intraday hit fresh hwm $53.31** captured by trail ratchet)
+  - XLI 130 @ $171.67 -> $181.32 (+$1,254.50 / **+5.62%**; +0.96% premarket; **Wed intraday hit fresh hwm $182.33** captured by trail ratchet; fresh hwm pending above $182.33)
+  - XLK 65 @ $190.41 -> $189.60 (**-$52.65 / -0.43% = ONLY RED**; Wed close $185.80 -- gave back further on hawkish Tech sell; **+2.05% premarket relief bid**; strike-2 Tech monitored)
+  - XLV 80 @ $152.67825 -> $150.96 (-$137.46 / **-1.13% = also red**; Wed close $150.71 -- defensive failed to bid even on risk-off; +0.17% premarket; **second red position**)
+- Open trail stops (7 GTC, all armed -- **Wed intraday hwm ratchets confirmed at Alpaca**):
+  - GNRC $245.7576 (12% trail, hwm **$279.27 ratcheted from $274.00** Wed) -- 8.4% buffer to current $268.20
+  - MTUM $302.49 (10% trail, hwm $336.10 unchanged) -- 10.2% buffer to premarket $336.99
+  - XLB 198sh $47.979 (10% trail, hwm **$53.31 ratcheted from $53.195** Wed) -- 7.7% buffer
+  - XLB 165sh $47.979 (10% trail, hwm **$53.31 ratcheted from $53.195** Wed) -- 7.7% buffer
+  - XLI $164.097 (10% trail, hwm **$182.33 ratcheted from $181.10** Wed) -- 9.5% buffer
+  - XLK $173.025 (10% trail, hwm $192.25 unchanged) -- 8.7% buffer to premarket $189.60 (tightest of book)
+  - XLV $138.3435 (10% trail, hwm $153.715 unchanged) -- 8.3% buffer
+- Weekly trade count: **2/6** (XLK + XLV Mon); 2 slots remain Thu (Fri CLOSED Juneteenth)
+- Phase P&L: **+$534.81 (+0.53%)** -- recovered above baseline; recovered +$2,687 from Jun 09 -$2,152 trough
+
+### Market Context
+- **WTI $75.08 (Jun 18 03:40 UTC, -1.71%) / Brent low-$77s** -- WTI now solidly sub-$80, hit 3-month low; post-Iran-truce demand reset. **Energy book = ZERO exposure (XLE closed Mon)** = neutral.
+- **S&P 500 futures ESM26 flat / NQM26 +0.24% premarket** -- muted bid after Wed's -1.21% Warsh hawkish sell-off. Alpaca position prints show stronger premarket: MTUM +2.66%, XLK +2.05% = sector-specific relief beyond index reading.
+- **VIX 17.14 (-7.05% from Wed close 18.44)** -- **vol crushed post-FOMC** (Wed spike was 20.95+ pre-print, settled to 18.44, now 17.14 Thu premarket). Realized vol expansion behind us; complacency reasserting.
+- **Today's catalyst stack -- post-FOMC settle + Juneteenth eve**:
+  - **08:30 ET: Initial Jobless Claims** (Jun 13 week; consensus 225K vs 229K prior 3-month high). Strong (sub-220K) = labor strength backs Warsh hawkish lean; weak (240K+) = first crack in jobs market = dovish setup repair. Direct USD/yields read.
+  - **BMO: Accenture (ACN) earnings** -- cons EPS $3.70 / rev $18.78B Q3 FY26. Wed close $156.21 (-5.63% pre-earnings nervousness). **AI services read for XLK + MTUM theme** -- beat + AI commentary = tailwind; miss = sentiment headwind.
+  - **BMO: Kroger (KR) earnings** -- consumer/grocery, not book-relevant.
+  - **No FOMC follow-up speak today** -- digestion only.
+  - **Triple-witching mechanically pulled to Thu** since Fri Juneteenth closed = elevated volume + intraday vol risk especially into 16:00 close.
+- **This week**: Thu = the only full post-FOMC settle session; Fri = MARKET CLOSED Juneteenth (4-day week ends today). Weekend long.
+- **Sector momentum (Schwab/June 2026)**: Tech 35% S&P weight, 12mo +52.7% / 6mo +18.7% = leader; Industrials 12mo +23.7%; Materials 12mo +19.0%; Healthcare 12mo +17.2% but 6mo -4.5% = laggard. Book aligned with leadership ex-XLV defensive.
+- **Wed FOMC recap**: rates held 3.5-3.75%; dot plot showed **9 of 18 FOMC members expect rate HIKE by year-end** (vs March showing cut); fed funds futures now fully price 25bps hike by EOY. Warsh: "we have some work to do on the price-stability front"; "strong productivity-led growth is not something we fear, but something we embrace"; "we've dropped forward guidance". **Net hawkish surprise vs 96% pause-priced positioning**.
+
+### Held-ticker News
+- **GNRC** $268.20 (+8.57% unrealized, **best position**). Q1 2026 (Apr 29 print) net sales +12% to $1.06B, adj EPS $1.80 beat $1.33 by 35%; raised 2026 guidance to mid-to-high teens sales growth + 18.5-19.5% adj EBITDA margin. UBS PT raised to $335 from $305 (Jun 11); avg PT $335 = +24.9% upside. **Wed intraday hit fresh hwm $279.27 (+1.93% above prior $274.00)** -- trail ratcheted $241.12 -> $245.7576 (captured at Alpaca). **+15% trail-tighten trigger at $284.09 = +5.9% away from current**. Industrials sector cap (30.12% mark-to-market drift) = no add room.
+- **MTUM** $336.99 (+6.78%, **+2.66% premarket relief bid**). AI-capex sticky theme; NVDA/AVGO/MU/LRCX/AMD top weights = direct Fed-sensitivity. **Largest position 25.14% of book** (drifts over 25% per-position cap on mark-to-market gain -- not active add violation, but caps additional MTUM exposure if added). Fresh hwm pending above $336.10; if today closes above = trail ratchet $302.49 -> $303.30+ region.
+- **XLB** $52.00 (+1.60%, flat premarket). Materials. **Wed intraday hit fresh hwm $53.31** -- trail ratcheted $47.8755 -> $47.979 both lots (captured). Sub-$80 WTI = mild Materials petrochem input tailwind; Iran-truce-driven energy weakness is net XLB positive on input cost side.
+- **XLI** $181.32 (+5.62%, +0.96% premarket). AI-capex/data-center theme intact. **Wed intraday hit fresh hwm $182.33** -- trail ratcheted $162.99 -> $164.097 (captured). **Industrials sector 30.12% mark-to-market over 30% cap** by drift only (no active add violation; cap blocks adds). Best buffered cyclical position.
+- **XLK** $189.60 (**-0.43% = ONLY RED**; +2.05% premarket relief). 49% semis + 21% software. **Wed close $185.80 = -2.31% on hawkish Tech rate-sensitivity hit**; hwm $192.25 unchanged. Trail $173.025 = 8.7% buffer (tightest of book). **Strike-2 Tech post-DELL = stop-out closes Tech sector for campaign**. ACN earnings BMO = direct AI-services read.
+- **XLV** $150.96 (-1.13% unrealized). **Wed close $150.71 = defensive failed to bid even on hawkish Fed risk-off** -- pharma weak (LLY/JNJ/UNH). Hwm $153.715 unchanged. Trail $138.3435 = 8.3% buffer. Healthcare 6mo -4.5% = momentum lagger; XLV underperforming the broader risk-off rotation it was added to hedge.
+
+### Trade Ideas
+1. **HOLD all 6 today.** Wed FOMC binary cleared with limited damage to book (-$276 vs SPX -1.21% = book outperformed via cyclical mix); Thu premarket relief bid validates the trail-discipline approach. Worst XLV -1.13% (well off -7% manual cut, 8.3% above trail); best GNRC +8.57%. All 7 trails armed and Wed hwm ratchets captured.
+2. **NO new entries today.** Cash $1,707 = 1.71% = **no dry powder**. Industrials at 30.12% (drift over cap = no XLI/GNRC adds). Tech strike-2 = no XLK add. MTUM 25.14% (drift over per-position cap = no MTUM add). XLB room (18.8%), XLV room (12.0%) exist -- but cash constraint binding + Juneteenth-eve = stand down.
+3. **Trail ratchets pending today (auto-armed at Alpaca)**:
+   - MTUM above $336.10 (premarket $336.99 = +0.27% above) -> trail $302.49 -> $303.30+ region (would capture intraday strength)
+   - GNRC above $279.27 (needs +4.13%) -> trail $245.76 -> ~$248+; **+15% tighten trigger at $284.09 = +5.9% away (MONITOR pre-weekend)**
+   - XLB above $53.31 (needs +2.52%) -> trail $47.979 -> $47.98+
+   - XLI above $182.33 (needs +0.56%) -> trail $164.10 -> ~$164.20+
+   - XLK above $192.25 (needs +1.40% from premarket $189.60) -> trail $173.025 -> ~$173.50+
+   - XLV above $153.715 (needs +1.82% from premarket $150.96) -> trail $138.34 -> ~$138.50+
+4. **Watchlist for after Juneteenth (Tue Jun 23)**: LYB (Materials add if XLB sustains >$53 + sub-$80 WTI tailwind on petrochem input costs); single-name semis (XLK strike-2 absorbs broad Tech bet via ETF, no need to layer single-name) gated; avoid Industrials adds (cap binding); Energy sector closed. **Conditional dry powder still requires stop-out or trim**.
+5. **No trims, no manual stop moves**. Rules: never within 3% of current; never move stop down. Pre-weekend trim only triggers if GNRC hits +15% tighten trigger $284.09 = +5.9% Thu = improbable; let trail run if it does (mechanical 12% high-beta trail tightens to 7% per rulebook at +15%).
+
+### Risk Factors
+- **Triple-witching Thu Jun 18** (mechanically pulled forward from Fri-Juneteenth-closed) = elevated intraday volume and vol risk into 16:00 close. Quarterly options expirations on $4T+ notional = pin-risk on index/ETF levels. Less directional than binary -- but expect range-trade compression early, expansion late session.
+- **8:30 ET Initial Jobless Claims** (cons 225K vs 229K prior). Strong (sub-220K) = backs Warsh hawkish lean = MTUM/XLK pressure resumes; weak (240K+) = first labor crack since cycle peak = dovish repair = relief continuation. Pre-print premarket already pricing relief = asymmetric to downside on hot print.
+- **ACN earnings BMO** = direct AI-services read for **XLK + MTUM theme**. ACN closed $156.21 (-5.63% Wed) = pre-earnings nervousness already priced. Beat + AI commentary = tailwind to held names; miss = sentiment hit (esp XLK already red).
+- **Warsh hangover risk**: Wed close repricing for 25bps hike by EOY may not be fully digested; 2027 dot plot path skew remains hawkish vs prior March SEP. Thursday tape can rerouting from premarket relief to renewed selling if jobless claims confirms labor strength.
+- **Long weekend gap risk**: Fri closed = 3.5-day gap holding all positions through Sat-Mon. Any geopolitical/inflation/earnings tape (esp Asia open Sun PM US time) hits Mon open with no Friday positioning ability. Particularly relevant for GNRC high-beta single-name and XLK strike-2 Tech.
+- **Industrials 30.12% (drift over 30% cap) + MTUM 25.14% (drift over 25% per-position cap)** = mechanical adds blocked until trim, but mark-to-market drift not a rule violation. Watchlist for end-of-day check if drift expands further on continued strength.
+- **XLK strike-2 Tech**. DELL failed Jun 03 (-9.72%, -$1,113). Hawkish jobless claims + ACN miss = direct double-hit = trail-stop scenario at $173.025. **A stop-out closes Tech sector for campaign** (joins Energy as 2nd closed sector). XLK 8.7% trail buffer = tightest in book.
+- **XLV underperformance**: defensive hedge failed Wed on hawkish risk-off (typically pharma should bid). 6mo sector -4.5% momentum = structural weakness; if pre-Juneteenth fades through $138.3435 trail, also a 1-strike Healthcare loss (single Healthcare position so far). Monitor.
+- **VIX 17.14 = complacent post-FOMC**. Pre-weekend hedging unwound. Realized vol expansion risk if jobless claims/ACN print outliers.
+- **Cash 1.71% = no dry powder**. Stop-out scenario (XLK) = mandatory same-session redeploy. Trim scenario (GNRC at +15% trigger pre-weekend) = trim mechanically tightens trail to 7%, doesn't free cash.
+- **Phase P&L +$534 (+0.53%) = fresh post-FOMC high**. Discipline check: don't chase Thu relief into a 3.5-day Juneteenth weekend gap with no Fri positioning available.
+- **2/6 weekly trades used**; 4 slots roll over given holiday-shortened week + cash constraint. PDT 0/3 = no constraint.
+
+### Decision
+**HOLD all 6 today. No new entries. No trims. No manual stop moves.**
+
+Reasoning: (a) deployment 98.30% = campaign-high range, well clear of 85% floor -- no mandatory deploy; (b) all 7 trails armed and Wed hwm ratchets captured at Alpaca (GNRC/XLB/XLI all printed fresh hwms during Wed Warsh sell-off = book strength outpaced index pain); (c) worst XLV -1.13%, XLK -0.43% with 8.3% / 8.7% trail buffers respectively = no -7% manual cut risk; (d) cash 1.71% blocks new entries; (e) Industrials drift 30.12% + MTUM drift 25.14% + Tech strike-2 = mechanical adds blocked; (f) triple-witching Thu + Juneteenth eve = elevated session vol, 3.5-day weekend gap = preserve trail discipline, don't add weekend exposure; (g) post-FOMC binary cleared with limited damage = trail-ratchet harvest mode, not new entry mode; (h) ACN earnings + jobless claims pre-open are pop-it-up-or-down risks but no actionable exposure shift available.
+
+### Plan for the day
+- **08:30 ET: Initial Jobless Claims** (cons 225K vs 229K prior). Read for labor strength = hawkish/dovish cross-asset signal. No action -- HOLD.
+- **BMO: ACN earnings** (8:00 ET conf call). Direct AI-services read for XLK + MTUM. Tracked but not actionable; if huge miss + AI-commentary headwind, monitor XLK trail buffer intraday.
+- **09:30 ET market open**: HOLD. Let premarket gaps (MTUM +2.66%, XLK +2.05%) fill or extend on volume. Trail ratchets pending automatically (MTUM closest to hwm trip).
+- **Midday scan**: verify trail ratchets at Alpaca (esp MTUM if intraday breaks $336.10); confirm Industrials sector % intraday vs drift drift drift; **NO new entries** -- cash constraint binding + Juneteenth eve discipline; check GNRC distance to +15% trigger $284.09 (5.9% away).
+- **Afternoon**: triple-witching = pin/range/expansion patterns -- monitor for late-session vol expansion 14:00-16:00 ET. No action.
+- **15:30-16:00 ET close**: pre-weekend final check -- if GNRC stretches into +15% trigger zone ($284+), let trail mechanic tighten 12% -> 7% per rulebook on close. No discretionary trim.
+- **EOD**: TRADE-LOG snapshot Day 36 (Thu). Document fresh hwm ratchets, ACN reaction, jobless claims read, weekly count (still 2/6). **End-of-week book is 6 positions, 1.71% cash, 98.3% deployed, +$534 phase, +1.7% week (Mon $100,518 -> Thu).**
+- **Fri Jun 19**: market CLOSED Juneteenth. **NO actions, NO research log, NO trades.**
+- **Mon Jun 22**: post-holiday gap-up/down scout -- 3.5-day weekend digest; if MTUM/XLK extend on Tech bid, let trails work; if any name gaps below trail, exit triggered automatically; if cash event from stop, scout LYB / Materials add (Industrials cap binding, Energy closed). Weekly count resets Mon.
+

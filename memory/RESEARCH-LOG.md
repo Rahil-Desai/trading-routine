@@ -1948,3 +1948,26 @@ Reasoning: (a) deployment 98.30% = campaign-high range, well clear of 85% floor 
 - **Fri Jun 19**: market CLOSED Juneteenth. **NO actions, NO research log, NO trades.**
 - **Mon Jun 22**: post-holiday gap-up/down scout -- 3.5-day weekend digest; if MTUM/XLK extend on Tech bid, let trails work; if any name gaps below trail, exit triggered automatically; if cash event from stop, scout LYB / Materials add (Industrials cap binding, Energy closed). Weekly count resets Mon.
 
+
+
+## 2026-06-19 -- Pre-market Research (Friday / Day 37 / **JUNETEENTH -- MARKET CLOSED**)
+
+### Account (overnight from Thu close)
+- Equity: **$100,795.84** (+$41.30 vs Thu close $100,754.54, marginal overnight drift)
+- Cash: **$1,707.16 (1.69%)** | Long MV: $99,088.68 | Deployment: **98.31%**
+- BP: $284,276.94 | Daytrade count: 0/3 | PDT: false
+- Phase P&L: **+$795.84 (+0.80%)** -- post-FOMC recovery sustained
+- 6 positions held (GNRC, MTUM, XLB, XLI, XLK, XLV); 7 GTC trail stops armed
+
+### Market Status
+- **Alpaca clock: is_open=false; next_open=2026-06-22T09:30:00-04:00** (Monday)
+- US equity markets CLOSED for Juneteenth federal holiday
+- No pricing, no catalyst calendar, no research run today per prior plan
+- Triple-witching mechanically cleared Thu Jun 18; weekend gap = 3.5 days
+
+### Decision
+**NO RESEARCH. NO TRADES. NO ACTIONS.** Market closed; all GTC trails armed and working over the long weekend. Next workflow: Mon Jun 22 pre-market.
+
+### Plan
+- **Mon Jun 22 pre-market**: post-holiday gap-up/down scout. Read weekend tape (Asia Sun PM, futures Mon AM). If MTUM/XLK extend on Tech bid, let trails ratchet; if any name gaps below trail, exit triggered automatically; if cash event from stop, scout LYB/Materials add (Industrials cap binding, Energy/Tech-strike-2 monitored).
+- Weekly count resets Mon to 0/6.

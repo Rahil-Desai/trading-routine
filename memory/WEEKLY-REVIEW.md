@@ -392,3 +392,69 @@ Note: Week ending 2026-06-05 review was not logged (NFP-Fri cadence break). This
 ### Overall Grade: B
 
 +1.93% vs S&P on a positive market week, broke the 5-week single-name paralysis with GNRC (rule-clean, sub-7% sized, +6.20% in ~1.5 sessions), held binary-day discipline through both CPI and PPI without a rule break, trails ratcheted on XLB/XLI/GNRC. Phase P&L back to nearly flat at -$85.41 (-0.09%) -- recovered the entire -$3,348 mid-week low. Held back from A by: still only 1 of 6 weekly slots used (the offensive playbook is one trade short), trim-into-strength missed yet again (MTUM/XLI both extended without a trim), floor compliance via 0.8-1.1pp margin (the spirit of "stay deployed" is not 14% cash structural), and the missing Jun 5 review (cadence break). XLE 1-strike state unchanged; FOMC week ahead is the next binary. No strategy rule changes this week.
+
+## Week ending 2026-06-19
+
+Note: Fri Jun 19 = Juneteenth, US equity market CLOSED. This review covers Mon Jun 15 -> Thu Jun 18 (4 sessions); balance_asof Jun 18.
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,914.59 (Fri Jun 12 close = Mon Jun 15 open basis) |
+| Ending portfolio | $100,795.84 (Thu Jun 18 close, balance_asof) |
+| Week return | +$881.25 (+0.88%) |
+| S&P 500 week | +0.75% (7,431.46 -> 7,487.36) |
+| Bot vs S&P | +0.13% |
+| Trades | 3 (W:0 / L:1 / open:6) -- 1 sell (XLE trail), 2 buys (XLK, XLV) |
+| Win rate | 0% (1 closed, 0 winners) |
+| Best trade | GNRC +13.00% (unrealized) |
+| Worst trade | XLE -5.60% realized (-$1,113.50, trail stop-out) |
+| Profit factor | 0.00 (no winners closed) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| XLE | $58.46 | $55.185 | -$1,113.50 (-5.60%) | Trail-stop GTC ($55.53, hwm $61.70) triggered 09:30 ET Jun 15 on -4.27% gap-down; 47-day hold. Failed energy trade #2 -> Energy sector CLOSED per rule 12. |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| GNRC | $247.04 | $279.15 | +$802.83 (+13.00%) | $268.67 (7% trail, hwm $288.89) -- tightened 12%->7% Jun 18 at +15% trigger |
+| MTUM | $315.58 | $338.52 | +$1,720.14 (+7.27%) | $305.847 (10% trail, hwm $339.83) |
+| XLB | $51.18 | $51.81 | +$228.08 (+1.23%) | $47.979 (10% trail, hwm $53.31) |
+| XLI | $171.67 | $180.91 | +$1,201.20 (+5.38%) | $164.628 (10% trail, hwm $182.92) |
+| XLK | $190.41 | $191.44 | +$66.95 (+0.54%) | $173.025 (10% trail, hwm $192.25) |
+| XLV | $152.68 | $149.40 | -$262.26 (-2.15%) | $138.3435 (10% trail, hwm $153.715) |
+
+### What Worked
+- Sector-exit rule (rule 12) fired clean for the first time: XLE trail stop triggered Mon AM at the gap-down open exactly as designed = failed energy #2, **Energy sector CLOSED** for the campaign. Discipline executed without hesitation or revenge.
+- Same-day rotation: XLE proceeds redeployed into XLK + XLV at the same Mon open -- satisfied the idle-cash rule (cash to 1.7% by Mon close) AND opened two fresh sector exposures (Tech / Healthcare) in a single session. The 3-day cash-drift pattern from week 4-5 was pre-empted in 30 minutes.
+- **First +15% trail-tighten trigger of the campaign:** GNRC hit +15.37% midday Thu Jun 18; executed 12%->7% trail tighten flawlessly (cancel + replace GTC, hwm reset to $285, new stop $265.05). Captured the +15% peak before the intraday give-back to +13.00% close. Rule worked exactly as designed.
+- FOMC Wed Jun 17 binary held without rule break: dovish hold confirmed (Warsh debut presser); XLK strike-2 Tech survived the binary (-2.13% Tue close -> +0.36% Thu after +2.85% Thu bounce). No pre-positioning, no panic, no defensive trims.
+- Beat S&P 500 by +0.13% on a +0.75% S&P week even after absorbing the -$1,114 XLE realized loss = net +$881 (+0.88%). Phase pushes to **fresh hwm +$795.84** (+0.80%) for the campaign; first new high since week 3.
+
+### What Didn't Work
+- Industrials sector concentration: 30.27% at Thu close (intraday peak 30.39% Tue) = 27-39 bps over the 30% cap via market drift. Compliance is currently passive (no active add over cap = no rule violation) but the cap was breached and no trim taken into Thu strength to bring it back inside.
+- MTUM at 25.20% per-position cap (20 bps over 25%) on drift from +7.27% appreciation -- same compliance pattern: not a violation but caps breached, trim not executed.
+- XLV defensive ETF underperformed the rotation pair: -2.30% Thu / -2.15% week unrealized while XLK (-2.13% Tue) recovered to +0.36%. Defensive bid unwound post-dovish FOMC = wrong defensive call into a risk-on regime; should have biased toward another momentum/cyclical leader instead.
+- Wed Jun 17 FOMC day EOD snapshot **not captured in trade log** -- same workflow-gap pattern as Jun 5 NFP miss and Jun 10-11 drift. Key catalyst day, no archival commit. Cadence problem persists.
+- Slot utilization: 2 of 4 weekday slots used (Mon rotation = XLK + XLV); no follow-up entry Wed/Thu to capitalize on the dovish FOMC read with a Tech single-name leader. Cash 1.7% blocked dry-powder adds, but a trim could have funded one -- back to the trim-into-strength gap.
+- Trim-into-strength still unexercised. GNRC midday +15.37% peak Thu (Industrials at cap) was the textbook moment to trim 25-50% of GNRC to free Industrials room AND lock the +15% peak; passed. MTUM at +7.27% / 25.20% same window. Six straight weeks of "next time."
+
+### Key Lessons
+- **The sector-exit rule and 30% sector cap work together cleanly.** XLE failure forced the rotation that kept Energy at 0% (auto-compliance via the rotation). The rule architecture validates -- the question is now offense (trim) not defense (cap).
+- **The +15% trail-tighten rule works exactly as designed.** GNRC peaked at $288.89 / +16.86% intraday Thu, traded back to $279.15 / +13.00% on the close; the midday tighten captured ~$200 of paper P&L that would have given back on the wider 12% trail. Trust the rule when it triggers; don't second-guess.
+- **Same-day rotation discipline beats "wait for clarity."** XLE stop-out + XLK/XLV redeploy in the same Mon session pre-empted the 3-trading-day cash-drift pattern that drove weeks 4-5 idle-cash rule violations. Pattern broken via execution, not just resolution.
+- **ETF rotation vs single-name for redeploy is a real alpha trade-off.** XLK +0.54% / XLV -2.15% over 4 sessions vs GNRC +13.00% over ~6 sessions. Strategy doc rule 6 ("ETFs are deployment vehicles, not the core") confirmed: next redeploy should bias single-name leaders for alpha, ETF only when sector exposure missing entirely.
+- **Trim-into-strength is the single largest unfixed execution gap.** Six straight weeks of identifying the moment and not executing. The cap-breach situations (Industrials 30.27%, MTUM 25.20%) are now creating their own trim trigger -- if cap-breach + >+5% unrealized doesn't force the trim, the rule itself needs a trigger pre-write.
+
+### Adjustments for Next Week
+- **Trim-into-strength HARD COMMIT Mon Jun 22:** if Industrials sector >30% on Mon open OR MTUM >25% per-position on Mon open, trim 25% of the over-cap position into the first strength day. Pre-written, no future-tense. MTUM trim candidate: 18 sh @ market (frees ~$6.1K + brings to ~20% per-position). GNRC trim: 6-8 sh (frees Industrials cap room + locks +13% on partial).
+- **XLV decision tree:** if XLV breaks below $148 on Mon open (-3% from current) OR breaches $142 (-7% manual cut), exit and redeploy proceeds into LYB (Materials reinforce, sector at 18.67% has room) OR single-name Tech leader (SNDK/SANM) gated to Tech holding above $190 XLK. If XLV recovers above $152.68 entry = hold, let trail work.
+- **2nd Tech entry contingent on XLK confirming hwm $192.25+ with conviction:** post-dovish FOMC + AVGO/AI-capex tailwind = SNDK or SANM is the alpha shot, but a stop-out closes Tech for campaign (DELL was strike #1, XLK is strike #2 via ETF). Size sub-7% notional via XLI trim funding.
+- **Watchlist:** LYB (Materials reinforce -- safest add, Materials 18.67% has room); SNDK or SANM (Tech 1-strike alpha shot, gated on XLK $192.25 reclaim); GNRC ADD only after Industrials cap relief (XLI 25 sh trim, then re-stack GNRC). PASS: TPL (Energy banned per sector exit), megacap tech (lagging momentum).
+- **Mon Jun 22 first session expectations:** 3.5-day weekend after Juneteenth; expect Mon gap-decision off dovish FOMC continuation. Pre-market read first -- if MTUM/GNRC gap to fresh hwms, trim per above before trails ratchet through the cap. If XLV gaps below $148, exit and redeploy. Trails handle other downside.
+- **Cadence fix:** Mon Jun 22 pre-market run MUST include the missing Wed Jun 17 FOMC + Fri Jun 19 Juneteenth EOD context as "carry-forward" notes so the trade log has continuous coverage. Three workflow gaps in three weeks is now a pattern.
+
+### Overall Grade: B+
+
++0.13% vs S&P on a positive market week, all four major rule firings executed clean (XLE trail stop + sector-exit + same-day rotation + first +15% trail tighten), phase fresh hwm +$795.84 / +0.80% (first new high since week 3), and the 3-day cash-drift pattern from the prior XOM/DELL stop-outs was pre-empted via same-session redeploy. The XLE realized loss (-$1,114) was the cost of resolving the 5-week Energy concentration risk that hung over weeks 4-5; the redeploy paid for itself in 4 sessions. Held back from A by: trim-into-strength STILL unexercised at obvious cap-breach + +5%-extension moments (MTUM 25.20% / +7.27%, GNRC peak +15.37% with Industrials at 30.27%), Wed FOMC EOD snapshot missing (cadence gap #3 in three weeks), XLV defensive pair underperformed XLK and may need re-route. The defense is now structural (sector cap + sector exit + +15% tighten all working); the offense (trim discipline + single-name alpha) remains the alpha leak. No strategy rule changes this week.

@@ -2062,3 +2062,92 @@ Reasoning: (a) deployment 98.31% = campaign-high range, well above 85% floor -- 
 - **EOD**: TRADE-LOG snapshot Day 38 (Mon). Document fresh hwm ratchets, XLV trajectory, weekly count update.
 - **Tue Jun 23**: S&P flash PMIs 09:45 ET = first cyclical read post-FOMC; potential XLI/XLB catalyst. No actions queued.
 - **Wed Jun 24**: MU AMC = AI-memory read = direct XLK/MTUM catalyst. Pre-Wed positioning = HOLD.
+
+
+## 2026-06-23 -- Pre-market Research (Tuesday / Day 39 / **Flash PMI + FedEx earnings day; Mon Iran MOU signed**)
+
+### Account
+- Equity: **$99,735.31** (-$2,118.46 / -2.08% vs Mon close $101,853.77) -- **sharp gap-down across Tech/momentum**
+- Cash: **$1,707.16 (1.71%)** | Long MV: $98,028.15 | Deployment: **98.29%**
+- BP: $281,307.46 | Daytrade count: 0/3 | PDT: false
+- Phase P&L: **-$264.69 (-0.26%)** -- gives back all of Mon's +$1,058 rally + a bit more; phase flips back below water
+- Positions (6, **2 green / 3 red / 1 flat premarket** intraday; **5 green / 1 red** entry-to-current):
+  - GNRC 25 @ $247.0368 -> $288.03 (+$1,024.83 / **+16.59%**, **-2.54% premkt** = -$7.51 from Mon close $295.54; **+5.87% Mon on data-center supply deal replay** captured fresh hwm $296.03)
+  - MTUM 75 @ $315.5848 -> $333.65 (+$1,354.89 / **+5.72%**, **-3.35% premkt** = -$11.57 from Mon close $345.22; **Mon hwm $345.59 ratcheted trail $305.847 -> $311.031**)
+  - XLB 363 @ $51.18168 -> $51.25 (+$24.80 / +0.13%, -0.72% premkt) -- nearly flat unrealized after Mon fade
+  - XLI 130 @ $171.67 -> $177.48 (+$755.30 / **+3.38%**, -2.38% premkt)
+  - XLK 65 @ $190.41 -> $185.90 (-$293.15 / **-2.37%**, **-3.25% premkt**; **Mon hwm $194.30 ratcheted trail $173.025 -> $174.87** before fade) -- only red position entry-to-current
+  - XLV 80 @ $152.67825 -> $150.55 (-$170.26 / -1.39%, **+0.33% premkt = only green** -- defensive rotation flicker)
+- Open trail stops (7 GTC, all armed; Mon-ratcheted hwms confirmed at Alpaca):
+  - **GNRC $275.31** (7% trail, hwm $296.03) -- **4.42% buffer = TIGHTEST in book** (post +15% tighten Wed Jun 17, then Mon ratchet)
+  - **MTUM $311.031** (10% trail, hwm $345.59) -- 6.78% buffer (Mon ratchet captured)
+  - XLB 198sh + 165sh **$47.979** (10% trail, hwm $53.31) -- 6.39% buffer
+  - XLI **$164.628** (10% trail, hwm $182.92) -- 7.24% buffer
+  - **XLK $174.87** (10% trail, hwm $194.30) -- 5.93% buffer (Mon ratchet captured)
+  - XLV **$138.3435** (10% trail, hwm $153.715) -- 8.11% buffer
+- Weekly trade count: 0/6 (full slot availability); PDT 0/3 = full flexibility
+
+### Market Context
+- **WTI $76.89 / Brent ~$76+** -- WTI +0.38% (sub-$80 persists despite Iran MOU). **CRITICAL CONTEXT UPDATE**: Mon's "US-Iran peace progress" formalized -- **US and Iran signed Memorandum of Understanding (MOU) to reopen Strait of Hormuz and end US blockade of Iranian ports**. Trump digitally signed Sun; formal ceremony **Fri this week in Switzerland (VP Vance attending)**. 60-day roadmap to final agreement. Strait traffic rising to 24 ships/24h (vs 110/day pre-conflict). **Energy book = 0% = neutral** (sector closed for campaign).
+- **S&P 500 futures ESM26 7,549.50 (-0.28%) / NQM26 30,644.75 (-0.24%) premarket** -- modest gap-down post Mon's -0.37% S&P close. Tech-led fade; semis weakness ahead of Wed MU AMC.
+- **VIX 17.28 (+5.4% from prior 16.40 floor)** -- mild lift after Mon Tech sell + Tue gap-down; still complacent low-vol regime (52w range 13.38-35.30).
+- **S&P 500 Mon close 7,481.29** (after -0.37% Mon); ESM26 7,549.50 premkt = futures **roll/lift** signals neutral-to-mildly-positive open vs cash close, but tech weight drags QQQ. **Key Mon flip: Dow +0.27% / S&P -0.37% / NDX -0.19% = breadth narrowing, defensives bid**.
+- **Today's catalyst stack (HEAVY)**:
+  - **09:45 ET: S&P Global Flash US Manufacturing PMI** (May 55.1, **cons 50.7-51.0** = looking for sharp deceleration); **Flash Services PMI** (May 50.7, cons 51.0). **Markets focused on Prices Paid sub-index** (May 79.5 = 4-year high; any further rise = USD bid / equities pressured on inflation concern).
+  - **BMO earnings: FedEx (FDX)** = global transport bellwether (cons EPS $5.92, rev $24.01B; market cap $78B). **KFY, KBH, WOR** also BMO. **Carnival (CCL) midday**.
+  - **Iran MOU technical talks Bergenstock, Switzerland this week**; **Fri MOU formal signing** = potential risk-on Fri catalyst if delivered.
+  - Light Tue Fed-speak; no major US econ data ex-PMIs.
+- **This week**: Wed MU AMC (key AI-memory read for XLK/MTUM), DRI/PAYX/KFY BMO; Thu jobless claims + flash PMIs final + GDP final; Fri PCE + Iran MOU signing.
+- **Sector momentum**: Tech 6mo +18.7% leading, but Mon-Tue cracking on AI-capex profit-take + PMI Prices-Paid risk. Defensives (Healthcare, Staples) bid Tue premkt = **rotation flicker**.
+
+### Held-ticker News
+- **GNRC** $288.03 (+16.59% unrealized, **best position**, -2.54% premkt). **Drove Mon +5.87% rally to $295.54** on hyperscale data center supply deal **press replay** + 14-analyst median PT $278.50 (current price already above median); CEO 5,000-sh 10b5-1 sale Jun 1 @ $272.18 (routine pre-arranged liquidity). Mon intraday peak $296.03 = fresh hwm ratchet (trail $275.31, 7% / 4.42% buffer = **tightest in book**). Q1 2026 revenue +12% to $1.06B, C&I segment +28%, FY26 guide raised to mid-to-high teens growth + EBITDA margin 18.5-19.5%; $600M 2027 hyperscale orders pending. Tue premkt -2.54% = profit-take after parabolic Mon move + market chop. **+20% trail-tighten trigger: $296.44** (only $0.41 above Mon's $296.03 peak; could trigger if Tue reverses + Wed extends). Industrials sector cap binding = no GNRC add.
+- **MTUM** $333.65 (+5.72%, **-3.35% premkt** = book's biggest absolute drawdown today). Top-10 MTUM holdings AI-capex heavy (NVDA/AVGO/MU/LRCX/AMD/ANET); Mon hwm $345.59 ratchet captured stop at $311.031 = trail mechanic locked in profit at +5.72% even if -2-3% Tue chop continues. MTUM **25.09% of book = drift over 25% per-position cap** (mark-to-market, no add). Pre-MU Wed = sentiment chop; Tue tape = let trail work.
+- **XLB** $51.25 (+0.13%, -0.72% premkt) -- Materials drifting flat. Hwm $53.31 unchanged; trail $47.979 / 6.39% buffer. Petrochem input tailwind from sub-$80 WTI + Iran MOU framework persists; cyclical weakness mild on Tue.
+- **XLI** $177.48 (+3.38%, -2.38% premkt). Industrials. AI-capex/data-center thesis bid via GNRC + URI/PWR/GE etc; Mon hwm $182.92 unchanged Tue premkt. Trail $164.628 / 7.24% buffer. **FedEx (FDX) BMO earnings = direct XLI read** (FDX is #7 holding ~3% wt); guidance commentary = transport/Industrial bellwether. Industrials drift 30.35% over cap (XLI 23.13% + GNRC 7.22%).
+- **XLK** $185.90 (-2.37%, **-3.25% premkt** = strike-2 Tech now red again, regressed). 49% semis + 21% software; AI-capex profit-take + pre-MU positioning + PMI Prices-Paid risk = triple headwind. Mon hwm ratcheted to $194.30 (trail $174.87, 5.93% buffer) BEFORE the Mon fade-Tue gap-down sequence; trail discipline working but stop closer to current. **-7% manual cut threshold: $177.08 = 4.7% below current $185.90** = much tighter than trail; **discretionary exit threshold approaches if PMI miss + MU AMC disappoints Wed**. Watch.
+- **XLV** $150.55 (-1.39%, **+0.33% premkt = ONLY GREEN** today). Defensive rotation flicker -- after weeks of XLV failing the hedge role, Tue's risk-off may finally bid the defensive book. Hwm $153.715 / trail $138.3435 / 8.11% buffer = healthiest. **-7% manual cut at $142.00** = 5.7% below current = comfortable. Watch for sustained green = thesis rehab, or a one-day blip on rotation chop.
+
+### Trade Ideas
+1. **HOLD all 6. No new entries.** Tue gap-down -2.08% on Tech/momentum heavy book + PMI inflation print risk + FedEx earnings read = volatility day, not entry day. Trail discipline carries the campaign.
+2. **NO new entries.** Cash 1.71% = no dry powder. Industrials drift 30.35% over cap (blocks XLI/GNRC adds). MTUM drift 25.09% over per-position cap (blocks add). XLK strike-2 already on warning. XLB/XLV nominal room but no high-conviction setup + no cash.
+3. **Watch GNRC + XLK closely 09:45 ET PMI print and intraday**:
+   - **GNRC $288.03 / 4.42% buffer to trail $275.31** -- one more -4.5% = trail triggers, locks **+11.45% gain on +16.59% peak unrealized**. Mechanical = working as designed (+15% tighten Wed Jun 17 was the right call). Tue premkt -2.54% = comfortable Tue intraday cushion entering print.
+   - **XLK $185.90 / -7% manual cut $177.08 (4.7% below)** = tighter than trail. **Discretionary exit threshold = -2 to -3% further intraday on PMI miss / MU pre-positioning + Tech profit-take continuation**. Per Rule 8 (-7% manual cut), if XLK hits $177.08 = decisive exit (closes Tech sector for campaign, redeploy mandatory).
+4. **+15%/+20% trail-tighten triggers** (Tue print risk):
+   - GNRC at +16.59% = past +15% (already tightened Wed); **next +20% at $296.44** = effectively at the line vs Mon peak $296.03. If Tue prints reverse and Wed extends >$296.44 = tighten 7% -> 5%, stop ~$281.62.
+   - MTUM at +5.72%, XLI at +3.38%, XLB at +0.13%, XLK at -2.37%, XLV at -1.39% = all well below +15% trigger.
+5. **Conditional rebuy scout list (if XLK stops out today)**:
+   - **No fresh Tech entry** -- strike-2 ETF stop-out = sector mostly closed; could consider AAPL/MSFT high-quality single only with high-conviction setup AND post-MU read Wed. Avoid pre-MU Tech entries.
+   - **LYB / Materials add** ($XLB sustains >$52 + sub-$80 WTI petrochem input tailwind continues, Iran MOU advances) -- XLB at 18.65% has room to ~25%; LYB single-name optionality if Materials lead post-PMI services rotation.
+   - **Defensive deepening: XLP (Consumer Staples)** = 0% book exposure, defensive rotation flicker today + low-vol regime risk -- only if cash event creates room; not a high-conviction shot, more diversifier.
+6. **No trims, no manual stop moves** today.
+
+### Risk Factors
+- **PMI Prices-Paid inflation risk (09:45 ET)**: May print 79.5 = 4-year high; another high = USD bid, equities -1-2% intraday risk, Fed-cut path repriced hawkish. **Direct hit to MTUM/XLK** (rate-sensitive Tech/momentum); GNRC/XLI cyclicals less exposed.
+- **FedEx BMO earnings = transport bellwether**: weak guide = XLI/Industrials hit, broader cyclical sell. Strong = relief bid into PMI.
+- **GNRC 4.42% trail buffer = tightest** post Mon ratchet -- intraday vol on +5.87% Mon parabolic move = elevated odds of -4-5% reversal. **Mechanical stop-out = +11.45% locked gain = not a loss; outcome is fine but locks the GNRC seat in Industrials at the cap-binding moment**.
+- **XLK strike-2 Tech book at -2.37% unrealized + Tue premkt -3.25%** -- closest to -7% manual cut threshold (4.7% buffer). Wed MU AMC binary; XLK stop-out = Tech sector closed for the campaign.
+- **Tight cash 1.71%** = if XLK or GNRC stops out, mandatory same-session redeploy; with Industrials cap binding + MTUM at cap + Tech strike-2 risk = redeploy targets thin (XLB/XLV/Materials add via LYB single or XLP Staples diversifier).
+- **Phase P&L -$265 (-0.26%)** -- back below water; **trough revisit risk** to -$2,152 (Jun 09) if PMI + FedEx miss + MU AMC weak combo prints across 48h. Stop discipline is the only line.
+- **Iran MOU = headline risk both ways**: Fri signing on track = risk-on; signing breaks down or escalation = sharp -2-3% S&P move on energy spike + flight-to-quality. Book has no Energy exposure (sector closed) = neutral.
+- **MRVL S&P inclusion Mon priced in** -- tech bid that lifted Mon now faded; no follow-through expected Tue.
+- **Sector drift 30.35% Industrials + 25.09% MTUM** = market-move not active add (no rule violation). Compounding drift if Mon-Tue gives way to Tue-Fri risk-on rebound = continues to block adds; if Tue-Fri risk-off extends = drift mechanically resolves.
+- **0/6 weekly trades = full slot availability** but cash constraint + cap-binding + Tech strike-2 = no fresh entry today absent rotation event.
+
+### Decision
+**HOLD all 6. No new entries. No trims. No manual stop moves.**
+
+Reasoning: (a) deployment 98.29% = above 85% floor, no mandatory deploy; (b) all 7 GTC trails armed with healthy buffers (tightest GNRC 4.42%, XLK 5.93%, MTUM 6.78%); (c) cash 1.71% = no dry powder; (d) cap-binding drift on Industrials + MTUM + Tech strike-2 = mechanical adds blocked; (e) **heavy catalyst day (09:45 ET PMI + FedEx BMO + Iran MOU framework)** = volatility, not entry day; (f) GNRC +16.59% already past first +15% trail tighten, mechanic captured Mon ratchet; (g) XLK on manual-cut watch ($177.08 threshold, 4.7% buffer) = discretionary exit ready if -7% breaches but no premkt action; (h) XLV finally green premkt = defensive flicker, monitor for confirmation; (i) Wed MU AMC + Fri MOU signing = two more binary catalysts ahead, preserve trail discipline through them.
+
+### Plan for the day
+- **08:30 ET**: no major data pre-PMI; FDX premkt reaction read for XLI direction.
+- **09:30 ET open**: HOLD. Watch gap-down magnitude (ES -0.28% premkt suggests modest); read XLK vs $177.08 manual cut + GNRC vs $275.31 trail.
+- **09:45 ET S&P Flash PMIs (Mfg + Svc)**: binary intraday catalyst -- **Prices Paid sub-index is the lens**. >75 = inflation persistence read = -1-2% S&P risk; <70 = relief rally. Manufacturing PMI headline cons 50.7-51.0 vs May 55.1 = looking for sharp deceleration; if HOLDS above 53 = cyclical bid (XLI/XLB good); if BREAKS below 50 = recessionary tone = defensive rotation accelerates (XLV good, MTUM/XLK bad).
+- **Midday scan**: verify any auto-trail ratchets (low probability on red day); check XLK vs $177.08 manual cut; check GNRC vs $275.31 trail; check Industrials sector % drift; FDX intraday reaction.
+- **Afternoon**: NO new entries unless XLK manual-cut breaches (= mandatory redeploy event). T-bill auctions + light data. Watch MU pre-positioning into Wed AMC.
+- **15:30-16:00 ET close**: EOD position vs trails + manual cuts; weekly count update.
+- **EOD**: TRADE-LOG snapshot Day 39 (Tue). Document PMI prints, FDX reaction, XLK/GNRC trajectory, sector drift evolution.
+- **Wed Jun 24**: **MU AMC** = direct AI-memory read for XLK/MTUM. Pre-Wed positioning = HOLD; let Wed open + tape carry into 4pm.
+- **Thu Jun 25**: jobless claims + final PMIs + GDP final = continuation read.
+- **Fri Jun 26**: PCE inflation gauge AM + **Iran MOU formal signing ceremony** in Switzerland = dual catalyst Fri.

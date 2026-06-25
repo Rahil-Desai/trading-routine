@@ -2243,3 +2243,96 @@ Reasoning: (a) deployment 91.34% above 85% floor = no mandatory deploy; (b) all 
 - **EOD**: TRADE-LOG snapshot Day 40 (Wed). Document MU print, FDX-XLI day reaction, XLK trajectory, weekly count (0/6 new + 1 close GNRC).
 - **Thu Jun 25 pre-market**: post-MU read drives action. If beat+raise = MTUM/XLK relief bid + deploy $8.5K into XLB or LYB; if miss = preserve cash + watch XLK for manual cut breach.
 - **Fri Jun 26**: PCE inflation AM (Fed-cut path read) + **Iran MOU formal signing Switzerland** = dual late-week catalyst; weekly review session afternoon.
+
+
+## 2026-06-25 -- Pre-market Research (Thursday / Day 41 / **MU SMASHED AH +16.94% = AI-memory binary CLEARED ; deploy GNRC cash today**)
+
+### Account
+- Equity: **$100,411.34** (+$1,020 vs Wed close $99,390.52 = **+1.03% premkt** via XLK +3.09% / MTUM +2.00% / XLI +0.77%)
+- Cash: **$8,595.14 (8.56%)** -- GNRC stop proceeds Tue still parked; 2nd session post-stop = **active deploy decision today**
+- BP: $291,465.93 | DT count 0/3 | PDT false | SMA $99,099.20
+- Long MV: $91,816.20 = deployment **91.44%** above 85% hard floor
+- Positions (5, **3 green / 2 flat-red vs entry**; **premkt all green except XLV -0.16%, XLB flat**):
+  - **MTUM 75 @ $315.58 -> $335.00** (+$1,456 / **+6.15%**; +$494 / +2.01% premkt from $328.41 close = post-MU bid)
+  - **XLB 363 @ $51.18 -> $51.16** (-$8 / -0.04%; flat 0% premkt)
+  - **XLI 130 @ $171.67 -> $181.59** (+$1,290 / **+5.78%**; +$179 / +0.77% premkt = FDX bleed not killing tape)
+  - **XLK 65 @ $190.41 -> $188.70** (-$111 / -0.90%; +$367 / **+3.09% premkt** post-MU bounce, near fresh hwm)
+  - **XLV 80 @ $152.68 -> $153.10** (+$34 / +0.28%; -$20 / -0.16% premkt = defensive give-back as risk-on re-engages)
+- Open trail stops (**6 GTC, all armed**):
+  - MTUM **$311.031** (10% trail, hwm $345.59) -- **7.69% buffer** to $335
+  - XLB **$47.979** (10% trail, hwm $53.31) -- 6.21% buffer
+  - XLI **$164.628** (10% trail, hwm $182.92) -- 9.34% buffer
+  - XLK **$174.87** (10% trail, hwm $194.30) -- 7.32% buffer (regressed from Tue 5.4%)
+  - XLV **$139.203** (10% trail, hwm $154.67) -- **9.10% buffer** = healthiest
+- Weekly count: **0/6** new entries; 1 close (GNRC Tue stop, +11.45% / +$706 realized)
+- Sector mix: MTUM 25.02% / XLI 23.51% / XLB 18.49% / XLV 12.20% / XLK 12.21% / Cash 8.56%
+- Cap status: **Industrials 23.51% under 30% cap = ~$6.5K room** before cap; Tech 12.21% = full room; Materials 18.49% room; MTUM 2bps over 25% per-position cap (drift, no add); Energy 0% (closed)
+
+### Market Context
+- **WTI $69.35 / Brent ~$77** -- crude continues sub-$70 (-0.65% intraday) on **Iran MOU formal signing Fri Switzerland on track** (VP Vance attending); fundamentally bearish through year-end (JPM forecasts Brent $60 avg 2026). Energy 0% = neutral.
+- **S&P 500 futures: ES +0.46% to 7,471.75 / NQ +1.15% to 30,008.25** -- **Nasdaq leading risk-on bid post-MU** (semis/AI complex). NQ outperforming ES by 70 bps = direct AI-memory sentiment readthrough.
+- **VIX 19.36 (-0.62%)** -- vol unchanged after Tue spike (+12.79% to 19.49); MU binary cleared = no further premium expansion. Still elevated vs sub-17 low-vol regime but no spike on MU release.
+- **MU AMC Wed CLEARED MASSIVE BEAT**: 
+  - **Revenue $41.5B vs cons $35.91B (+$5.54B / +18% beat)**
+  - **EPS $25.11 vs cons $20.98 (+$4.13 / +20% beat)** -- one year ago EPS was $1.91 (+1,214% YoY)
+  - **Gross margin 84.9%** record
+  - **YoY revenue growth +345.80%**
+  - **Q4 guide: EPS $30-32 vs cons $24.30** (+27% above cons), **revenue $49-51B vs cons $41.6B** (+20% above cons) -- "absolutely killed guidance" per analyst commentary
+  - **AH reaction: +16.94% to $1,213.80** from close $1,037.93 (pre-print already +830% past 12mo / +300% YTD)
+  - HBM/AI memory = unambiguous structural inflection; SanDisk/WDC complex parallel ("triple-digit price increases due to demand outstripping supply")
+  - **Direct readthrough**: MTUM (MU = top-5 holding ~4.3% wt) + XLK (semis 49% sector wt) + XLI (AI-capex data-center power/cooling) all positive; broader AI-capex theme reinforced ($725B 2026 capex from Goog/AMZN/MSFT/META = +77% YoY)
+- **Today's catalyst stack**:
+  - **08:30 ET GDP Q1 Final** (cons 1.6% from 2nd estimate 1.6%, downward revision from Q4 2025 0.5%) -- secondary; final read of growth softening
+  - **08:30 ET Personal Income & Outlays May (= PCE)** -- **THE inflation gauge**; Fed-cut path read; market-moving if surprise. Was expected Fri but actually today
+  - **Initial Jobless Claims** (weekly) -- secondary employment read
+  - **Durable Goods Orders May** -- manufacturing capex tone
+  - **FDX -6% AH Tue spillover**: weak FY26 guide cut EPS $19.30-20.10 -> $16.90-18.10 ($2.50 midpoint cut); FDX is ~3% XLI = est -0.15-0.2% XLI drag at open (already absorbed in +0.77% premkt = tape resilient)
+  - **Fri Jun 26**: PCE was repositioned to today; Fri remaining = Iran MOU formal signing Switzerland (VP Vance) = risk-on relief if delivered
+  - Light Thu earnings (BB after-hours, AVAV midday) = no major before-open prints
+- **Sector momentum (June month update)**: Tech regaining leadership post-MU; AI-capex direct beneficiaries (Semis, XLK, MTUM, XLI infra) primary. Materials +17.4% YTD, Industrials +14.1% YTD, Tech -3.3% YTD (lagger pre-MU; MU print may flip narrative). Defensives (XLV) failing hedge role through Tue PMI risk-off + Wed MU binary.
+
+### Held-ticker News
+- **MTUM** $335.00 (+6.15%, +2.01% premkt). **MU is top-5 holding ~4.3% wt = direct MU benefit**; AVGO/NVDA/AMD/LRCX semis-heavy also bid on MU readthrough. ETF "scored best 8-day relative winning streak vs SPX in history" pre-MU per Stockcharts -- MU print extends. Hwm $345.59 / trail $311.031 / **7.69% buffer = comfortable**; need +3.16% to fresh hwm = trail ratchets if extends. **Sector cap drift 25.02% / 2bps over 25% per-position cap (drift, no add)**.
+- **XLB** $51.16 (-0.04%, flat 0% premkt). Materials. Sub-$70 WTI petrochem input tailwind continues; Iran MOU Fri = continued supply relief; Mfg PMI Tue 55.7 (49-mo high) constructive. Hwm $53.31 / trail $47.979 / 6.21% buffer. **Sector room to ~25%** = candidate for redeploy but not the direct MU theme.
+- **XLI** $181.59 (+5.78%, +0.77% premkt). Industrials -- AI-capex direct beneficiary via data-center power/cooling/HVAC (URI, PWR, GE etc). **FDX -6% AH bleed not killing tape** (~3% XLI weight, est -0.15-0.2% drag absorbed). Mfg PMI 55.7 + GNRC seat freed = **room for XLI add (~$6.5K to 30% cap)**. Hwm $182.92 / trail $164.628 / 9.34% buffer.
+- **XLK** $188.70 (-0.90%, **+3.09% premkt**). 49% semis + 21% software; **direct MU readthrough = biggest premkt beneficiary in book**. Strike-2 Tech survived: Tue close $184.28 -> $191.10 (Wed close) -> $188.70 premkt (intraday Wed pull). Hwm $194.30 / trail $174.87 / 7.32% buffer (regressed from 5.4% Tue, now back to safer level). **Tech sector at 12.21% = full cap room to 30%** = primary candidate for redeploy on MU thesis.
+- **XLV** $153.10 (+0.28%, -0.16% premkt). Defensive lagger; failed hedge role through MU binary. Hwm $154.67 / trail $139.203 / 9.10% buffer = healthiest in book. **-7% manual cut at $142.00** = 7.3% below = comfortable. Continue HOLD; flag for discretionary exit if breaks $148 sustained (rotation rule).
+
+### Trade Ideas
+1. **PRIMARY: Add to XLK to deploy $8,595 GNRC cash today**. Sizing **42 sh @ ~$188 = ~$7,896** = lifts XLK from 12.21% -> ~20.1% / sector cap 30% leaves room. Catalyst = MU smash + AI-memory complex inflection + AI-capex narrative reinforced. Stop **10% trail GTC, hwm at fill price** (e.g. fill $188.70 = trail $169.83). Funding: cash sufficient ($7,896 < $8,595 cash). **Lot management**: add as new lot at current price; existing 65 sh lot retains $174.87 trail. Place at market-open routine, not pre-market (avoid gap-fade risk). **Rationale: direct theme play via ETF, not single-name binary** (lesson from GNRC stop-out).
+2. **ALTERNATE: AVGO single-name** (top MTUM holding, HBM peer beneficiary) ~25-30 sh @ ~$300+ = ~$8-9K. Higher beta / single-name binary = same lesson risk as GNRC; defer unless XLK add executed and additional dry powder freed.
+3. **NO add to MTUM** (cap-binding at 25.02%); NO add to XLI without seeing tape (FDX overhang + Industrials 23.51% leaves ~$6.5K headroom to 30% cap = could absorb GNRC cash but FDX guide miss the cautionary signal).
+4. **NO trims, NO manual stop moves** today. Trail discipline carries the post-MU euphoria; cut losers automatically.
+5. **+15%/+20% trail-tighten triggers**: best position MTUM +6.15% = 8.85pp below +15% trigger ($362.92). NONE active today. Per-position best-cushion XLI +5.78%, XLK regressed from -2.58% to -0.90% (recovering, not tightening).
+6. **Trail ratchet candidates intraday**: MTUM fresh hwm above $345.59 (need +3.16%, possible on continuation day); XLK above $194.30 (need +2.97%, plausible on MU bid); XLI above $182.92 (need +0.73%, **likely intraday if FDX dust settles**); XLV/XLB lower probability.
+
+### Risk Factors
+- **08:30 ET PCE print = THE near-term binary** (May data). Hot PCE = Fed-cut hawkish + USD bid + risk-off intraday possible = could offset MU euphoria. Cool PCE = continuation bid + risk-on extension confirms add timing.
+- **MU AH gap-fade risk**: +16.94% AH = euphoric overshoot; cash open Thu may give back 3-7%. **XLK add at market-open captures full bid OR fades to fill = either way ETF dampens single-name reversal vs MU itself**.
+- **Industrials FDX -6% bleed at open**: XLI ~3% weight FDX = -0.15-0.2% drag; absorbed in +0.77% premkt = neutral but watch midday.
+- **VIX 19.36 = still elevated**; PCE surprise + FDX confusion + Iran MOU Fri = bumpy ride into weekend.
+- **GDP final 1.6% = soft growth backdrop**: confirms decelerating economy; growth scarcity = AI capex stocks bid (book aligned), but cyclicals (XLI/XLB) get a defensive lens hit if recession narrative builds.
+- **MTUM concentration risk**: 25.02% per-position drift + MU 4.3% of MTUM = effective double-exposure; trail $311.03 = 7.69% buffer is comfortable but binary if AI sentiment cracks.
+- **Cash deploy timing**: 8.56% < 15% floor = NOT mandatory deploy violation today but Wed = decision session, Thu = execute session. Failing to deploy = "log a specific blocking reason" loophole removed per Rule 2. **Execute XLK add at market open today**.
+- **Iran MOU Fri signing**: delivered = risk-on continuation; breaks down = -2-3% S&P + oil spike. Energy 0% = neutral on direction.
+- **Phase P&L -$753 (-0.75%)** premkt = back below water; **MU bid + XLK add gets phase back positive** if Thu close holds bid.
+
+### Decision
+**HOLD existing 5 positions. DEPLOY cash via XLK add at market open.**
+
+**Order to place at market-open routine 09:30 ET**:
+- **BUY 42 sh XLK** at market (limit ~$190 max to avoid gap-up overshoot); funding = $8,595 cash; expected fill ~$188-191 = $7,896-8,022
+- **Place 10% GTC trail stop SELL 42 sh XLK** at fill (hwm at fill price)
+- Net result: XLK weight 12.21% -> ~20.1%; sector Tech 12.21% -> ~20.1%; cash 8.56% -> ~0.7%; deployment 91.44% -> ~99.3%
+
+Reasoning: (a) MU smash + raise = once-a-cycle AI-memory inflection = highest-conviction catalyst since campaign start; (b) cash 8.56% = redeploy decision day (Wed scout / Thu execute); (c) XLK direct theme exposure via 49% semis weight + 21% software (AI software ramp) = cleanest readthrough; (d) ETF vs single-name = managed binary risk (GNRC lesson); (e) Tech sector cap 30% has full room; (f) trail discipline preserved via 10% GTC trail at fill; (g) 5 existing positions all green premkt = no defensive action needed; (h) PCE 08:30 = pre-open binary; place order AFTER PCE digest at 09:30 open, not premarket.
+
+### Plan for the day
+- **08:30 ET PCE / GDP / Jobless Claims / Durable Goods**: digest inflation print FIRST. Hot PCE = re-evaluate XLK add sizing (cut to 30 sh); cool/in-line = full 42 sh add per plan.
+- **09:30 ET open**: verify GTC trails all 6 still armed. **Place XLK BUY 42 sh limit ~$190**, then SELL 42 sh trailing_stop 10% GTC after fill confirms. Verify no fat-finger; verify Tech sector lifts to ~20%, deployment ~99%.
+- **09:45-11:00 ET**: monitor XLK fill confirmation + new trail GTC live at Alpaca; check MTUM/XLI fresh hwm prints (likely on continuation); FDX cash trade direction = XLI tone.
+- **Midday scan**: weekly count update to 1/6 (XLK add); verify sector mix post-deploy (Tech 20%, MTUM 25%, XLI 23.5%, XLB 18.5%, XLV 12.2% = all under caps); check trail ratchets; watch MU cash open % (vs AH +16.94% = gap-fade test).
+- **Afternoon**: NO further adds today unless XLK fill misses (would require contingency). T-bill auctions + light data.
+- **15:30-16:00 ET close**: EOD position vs trails + sector mix; weekly count 1/6 (XLK add) + 1 close (GNRC Tue).
+- **EOD**: TRADE-LOG snapshot Day 41 (Thu). Document PCE print reaction, XLK add fill, MU cash close, sector mix evolution, weekly count.
+- **Fri Jun 26**: Iran MOU signing Switzerland AM (VP Vance) = late-week catalyst; weekly review session afternoon (Friday workflow). Plan: HOLD all 6 (post-add), monitor MTUM/XLK for +15% trail-tighten triggers if MU euphoria extends.

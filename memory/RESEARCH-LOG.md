@@ -2336,3 +2336,82 @@ Reasoning: (a) MU smash + raise = once-a-cycle AI-memory inflection = highest-co
 - **15:30-16:00 ET close**: EOD position vs trails + sector mix; weekly count 1/6 (XLK add) + 1 close (GNRC Tue).
 - **EOD**: TRADE-LOG snapshot Day 41 (Thu). Document PCE print reaction, XLK add fill, MU cash close, sector mix evolution, weekly count.
 - **Fri Jun 26**: Iran MOU signing Switzerland AM (VP Vance) = late-week catalyst; weekly review session afternoon (Friday workflow). Plan: HOLD all 6 (post-add), monitor MTUM/XLK for +15% trail-tighten triggers if MU euphoria extends.
+
+## 2026-06-26 -- Pre-market Research (Friday / Day 42 / **HOT PCE 4.4% vs cons 2.7% = risk-off premkt; Tech leadership cracks; XLK tightest stop**)
+
+### Account
+- Equity: **$100,589.62** (-$680.86 / -0.67% vs yesterday $101,270.48) -- premkt fade pricing in PCE
+- Cash: **$1,986.49 (1.97%)** -- lean post-XLB add; no dry powder for new entries
+- BP: $284,034.72 | DT count 0/3 | PDT false | SMA $96,107.41
+- Long MV: $98,603.13 = deployment **98.03%**
+- Positions (5, **3 green / 1 red / 1 small-red vs entry**; **premkt all red except XLV +0.23%**):
+  - **MTUM 75 @ $315.58 -> $333.42** (+$1,338 / **+5.65%**; -$441 / **-1.73% premkt** = post-MU euphoria fade)
+  - **XLB 491 @ $51.30 -> $51.83** (+$261 / +1.04%; -$5 / -0.02% flat premkt)
+  - **XLI 130 @ $171.67 -> $183.47** (+$1,534 / **+6.88%**; -$84 / -0.35% premkt)
+  - **XLK 65 @ $190.41 -> $181.82** (-$558 / **-4.51%**; -$179 / **-1.49% premkt** = Tech selling intensifies)
+  - **XLV 80 @ $152.68 -> $155.98** (+$264 / +2.16%; +$28 / **+0.23% premkt** = lone defensive bid)
+- Open trail stops (**7 GTC, all armed**; XLB has 3 lots stacked):
+  - MTUM **$311.031** (10% trail, hwm $345.59) -- **6.71% buffer** to current $333.42
+  - XLB **$47.979** (10% trail, hwm $53.31; lot 363+198) + **$46.971** (10% trail, hwm $52.19; lot 128) -- 7.44% / 9.38% buffer
+  - XLI **$167.481** (10% trail, hwm $186.09) -- 8.71% buffer
+  - XLK **$174.87** (10% trail, hwm $194.30) -- **3.96% buffer = TIGHTEST in book**; manual -7% cut $177.08 = 2.62% buffer (CRITICAL)
+  - XLV **$141.4845** (10% trail, hwm $157.205) -- 9.30% buffer = HEALTHIEST
+- Weekly count: **1/6** (XLB add Thu Jun 25 +128 sh @ $51.63); 1 close (GNRC stop Tue Jun 23, +11.45% / +$706 realized)
+- Sector mix: MTUM 25.31% / XLB 25.74% (above 25% per-position cap by 74 bps = monitor) / XLI 24.13% / XLV 12.63% / XLK 11.96% / Cash 1.97%
+- Cap status: **XLB 25.74% over 25% per-position cap by 74 bps** = drift from yesterday's add + extension; if persists end-of-day Fri, trim 10-15 sh next session. **MTUM 25.31% over per-position by 31 bps** (drift). Sector: Industrials 24.13%, Materials 25.74%, Tech 11.96% all under 30% sector cap. Energy 0% (closed).
+
+### Market Context
+- **WTI Aug $71.44 / Brent ~$74** -- crude bid back up from $69 low; Iran MOU formal signing Fri Switzerland (VP Vance) still on calendar but **crude rebounding suggests less optimism than priced earlier**. Energy 0% = neutral on direction.
+- **S&P 500 futures: ES -0.60% to 7,378.75 / NQ -1.32% to 29,331.75** -- **risk-off premkt**, NQ underperforming ES by 70 bps = Tech selling led, **mirror image of yesterday's MU bid**. ES dropped from prior close 7,428 (Wed). Bear gap setup at open.
+- **VIX 20.26 (+7.25%)** -- vol expansion off Wed close 18.89 = pricing in hot PCE / Iran headline risk into weekend. Above 20 = elevated vol regime.
+- **08:30 ET PCE print = HOT** -- **Core PCE Prices QoQ Final 4.4% vs cons 2.7% / prior 2.7%** = **63% above consensus** = inflation re-acceleration. Market pricing in **Fed rate HIKE** by end-2026 vs prior cut narrative. This is the premkt-fade driver, not the Iran story.
+- **Today's catalyst stack**:
+  - **08:30 ET PCE (Core 4.4% Final) = THE binary, HOT** -- already released; risk-off bid confirmed
+  - **Iran MOU formal signing Switzerland** (VP Vance attending) -- if delivered = late-day relief; if delayed = -2-3% S&P extension lower
+  - **Goolsbee (Chicago Fed) speech** -- hawkish read post-PCE = additional hawkish pressure
+  - Light Fri earnings -- no major before-open prints
+- **Sector momentum**: **Tech leadership cracking** post-MU euphoria; growth/momentum giving back. Per Morningstar June: Tech +16% past month, **but PCE shock + rate-hike pricing = Tech derate risk**. AI-capex narrative ($725B 2026) structurally intact but rates-vs-growth tension renewed. Materials YTD +17.4%, Industrials +14.1% still leading sectors. Defensives (XLV) failed hedge through May but **today setup = defensive bid (XLV +0.23% premkt confirms)**.
+
+### Held-ticker News
+- **MTUM** $333.42 (-1.73% premkt). Post-MU AI-momentum bid evaporates fast on PCE shock; semis/AI-heavy basket (NVDA/AVGO/MU/AMD/LRCX) most sensitive to Fed rate-hike repricing. Hwm $345.59 / trail $311.031 / 6.71% buffer = comfortable but elevated for momentum factor. **MTUM 25.31% over 25% cap by 31 bps** (drift). Trail-tighten triggers: best position +5.65% = 9.35pp below +15%.
+- **XLB** $51.83 (-0.02% flat premkt). Materials resilient despite PCE shock = real-asset / commodity ETF behaving as inflation hedge. Sub-$72 WTI mild headwind on petrochems but petrochem-direct holdings less exposed than pure chemicals. Hwm $53.31 / 7.44% buffer (lot 363+198) / 9.38% buffer (lot 128). **XLB 25.74% over 25% per-position cap by 74 bps** = monitor for end-of-day trim if persists.
+- **XLI** $183.47 (-0.35% premkt). Industrials hold up = AI-capex / data-center build still intact narrative; rate-hike less direct hit than Tech. **XLI 24.13% under 30% sector cap** = ~$5.9K room before cap (XLI alone in Industrials post-GNRC). Hwm $186.09 / trail $167.481 / 8.71% buffer.
+- **XLK** $181.82 (**-1.49% premkt**). **Tech the prime victim of PCE shock**. Strike-2 Tech bet under water at **-4.51% unrealized / -$558**, **3.96% buffer to trail $174.87** = TIGHTEST in book, **2.62% buffer to -7% manual cut at $177.08** = CRITICAL THRESHOLD. NQ -1.32% futures = XLK pricing in 1-2% open drop = could test manual cut at open. **If XLK trades below $177.08 sustained, manual cut triggers = Tech sector closes for campaign**. Sector lessons: DELL strike-1 May, XLK strike-2 Jun = strike-3 candidate.
+- **XLV** $155.98 (**+0.23% premkt**). Defensive Healthcare = today's lone bid; lagged through MU euphoria, comes back on PCE/rate-hike rotation. Hwm $157.205 / trail $141.4845 / 9.30% buffer = HEALTHIEST. Healthy bid confirms defensive flicker. Hold; flag for discretionary exit only if breaks $148 sustained.
+
+### Trade Ideas
+1. **HOLD all 5 today.** Hot PCE = wrong setup for new entries; XLK at manual cut threshold = preserve cash for forced redeploy if Tech stops out. Cash $1,986 = no dry powder anyway.
+2. **NO new entries.** PCE shock + VIX 20 = risk-off; rules: take best setup of the week BUT respect tape; opening 1-2% gap-down + Fed rate-hike repricing = bid the close, not the open.
+3. **Conditional triggers**:
+   - **XLK below $177.08 sustained 10+ min = MANUAL CUT 65 sh** (per Rule 8, cut at -7%); cancel trail GTC first, then SELL at market. Free ~$11.5K cash. Tech sector closes for campaign (strike-3 = no future Tech adds via XLK/individual). Redeploy candidates from cash sleeve: XLB add (cap-binding, defer), XLI add (Industrials room ~$5.9K), XLV add (Healthcare room, defensive bid working today), or XLP fresh (Staples 0% = diversifier, YTD +15.6%).
+   - **XLK trail $174.87 breach = automatic stop-out** (GTC armed, will execute on Alpaca; no manual action needed if breached intraday).
+   - **MTUM trail $311.03 breach** = automatic; cushion 6.71% absorbs ~$22 down = unlikely single-day even on -2% NQ.
+4. **Trail ratchets pending today**: MTUM above $345.59 (need +3.65%, unlikely on risk-off), XLB above $53.31 (need +2.85%, low probability), XLI above $186.09 (need +1.43%, only feasible if PCE relief rally develops), XLK above $194.30 (impossible today, gap-down setup), XLV above $157.205 (need +0.79%, **plausible on defensive rotation bid**). **XLV is the only realistic fresh hwm candidate today.**
+5. **+15%/+20% trail-tighten triggers**: best position XLI +6.88% = 8.12pp below +15% trigger ($197.42); MTUM +5.65% = 9.35pp below; XLV +2.16% = 12.84pp below; XLB +1.04% = 14pp below; XLK -4.51% = far below (red). **None active today.**
+6. **No trims, no manual stop moves.** Rules: never within 3% of current; never move stop down. XLB / MTUM cap drift = monitor only, no trim unless persists EOD Fri (drift-driven cap breach < 1pp not active rule violation since not from sizing decision today).
+
+### Risk Factors
+- **PCE Core 4.4% Final = stagflation shock**: 63% above cons; Fed-cut path inverted to rate-hike pricing by end-2026 = USD bid + bond yields up + multiples compression = **growth/momentum hit hardest, defensives bid**. NQ -1.32% premkt confirms; XLK -1.49% = direct hit.
+- **XLK -7% manual cut $177.08 / 2.62% buffer = IMMINENT THRESHOLD**: 1-2% gap-down at open = $179-180 print = within 1.7-2.7% of cut. **Single-day -3% NQ = XLK to $176 = manual cut triggers**. Strike-3 risk for Tech sector.
+- **MTUM concentration**: 25.31% over per-position cap drift + Tech-weighted holdings (NVDA/AVGO/MU/AMD = ~17% combined) = double-Tech exposure on rate-hike day. Trail $311.03 = 6.71% buffer comfortable but momentum factor underperforms on rate shocks historically.
+- **Iran MOU Fri signing**: delivered = relief into weekend close; delayed/breaks down = -2-3% S&P + oil spike + crude back >$80 (Energy 0% = neutral). Headline risk live all day.
+- **VIX 20.26 above 20 threshold** = vol expansion regime; realized expansion possible on any catalyst surprise; intraday vol = wider stops, slippage risk on manual cuts.
+- **Cash 1.97% = no dry powder** for new entries; deployment 98.03% near max = if XLK stops, ~$11.5K cash freed = redeploy decision Mon (Wed scout / Thu execute pattern from GNRC). No mandatory deploy violation today (well above 85% floor).
+- **XLB cap drift 25.74% / 74 bps over per-position cap** = not active violation since drift from yesterday's intraday extension + Fri PCE-fade tape, but if persists EOD = trim 10-15 sh next session (Mon).
+- **Weekly count 1/6 (XLB add)** = 5 slots remain Fri; **no plan to add on PCE risk-off day**. Slots will roll off unused unless XLK stop creates forced rotation (Mon execution).
+- **Goolsbee Fed speech** today = if hawkish read post-PCE = additional rate-hike pricing pressure; if dovish (unlikely) = relief.
+
+### Decision
+**HOLD all 5. NO new entries. Monitor XLK -7% manual cut threshold $177.08 = CRITICAL.**
+
+Reasoning: (a) PCE Core 4.4% Final vs cons 2.7% = inflation re-acceleration shock = wrong tape for new entries; (b) cash 1.97% = no dry powder anyway; (c) XLK 2.62% buffer to manual cut + 3.96% to trail = TIGHTEST risk in book, single-day -3% NQ triggers; (d) MTUM trail 6.71% buffer comfortable; XLB/XLI/XLV all 7%+ buffers; (e) XLV +0.23% premkt = defensive rotation working as designed; (f) cap drifts (XLB 25.74%, MTUM 25.31%) = monitor only, not active violations from sizing decisions; (g) Fri = weekly review day, plan post-PCE reaction + Mon strategy; (h) Iran MOU + Goolsbee = headline-risk-flat day, hold mode appropriate.
+
+### Plan for the day
+- **09:30 ET open**: HOLD. Verify all 7 GTC trails still armed at Alpaca. **Watch XLK gap-down**: if opens below $179 = inside 1.05% of -7% cut $177.08 = ALERT mode; if opens $180+ = pre-cut buffer holds.
+- **09:30-10:30 ET first hour**: monitor XLK price action vs $177.08 manual cut; if breached and holds 10+ min = execute manual SELL 65 sh at market (cancel trail GTC first to avoid double-exit conflict). Free ~$11.5K cash. Tech sector closes (strike-3); no Tech adds rest of campaign. Watch MTUM relative behavior (its semis weight = correlated read).
+- **10:30-12:00 ET**: Iran MOU signing headline window (Switzerland AM ET). Risk-on relief = XLK can recover; risk-off extension = XLK manual cut more likely. Goolsbee Fed speech timing TBD = hawkish read post-PCE = piles on.
+- **Midday scan (run /midday workflow)**: assess XLK status (stopped or held), MTUM/XLB cap drift status (trim candidate if >25.5% post-rebound), XLV fresh hwm check ($157.205 trigger), weekly count update.
+- **Afternoon**: monitor weekly review templates (/weekly-review workflow runs post-close Fri). If XLK stopped midday, document realized exit + plan Mon redeploy ($11.5K cash + decide XLI add to fill Industrials room OR XLV add for defensive or XLP fresh diversifier).
+- **15:30-16:00 ET close**: EOD position vs trails + sector mix + Phase P&L update. Friday close = weekly metrics: trades 1/6 used + 1 forced close GNRC + potential XLK stop. Phase status going into Mon = lean-cash or post-stop cash sleeve.
+- **EOD + WEEKLY REVIEW**: TRADE-LOG snapshot Day 42 (Fri). Run weekly-review skill to update memory/WEEKLY-REVIEW.md with phase metrics, sector rotation lessons (MU euphoria -> PCE shock 24-hr swing), Tech strike-3 status, Mon redeploy plan if XLK stopped, watchlist refresh (LYB, TPL, SANM, XLP, XLU).
+- **Mon Jun 29 pre-market**: post-Fri close + weekend headline read = drive Mon action. If XLK stopped Fri = redeploy ~$11.5K via XLI / XLV / XLP rotation; if held Fri = continue HOLD with PCE-shock digest.

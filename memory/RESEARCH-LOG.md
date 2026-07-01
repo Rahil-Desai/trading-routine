@@ -2512,4 +2512,97 @@ Reasoning: (a) deployment 98.03% above 85% floor + below 100% ceiling = complian
 - **15:30-16:00 ET pre-close**: EOD position-check; trail/sector cap snapshot; NKE AMC results read for Wed Cons Disc tone.
 - **EOD**: TRADE-LOG snapshot Day 43 (Tue). Document Consumer Confidence/JOLTS prints, XLV/XLI ratchet status, MTUM cap drift evolution, XLK trajectory vs $177.08, NKE AMC reaction.
 - **Wed Jul 1**: Pre-market read on ADP + ISM Mfg PMI cons 53.7 (10:00); GIS AMC. Plan: HOLD unless XLK breaks $177.08 or fresh leader emerges + funded via MTUM cap-trim.
+
+
+## 2026-07-01 -- Pre-market Research (Wednesday / Day 44 / **NFP-shortened week, fully deployed, HOLD into ISM Mfg PMI 10:00**)
+
+### Account
+- Equity: **$101,266.61** (-$546 vs Tue close $101,812.77 = **-0.54% overnight drift** via MTUM -0.02% / XLB -1.00% / XLI -0.92% / XLK -0.42% / XLV -0.16%; snapshot ~4:15 AM ET)
+- Cash: **$1,986.49 (1.96%)** -- lean cash, no dry powder for fresh entry without rotation
+- BP: $285,930.30 | DT count 0/3 | PDT false | SMA $100,730.20
+- Long MV: $99,280.12 = deployment **98.04%** (well above 85% hard floor)
+- Positions (5, **3 green / 2 red vs entry**):
+  - **MTUM 75 @ $315.58 -> $342.83** (+$2,043 / **+8.63%**; flat overnight)
+  - **XLB 491 @ $51.30 -> $50.32** (-$480 / **-1.91%**; -$250 / -1.00% overnight)
+  - **XLI 130 @ $171.67 -> $183.52** (+$1,540 / **+6.90%**; -$222 / -0.92% overnight)
+  - **XLK 65 @ $190.41 -> $189.71** (-$46 / **-0.37%**; -$53 / -0.43% overnight; nearly at breakeven)
+  - **XLV 80 @ $152.68 -> $158.40** (+$458 / **+3.75%**; -$21 / -0.16% overnight)
+- Open trail stops (**6 GTC, all armed**):
+  - MTUM **$311.031** (10% trail, hwm $345.59) -- **9.27% buffer**
+  - XLB lots: **$47.979** qty 363 (hwm $53.31) + **$46.971** qty 128 (hwm $52.19) -- 4.65% / 6.65% buffer (tightest in book after Tue -1.82% + Wed premkt -1.00%)
+  - XLI **$167.481** (10% trail, hwm $186.09) -- **8.75% buffer**
+  - XLK **$174.87** (10% trail, hwm $194.30) -- **7.82% buffer**; **-7% manual cut at $177.08 = 6.66% buffer** (best in weeks; near-breakeven position no longer strike-2 walking-wounded)
+  - XLV **$145.1025** (10% trail, hwm $161.225) -- **8.44% buffer**
+- Weekly count: **0/6 fresh** (Mon/Tue no entries; effective trading window shrinks Wed/Thu with Fri Jul 3 CLOSED)
+- Sector mix: MTUM 25.90% / XLB 24.89% / XLI 24.03% / XLV 12.77% / XLK 12.42% / Cash 1.96%
+- Cap status: **MTUM 90bps over 25% per-position cap** (drift from Tue +2.05% extension; 3 sessions running over cap, escalating watch -- if intraday extends further, execute scheduled trim per rule); XLB 24.89% (back under cap via Tue -1.32%); XLI 24.03% under 30% sector cap (~$6.0K headroom); XLK 12.42% under 30%; Energy 0% (closed)
+
+### Market Context
+- **WTI $69.57 / Brent $73.01** (+0.30% / +0.34% overnight); crude sub-$70 = petrochem input tailwind for XLB; Iran de-escalation still cooperative; Strait of Hormuz not weaponized.
+- **S&P 500 futures: ESU26 +0.10% / NQU26 +0.16%** -- flat-to-slightly bid overnight; Tue closed at record after +0.63%/+1.55% rip; digestion mode into ISM.
+- **VIX 17.11 (-3.06%)** -- fresh sub-18 low, **compressed vol regime** despite hot PCE + Fed hawkish backdrop; JPM 7,800 "Blue Sky" scenario intact.
+- **Today's catalyst stack** (Wed = data-heavy AM):
+  - **8:15 ET ADP Employment (June)**: **PRINTED HOT 122K vs 105K cons** (prior 113K revised); labor demand robust = Fed-hawkish reinforcement risk for Tech
+  - **9:30 ET Fed Chair Warsh speech** = policy-signal risk
+  - **9:45 ET S&P Global PMI Mfg Final (June)**: 55.1 actual vs 55.7 cons = mild miss but still expansion
+  - **10:00 ET ISM Mfg PMI (June)**: cons 56.8 = key gauge, market-moving on surprise
+  - **10:00 ET Construction Spending (May)**: secondary
+  - **2:30 ET ISM Mfg Prices (June)**: **PRINTED HOT 82.1 vs 80 cons** = input-price inflation reinforcement (hawkish undertone)
+  - **Earnings BMO**: GIS (Cons Staples; cons $0.80), FDS (Financials-data; cons $4.45), **MSM (Industrials distribution; cons $1.27 = direct XLI readthrough)**, UNF, FIZZ
+  - **Earnings AMC**: GBX (Rail cars; XLI-adjacent), LIN (Industrials)
+- **This week remaining**:
+  - **Thu Jul 2 NFP June** (8:30; cons +170K, UR 4.3%) = week's binary
+  - **Fri Jul 3 US MARKET CLOSED** (Independence Day observed); 3-day weekend
+- **Sector momentum YTD 2026** (re-confirmed): Energy +23.3%, Materials +17.4%, Cons Staples +15.6%, **Industrials +14.1%** lead; Comm Services -1.2%, **Tech -3.3%**, Cons Disc -3.8%, Financials -6.9% lag. Book alignment strong (Materials + Industrials + MTUM overweight; Tech underweight).
+- **Macro tone**: Hot ADP + hot ISM Prices + Warsh hawkish = Sep rate-hike pricing firming; but consumer robust + AI capex ($750B 2026 for top-14 hyperscalers) = Industrials/Materials cyclical tailwind intact; Iran "Blue Sky" resolution still priced.
+
+### Held-ticker News
+- **MTUM** $342.83 (+8.63%, flat overnight). **Rebalance Jun 23 reshuffled portfolio significantly**: new top holdings **MU 7.65% / INTC 5.28% / AMD 5.05% / CAT 4.19% / AVGO 4.06% / LRCX 3.75% / AMAT 3.61% / JNJ 2.98% / GEV 2.97% / XOM 2.94%** = **52.2% IT concentration** (vs prior ~40% pre-rebalance = +12pp Tech tilt). Semis/semi-equipment now the dominant driver -- **materially raises correlation to XLK** and cuts the diversification benefit that made MTUM the "safer momentum sleeve". Hwm $345.59 / trail $311.031 / **9.27% buffer**. Need +0.80% to fresh hwm = trail ratchets. **25.90% = 90bps over per-position cap** (drift, 3 sessions running); if extends >25.5% intraday sustained, execute scheduled trim.
+- **XLB** $50.32 (-1.91%, -1.00% overnight). Materials. Sub-$70 WTI petrochem input tailwind holding; oil steady. Hwm $53.31 / trail $47.979 / 4.65% buffer (qty 363) + $46.971 / 6.65% (qty 128) -- **tightest in book after Tue red day + Wed premkt fade**. 24.89% = under cap via drift resolved.
+- **XLI** $183.52 (+6.90%, -0.92% overnight). Industrials -- YTD leader + AI-capex data-center power/cooling theme ($750B 2026 hyperscaler capex, $700B US total). Top GE 6.55% / CAT 6.28% / RTX 5.15%. **MSM BMO = direct Industrials-distribution readthrough** (small caps of book, informational). Hwm $186.09 / trail $167.481 / 8.75% buffer; need +1.40% to fresh hwm.
+- **XLK** $189.71 (-0.37%, -0.42% overnight). 49.63% semis + 20.21% software + 18.54% hardware (post-rebalance data as of Jun 29). NVDA 14.79% / AAPL 13.22% / MSFT 8.79% / MU 5.58% / AVGO 5.48%. **Strike-2 Tech bet effectively recovered** = near-breakeven -0.37% (was -4.94% Fri close; Tue +2.64% rip cleared strike-2 status). Manual cut $177.08 = 6.66% buffer (best since May entry); trail $174.87 = 7.82% buffer. **Risk receded** -- no longer walking-wounded.
+- **XLV** $158.40 (+3.75%, -0.16% overnight). Defensive sleeve holding gains; Tue -1.28% fade did NOT break hwm $161.225 (ratchet captured intraday high). Hwm $161.225 / trail $145.1025 / **8.44% buffer**. -7% manual cut $142.00 = 10.36% buffer. Need +1.78% to fresh hwm.
+
+### Trade Ideas
+1. **HOLD all 5. NO new entries today.** Rationale: (a) cash 1.96% = fully deployed; (b) Wed = data-heavy AM (ADP hot + ISM Mfg 10:00 + Warsh 9:30); (c) NFP Thu = week's binary, preserve weekly slot 0/6; (d) Fri closed + 3-day weekend = thin late-week liquidity; (e) all 5 positions trail-protected; (f) MTUM cap-drift = no add-side pressure.
+2. **Trail ratchet watch intraday** (auto via Alpaca):
+   - **MTUM fresh hwm > $345.59** = need +0.80% (**near-trigger**, plausible if ISM benign)
+   - **XLI fresh hwm > $186.09** = need +1.40% (plausible on Industrials rotation continuation)
+   - **XLV fresh hwm > $161.225** = need +1.78% (moderate; defensive bid dependent)
+   - **XLK fresh hwm > $194.30** = need +2.42% (post-Tue rip in reach, would confirm Tech reclamation)
+   - **XLB fresh hwm > $53.31** = need +5.94% (out of reach)
+3. **+15% / +20% trail-tightens**: best MTUM +8.63% = 6.37pp below +15% trigger. NONE active today.
+4. **Per-position cap trim trigger**: **MTUM 25.90% = 90bps over cap, 3 sessions running, ESCALATING**. Rule: if extends >25.5% sustained (already at 25.9% = well past 25.5% threshold), execute scheduled trim. **Midday decision point: if MTUM sustains >25.9% at 12:00 ET scan, trim 2-3 sh to bring back inside 25% cap** (~$700-1,000 freed to cash sleeve).
+5. **Manual -7% cut watch**: XLK $177.08 = 6.66% buffer (best in weeks). No active pressure.
+6. **Watchlist for week** (no immediate plan, only on rotation trigger): LYB/TPL (Materials single-name if XLB drift persists), GE/CAT/RTX (Industrials single-name if funded via MTUM cap-trim), AVGO/NVDA/MU (semi single-name if XLK breaks out), JNJ/UNH (XLV single-name if defensive extends).
+
+### Risk Factors
+- **10:00 ET ISM Mfg PMI = AM binary** (cons 56.8): strong = cyclical continuation (XLI/XLB bid); soft = growth-scare (Industrials at risk, XLV defensive rotation); in-line = grind. Combined with hot ADP + hot ISM Prices = mixed signal (labor + input inflation hot but manufacturing activity uncertain).
+- **9:30 ET Warsh speech = hawkish-tilt risk**: any Sep-hike signal firming = Tech (XLK) headwind; MTUM new post-rebalance IT concentration (52.2%) amplifies drag.
+- **NFP Thu Jul 2 = THE WEEK BINARY** (cons +170K, UR 4.3%): hot = hawkish Fed reinforcement + Tech cap; cool = growth scare (cyclicals hit); in-line = continuation. **3-day weekend post-print = no fresh late-week entries.**
+- **MTUM post-rebalance risk**: portfolio shifted to 52.2% IT (from ~40% pre-rebalance); semis top-3 (MU 7.65% / INTC 5.28% / AMD 5.05%) = if semis roll on hawkish print, MTUM drags harder than before. Correlation to XLK now much higher. Trail $311.031 = 9.27% buffer = comfortable.
+- **XLB tightest trail buffer 4.65% (qty 363 lot)**: Tue -1.82% + Wed premkt -1.00% = -2.79% cumulative from entry; another -2% day puts trail in near-play. Materials weakness on manufacturing miss = amplify risk.
+- **XLK reclaim of strike-2 status**: no longer walking-wounded (Tue +2.64% rip lifted from -4.94% to -0.05%); but semis-heavy = ISM Prices hot 82.1 = margin-compression narrative for chip makers = potential fade.
+- **Fri Jul 3 CLOSED + 3-day weekend**: gap risk both directions Mon Jul 6; no fresh entries advisable Thu after NFP.
+- **Lean cash 1.96%**: no headroom for opportunistic entry; rotation only on stop-out or MTUM cap-trim.
+- **Phase P&L +$1,806.77 (+1.81%) Tue close** -> premkt drift puts phase **+$1,266.61 (+1.27%) Wed premkt**; still positive, above prior peaks, but $540 give-back overnight.
+
+### Decision
+**HOLD all 5. NO new entries. Cash 1.96% = fully deployed. Watch MTUM cap-trim trigger at midday.**
+
+Reasoning: (a) deployment 98.04% above 85% floor + below 100% ceiling = compliant; (b) all 6 GTC trails armed, buffers 4.65%-9.27% range (tightest XLB qty 363); (c) Wed = data-heavy AM (ADP hot + ISM Mfg 10:00 + Warsh 9:30) = no edge for fresh pre-data entry; (d) NFP Thu = pre-position into clarity; (e) MTUM 25.90% cap drift = **potential midday trim** to comply (not add-side); (f) XLK reclaimed near-breakeven = no longer strike-2 walking-wounded but no add into recovering laggard; (g) Industrials room exists (~$6.0K to 30% cap) BUT lean cash + Wed premkt drift red = no chase; (h) weekly slot 0/6 = preserve for post-NFP setup (Fri closed shrinks window to Wed midday + Thu limited); (i) sector rotation favor (Industrials/Materials leaders per YTD) supports existing book, no need to add via new entry.
+
+### Plan for the day
+- **09:30 ET open**: HOLD. Verify all 6 GTC trails armed. Watch XLB downside vs trail $47.979 (buffer 4.65%); XLI/XLK bounce candidates.
+- **09:30 ET Warsh speech**: hawkish-signal watch; if firm Sep-hike language = XLK/MTUM fade risk.
+- **09:45 ET S&P Global PMI Mfg Final digest**: 55.1 vs 55.7 cons already known (mild miss); non-market-moving unless ISM confirms trend.
+- **10:00 ET ISM Mfg PMI**: AM binary. Strong (>57) = cyclical bid (XLI/XLB continuation); soft (<55) = defensive rotation (XLV bid, cyclicals red).
+- **10:00-12:00 ET**: monitor MTUM cap drift (trim decision at 12:00 ET if >25.5% sustained); XLB downside vs trail; XLI/XLK ratchet candidates.
+- **Midday scan (12:00 ET)**: **MTUM cap-trim decision** = if still >25.5%, trim 2-3 sh via market/limit order to bring back inside 25% cap (~$700-1,000 freed cash); verify trail ratchets fired (MTUM $345.60+, XLI $186.10+); weekly count holds 0/6.
+- **Afternoon**: NO trades planned absent data shock or trim trigger. GIS/MSM/FDS BMO digest; positioning for NFP.
+- **15:30-16:00 ET pre-close**: EOD position-check; trail/sector cap snapshot; NFP-eve positioning.
+- **EOD**: TRADE-LOG snapshot Day 44 (Wed). Document ADP/ISM Mfg/Warsh reactions, MTUM cap-trim status (executed or held), XLK breakeven confirmation, XLB downside pressure.
+- **Thu Jul 2 NFP**: pre-market read on cons +170K / UR 4.3%; hot = XLK cap risk / cool = cyclicals hit; **NO fresh entries into a 3-day-weekend binary**; plan HOLD.
+- **Fri Jul 3**: **US MARKET CLOSED** -- no workflow runs.
+- **Mon Jul 6**: NFP post-mortem + fresh week; if Wed cap-trim executed = ~$1K dry powder available for single-name leader entry (LYB/TPL/GE/CAT candidates).
 - **Thu Jul 2 NFP**: week's binary; **3-day weekend = no fresh entries late-week absent strong signal**.

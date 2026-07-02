@@ -2606,3 +2606,40 @@ Reasoning: (a) deployment 98.04% above 85% floor + below 100% ceiling = complian
 - **Fri Jul 3**: **US MARKET CLOSED** -- no workflow runs.
 - **Mon Jul 6**: NFP post-mortem + fresh week; if Wed cap-trim executed = ~$1K dry powder available for single-name leader entry (LYB/TPL/GE/CAT candidates).
 - **Thu Jul 2 NFP**: week's binary; **3-day weekend = no fresh entries late-week absent strong signal**.
+
+### Jul 01 -- Midday Scan Addendum (12:00 ET)
+**Portfolio:** $100,653.29 | **Cash:** $1,986.49 (1.97%) | **Long MV:** $98,666.80 (98.03%) | **Day P&L:** -$1,159.48 (-1.14%)
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrlz P&L | % Book | Stop | Buffer |
+|--------|--------|-------|-----|---------|-----------|--------|------|--------|
+| MTUM | 75 | $315.58 | $329.115 | -4.00% | +$1,015 (+4.29%) | 24.52% | $311.031 | 5.49% |
+| XLB | 491 | $51.30 | $51.255 | +0.84% | -$21 (-0.09%) | 25.00% | $47.979/$46.971 | 6.40%/8.36% |
+| XLI | 130 | $171.67 | $184.445 | -0.42% | +$1,661 (+7.44%) | 23.83% | $167.481 | 9.19% |
+| XLK | 65 | $190.41 | $186.20 | -2.27% | -$274 (-2.21%) | 12.02% | $174.87 | 6.08% |
+| XLV | 80 | $152.68 | $159.34 | +0.43% | +$533 (+4.36%) | 12.66% | $145.1025 | 8.94% |
+
+**Actions taken: NONE.**
+- **-7% manual cuts**: 0. Worst XLK -2.21% (5pp buffer to threshold).
+- **+15%/+20% trail tightens**: 0. Best XLI +7.44% (7.6pp below +15% trigger).
+- **MTUM cap-trim**: **RESOLVED via price action.** MTUM -4.00% intraday ($342.83 -> $329.115) brought position 25.90% -> **24.52%** = back inside 25% cap without a trade. No trim executed.
+- **Trail ratchets**: none fired (all positions red vs prior hwm; MTUM/XLI/XLV/XLK all below hwm).
+- **Thesis break checks**: (a) MTUM -4.00% = hawkish-data reaction on post-rebalance 52.2% IT tilt (semis MU/INTC/AMD top-3) selling off on ADP-hot + ISM-Prices-hot + Warsh-hawkish stack; NOT a broken thesis, cyclical vol only, buffer intact. (b) XLK -2.27% = same semis-heavy hawkish drag; buffer 6.08% + -7% cut $177.08 still 4.9% away; thesis intact. (c) XLB/XLI/XLV = normal daily noise; no breaks.
+- **Weekly count**: 0/6 (holds).
+
+**Data digest (AM prints)**:
+- ADP Jun **122K vs 105K cons** = HOT (labor demand robust, Fed-hawkish reinforcement)
+- S&P Global PMI Mfg Final Jun **55.1 vs 55.7 cons** = mild miss, still expansion
+- ISM Mfg Prices Jun **82.1 vs 80 cons** = HOT (input inflation reinforcement)
+- ISM Mfg PMI Jun (10:00 ET) = check EOD (headline print evaluated on session close)
+- Warsh (9:30) = hawkish tilt on the reaction (yields firm, semis fade)
+- **Reaction map**: hawkish-data stack = MTUM (52.2% IT post-rebalance) and XLK (semis-heavy) took the brunt; XLB/XLI/XLV steadier (Materials/Industrials/Health less rate-sensitive to Sep-hike repricing).
+
+**Afternoon plan (unchanged)**:
+- HOLD all 5. No fresh entries.
+- Watch MTUM $329 vs trail $311.03 (5.49% buffer -- tightest in book now after -4% today); if extends -3%+ further intraday, buffer compresses toward 3% threshold.
+- Watch XLK $186 vs -7% cut $177.08 (4.9% buffer); if breaches on session close = manual cut, second-strike Tech thesis dies.
+- No trail ratchets in play (all below hwm).
+- No cap-trim needed (MTUM 24.52% resolved).
+- Pre-close EOD scan for NFP-eve positioning.
+
+**Notification**: none sent (no action taken per routine STEP 7).

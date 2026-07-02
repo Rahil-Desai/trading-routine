@@ -2643,3 +2643,91 @@ Reasoning: (a) deployment 98.04% above 85% floor + below 100% ceiling = complian
 - Pre-close EOD scan for NFP-eve positioning.
 
 **Notification**: none sent (no action taken per routine STEP 7).
+
+
+## 2026-07-02 -- Pre-market Research (Thursday / Day 45 / **NFP DAY 8:30 ET, 3-day-weekend eve, HOLD**)
+
+### Account
+- Equity: **$100,111.16** (-$199 vs Wed close $100,310.11 = -0.20% overnight drift)
+- Cash: **$1,986.49 (1.98%)** -- lean cash, no dry powder without rotation
+- BP: $282,695.04 | DT count 0/3 | PDT false | SMA $101,812.77
+- Long MV: $98,124.67 = deployment **98.02%** (well above 85% hard floor)
+- Positions (5, **3 green / 2 red vs entry**):
+  - **MTUM 75 @ $315.58 -> $325.40** (+$736 / **+3.11%**; -0.82% overnight)
+  - **XLB 491 @ $51.30 -> $51.02** (-$137 / **-0.54%**; flat overnight)
+  - **XLI 130 @ $171.67 -> $183.36** (+$1,520 / **+6.81%**; flat overnight)
+  - **XLK 65 @ $190.41 -> $184.85** (-$361 / **-2.92%**; -0.42% overnight)
+  - **XLV 80 @ $152.68 -> $160.21** (+$603 / **+4.93%**; +0.42% overnight)
+- Open trail stops (**6 GTC, all armed**):
+  - MTUM **$311.031** (10% trail, hwm $345.59) -- **4.42% buffer** (tight)
+  - XLB lots: **$47.979** qty 363 + $47.979 qty 198 + **$46.971** qty 128 -- 5.96% / 5.96% / 7.94% buffer
+  - XLI **$167.481** (10% trail, hwm $186.09) -- **8.66% buffer**
+  - XLK **$174.87** (10% trail, hwm $194.30) -- **5.40% buffer**; **-7% manual cut $177.08 = 4.20% buffer**
+  - XLV **$145.1025** (10% trail, hwm $161.225) -- **9.43% buffer**
+- Weekly count: **0/6 fresh** (Mon/Tue/Wed no entries; Thu = NFP + pre-weekend, Fri CLOSED)
+- Sector mix: XLB 25.02% / MTUM 24.38% / XLI 23.81% / XLV 12.80% / XLK 12.00% / Cash 1.98%
+- Cap status: **XLB 2 bps over 25% per-position cap** (drift, monitor -- prior day XLB was 24.97%; flip to 25.02% is noise, not a violation). MTUM back to 24.38% (fully resolved). XLI 23.81% under 30% sector cap. No active-add violations.
+
+### Market Context
+- **WTI ~$67.73 / Brent ~$67.85** (crude sub-$68; sliding on US-Iran ceasefire progress = petrochem input tailwind for XLB continues; Strait of Hormuz de-escalation intact).
+- **S&P 500 futures ESU26 ~7,536.50 (-0.09%)**; **NQU26 -1.57%** overnight = Tech-heavy weakness bleeding into semis (headwind for XLK / MTUM's post-rebalance 52.2% IT tilt).
+- **VIX**: not returned in query; prior Wed close ~17.11 range, sub-18 low intact absent NFP shock.
+- **Today's catalyst stack** (Thu = NFP-heavy AM):
+  - **8:30 ET NFP (June)**: **cons +110K vs prior +172K**, UR 4.3%, AHE +3.5% YoY (up from 3.4%). Range across desks 75K-125K. **Week's binary.**
+  - **8:30 ET Initial Claims (06/27)**: secondary but reinforces labor read
+  - **8:30 ET Prelim Hourly Earnings + Avg Workweek (June)**: released with NFP
+  - **10:00 ET Factory Orders (May)**: secondary
+  - No Fed speakers scheduled (post-Warsh Wed digest)
+  - **Earnings BMO**: STZ (Cons Staples/Bev), no other majors
+  - **Earnings AMC**: none major
+- **Tomorrow**: **Fri Jul 3 US MARKET CLOSED** (Independence Day observed) -- 3-day weekend gap risk both directions Mon Jul 6.
+- **Wed Jul 1 recap**: S&P +0.8% (Q2 close +14.9%, best quarter since 2020; Nasdaq +21.4% Q2), driven by AI + Iran de-escalation. Book aligned = MTUM/XLI winners; XLK laggard on semi rotation, XLB stalled.
+- **Sector momentum YTD 2026**: Materials/Industrials/Energy leaders; Tech laggard -- book alignment strong on ETF leaders (XLI/XLB/XLV) vs weakness (XLK strike-2).
+- **Macro tone**: NFP is the trigger. Hot print (>130K) = Fed-hawkish reinforcement = Tech (XLK/MTUM semis) cap; cool print (<90K) = growth-scare = cyclicals (XLI/XLB) hit, defensive (XLV) bid; in-line ~110K = grind, trails work.
+
+### Held-ticker News
+- **MTUM** $325.40 (+3.11%, -0.82% overnight). **Post-Jun 23 rebalance: 52.2% IT tilt with semis top-3 (MU/INTC/AMD)** = highly NFP-sensitive; a hot NFP = semis fade risk. Hwm $345.59 / trail $311.031 / **4.42% buffer = tightest MTUM buffer of campaign**. Trail defense: another -4%+ session (like Jun 23/26/Wed Jul 1) puts stop in play. -7% manual cut $293.55 = 9.79% buffer below close.
+- **XLB** $51.02 (-0.54%, flat overnight). Materials. Sub-$68 WTI petrochem tailwind. Wed midday was +0.84% intraday but faded to close -1.66% from Tue high. Both lot stops unchanged. 25.02% = cap-drift 2 bps over = noise, not violation.
+- **XLI** $183.36 (+6.81%, flat overnight). Industrials -- YTD leader alignment. AI-capex data-center + auto/aerospace tailwind. Hwm $186.09 / trail $167.481 / 8.66% buffer; need +1.49% to fresh hwm.
+- **XLK** $184.85 (-2.92%, -0.42% overnight). **Semi-heavy = NFP-sensitive**. Manual cut $177.08 = **4.20% buffer** (compressed from 6.66% Wed premkt). Trail $174.87 = 5.40% buffer. A hot NFP = semis fade could trigger $177.08 zone. **Strike-2 walking wounded status re-enters play.**
+- **XLV** $160.21 (+4.93%, +0.42% overnight). Defensive sleeve -- best positioned for cool NFP / growth-scare outcome. Hwm $161.225 / trail $145.1025 / 9.43% buffer; need +0.63% to fresh hwm ratchet.
+
+### Trade Ideas
+1. **HOLD all 5. NO new entries today.** Rationale: (a) NFP 8:30 = binary event; no edge trading pre-print; (b) Fri closed + 3-day weekend = gap risk both directions Mon; (c) cash 1.98% = fully deployed; (d) all 6 GTC trails armed; (e) weekly slot 0/6 = preserved but window closing (Fri closed = only Thu remains).
+2. **Trail ratchet watch intraday** (auto via Alpaca):
+   - **XLV fresh hwm > $161.225** = need +0.63% (**closest**, plausible if defensive bid on cool NFP)
+   - **XLI fresh hwm > $186.09** = need +1.49% (moderate; cyclical continuation)
+   - **MTUM fresh hwm > $345.59** = need +6.21% (out of reach short-term)
+   - **XLK fresh hwm > $194.30** = need +5.11% (out of reach)
+   - **XLB fresh hwm > $53.31** = need +4.49% (out of reach)
+3. **+15%/+20% trail-tightens**: best XLI +6.81% = 8.19pp below +15% trigger. NONE active.
+4. **Per-position cap trim**: XLB 25.02% = 2 bps drift = noise, no trim. MTUM 24.38% resolved. No trigger.
+5. **Manual -7% cut watch**: **XLK $177.08 = 4.20% buffer** (compressed) = primary risk vector on hot-NFP print + semi fade. If NFP prints >150K AND XLK breaks $177.08 on session close = manual cut, second-strike Tech thesis dies, ~$12K freed for post-holiday rotation.
+6. **Post-NFP rotation candidates** (only if XLK stops out): LYB/TPL (Materials leader), GE/CAT (Industrials leader), MU/AVGO (semi leader if semis reclaim), JNJ/UNH (Healthcare leader). NONE for today; frame Mon Jul 6.
+
+### Risk Factors
+- **8:30 ET NFP = THE BINARY**: hot (>130K) = Fed-hawkish, semis/Tech hit, MTUM/XLK primary drag; cool (<90K) = growth scare, cyclicals (XLI/XLB) hit, XLV bid; in-line (100-120K) = digest and grind, trails auto-work.
+- **AHE +3.5% YoY vs prior 3.4%** = wage-inflation firming = Fed-hawkish undertone regardless of headline; another Sep-hike-firming input.
+- **XLK $177.08 manual cut = 4.20% buffer** = compressed; if NFP hot + semi fade takes NQ -2%+ intraday, XLK likely test $177 zone.
+- **MTUM trail $311.031 = 4.42% buffer** = tightest of campaign for MTUM; post-rebalance 52.2% IT tilt = correlated to XLK/NQ, both hit together on hot-NFP.
+- **Fri Jul 3 CLOSED + 3-day weekend** = geopolitical/policy/earnings-preview news over long weekend = Mon gap risk. NO fresh entries advisable EOD Thu.
+- **Iran de-escalation** = fragile; any weekend re-flare = oil bid + WTI back to $70+ = XLB tailwind evaporates, defensive rotation.
+- **Lean cash 1.98%** = no headroom for opportunistic entry; rotation only on stop-out.
+- **Phase P&L +$274.95 (+0.27%) Wed close** -> premkt -$199 puts phase **+$76 (+0.08%) Thu premkt** = essentially back to breakeven, all Tue's +$1,807 record given back over Wed's -$1,538.
+
+### Decision
+**HOLD all 5. NO new entries. Cash 1.98% = fully deployed. Watch XLK $177.08 manual cut on NFP-hot semi fade.**
+
+Reasoning: (a) deployment 98.02% above 85% floor + below 100% ceiling = compliant; (b) all 6 GTC trails armed, buffers 4.20%-9.43% range (tightest XLK manual $177.08); (c) NFP 8:30 = binary event, no edge for fresh pre-print entry; (d) Fri closed + 3-day weekend = gap risk = no late-Thu entries; (e) weekly slot 0/6 = preserve (Fri closed = window shrinks to Thu only); (f) MTUM 4.42% trail buffer + XLK 4.20% manual buffer = both semis-adjacent names at highest stop-out risk of campaign into an NFP print; (g) XLV 9.43% buffer + closest-to-hwm = defensive sleeve well-positioned for cool-NFP scenario; (h) sector rotation favors existing book alignment (Materials/Industrials/Healthcare YTD leaders); (i) no compelling rotation candidate outperforms staying deployed in current 5-name book.
+
+### Plan for the day
+- **08:30 ET NFP + Claims + Prelim AHE/Workweek**: THE binary. Watch reaction across MTUM/XLK (semis-heavy = biggest movers).
+- **09:30 ET open**: HOLD. Verify all 6 GTC trails armed. Watch MTUM vs $311.03 (4.42% buffer) and XLK vs $177.08 manual (4.20% buffer).
+- **09:30-11:00 ET**: post-NFP digest. If hot (>130K) + semi fade + XLK breaks $177.08 = manual cut, log exit + preserve cash for Mon rotation. If cool (<90K) + defensive bid + XLV fresh hwm = trail auto-ratchets (welcome).
+- **10:00 ET Factory Orders**: secondary, non-market-moving unless extreme.
+- **Midday scan (12:00 ET)**: verify trail ratchets fired (XLV likely if defensive bid); XLK manual cut status; MTUM buffer status; weekly count holds 0/6.
+- **Afternoon**: NO trades planned absent stop-out. Trimmed liquidity ahead of 3-day weekend; positioning fades early.
+- **15:30-16:00 ET pre-close**: EOD position-check; trail/sector cap snapshot; long-weekend risk framing (any positions extended above recent hwm needing manual tighten?).
+- **EOD**: TRADE-LOG snapshot Day 45 (Thu). Document NFP print, MTUM/XLK reaction, XLV ratchet status, any manual cuts triggered, sector cap drift.
+- **Fri Jul 3**: **US MARKET CLOSED** -- no workflow runs.
+- **Mon Jul 6**: NFP post-mortem + fresh week; if XLK stopped out = ~$12K cash for single-name Tech/Materials/Industrials leader entry; watchlist: LYB, TPL, GE, CAT, MU, AVGO, JNJ, UNH.

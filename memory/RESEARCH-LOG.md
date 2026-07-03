@@ -2731,3 +2731,78 @@ Reasoning: (a) deployment 98.02% above 85% floor + below 100% ceiling = complian
 - **EOD**: TRADE-LOG snapshot Day 45 (Thu). Document NFP print, MTUM/XLK reaction, XLV ratchet status, any manual cuts triggered, sector cap drift.
 - **Fri Jul 3**: **US MARKET CLOSED** -- no workflow runs.
 - **Mon Jul 6**: NFP post-mortem + fresh week; if XLK stopped out = ~$12K cash for single-name Tech/Materials/Industrials leader entry; watchlist: LYB, TPL, GE, CAT, MU, AVGO, JNJ, UNH.
+
+
+## 2026-07-03 -- Pre-market Research (Friday / Day 46 / **US MARKET CLOSED -- Independence Day observed, forced HOLD**)
+
+### Account (Jul 02 NFP-day close, last balance_asof 2026-07-02)
+- Equity: **$100,009.00** (Wed close $100,275 -> Thu $100,009 = -$266 / **-0.27%** on NFP day; still positive-phase +$9)
+- Cash: **$1,986.49 (1.99%)** -- lean, no dry powder
+- BP: $282,408.99 | DT count 0/3 | PDT false | SMA $100,310.11
+- Long MV: $98,022.51 = deployment **98.01%** (above 85% floor)
+- Positions (5, **3 green / 2 red vs entry**):
+  - **MTUM 75 @ $315.58 -> $316.53** (+$71 / **+0.30%**; **-3.53% NFP-day fade** from $328.10)
+  - **XLB 491 @ $51.30 -> $52.01** (+$349 / **+1.39%**; **+1.97% NFP-day rip** from $51.005)
+  - **XLI 130 @ $171.67 -> $183.91** (+$1,591 / **+7.13%**; +0.38% Thu)
+  - **XLK 65 @ $190.41 -> $180.59** (-$638 / **-5.16%**; **-2.54% Thu semis fade**; worst position of campaign again)
+  - **XLV 80 @ $152.68 -> $163.74** (+$885 / **+7.24%**; **+2.54% NFP defensive rip**; best %)
+- Open trail stops (**7 GTC**, all armed; XLV ratcheted Jul 02):
+  - MTUM **$311.031** (10% trail, hwm $345.59) -- **1.77% buffer** (**BELOW 3% minimum rule; passive drift, no action needed**)
+  - XLB lots: $47.979 qty 363 / $47.979 qty 198 / $46.971 qty 128 -- 7.75% / 7.75% / 9.68% buffer
+  - XLI **$167.481** (10% trail, hwm $186.09) -- 9.80% buffer
+  - XLK **$174.87** (10% trail, hwm $194.30) -- **3.17% buffer**; **-7% manual cut $177.08 = 1.94% buffer** (**alarm level**)
+  - XLV **$147.465** (10% trail, hwm $163.85, **fresh ratchet Jul 02 19:59 UTC**) -- 10.00% buffer
+- Weekly count: **1/6** (XLB add Jun 25 the only entry -- 5 unused slots roll off with Fri closed)
+- Sector mix: **XLB 25.53% / XLI 23.91% / MTUM 23.74% / XLV 13.10% / XLK 11.74% / Cash 1.99%**
+- Cap status: **XLB 53 bps over 25% per-position cap** (drift from Jul 02 +1.97% rip; 2nd consecutive session over -- Wed 25.00%, Thu 25.53%). MTUM cap-drift resolved (25.26% Tue -> 24.38% Wed -> 23.74% Thu after -3.53% fade). XLI under 30%.
+
+### Market Context (US CLOSED)
+- **US EQUITY/OPTIONS MARKETS CLOSED all day Fri Jul 3, 2026** for Independence Day (observed). NYSE/Nasdaq confirm no regular session, no early-close session, no reporting. Reopen Mon Jul 6 09:30 ET.
+- **Bond market**: closed today; closed early Thu Jul 2 at 2 PM ET (per SIFMA).
+- **WTI ~$68.36** (range $68.17-$69.26; -0.48% Thu -> Fri); **Brent ~$72.16** (approx from front-month). Crude sub-$70 remains petrochem input tailwind for XLB.
+- **S&P 500 Thu Jul 2 close**: 7,483.24 (essentially flat, +0.01%); intraday range 7,427.55-7,540.75. Best Q2 since 2020 (+14%), H1 +9.5% (best since 2024).
+- **NFP Thu Jul 2 reaction (from position tape)**: Dow +600 to record high, S&P flat, Nasdaq ~-0.7% -- **cool-print / cyclical-defensive rotation confirmed**. Book alignment: MTUM/XLK (semis-heavy) faded, XLV (defensive) bid, XLB/XLI (Materials/Industrials) firm. Consistent with cool-ish payrolls + broadening under the surface (rotation away from crowded AI/semis names).
+- **Sector performance Thu Jul 2**: Health Care +2.06% (XLV bid confirmed), Info Tech +0.88%, Real Estate -1.47%, Utilities -1.04%.
+- **3-day weekend gap risk**: Fri closed = weekend + holiday news window; Mon Jul 6 open = re-price all news at once.
+- **Held-ticker news** (light, market closed):
+  - MTUM: post-Jun 23 rebalance IT tilt 52.2% + semis top-3 = took NFP-day fade hardest (-3.53%). Trail buffer compressed to 1.77% (below rule minimum on passive drift, not violation).
+  - XLK: Micron/Intel down 10%/9% Jul 01; Thu -2.54% extends chip weakness. Trail 3.17% / manual cut 1.94% = **most compressed buffer of campaign**.
+  - XLV: fresh hwm $163.85 auto-ratcheted trail to $147.465 (from $145.1025). Best-positioned name into weekend if defensive rotation continues.
+  - XLB: petrochem tailwind (WTI sub-$70) + Jul 02 +1.97% rip; cap drift 53 bps over 25% -- **scheduled trim on Mon Jul 6 open** per rule.
+  - XLI: quiet Thu, +7.13% unrealized second-best; hwm $186.09 still 1.19% away.
+
+### Trade Ideas (all frame Mon Jul 6, none executable Fri)
+1. **XLB per-position cap trim** (**mandatory Mon Jul 6 open**): XLB 25.53% > 25% for 2nd consecutive session (Wed 25.00% / Thu 25.53%). Trim 10-15 sh (~$520-780) via market/limit to bring 25.53% -> ~24.8-25.0%. Frees ~$650 cash. **Trim from newest lot (128 sh @ $51.63 Jun 25 add, closest to breakeven)** so realized P&L minimal. Alternate: trim from oldest lot (363 sh @ $51.18) has stop $47.979 hwm $53.31 -- either lot works.
+2. **XLK -7% manual cut watch** (Mon Jul 6 open): XLK $180.59 vs $177.08 manual cut = **1.94% buffer**. If Mon opens gap-down below $177.08, execute market cut (65 sh × ~$177 = ~$11,505 freed). Preserves ~$871 vs waiting for trail $174.87 fill (buffer $2.21/sh × 65 = $144 saved). Strike-2 Tech thesis dies; sleeve freed for rotation.
+3. **MTUM trail defense** (Mon Jul 6): trail $311.031 = 1.77% buffer, below 3% rule minimum on passive drift. **No add possible** (would trigger 25% cap re-breach). If Mon opens gap-down below $311.031, trail fills at market -- expect $305-311 range. Realized ~-$710 to -$260 from entry. Frees $23K sleeve for post-holiday rotation.
+4. **XLV ratchet continuation** (Mon Jul 6): fresh hwm $163.85; needs $163.86+ for another auto-ratchet. Trail $147.465 = 10.00% buffer. Best-positioned defensive name into weekend gap risk.
+5. **Rotation candidates if XLK/MTUM stop out on Mon gap** (~$11-35K freed): LYB/TPL (Materials leader, ties into WTI sub-$70 tailwind + XLB cap-relief); GE/CAT (Industrials leader, ties into cyclical bid); JNJ/UNH (Healthcare leader, ties into defensive rotation continuing); AVGO/MU (semi leader if semis reclaim -- avoid unless clear bid returns). Prioritize LYB/GE/UNH over semi re-add given Thu tape.
+
+### Risk Factors
+- **US MARKET CLOSED = zero trading capacity today**. All positions frozen at Jul 02 close values. Cannot trim, cut, or enter. Forced HOLD.
+- **3-day weekend gap risk both directions Mon Jul 6**: weekend news (Fed speakers, geopolitics, earnings pre-announcements, jobs data revisions, oil price shocks) all re-price at 09:30 ET Mon. Two most-compressed positions (XLK 1.94% manual buffer / MTUM 1.77% trail buffer) fully exposed.
+- **XLK $177.08 manual cut = 1.94% buffer** = **tightest of campaign**. A Mon gap-down of 2%+ triggers manual cut on open.
+- **MTUM trail $311.031 = 1.77% buffer** = below 3% rule minimum. Passive drift, not a rule violation, but functionally equivalent to a stop 1.77% below current -- a gap-down of 1.8%+ triggers automatic fill.
+- **XLB per-position cap drift 25.53% >25%** = **rule breach, mandatory trim on next strength (Mon Jul 6 open)** -- must reach <25% via trim, not via waiting for market drift.
+- **Cool-NFP tape rotation** (Dow record + Nasdaq -0.7%): confirms defensive/cyclical bid; XLK/MTUM structural headwind if narrative persists.
+- **Iran ceasefire fragility**: any weekend re-flare = WTI back above $70 = XLB tailwind evaporates; conversely Israel-Iran full de-escalation = XLB petrochem tailwind extended.
+- **Lean cash 1.99%** = no dry powder without rotation/trim; XLB trim Mon frees ~$650, XLK cut frees $11.5K, MTUM stop-out frees $23K.
+- **Phase P&L +$9 (+0.01%)** = essentially breakeven after 45 sessions; NFP gave back $266 of the $275 Wed close phase. Campaign resilience intact, positioning defensive-ish into holiday.
+
+### Decision
+**FORCED HOLD -- US MARKET CLOSED. No trades possible today. Plan Mon Jul 6 open: (a) XLB cap trim 10-15 sh; (b) XLK $177.08 manual cut watch on gap-down; (c) MTUM $311.03 trail watch; (d) XLV ratchet continuation.**
+
+Reasoning: (a) market closed = zero execution; (b) all 7 GTC trails armed for weekend gap protection; (c) XLB cap-breach requires Mon trim (mandatory per rule); (d) XLK/MTUM buffers compressed to campaign lows into 3-day weekend gap risk; (e) XLV fresh ratchet + defensive rotation tape = best-positioned held name; (f) sector rotation cool-NFP tape (Dow record / Nasdaq -0.7%) aligns with Materials/Industrials/Healthcare bias in book; (g) rotation candidates framed but not executable until stop-out clears sleeve.
+
+### Plan for the day
+- **All day**: MARKET CLOSED. No workflow trades. GTC stops remain armed for weekend gap protection (7 orders across MTUM/XLB×3/XLI/XLK/XLV).
+- **Weekend research**: monitor overnight news (Iran, oil, Fed speakers if any, US-China trade, weekend earnings pre-announcements) -- feed into Mon Jul 6 pre-market.
+- **No commit-and-push loop today beyond this research entry**. No midday/EOD scan (market closed).
+- **Mon Jul 6 pre-market**: 
+  - Verify overnight news vs Fri Jul 2 close; check XLK/MTUM/XLV pre-market moves.
+  - Execute XLB cap trim on strength (10-15 sh from 128-sh Jun 25 lot).
+  - If gap-down: execute XLK manual cut at $177.08 if breached; expect MTUM trail fill on 1.8%+ gap.
+  - If gap-up: XLV ratchet candidate; XLI +$186 fresh hwm candidate; consider LYB/GE/UNH entry only if rotation candidate confirms and post-trim cash freed.
+  - Weekly count resets 0/6.
+- **Notification**: silent today (market closed = no actionable event).
+

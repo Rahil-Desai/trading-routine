@@ -523,3 +523,71 @@ Note: Fri Jun 19 = Juneteenth (US equity market CLOSED). This review covers Mon 
 ### Overall Grade: C+
 
 -0.99% vs S&P ~-0.84% (Investing.com basis) = ~-0.15% relative miss on a down week, +0.93% relative on Barchart basis -- noisy but roughly in line. First profitable close-out of the campaign (GNRC +$712 / +11.5% via +15% trail tighten = ~$540 of locked alpha vs the default 12% trail) is the headline structural win and the first cash validation of the +15% rule. Held back from B by: trim-into-strength gap now 7 weeks unfixed (MTUM 25.40% / +9.39% Mon Jun 22 was the most obvious miss yet), single-name leader sleeve empty post-GNRC and refilled with an ETF lot-add (rule 6 violation in spirit if not letter), Tue Jun 23 -$2,773 was the worst single-session drawdown of the campaign (98% deployment + zero offset = binary), XLK strike-2 still red at -5.08% with 3.25% buffer above stop (one bad Mon away from Tech sector closing). Defense (trails ratcheting, sector caps, +15% rule, no manual cuts) remains structurally sound; offense (trim discipline + single-name alpha selection) remains the campaign's persistent alpha leak. No strategy rule changes this week -- defer trim-rule formalization one more week conditional on Mon Jun 29 hard-commit firing on MTUM/XLB.
+
+## Week ending 2026-07-03
+
+Note: Fri Jul 3 = NYSE CLOSED for Independence Day observed (Jul 4 = Saturday). This review covers Mon Jun 29 -> Thu Jul 2 (4 sessions); ending basis = Thu Jul 2 close per Alpaca balance_asof.
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,910.23 (Fri Jun 26 close = Mon Jun 29 open basis) |
+| Ending portfolio | $100,009.00 (Thu Jul 2 close, balance_asof Jul 2) |
+| Week return | +$98.77 (+0.10%) |
+| S&P 500 week | +1.76% (7,354.02 -> 7,483.24 per Investing.com) |
+| Bot vs S&P | -1.66% |
+| Trades | 0 (W:0 / L:0 / open:5 carried) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLV +7.24% (unrealized) |
+| Worst trade | XLK -5.16% (unrealized) |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| -- | -- | -- | -- | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| MTUM | $315.5848 | $316.53 | +$70.89 (+0.30%) | $311.031 (10% trail, hwm $345.59) |
+| XLB | $51.298554 (avg, 491 sh) | $52.01 | +$349.32 (+1.39%) | $47.979 / $46.971 (10% trail, hwm $53.31 / $52.19, two lots) |
+| XLI | $171.67 | $183.91 | +$1,591.20 (+7.13%) | $167.481 (10% trail, hwm $186.09) |
+| XLK | $190.41 | $180.59 | -$638.30 (-5.16%) | $174.87 (10% trail, hwm $194.30) -- 3.17% buffer above stop |
+| XLV | $152.67825 | $163.74 | +$884.94 (+7.24%) | $147.465 (10% trail, hwm $163.85) -- best position |
+
+### What Worked
+- **XLV rotation is now the campaign's cleanest ETF trade:** entered Jun 15 as XLE-replacement defensive at $152.68 = "wrong defensive call" per Jun 19 review; three weeks later it's +7.24% / +$884.94 unrealized with hwm ratcheted from $153.72 -> $163.85 (~6.6% climb), trail now $147.465 = 3.4% above entry (locks a small win as floor). Rule 11 patience ("don't rotate dead money prematurely") re-confirmed for the second week running.
+- **XLI Industrials continues to grind alpha under the radar:** +7.13% / +$1,591 unrealized (best absolute dollar position), fresh intraday hwm $186.09 hit Jun 25 and held; trail $167.481 = 8.9% buffer. Two full weeks of steady leadership without a rule break.
+- **No -7% manual cuts, no trail stop-outs, no rule violations for the 9th straight week.** All 5 positions respected trails through the Wed Jul 1 -1.51% and Fri Jun 26 -1.59% risk-off sessions; XLK closest to trail all week at 3.17-5.63% buffer, never triggered.
+- **XLV trail ratcheted 4 times this week alone:** hwm progression $161.09 -> $161.225 -> $163.85 (Mon/Tue/Thu tags), stop laddered $144.98 -> $145.10 -> $147.465. Defensive sleeve doing exactly what it should during risk-off tape.
+- **Deployment floor unthreatened all week** (98.0-98.05% each session), 15% floor cleared with ~13pp headroom; the new post-week-5 "no roll-forward without an order" floor rule held cleanly for the 6th week running.
+
+### What Didn't Work
+- **EIGHTH straight week of single-digit slot utilization: 0/6 fresh entries this week** (Mon-Thu no trades, Fri closed). Weekly count 0/6 with 4 tradeable sessions and a shortened weekend context that pinned action anyway. The 5-week paralysis pattern that started week 2 has now stretched to 8 with only Weeks 5 (2 rotations post-XLE) and 6 (GNRC single-name + XLB add) breaking the fast.
+- **Trim-into-strength gap now 8 WEEKS unfixed and had the most obvious miss of the campaign this week.** Tue Jun 30 close: MTUM +8.66% / $2,049 unrealized (single best position dollar-wise, closest yet to +15% trigger at ~6.34pp below), XLI +7.90% / $1,763. Both hairline against fresh hwm ratchet with a 2-day risk-on push behind them. Wed Jul 1 -4.30% single-day MTUM fade erased $1,110 of that gain in one session. A 25% MTUM trim Tue AM would have locked ~$275 of the $2,049 peak; instead the position rode the reversal all the way back to +0.30% by Thu close.
+- **Underperformed S&P 500 by -1.66% on a +1.76% S&P week.** Same losing pattern from weeks 2, 4, 5, and 7: 98% deployed, no offset, correlated exposures, but under-participated on a broad-rally week. Wed Jul 1 -1.51% (broad reversal despite ISM in-line) took ~$1,538 off equity that Thu's +$1,867 recovery reclaimed on the ETF book -- but Fri (closed) meant no chance to add to the Thu leg.
+- **MTUM was the campaign's tell this week: +8.66% peak Tue -> +0.30% close Thu (-$1,978 unrealized round-trip in 3 sessions).** The book's biggest name gave back essentially all of its 4-week alpha into a 2-session risk-off, and there was no trim on either the way up (Tue peak) or the way down (Wed open). This is textbook trim-into-strength failure amplified by concentration.
+- **XLK strike-2 Tech still under water at -5.16% / -$638** on the 15th session held (entered Jun 15). Bought at $190.41, hwm $194.30 Jun 22, closed Thu at $180.59 (-3.17% buffer above trail $174.87, -1.85% buffer above -7% manual cut $177.08 by proximity math). Any single ~-2% session Mon Jul 6 puts Tech sector-close per rule 12 (DELL was strike-1) live -- the highest-risk decision on the desk for next week.
+- **The pre-committed Mon Jun 29 MTUM/XLB trim from last week's review did NOT fire** because thresholds sat inside their pre-defined action zone by margin. MTUM 25.02% at Mon close (1 bp over cap, ambiguous), XLB 24.69% (back under). The rule needed a bright-line trigger, not a "25% cap breach + >+5% unrealized" hybrid. Deferral cascaded, MTUM ripped to 25.26% Tue then faded through the cap Wed passively -- another passive resolution instead of an active trim.
+
+### Key Lessons
+- **The trim-into-strength gap is now permanent unfixed structural alpha leak.** Eight weeks straight -- five of them explicitly identified in the same paragraph of the same weekly review -- reflection has not fixed it. The failure this week (MTUM +8.66% Tue -> +0.30% Thu, ~$1,978 unrealized round-trip) is the most expensive miss yet and it happened on a week where deployment was already lean (no offset positions, no cash to buy the dip). The formalized rule going into strategy doc this week: on any single position with unrealized >+5% AND drift-over cap OR at +15% unrealized, trim 25-50% same session as the trigger. No "next-day," no "if it holds." Pre-commit the shares at Sunday research time.
+- **Wed-Thu earnings mid-cycle rhythm is real: ISM Wed + NFP Thu-ish reads mean two risk-off headline windows per week and the ETF book is not designed to arbitrage them.** Wed Jul 1 -$1,538 was ISM-driven; Thu Jul 2 +$1,867 was NFP relief. The book has no defensive short-side offset -- XLV is doing that job by accident post-XLE close, but a 12.7% Healthcare position is not a real macro hedge for 5-figure single-day swings.
+- **"No trade" weeks on positive S&P weeks = automatic underperformance.** Weeks 2, 4, 5, 7, and 9 (this week) all featured 0-1 slot utilization with S&P up 0.7-1.8%; average relative miss on those weeks = -1.7pp. The math is simple: if the book is 98% deployed in the wrong beta names and the tape is +1.7%, we need at least market-beta on 100% of the book to keep up -- the strike-2 XLK (-5% return in a 5-week window) alone dragged ~50bps off the week.
+- **XLK strike-2 has now spent 15 sessions under water without a manual cut trigger.** The trail is holding by design ($174.87 GTC), but the position occupies 12% of the book with a -5% carry -- exactly the "dead money" that rule 11 says to rotate. The decision that has been deferred for 3 weeks: does XLK have thesis intact (post-FOMC AI-capex tailwind + AVGO/ORCL follow-through) OR is it dead money to rotate into a Materials add or single-name leader? Pre-commit an answer for Mon Jul 6 pre-market.
+- **The XLV rotation validated the "hold through initial red" thesis.** Bought at $152.68 Jun 15, worst mark was -3.11% Jun 24; three sessions later fresh hwm and now +7.24% / +$884. If we had rotated at the -2-3% mark to a "better" leader, the alpha would have been forfeited. Patience with ETF rotations pays when the sector thesis is intact. Contrast: XLK 15 sessions in similar territory, thesis intact per FOMC read, but sector-strike-2 risk changes the math -- can't just "hold through" a name that will close the whole sector on a stop-out.
+
+### Adjustments for Next Week
+- **STRATEGY RULE ADDED this week (see below):** trim-into-strength formalized. Applied Mon Jul 6 first: if MTUM is >+5% unrealized at Mon open (currently +0.30% -- unlikely on gap-up alone) OR any position hits +15% unrealized intraday, trim 25% same session. No "wait for confirmation" deferral. Pre-writes the action so Sunday-mode paralysis can't kick in.
+- **XLK Tech strike-2 pre-commit for Mon Jul 6:** if XLK closes above $186 Mon = thesis intact, hold through week; if below $180 Mon = escalate watch, trim to 8% notional (sell ~20 sh) as pre-emptive strike-2 defense (frees ~$3.6K cash for LYB or Materials add without closing sector). If breaches $177.08 manual cut = exit at market, log as failed Tech trade #2 = sector-exit per rule 12, rotate proceeds same-session into LYB or a single-name leader. **Do not "wait for the trail to work" -- manual cut is the active decision.**
+- **Single-name leader add by Wed Jul 8 (post-Jun jobs revisions + FOMC minutes Wed):** target LYB (Materials reinforce, sector at 25.8% has 4.2pp room), SANM or SNDK (Tech alpha-shot, gated on XLK reclaim of $186+ AND same-week XLK not stopping out), fresh single-name from Mon/Tue pre-market scan. Size 5-7% notional. Funded via XLK trim (above) if strike-2 confirms danger, otherwise from MTUM trim if +15% triggers. If no setup + no trim trigger by Wed close, force-deploy XLB add or bond-proxy ETF just to satisfy the deployment floor and cap-cycle rules.
+- **Deployment plan is now bright-line:** Fri Jul 3 = closed; Mon Jul 6 = active session; if any Mon action isn't executed, Tue Jul 7 midday scan = mandatory action window before Wed FOMC minutes 2pm ET. Cash sitting at ~2.0% is fine; the risk is not the cash %, it's the concentration of 5 same-beta ETF-heavy positions with 0 single-name leaders.
+- **Cadence:** on-time Fri Jul 3 weekly review executed (this document). No missing snapshots this week. Jul 4 = federal holiday (observed Fri Jul 3); Mon Jul 6 pre-market run should NOT carry-forward Fri Jul 3 snapshot (no market data). Weekly count resets Mon 0/6 with 5 fresh slots Mon-Fri (Jul 3 slot burned by market closure).
+- **Watchlist refresh Mon Jul 6:** LYB (Materials leader, waiting for XLB reclaim $52.20), SANM/SNDK (Tech alpha, gated on XLK $186+ recovery), fresh momentum names from Mon pre-market (WYNN/GNRC repeat candidates on -15%+ pullback). PASS list: mega-cap tech (still lagging), semis (Trump-Xi binary + volatility), Energy (banned per rule 12 sector exit).
+
+### Strategy Rule Changes Applied This Week
+- **Added: Trim-into-strength rule** (deferred 8 consecutive weeks; week-9 paralysis + MTUM +8.66% -> +0.30% round-trip trigger event). On any single position at +15% unrealized OR that has drifted >25% of book while carrying >+5% unrealized, execute a 25-50% trim in the SAME SESSION as the trigger. No "next-day" or "wait for confirmation" deferrals. Pre-written share count required at Sunday research time for any position within 3pp of a trigger threshold.
+
+### Overall Grade: C
+
++0.10% vs S&P +1.76% = -1.66% relative miss on a positive market week -- same shape as weeks 2 (-3.94%), 4 (-1.59%), 5 (-2.87%), 7 (-0.15%). No rule violations, no realized losses, no manual cuts, no trail stop-outs, and the XLV rotation continues to validate the sector-exit + same-day rotation architecture at +7.24% / +$884.94. Held back from B- by: eighth straight week of single-digit slot utilization (0/6 this week, no trades in 4 sessions), the most expensive trim-into-strength miss of the campaign (MTUM +8.66% Tue -> +0.30% Thu = ~$1,978 unrealized round-trip on the book's biggest position, no trim on either side), XLK strike-2 Tech now 15 sessions under water at -5.16% with 3.17% trail buffer (highest-risk decision on the desk for Mon Jul 6), and continued failure to add a single-name leader (empty sleeve since GNRC stop-out 3 weeks ago). Phase P&L essentially flat at +$9 (+0.01%) after Wed Jul 1 gave back Tue Jun 30's fresh phase hwm +$1,806.77. Defense remains structurally sound (9 straight weeks no rule break); offense (trim + single-name alpha + strike-2 conviction) remains the persistent leak. Strategy rule change applied this week (trim-into-strength formalization) -- the 8-week pattern is now a codified rule, not a repeated lesson. Grade C not D because the process didn't break; but the offense didn't fire either, and on a positive market week that costs relative alpha every time.

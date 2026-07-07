@@ -24,6 +24,11 @@ Beating the index means OUT-returning it -- holding index-proxy ETFs or megacaps
 11. Rotate fast: exit dead money (flat laggards, stalled/broken theses) to free capital for stronger setups. Don't let slots rot.
 12. Follow sector AND single-name momentum. Exit a sector after 2 consecutive failed trades.
 13. Max 30% of book per GICS sector (added 2026-05-29 after 5 consecutive weeks of energy-concentration paralysis). Sector ETFs count fully toward their sector; megacap proxies (e.g. XOM under Energy, NVDA under Tech) count toward the underlying sector even when held as singles. Breach = trim on next strength to reach compliance; no add that would lift a sector above 30%.
+14. TRIM-INTO-STRENGTH (added 2026-07-03 after 8 consecutive weeks of the same paragraph in the weekly review and MTUM +8.66% Tue -> +0.30% Thu round-trip on week 9). Two independent triggers, either fires the trim:
+    - Any single position at +15% unrealized (regardless of book %): trim 25-50% same session as the +15% print. Pairs with rule 9's +15% trail tighten -- the tighten locks the floor, the trim locks the cash.
+    - Any single position drifted over 25% of book AND carrying >+5% unrealized: trim 25-50% same session as the cap breach is observed at EOD or midday.
+    - Trim executes SAME SESSION as trigger. No "wait for confirmation," no "next-day," no "if it holds." Pre-write the exact share count Sunday research time for any position within 3pp of a trigger threshold.
+    - Trim proceeds fund next high-conviction single-name leader add per rule 6 (not automatic re-deploy to ETF).
 
 ## Entry Checklist
 - Specific catalyst? (earnings, breakout, rotation, news)

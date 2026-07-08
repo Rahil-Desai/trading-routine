@@ -2905,3 +2905,33 @@ Reasoning: (a) deployment 98.02% above 85% floor + below 100% ceiling = complian
 - **EOD**: TRADE-LOG snapshot Day 47 (Tue). Document Trade Balance print, MTUM/XLK buffer status, any stop-outs triggered, XLI/XLV ratchet activity, XLB cap resolution.
 - **Wed Jul 8**: 10:00 ET Wholesale Inventories (secondary); ADP Employment (Wed AM); position for Thu Q2-kickoff.
 - **Thu (DAL/PEP)** + **Fri (JPM)**: Q2 earnings binary sequence; if MTUM/XLK stopped out Tue = ~$36K cash for single-name leader entry; if held = binary sequence carries book into next week.
+
+## 2026-07-08 -- Market-Open Redeploy (Wednesday / Day 48 / **MTUM stopped out Jul 7 @ $311.21, cash 25.75% = MANDATORY DEPLOY, 3 buys XLP+XLV+XLI**)
+
+### Account
+- Equity: **$98,362.01** | Cash: **$25,327.08 (25.75%)** -- **BELOW 85% deploy floor, above 15% idle cap = rule 2 mandatory deploy trigger**
+- Positions (4): XLB 491 (-1.60%), XLI 130 (+5.60%), XLK 65 (-5.95% = 1.13% buffer to $177.08 manual cut), XLV 80 (+6.84%)
+- MTUM stopped out Jul 7 @ 09:36 ET fill $311.21 (trail $311.031 hwm $345.59) = -$328 realized (-$4.38/sh × 75)
+
+### Redeploy Thesis (catalysts already documented Jul 07 research)
+- **XLP (Consumer Staples ETF)**: #3 YTD sector leader **+15.6%**, Schwab "Leading" quadrant. Defensive complement to XLV; sticky-inflation resilient; no book exposure yet = fresh sector diversification. Fills MTUM slot with a leader-sector ETF vehicle.
+- **XLV add**: Extends defensive winner (unrealized +6.84%, fresh hwm $163.85 on Jul 02 ratchet); defensive-rotation bid intact; Healthcare pos-add stays under 25% per-position cap (13.27% -> 19.9%).
+- **XLI add**: Extends Industrials #4 sector leader (+14.1% YTD), AI/data-center/defense capex tailwinds; combined XLI position stays UNDER 30% Industrials sector cap (23.96% -> 29.51%).
+
+### Trades (market orders, day TIF)
+- XLP BUY 60 sh @ ~$84.53 = ~$5,072 (new position)
+- XLV BUY 40 sh @ ~$163.26 = ~$6,530 (add to existing)
+- XLI BUY 30 sh @ ~$181.90 = ~$5,457 (add to existing)
+- Total deploy: **~$17,059** -> cash ~$8,268 (~8.4%), deployment ~91.6%
+
+### Rule Check
+- Positions after: 5 (<=6 ✓, in 5-8 range ✓)
+- Weekly count after: 3 trades (<=3 workflow cap ✓, <=6 strategy cap ✓)
+- Per-position cost: each <20% of equity ✓
+- Sector caps: XLI+add 29.51% <30% ✓; XLV+add 19.90% <25% ✓; XLP 5.15% new sector ✓
+- Catalyst documented above ✓
+- DT count 0/3 ✓ (all buys, no round-trip)
+
+### Post-trade Stops
+- Each new lot gets 10% trailing stop GTC per rule 7. XLB 25%+ pos-cap drift = watch.
+

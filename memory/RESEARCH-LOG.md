@@ -2905,3 +2905,103 @@ Reasoning: (a) deployment 98.02% above 85% floor + below 100% ceiling = complian
 - **EOD**: TRADE-LOG snapshot Day 47 (Tue). Document Trade Balance print, MTUM/XLK buffer status, any stop-outs triggered, XLI/XLV ratchet activity, XLB cap resolution.
 - **Wed Jul 8**: 10:00 ET Wholesale Inventories (secondary); ADP Employment (Wed AM); position for Thu Q2-kickoff.
 - **Thu (DAL/PEP)** + **Fri (JPM)**: Q2 earnings binary sequence; if MTUM/XLK stopped out Tue = ~$36K cash for single-name leader entry; if held = binary sequence carries book into next week.
+
+
+## 2026-07-08 -- Pre-market Research (Wednesday / Day 48 / **DEPLOYMENT VIOLATION 74.24% + XLK -7.65% BREACH -- mandatory redeploy day**)
+
+### Account
+- Equity: **$98,359.99** (-$1,650 vs Tue premkt $100,114 = -1.65% / -$1,769 vs Mon close $100,009; **phase drops out of 3-session $100K range**)
+- Cash: **$25,327.08 (25.75%)** -- **10.75pp OVER 15% cap = HARD-FLOOR VIOLATION** requiring mandatory deploy this session
+- BP: $305,800.46 | DT 0/3 | PDT false | SMA $100,648.57
+- Long MV: $73,032.91 = deployment **74.24%** = **10.76pp BELOW 85% hard floor = COMPLIANCE BREACH**
+- Positions (**4, was 5 pre-Tue -- MTUM stopped out Tue $$311.031 trail hit; ~$23K freed cash**):
+  - **XLB 491 @ $51.30 -> $50.80** (-$243 / **-0.96%**; Tue -1.37% intraday)
+  - **XLI 130 @ $171.67 -> $180.89** (+$1,199 / **+5.37%**; Tue -0.82% intraday, faded from hwm)
+  - **XLK 65 @ $190.41 -> $175.84** (-$947 / **-7.65%**; **BELOW -7% manual cut $177.08 -- STRIKE 2 CONFIRMED, MANDATORY CUT unless opens back above threshold**)
+  - **XLV 80 @ $152.68 -> $164.29** (+$929 / **+7.61%**; **fresh hwm $165.605 tagged Tue -> trail auto-ratcheted $147.465 -> $149.0445** = +$1.58 / +1.07% lift; NEW ratchet event Tue)
+- Open trail stops (**6 GTC armed**, MTUM's cleared post-fill):
+  - XLB lots: **$47.979** qty 165 + **$47.979** qty 198 + **$46.971** qty 128 = 491 total -- 5.55% / 5.55% / 7.56% buffer
+  - XLI **$167.8005** (10% trail, hwm $186.445) -- 7.24% buffer (Tue no fresh hwm; still $186.445 mark)
+  - XLK **$174.87** (10% trail, hwm $194.30) -- **0.55% buffer** (**TIGHTEST OF CAMPAIGN**); manual $177.08 = **negative** (breached $175.84)
+  - XLV **$149.0445** (10% trail, hwm $165.605) -- 9.28% buffer (FRESH RATCHET Tue)
+- Weekly count: **1/6** (MTUM stop = 1 exit vs 6 fresh cap Mon-Fri Jul 6-10; opens 5 more slots)
+- Sector mix: XLB 25.36% / XLI 23.91% / XLV 13.36% / XLK 11.62% / **Cash 25.75%** -- MTUM zeroed
+- Cap status: XLB 25.36% = 36 bps over per-position cap (drift trimmed passively from 49 bps Tue -> 36 bps Wed; still over). Sector Tech = 11.62% clean. Sector Healthcare 13.36% clean. Sector Industrials 23.91% under 30% cap. Sector Materials 25.36% under 30% cap. **NO ACTIVE-ADD VIOLATIONS. All violations are drift + non-deployment.**
+
+### Market Context
+- **WTI ~$68.70 / Brent ~$73.29** (front-month CLQ26 Aug 2026 = $68.70; sub-$70 WTI intact = petrochem input tailwind for XLB continues; US strike on Iran + license cancel = late-Tue oil bid but no gap through $70).
+- **S&P 500 futures ESU26 ~$7,545 (-0.15%)** premkt (opened $7,545, range $7,532-$7,563, prev close $7,551.25); **NQ100 Sep futures +1.10% overnight = TECH BOUNCE after Tue rout** (MU/AMD/INTC -4-5.5% Tue on AI-cap-ex rotation-sell = MTUM's stop trigger).
+- **VIX ~15.90 real-time** (Jul 7 close 16.13 +3.60%, Jul 6 close 15.57); **decisively sub-18** calm regime holds. VIX futures Jul 8 exp 17.25 = above spot = normal contango.
+- **Today's catalyst stack** (Wed = medium):
+  - **10:00 ET Wholesale Inventories (May)**: cons **+0.6%** consensus / +0.3% advance already printed = confirmation print, unlikely mover
+  - **10:00 ET Costco (COST) June sales report** = retail consumer demand check
+  - **2:00 ET EIA Crude Oil Inventories** = energy-sensitive; XLB/XLE readthrough
+  - **3:00 ET Consumer Credit (May)** = household spending pulse
+  - **No Fed speakers** scheduled Wed
+  - **Earnings BMO** (all minor): **HELE** est $0.01 / **SMPL** est $0.35 / **WDFC** est $1.56 -- consumer-staples/discretionary microcap noise
+  - **Earnings AMC**: LEVI (consumer/retail readthrough) / AZZ / IMMR / PSMT
+- **This week**: Q2 earnings kickoff Thu-Fri (**DAL Thu / PEP Thu / JPM Fri**) = week's binary tail. NO CPI/PPI/FOMC/NFP (June CPI = Tue Jul 14).
+- **Tue Jul 7 recap**: **MTUM 10% trail HIT at $311.031** (fill 14:31 UTC = 10:31 ET est vs $311.031 trail / hwm $345.59) -- 75 sh closed for realized **-$342 (-1.4%)** vs $315.58 entry (avg cost basis). Semi-heavy fade: **MU/INTC/AMD -4-5.5% Tue** on AI-cap-ex profit-take = MTUM 45-52% IT tilt + top-3 semi exposure = correlated stop-out as forecast Tue premkt. **XLV fresh hwm $165.605** = trail ratcheted +$1.58 to $149.0445. XLK held above manual cut into Tue close ($175.84 = -$1.24 below $177.08 threshold). XLB drifted -1.37% intraday.
+- **Sector momentum YTD 2026** (through Jul 7 confirmed): **Energy +23.3%** / **Materials +17.4%** / **Consumer Staples +15.6%** / **Industrials +14.1%** = leaders. **Financials -6.9%** / **Cons Disc -3.8%** / **Info Tech -3.3%** = laggards. Momentum-map quadrants unchanged: XLI/XLB/XLE/XLP = **Leading**; XLV = **Weakening but defensive-bid working**; XLK/XLC/XLY/XLF = **Lagging**; XLRE/XLU = **Improving**. Book alignment: 2 leaders (XLB/XLI) + 1 defensive-bid (XLV) + 1 lagger-to-be-cut (XLK).
+- **Macro tone**: June NFP +57K (vs 117K est) = weak = Fed rate-hike pause narrative = tech-multiple-compression paradox: bull argument for growth stocks, but concurrent AI-cap-ex profit-take dominates rotation. JPM S&P 7,800 "Blue Sky" target intact. Dow at record 52,900 = broadening-rally thesis working (Equal-Weight > Cap-Weight).
+
+### Held-ticker News
+- **XLB** $50.80 (-0.96%, Tue -1.37%). Materials YTD +17.4% = **#2 sector leader**. Sub-$70 WTI petrochem tailwind holds. Cap-drift resolved from 49 bps Tue to 36 bps Wed via price fade = passive cure in progress. Trail floor $47.979 = 5.55% buffer (compressed from 7.70% Tue via -1.37% Tue intraday move).
+- **XLI** $180.89 (+5.37%, Tue -0.82%). Industrials YTD +14.1% = **#4 leader**. AI-capex + data-center + defense + energy-capex tailwinds. Faded from Mon hwm $186.445 with no new print; trail $167.8005 = 7.24% buffer (compressed from 9.53% Tue). Fresh hwm ratchet requires +3.07% to $186.445.
+- **XLK** $175.84 (**-7.65%**, Tue -1.87%). Tech YTD **-3.3% = laggard confirmed**; strike-2 walking-wounded = **rule 8 hard trigger breached at close** ($175.84 < $177.08 manual cut). **MTUM stop-out Tue on same AI-cap-ex rotation** = correlated pair fell but XLK's own -7.65% breach = mandatory-cut per strategy rule 8 unless open snaps back above $177.08 (needs +0.71%). NQ +1.10% overnight = **plausible open above $177.08** = decision point at 9:30-9:35 ET based on actual open print. Trail $174.87 backstop = 0.55% buffer.
+- **XLV** $164.29 (+7.61%, Tue +0.02%). Healthcare = defensive-rotation bid extending; **FRESH hwm $165.605 Tue** -> trail auto-ratcheted **$147.465 -> $149.0445** (+$1.58 = +1.07% trail lift). 9.28% buffer. Best sector-fit for weakening-quadrant defensive-rotation trade. Position 13.36% of book = 11.64pp room under sector cap.
+- **MTUM (EXITED Tue)**: 75 sh @ $311.031 stop, entry avg $315.58 = realized **-$342 (-1.4%)** = small loss vs hwm $345.59 max unrealized. Post-mortem: MSCI Jun-23 rebalance overtilted book toward semis (MU/INTC/AMD top-3) exactly as semi-cap-ex rotation-sell hit Tue Jul 7. Trail worked as designed but the -1.4% haircut vs +$1,000+ prior unrealized was the cost of 10% trail on a 45-52% IT-tilt ETF in a rotation event. Book now clean of semi-tilt ETF risk; standalone single-name semis (MU/AVGO) if entered require explicit sector-cap governance.
+
+### Trade Ideas
+1. **PRIMARY -- MANDATORY XLK MANUAL CUT (conditional on open)**: If XLK opens **at or below $177.08** = execute market sell 65 sh XLK per rule 8 (-7% manual cut). Freed cash ~$11.4K. If opens above $177.08 = suppress manual cut, let GTC trail $174.87 handle downside, but re-evaluate at 10 AM and EOD (any close <$177.08 = cut EOD).
+2. **PRIMARY -- MANDATORY DEPLOY (unconditional)**: Cash 25.75% = 10.75pp over 15% cap = **rule 2 breach requires placed order this session**, not next-day defer. Even without XLK cut, ~$10.5K must deploy today to bring cash below 15%. **This is non-negotiable per updated rule 2 (loophole closed 2026-05-29).**
+3. **DEPLOY IDEA A -- JPM ($10-12K, ~35-40 sh @ ~$290)**: Financials **-6.9% YTD = deepest laggard = catch-up plausible on Fri JPM Q2 print**. Sector 0% held = new sector diversifier. Fri catalyst tail = event-driven single-name. Entry ~$290 / stop ~$268 (7.5%) / target ~$330 (13% / 2.7:1 R:R). Rationale: broadening-rally thesis (Dow record 52,900, Equal-Weight leading) = Financials laggard-catchup = classic mid-year rotation setup. Fri print is binary but JPM historically beats + guides = asymmetric upside.
+4. **DEPLOY IDEA B -- GE ($8-10K, ~45 sh @ ~$220)**: Industrials leader single-name. AI-capex/data-center/aerospace/defense/energy-capex quadruple tailwind. Sector currently 23.91% + $10K GE = ~$34K = ~34.6% Industrials = **11 bps over 30% sector cap** = **BLOCKED unless sized smaller**. Max GE add = ~$6K (~28 sh) to stay under 30% cap = insufficient standalone deploy. Reject as primary.
+5. **DEPLOY IDEA C -- LLY ($10K, ~11 sh @ ~$900)**: Healthcare mega-leader ($1T mkt cap threshold); XLV weakening-quadrant but LLY single-name = insulin/GLP-1 growth + Alzheimer's pipeline. Sector 13.36% + $10K = ~23.6% = well under 30% sector cap. Entry ~$900 / stop ~$837 (7%) / target ~$1,000 (11% / 1.6:1 R:R). Rationale: defensive-rotation + single-name alpha in a weakening-quadrant sector = book-specific bid pattern working (XLV +7.6%).
+6. **DEPLOY IDEA D -- LYB / TPL ($8-10K)**: Materials leader single-names. XLB already at 25.36% + $10K = would push Materials to ~35.6% = **5.6pp over 30% sector cap = BLOCKED**. Reject.
+7. **DEPLOY IDEA E -- AVGO / MU ($8-10K)**: Semi bounce post-Tue rout, NQ +1.10% overnight suggests reflex. But semi = same fade-risk as MTUM Tue = uncorrelated only to sector-cap arithmetic. AVGO ~$305 = $10K = ~33 sh; MU ~$135 = $10K = ~74 sh. Position sector Tech (was 11.62% held via XLK; if XLK cut = 0%, cap 30% = ample room). **Only if XLK cut**: AVGO add = plausible bounce trade with 7-10% stop. Reject as unconditional trade if XLK held.
+8. **RECOMMENDED PLAN (final)**:
+   - **9:30 ET open**: check XLK price. If <=$177.08 = SELL 65 XLK MKT (~$11.4K freed). If >$177.08 = HOLD XLK, re-check 10 AM.
+   - **9:30-10:00 ET**: BUY **JPM ~35 sh (~$10K)** = Financials laggard-catchup, Fri catalyst. New sector, no cap issues.
+   - **10:00-11:00 ET post-Wholesale-Inv**: BUY **LLY ~11 sh (~$10K)** = Healthcare leader single-name, XLV-adjacent defensive bid.
+   - **If XLK cut**: additional ~$11.4K to deploy = BUY **AVGO ~30 sh (~$9K)** = semi bounce post-Tue capitulation, NQ +1.10% overnight signal. Or a 2nd Financials add (add-to-JPM to ~$18K if strength confirms). Total 3-4 new positions = weekly count 1/6 -> 4-5/6 = still within 6-per-week cap.
+   - **End-state target**: 5-6 positions (XLB + XLI + XLV + JPM + LLY [+ AVGO if XLK cut]) / cash ~5-10% / deployment 90-95% = **back to full compliance**.
+9. **NO TRIM ON XLB (36 bps drift)**: Passive cure in progress; further-fade session = resolves; not primary action.
+10. **TRAIL RATCHET WATCH**: XLV needs +$0 for next ratchet (at hwm $165.605 currently -0.79% below); XLI needs +$5.56 / +3.07% for hwm; XLB needs +2.46 / +4.85% for hwm; XLK: cut candidate not ratchet candidate.
+
+### Risk Factors
+- **DEPLOYMENT VIOLATION 74.24% + CASH 25.75%** = compliance breach requires action; if XLK opens above $177.08 = still ~$10.5K minimum deploy needed regardless.
+- **XLK -7.65% breach** = rule 8 mandatory-cut trigger; skipping = strategy violation. NQ overnight bounce may cushion open (>+0.71% needed to snap back over $177.08) but sustained close below = cut regardless.
+- **Q2 earnings Thu-Fri (DAL/PEP/JPM)** = binary sequence; JPM Fri = if BUYING JPM Wed = holding into 48-hr binary event = event-driven trade explicitly designed for the catalyst.
+- **Semi bounce fake-out risk**: NQ +1.10% overnight after Tue -1-3% NQ / -4-6% semi rout = classic dead-cat pattern possible; AVGO/MU entries need 7-10% stops.
+- **Costco COST 10 AM sales report** = retail-consumer readthrough; if weak = broader consumer-cyclical drag (not directly held but reads to Q2-earnings tone).
+- **EIA Crude 2 PM** = XLB petrochem readthrough; large build = crude fade = petrochem input cost falls = XLB benefit; large draw = crude bid = margin squeeze.
+- **10-yr yield >4.75%** = tech-multiple further compression = XLK cut prescient / AVGO entry deferred if this print.
+- **Sector-cap governance on new adds**: JPM Financials 0% = ample room. LLY Healthcare +10K = 23.6% (safe). AVGO Tech +9K = 9% (or 20% if XLK held; still under 30% cap either way). GE Industrials BLOCKED at 34.6%. LYB Materials BLOCKED at 35.6%.
+- **Phase P&L**: Mon $100,009 -> Tue $98,360 = -$1,650 (**-1.65%**) = phase back at start; **campaign benchmark check**: S&P Sep futures $7,545 vs prior week baseline = need SPX YTD data for challenge-window comparison (frame in Fri weekly review).
+- **PDT**: 0/3 day-trades used = XLK cut + JPM/LLY entries all SWINGS (held overnight), not day trades = zero PDT budget consumed.
+- **Weekly slot 1/6** post-MTUM-stop = fresh window 5 slots; today's plan uses 2-3 more = 4/6 remaining for Thu-Fri if post-earnings rotation candidate emerges.
+
+### Decision
+**MANDATORY ACTION DAY: (a) CUT XLK if opens <=$177.08 (rule 8 trigger); (b) DEPLOY $10-20K into JPM + LLY (+AVGO if XLK cut) to bring deployment back above 85% and cash below 15%. NOT A HOLD DAY.**
+
+Reasoning: (a) deployment 74.24% = 10.76pp below 85% floor = **rule 2 hard breach requiring placed order this session per Sep-2025 loophole closure**; (b) cash 25.75% = 10.75pp over 15% cap = same breach expressed differently; (c) XLK unrealized -7.65% = rule 8 manual-cut trigger at close $175.84 vs threshold $177.08 = breach; NQ overnight bounce may reverse but daily-close discipline = mandatory review at open; (d) 4 positions = below 5-8 minimum = need to add 1-3 today; (e) MTUM stop-out Tue was designed exit (10% trail hit as forecast Mon-Tue) = book cleaner post-exit; (f) 3 deploy candidates identified with distinct sector rationale (JPM Financials 0% = ample cap room + Fri catalyst; LLY Healthcare = XLV-adjacent defensive-bid single-name; AVGO Tech = semi bounce trade IF XLK cut); (g) 2 candidates BLOCKED by sector cap (GE Industrials, LYB/TPL Materials); (h) weekly slot 1/6 (MTUM exit) = 5 slots free = today's 2-3 adds = 4/6 = still 2 slots free for Thu-Fri post-earnings; (i) Wed catalyst = light data + minor earnings = no reason to delay compliance action.
+
+### Plan for the day
+- **09:30 ET open**:
+  - Check XLK price. If <=$177.08 (-7% manual cut threshold) = **SELL 65 XLK MKT** (~$11.4K freed).
+  - If XLK opens >$177.08 = HOLD XLK, re-check at 10 AM and EOD (any close <$177.08 = cut EOD regardless).
+  - **BUY 35 JPM MKT** (~$290 est = ~$10K deployed) = Financials laggard-catchup + Fri catalyst.
+- **09:45-10:00 ET**:
+  - **BUY 11 LLY MKT** (~$900 est = ~$10K deployed) = Healthcare leader single-name.
+  - Place 10% trailing stop GTC sell orders on JPM (65 sh -> stop) and LLY (11 sh -> stop) once positions confirmed.
+- **10:00 ET Wholesale Inventories**: minor confirmation print (cons +0.6%, advance +0.3%); unlikely mover.
+- **10:00 ET Costco June sales**: retail-consumer readthrough for LLY/JPM tone.
+- **10:15-11:00 ET**: verify JPM/LLY fills + trail stops armed. If XLK cut = also BUY ~30 AVGO MKT (~$9K deployed) = semi bounce post-Tue rout. Place 10% trail on AVGO.
+- **11:00-14:00 ET**: monitor XLK if held (any drift below $177.08 into midday = trigger EOD cut). Monitor XLV for fresh hwm ratchet (needs +0.79% to $165.605+; near-immediate on any green tick).
+- **14:00 ET EIA Crude**: XLB petrochem readthrough.
+- **15:00 ET Consumer Credit (May)**: household-spending pulse; minor.
+- **15:30-16:00 ET pre-close**: EOD position check; trail/sector cap snapshot; XLK cut decision confirmed (if not cut at open, cut now if still <$177.08); JPM/LLY/AVGO trails all armed.
+- **EOD**: TRADE-LOG snapshot Day 48 (Wed). Document XLK cut execution, JPM/LLY/AVGO entries with entry/stop/target, deployment restored to 90%+, cash below 15%, weekly count updated (from 1/6 post-MTUM to 4/6 post-adds).
+- **Thu (DAL/PEP earnings)**: monitor consumer/airline readthrough for JPM/LLY/AVGO tone.
+- **Fri (JPM Q2 print)**: **JPM binary event** = weekly-review afternoon; if JPM beats/guides higher = target $330 = 13% run; if misses = 7.5% stop hit = swing loss ~$750 max.

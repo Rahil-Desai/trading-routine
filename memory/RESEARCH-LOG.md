@@ -3003,3 +3003,13 @@ Reasoning: (a) deployment 91.57% = mid-band compliant; (b) all 9 GTC trails arme
 - **15:30-16:00 ET pre-close**: EOD position-check; trail/sector-cap snapshot; XLI cap-status resolution; XLK vs $177.08 close threshold decision.
 - **EOD**: TRADE-LOG snapshot Day 49 (Thu). Document jobless-claims + FOMC-minutes reactions, XLI trim execution or defer decision, XLK status, XLV hwm ratchet, cash-deployment status.
 - **Fri Jul 10**: **DAL 10:00 ET earnings** + **JPM earnings Fri** = Q2 kickoff binary sequence; position for post-print rotation Mon Jul 13.
+
+### Midday Addendum (12:00 ET)
+- **Equity: $98,636.21** (+$533 / +0.54% day) | Cash **$13,732.66 (13.92%)** | Long MV $84,903.55 (86.08% deployed, above 85% floor)
+- **XLI holdings reconciliation**: Alpaca shows **130 sh** (NOT 160 as pre-market log stated). Only one XLI trailing stop (qty 130, hwm $186.445, stop $167.8005) confirms. The planned +30 sh add referenced pre-market never executed OR log was in error. **XLI cap recomputes to 23.96%** ($23,632 / $98,636) = **UNDER 25% cap**, NOT 441 bps breach. **NO trim required.** Cancel the "MANDATORY trim on next strength" directive; XLI compliant.
+- **Position P&L (live)**: XLB -1.70% / XLI +4.76% / XLK -2.41% (bounced +2.44% intraday) / XLP -1.24% / XLV +3.48%. **Zero -7% cuts. Zero +15%/+20% tightens. Zero thesis-broken cuts.**
+- **XLK bounce**: $185.83 vs $181.40 last close (+2.44%). Manual cut $177.08 = **4.71% buffer** (widened from pre-open 3.10%). Trail $174.87 = 5.90% buffer. Strike-2 test loosening on relief bid.
+- **XLV**: $161.635 = below both hwms ($165.605 / $163.99). No fresh ratchet today.
+- **Sector/position mix (live)**: XLB 25.10% (10 bps drift over cap, passive) / XLI 23.96% (clean) / XLV 19.66% / XLK 12.25% / XLP 5.08% / Cash 13.92%. 5 positions, mid-band.
+- **Cash 13.92%** = 108 bps below 15% idle-threshold ceiling; deployment 86.08% just above 85% floor. Rotation candidate work (LYB/TPL/CAT/GE/LLY/UNH/COST/WMT) staged for post-DAL/JPM Fri.
+- **No action taken.** No ClickUp notification sent (per workflow rule 7 = notify only on action). FOMC Minutes 2pm ET remains the binary afternoon catalyst.

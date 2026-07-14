@@ -3103,3 +3103,100 @@ Reasoning: (a) deployment 86.06% = above 85% floor, below 100% ceiling, mid-band
 - **EOD**: TRADE-LOG snapshot Day 50 (Fri). Document DAL/JPM Q2 reactions, XLV ratchet activity, XLK status, cash-deployment status.
 - **Fri EOD -- WEEKLY REVIEW**: per PROJECT-CONTEXT workflow, append entry to memory/WEEKLY-REVIEW.md with: week P&L Mon-Fri, MTUM close realized P&L accounting, XLI cap-trim outcome, sector-rotation assessment, next-week watchlist (CAT/GE/LYB/TPL/NUE/LLY/UNH/COST/WMT/PG/JPM/WFC/GS single-name candidates ranked by conviction), strategy adherence audit (rule 3 cap-compliance ✓, rule 6 alpha-hunt-progress = 4-of-5 leader alignment ✓, rule 11 rotation-speed = MTUM close executed ✓).
 - **Mon Jul 13**: post-DAL/JPM print reactions guide single-name leader entry decisions. **Tue Jul 14 = June CPI @ 8:30 ET** = binary macro catalyst next-week.
+
+## 2026-07-13 -- Pre-market Research (Mon, Day 51, Week 12 kickoff)
+
+### Account
+- Equity: **$98,708.68** (last equity $98,792.93 = -$84.25 / -0.09% overnight, essentially flat)
+- Cash: **$13,732.64** = **13.91% cash / 86.09% deployed** (above 85% floor, mid-band; no idle-cash violation but tight)
+- Buying power: $292,863.47 (margin) / non-margin $56,220.66
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$84,976.04**
+- **Positions (5 unchanged from Fri EOD)**:
+  - XLB 491 @ $51.298554 -> **$50.89** (-$201 / -0.80%; change_today 0; premkt = Fri close $50.82)
+  - XLI 130 @ $173.962385 -> **$181.92** (+$1,034 / +4.57%; change_today 0; unchanged premkt)
+  - XLK 65 @ $190.41 -> **$183.69** (-$437 / -3.53%; **change_today -1.13%**; premkt fade $185.78 -> $183.69, -$2.09)
+  - XLP 60 @ $84.54 -> **$84.26** (-$17 / -0.33%; change_today +0.17%; slight premkt bid)
+  - XLV 120 @ $156.202167 -> **$161.20** (+$600 / +3.20%; change_today +0.22%; slight premkt bid)
+- Open trail stops (**8 GTC, all armed, all 5 positions covered**):
+  - XLB lots: **$47.979** qty 165 + **$47.979** qty 198 + **$46.971** qty 128 = 491 total; buffers 5.72% / 5.72% / 7.70%
+  - XLI: **$167.8005** qty 130 (hwm $186.445) = only lot; **7.76%** trail buffer
+  - XLK: **$174.87** qty 65 (hwm $194.30) -- **4.80%** trail buffer; -7% manual cut **$177.08 = 3.60% buffer** (tightened from Fri 4.05% via -1.13% premkt fade)
+  - XLP: **$76.77** qty 60 (hwm $85.30) -- **8.90%** trail buffer
+  - XLV: **$149.0445** qty 80 (hwm $165.605) + **$147.591** qty 40 (hwm $163.99) = 120 total; buffers 7.53% / 8.44%
+- Weekly count: **0/6 fresh** (Mon = new week kickoff; last week 0 new-position entries + 1 XLI cap-trim discipline exit)
+- **Sector/position mix** (of $98,708 equity):
+  - **XLB 25.31%** = **31 bps over 25% per-position cap** (passive drift; +$0.63 XLB drift from Fri $50.26 -> $50.89 lifts % over cap; escalating watch)
+  - XLI 23.96% (clean, under 25%)
+  - XLV 19.60% (clean)
+  - XLK 12.10% (clean; strike-2 laggard)
+  - XLP 5.12% (small starter)
+  - Cash 13.91%
+- Cap status: XLB 31 bp drift = passive not-actionable, but if intraday extends past 25.5% or XLB unrealized clears +5% while >25%, execute trim per rule 3/14.
+
+### Market Context
+- **WTI ~$74.33 (+4.09% overnight)** / Brent ~$74; WTI rallying off Fri $71.41 lows on Iran-strikes re-narrative + supply-tightening chatter. Sub-$75 still net-supportive for XLB petrochem; break >$75 = potential XLE tailwind (not held) + airline/homebuilder pressure. Polymarket 76% odds WTI >$75 by wk-end.
+- **S&P 500 futures ESU26 ~7,587-7,588 (-0.42% from Fri close)**; **NQ100 -0.41%** premkt. Modest risk-off tone into CPI Tue.
+- **VIX Fri close $15.03 (-5.11%)**: calm regime intact (sub-16). Weekend risk-hedging build modest.
+- **This week's catalyst stack (dense Q2 kickoff + CPI)**:
+  - **Tue Jul 14 8:30 ET June CPI** = **primary week catalyst** (cons ~3.0% headline; May was 4.2%; hot >3.7% = growth pressure; cool <3.0% = risk-on relief; Fed-cut Sept probability 88% at stake)
+  - **Tue Jul 14 pre-open bank Q2 kickoff**: **JPM (~7:00 ET) + Citigroup + Goldman + Bank of America + Wells Fargo** = binary Financials-laggard-catchup sequence
+  - **Wed Jul 15 8:30 ET June PPI** (secondary; typical CPI/PPI combo)
+  - **Wed evening NFLX Q2** = first major tech print
+  - **Thu-Fri Q2 continuation**: NVDA, ASML, TSM, JNJ, various banks/industrials
+  - **No Fed meeting July** (next Sep 16-17; June minutes already digested Jul 8)
+- **Fri Jul 10 DAL Q2 recap**: EPS $1.56 vs $1.47 cons (BEAT); Rev $19.76B vs $18.57B (BEAT); Op Margin 8.8-9.0% > guidance; **reaffirmed FY guidance $6.50-7.50 EPS** + **dividend +15%** + $1.4B FCF H1. Consumer-airline demand strong despite $3.66/gal jet fuel = positive read-through for cyclicals + Industrials (XLI holdings CAT/GE/GEV).
+- **Weekend/Fri catalysts**: SK Hynix (SKHY) Nasdaq ADR debut $26.5B = largest foreign US listing ever = AI/memory theme reinforced; AVGO +6% wk on Apple $30B multiyear silicon partnership (through 2031); META cloud infra biz to sell excess AI compute; CRNX +116% July (Healthcare theme sustained).
+- **Sector momentum YTD 2026 (unchanged from Fri; multi-source confirmed)**:
+  - **Leaders**: **Energy +23.3%** / **Materials +17.4%** / **Consumer Staples +15.6%** / **Industrials +14.1%** / Healthcare positive
+  - **Laggards**: **Financials -6.9%** / Cons Disc -3.8% / **Info Tech -3.3%** / Comm Svc -1.2%
+  - **Book alignment: 4-of-5 in LEADING quadrant** (XLB/XLI/XLV/XLP) + 1 laggard (XLK strike-2 confirmed). Best sector-momentum alignment maintained.
+- **Macro tone**: AI-capex supercycle anchor + sector rotation into old-economy leaders intact. WTI +4% overnight = commodity-inflation re-emerging tail risk (June CPI hot-read amplifier). Semi mid-week bid (SKHY debut + AVGO Apple deal) partially offsets Tech laggard drag, but XLK still below 50-day MA. Fed-pause + Sept-cut narrative alive but CPI Tue = binary reset.
+
+### Held-ticker News
+- **XLB** $50.89 (-0.80%, change_today 0). Materials YTD **+17.4% = #2 sector**; MACD positive + above 50-day MA. Sub-$75 WTI net-supportive but $74.33 rallying = petrochem cost edge shrinking. **Cap 25.31% = 31 bps over per-position cap = passive drift, escalating**. Trails buffer 5.72% nearest = mid-range. If Mon extends >25.5% or unrealized clears +5% (currently -0.80%), trim 10-20 sh per rule 3.
+- **XLI** $181.92 (+4.57%, change_today 0). Industrials YTD **+14.1% = #4 leader**. AI-infra + defense + reshoring + fiscal-stimulus tailwinds. **Post-cap-trim clean at 23.96%**. Top holdings CAT/GE/GEV benefit from DAL beat read-through (consumer-demand + reshoring). Trail $167.8005 = **7.76%** buffer. hwm $186.445, needs $186.446+ for fresh ratchet (~2.49% away).
+- **XLK** $183.69 (-3.53%, **change_today -1.13% premkt**). Tech YTD **-3.3% = sector laggard**; below 50-day MA. **PRIMARY RISK VECTOR**. Manual cut **$177.08 = 3.60% buffer** (tightened from Fri 4.05%). Trail $174.87 = 4.80% buffer. SKHY debut + AVGO Apple deal = mild bid support at open likely, but CPI Tue hawkish surprise = accelerant to manual-cut zone. Strike-2 walking-wounded LIVE.
+- **XLP** $84.26 (-0.33%, change_today +0.17%). Staples YTD **+15.6% = #3 leader**. Defensive rotation intact + fiscal-stimulus tailwind. RSI ~80 overbought signal earlier week has cooled. Trail $76.77 = 8.90% buffer. Starter position, room to scale on -3-5% pullback.
+- **XLV** $161.20 (+3.20%, change_today +0.22%). Healthcare regime shift active (GLP-1 Bridge Program + LLY approval + 50/200 cross Jul 2). CRNX +116% July = Healthcare theme reinforced. **Newer lot hwm $163.99 = 1.73% away** = closest ratchet candidate; older lot $165.605 = 2.73% away. Best-performing by dollars ($600).
+
+### Trade Ideas
+1. **HOLD 5-position book. NO fresh entries pre-open. Await CPI Tue 8:30 ET + bank Q2 kickoff Tue AM.** Rationale: (a) cash 13.91% = mid-band deployment, dry powder preserved; (b) all 8 GTC trails armed all 5 positions; (c) 4-of-5 book in YTD-leading sectors = strongest momentum alignment maintained; (d) CPI Tue = **binary week catalyst** = no pre-catalyst adds; (e) Bank Q2 Tue AM = binary Financials laggard-catchup = post-print rotation candidates crystallize; (f) weekly slots 0/6 = window fully preserved; (g) NQ -0.41% premkt = XLK bounce off Fri close not present; (h) WTI +4% = commodity-inflation re-emerging tail = CPI-hot amplifier.
+2. **XLK manual-cut watch (primary intraday monitor)**: **$177.08 = 3.60% buffer** (tightened from Fri 4.05%). If premkt fade -1.13% translates through open + CPI-hot Tue = manual cut zone in play. **Fri close threshold decision at EOD Mon** if -2%+ session. Trail $174.87 = 4.80% backstop.
+3. **XLV hwm-ratchet watch (secondary monitor)**: newer lot **$163.99** = 1.73% away; older lot **$165.605** = 2.73% away. Any intraday tag = mechanical trail ratchet.
+4. **XLB cap-drift monitor**: 25.31% = 31 bps over 25% cap. Passive drift. Trigger for action: (a) intraday extends >25.5% by close = trim 10-20 sh next strength; (b) unrealized clears +5% AND >25% cap = rule-14 trim-into-strength fires. Currently -0.80% unrealized = rule-14 dormant. Rule-3 "trim on next strength to reach compliance" is the operative trigger.
+5. **Bank Q2 kickoff Tue AM**: JPM/GS/C/BAC/WFC binary sequence. Positive = **Financials laggard-catchup** = single-name candidates crystallize: **JPM, GS, WFC, BAC, C**. Negative = XLF broadly weak, rotation elsewhere. Financials -6.9% YTD = mean-reversion setup + Q2 print = potential post-print entries Wed-Fri.
+6. **Post-CPI/Q2 redeploy candidates staged** (~$13.7K cash + potential XLK stop-out $11.5K = ~$25K firepower):
+   - **Industrials singles** (XLI holdings): **CAT / GE / GEV** = post-DAL-beat read-through
+   - **Materials singles**: **LYB / TPL / NUE** (YTD leaders)
+   - **Healthcare singles**: **LLY / UNH / CRNX** (GLP-1 + regime-shift theme)
+   - **Staples singles**: **COST / WMT / PG** (defensive leaders)
+   - **Financials laggard-catchup** (post-Q2): **JPM / GS / WFC / BAC**
+   - **AI/semi (lower priority)**: **AVGO** (Apple partnership) / SKHY (new listing, wait 3-5 sessions for base) / **MU** (if reclaim $70+)
+   - **NONE for Mon** (pre-catalyst).
+
+### Risk Factors
+- **XLK 3.60% manual-cut buffer + Tech YTD -3.3% laggard + below 50-day MA + premkt -1.13% fade + CPI Tue binary** = strike-2 walking-wounded LIVE, primary risk vector tightening.
+- **CPI Tue 8:30 ET binary catalyst**: hot >3.7% headline = Fed-pause hopes crushed + growth pressure + XLK stress; cool <3.0% = risk-on relief + Sept-cut probability lifted.
+- **WTI +4% overnight to $74.33**: commodity-inflation re-emerging = CPI-hot amplifier + airline/homebuilder headwind (DAL post-earnings retracement risk despite Fri beat).
+- **Bank Q2 Tue AM sequence** (JPM/GS/C/BAC/WFC): binary Financials-laggard-catchup vs XLK-relative-drag amplifier.
+- **XLB single-position cap drift 31 bps** + WTI rising petrochem cost edge shrinking = watch for extension past 25.5% for forced trim.
+- **NQ -0.41% premkt + XLK -1.13% premkt** = risk-off Mon open bias into Tue CPI = potential $177.08 approach if extended.
+- **Dense Q2 kickoff week** (banks Tue, NFLX Wed, mega-caps next week) = binary tail sequence extends 2 weeks.
+- **VIX $15.03 calm but Fri -5.11%** = short-vol positioning stretched = Monday risk-hedging premium build if CPI-fear grows.
+- **Phase P&L**: Fri close $98,772.86 (-$1,227.14 / -1.23% from $100K start); Mon premkt $98,708 = -$1,291 (-1.29%) = book below water; needs CPI-cool + Q2-beat catalysts to reclaim.
+
+### Decision
+**HOLD 5-position book pre-open. NO fresh entries. Cash 13.91% preserved for post-CPI/post-Q2-print redeploy Wed-Fri. XLK $177.08 manual-cut watch (3.60% buffer, tightened) + XLV hwm-ratchet watch ($163.99 nearest = 1.73% away) + XLB cap-drift watch (25.31%, 31 bps over) = triple intraday monitor. CPI Tue 8:30 ET + bank Q2 kickoff Tue AM = binary week catalysts. No pre-CPI adds.**
+
+Reasoning: (a) deployment 86.09% = above 85% floor, mid-band compliant; (b) all 8 GTC trails armed all 5 positions; (c) 4-of-5 book aligned to YTD-leading sectors = strongest sector-momentum alignment maintained; (d) XLK strike-2 walking-wounded + 3.60% manual-cut buffer + -1.13% premkt fade = primary risk tightening, but no pre-CPI action; (e) CPI Tue + bank Q2 Tue = binary catalyst sequence = no pre-catalyst adds; (f) weekly slots 0/6 preserved for post-catalyst single-name leader entries Wed-Fri; (g) XLV near-hwm ratchet mechanical only; (h) XLB cap-drift not-actionable at -0.80% unrealized (rule-14 dormant); (i) DAL Fri beat + reaffirmed guidance + dividend raise = positive cyclical read-through supports XLI thesis into open; (j) SKHY debut + AVGO deal = mild XLK bid support at open likely.
+
+### Plan for the day
+- **09:30 ET open**: HOLD. Verify all 8 GTC trails armed. Watch XLK vs $177.08 manual (3.60% buffer, tightened from Fri). Watch XLV vs $163.99/$165.605 hwm ratchets.
+- **09:30-10:30 ET**: post-open tone reads. If XLK gaps <-2% from Fri close = manual cut zone approach; if bounces off SKHY/AVGO news = relief.
+- **10:00 ET**: no major macro release. Watch WTI extension for XLB pressure signal (>$75 = petrochem cost hit).
+- **Midday scan (12:00 ET)**: XLK $177.08 status; XLV hwm-ratchet observation; XLB cap-drift resolution or extension (25.5% trim threshold); intraday tone into Tue CPI.
+- **Afternoon**: no additional trades planned absent stop-out, manual cut trigger, or XLB cap-forced-trim. Positioning for Tue CPI + bank Q2.
+- **15:30-16:00 ET pre-close**: EOD position-check; trail/sector-cap snapshot; XLK vs $177.08 close threshold decision; XLB cap status; CPI pre-print positioning.
+- **EOD**: TRADE-LOG snapshot Day 51 (Mon). Document premkt-fade continuation vs bounce, XLK status, XLV ratchet activity, XLB cap status, cash-deployment status.
+- **Tue Jul 14 -- BINARY CATALYST DAY**: 8:30 ET June CPI + bank Q2 kickoff pre-open (JPM ~7:00 ET / GS/C/BAC/WFC). Pre-market playbook drafted EOD Mon.

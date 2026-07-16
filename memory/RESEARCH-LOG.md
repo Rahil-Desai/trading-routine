@@ -3299,3 +3299,100 @@ Reasoning: (a) deployment 86.00% = above 85% floor, mid-band compliant; (b) all 
 - **15:30-16:00 ET pre-close**: EOD position-check; trail/sector-cap snapshot; XLK vs $177.08 close threshold decision; XLB cap status; CPI/bank/Warsh reaction summary.
 - **EOD**: TRADE-LOG snapshot Day 52 (Tue). Document CPI print vs cons, bank Q2 reactions, Warsh tone, XLK status, XLV ratchet activity, XLB cap status, cash-deployment status, weekly-slot usage.
 - **Wed Jul 15**: 8:30 ET June PPI + AM prints (J.B. Hunt/United Airlines/MS/J&J/BlackRock) + PM NFLX = continuation catalyst day. Pre-market playbook drafted EOD Tue.
+
+## 2026-07-16 -- Pre-market Research (Thu, Day 53, Week 12, TSM + UNH AM PRINT DAY)
+
+### Account
+- Equity: **$97,568.23** (last equity $97,741.64 = -$173.41 / -0.18% overnight fade)
+- Cash: **$13,732.64** = **14.08% cash / 85.92% deployed** (above 85% floor by **92 bps** = new thinnest cushion of phase; Wed 96 bps -> Thu 92 bps compressing)
+- Buying power: $289,670.21 (margin) / non-margin $55,650.43
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$83,835.59**
+- **Positions (5 unchanged from Wed EOD)**:
+  - XLB 491 @ $51.298554 -> **$50.19** (-$544 / -2.16%; change_today -0.61%; premkt fade $50.65 -> $50.19)
+  - XLI 130 @ $173.962385 -> **$180.06** (+$793 / +3.51%; change_today 0; flat premkt)
+  - XLK 65 @ $190.41 -> **$179.38** (-$717 / **-5.79%**; **change_today -1.21%**; premkt gap DOWN $181.80 -> $179.38 = **ACUTE ALERT**)
+  - XLP 60 @ $84.54 -> **$83.52** (-$61 / -1.21%; change_today +0.06%; flat premkt)
+  - XLV 120 @ $156.202167 -> **$159.28** (+$369 / +1.97%; change_today +0.63%; premkt bid $158.33 -> $159.28)
+- Open trail stops (**8 GTC, all armed, all 5 positions covered**):
+  - XLB lots: **$47.979** qty 165 + **$47.979** qty 198 + **$46.971** qty 128 = 491 total; buffers 4.41% / 4.41% / 6.42%
+  - XLI: **$167.8005** qty 130 (hwm $186.445) = only lot; **6.81%** trail buffer
+  - XLK: **$174.87** qty 65 (hwm $194.30) -- **2.51%** trail buffer (compressed from Wed 3.82%); -7% manual cut **$177.08 = 1.28% buffer** = **TIGHTEST OF PHASE** (Mon 2.22% -> Tue 3.39% -> Wed 2.60% -> Thu 1.28%)
+  - XLP: **$76.986** qty 60 (hwm $85.54) -- **7.83%** trail buffer
+  - XLV: **$149.0445** qty 80 (hwm $165.605) + **$147.591** qty 40 (hwm $163.99) = 120 total; buffers 6.42% / 7.34%
+- Weekly count: **0/6 fresh** (Thu = 4th session new week; Mon/Tue/Wed all 0 new-position entries)
+- **Sector/position mix** (of $97,568.23 equity):
+  - **XLB 25.26%** = **26 bps over 25% per-position cap** (passive drift, near-flat vs Wed 25.42%; escalating watch dormant, still under 25.5% trim threshold)
+  - XLI 23.99% (clean)
+  - XLV 19.59% (clean)
+  - XLK 11.95% (clean; strike-2 laggard, primary risk vector)
+  - XLP 5.14% (small starter)
+  - Cash 14.08%
+
+### Market Context
+- **WTI ~$80.01 / Brent ~$85.14-86.30** (Wed spot); **oil UP sharply from Tue's $73-75** (+7-10% multi-day). Sub-supportive at $80 for XLB petchem margins (higher feedstock cost = squeeze); constructive for XLE (not held). WTI stable-to-firm = commodity-inflation tail modestly reasserted post-benign PPI.
+- **S&P 500 futures ESU26 ~7,607 (+0.21%)**; **NQ100 ~30,009 (+0.73%)**; **DJIA 52,847 (+0.11%)** = broad **risk-on premkt** ahead of TSM print + UNH print + PPI digestion continuation. Positive AI-relief lift on NQ (ASML Wed + TSM buildup).
+- **VIX**: not obtained live; last read $16.39 Mon +9.05%; likely settled Tue/Wed on cool CPI + benign PPI + ASML/MS beats; sub-16 low-vol regime likely re-established but not confirmed.
+- **TODAY'S CATALYST STACK (mega print day)**:
+  - **~06:00 ET (pre-open) TSM Q2 print + 02:00 ET conf call already done (Taipei time)** = **PRIMARY AI BINARY**: Q2 rev guide $39-40.2B (Cons ~$39.85B; June rev record NT$442.7B pushed toward $40B high-end). Beat + full-year guide raise (30% -> ~37-40%) = XLK/AI RELIEF rally + NVDA/AVGO/AMD lift + Semi cap-ex validation. Miss/inline guide + capex flat = XLK gap-down continuation, NVDA overhang deepens.
+  - **08:00 ET UNH Q2 print + conf call** = **XLV BINARY**: Cons EPS $4.85 (options price 6.1% move); UNH ~9% weight in XLV. Q1 blowout ($7.23 vs $6.56 cons; guide raised >$18.25 FY). Beat + guide reaffirm = XLV lift toward hwm ratchets ($163.99/$165.605). Miss/light guide = XLV -3-5% drag (XLV hwm-ratchet dormant).
+  - **08:30 ET Weekly jobless claims + Retail Sales + Philly Fed Manufacturing** = secondary macro
+  - **AM ALSO**: GE (XLI heavy, ~4% weight), ABT (XLV heavy), ISRG (XLV heavy), USB (Financials continuation)
+  - **AH TODAY**: NFLX Q2 (first Mag-7-tier tech print of Q2 season) = XLK follow-through Fri
+- **Rest-of-week catalyst stack**:
+  - **Fri Jul 17 8:30 ET**: Housing starts / Michigan Sentiment prelim
+  - **Fri AM**: American Express, various regionals
+  - **Weekend**: G20 finance ministers meeting (potential tariff/currency headlines)
+- **Sector momentum YTD 2026 (unchanged; multi-source confirmed)**:
+  - **Leaders**: **Energy +20-23%** / **Industrials +14-19%** / **Materials +12-17%** / **Consumer Staples +11-16%** / Healthcare positive
+  - **Laggards**: **Financials -7%** / **Cons Disc -4%** / **Info Tech -3-4%** / Comm Svc -1%
+  - **Book alignment maintained: 4-of-5 in LEADING quadrant** (XLB/XLI/XLV/XLP) + 1 laggard (XLK strike-2 walking-wounded).
+- **Macro tone**: Cool CPI Tue + benign PPI Wed = **Fed-cut path re-affirmed** (Sept/Q4 cut prob rebuilt). AI capex supercycle test today via TSM; XLK Semis 46.9% weight = NVDA 13.67% overhang persists (-17% since June rebalance); XLK P/E 37-39x = still stretched. Q2 EPS growth cons ~22%.
+
+### Held-ticker News
+- **XLB** $50.19 (-2.16%, change_today -0.61%). Materials YTD **+12-17% = leader**. **Oil UP to $80** = mild headwind for XLB petchem constituents (LYB/DOW input cost); XLB not oil-price beta directly. Cap 25.26% = passive drift, dormant. Nearest trail buffer 4.41% = mid-range.
+- **XLI** $180.06 (+3.51%, change_today 0). Industrials YTD **+14-19% = leader**. **GE reports AM** = XLI heavy holding; beat = XLI continuation toward hwm $186.445 (3.55% away). AI-infra + defense + reshoring + fiscal tailwinds intact. Trail $167.8005 = **6.81%** buffer.
+- **XLK** $179.38 (-5.79%, **change_today -1.21%** premkt gap-down = **ACUTE ALERT**). Tech YTD -3-4% = laggard. XLK -6-7% in July; ~20% below all-time high. NVDA 13.67% wgt / Semis 46.9%. **PRIMARY RISK VECTOR = LIVE**. Manual cut **$177.08 = 1.28% buffer** below current $179.38 = **TIGHTEST OF PHASE** (compressed from Wed 2.60%). Trail $174.87 = 2.51% buffer. **TSM print = binary determinant**: beat + raise = potential relief bounce toward $186+, miss = manual cut $177.08 tags with authority intraday. **PRE-WRITE**: if XLK trades below $177.08 sustained for 15+ min post-TSM, execute manual cut = 65 sh market SELL = $11.5K back to cash; frees redeploy for single-name Semi/AI leader (AVGO/AMD/NVDA) or Financials laggard-catchup (JPM/GS post-print momentum).
+- **XLP** $83.52 (-1.21%, change_today +0.06%). Staples YTD +11-16% = leader. Defensive rotation intact. Trail $76.986 = 7.83% buffer. Starter position.
+- **XLV** $159.28 (+1.97%, change_today +0.63%). Healthcare YTD positive. **UNH Q2 print 08:00 ET = XLV binary** (UNH ~9% weight in XLV; options pricing 6.1% move). **Newer lot hwm $163.99 = 2.86% away** = closest ratchet candidate; older lot $165.605 = 3.85% away. UNH-beat + XLV relief bid = mechanical ratchet trigger likely.
+
+### Trade Ideas
+1. **HOLD 5-position book pre-open. NO fresh entries pre-TSM (06:00 ET) / pre-UNH (08:00 ET). Await AM print resolution.** Rationale: (a) cash 14.08% = high-band deployment sleeve preserved; (b) all 8 GTC trails armed all 5 positions; (c) 4-of-5 book in YTD-leading sectors = strongest momentum alignment maintained; (d) **XLK 1.28% manual-cut buffer = tightest of phase = defensive holding pattern until TSM resolves**; (e) VIX likely settled but risk-off tail from XLK gap-down; (f) weekly slots 0/6 fully preserved for post-TSM/UNH conviction Semi/Healthcare/Financials leader.
+2. **XLK acute manual-cut watch (primary intraday monitor)**: **$177.08 = 1.28% buffer** at premkt $179.38 = **tightest of phase**. **PRE-WRITE**: if XLK trades below $177.08 sustained 15+ min post-TSM, execute 65-sh market SELL. Trail $174.87 backstop = 2.51%. TSM beat + raise = XLK relief-bounce path toward $186+; TSM miss = manual cut $177.08 tag likely with force. Position size $11.5K back to cash for redeploy.
+3. **XLV hwm-ratchet watch (secondary monitor, UNH-linked)**: newer lot **$163.99** = 2.86% away; older lot **$165.605** = 3.85% away. UNH-beat + XLV bid = mechanical trail ratchet triggers likely intraday.
+4. **XLI GE-linked ratchet watch**: hwm $186.445 = 3.55% away from ratchet. GE AM print = XLI heavy holding beat/miss ripple.
+5. **XLB cap-drift monitor**: 25.26% = 26 bps over 25% cap. Passive drift, essentially unchanged (Wed 25.42% -> Thu 25.26%). Trigger for action: (a) intraday extends >25.5% by close = trim 5-10 sh next strength; (b) unrealized clears +5% AND >25% cap = rule-14 trim-into-strength (currently -2.16% = dormant). Rule-3 still operative but not forcing today.
+6. **Post-TSM/UNH redeploy candidates staged** (~$13.7K cash + potential XLK stop-out $11.5K = ~$25K firepower):
+   - **AI/Semi laggard-catchup** (post-TSM, primary if beat): **AVGO** (Apple deal + broadening AI TAM) / **AMD** (MI-series ramp) / **AMAT / LRCX** (foundry-capex leverage) / **MU** (memory upcycle if reclaim $70+)
+   - **Financials laggard-catchup** (continuation): **JPM / GS / MS / WFC / BAC** ranked by Q2 beat momentum
+   - **Industrials singles**: **CAT / GE / GEV** (post-DAL/GE-print read-through)
+   - **Healthcare singles** (post-UNH-print): **LLY / UNH direct** (if 6.1% move down = value reset)
+   - **Materials singles**: **LYB / TPL / NUE** (YTD leaders)
+   - **Staples singles**: **COST / WMT / PG** (defensive leaders)
+   - **NONE for pre-print entry today** (pre-TSM/UNH gates).
+
+### Risk Factors
+- **XLK acute manual-cut zone**: **1.28% buffer = TIGHTEST OF PHASE** at premkt $179.38 vs $177.08 cut. TSM miss/inline guide + AI-cap-ex-doubt narrative = manual cut zone tags intraday with force. Backup trail $174.87 = 2.51% buffer.
+- **TSM binary risk**: cons Q2 rev $39.85B; full-year raise expectation to ~37-40% priced in. Miss on either = AI-supercycle-doubt = NVDA/Semi-wide sell = XLK gap-down continuation.
+- **UNH binary risk**: options pricing 6.1% move; Q1 blowout raised bar; any Q2 disappointment or guide-cut = XLV -3-5% drag (UNH 9% weight).
+- **Deployment cushion 92 bps above 85% floor**: **new thinnest of phase**. If XLK forces cut ($11.5K MV out), post-cut deployment ~74% = **immediate floor breach = mandatory same-session redeploy** to a single-name Semi/AI leader.
+- **Oil at $80 (up from $73 Tue)**: mild XLB petchem headwind if sustained; not book-wide risk today but watch feedstock-cost narrative.
+- **Phase P&L**: Wed close $97,741.64 (-$2,258.36 / -2.26% from $100K start); Thu premkt $97,568.23 = -$2,431.77 (-2.43%) = **fresh phase low, 7th consecutive down-day in phase terms**. Jun 30's +$1,807 all-time high now $4,240 in the rearview.
+- **No -7% manual cuts yet**: worst XLK -5.79% = 1.21pp from threshold (contracted from Wed's 2.48pp). If XLK closes below $177.08 today, mandatory manual cut.
+- **VIX unknown live**: Mon $16.39 (+9.05%); likely settled but confirmation pending.
+
+### Decision
+**HOLD 5-position book pre-open. NO fresh entries pre-TSM (06:00 ET) / pre-UNH (08:00 ET). Cash 14.08% preserved for post-print single-name Semi/Healthcare/Financials leader redeploy. XLK $177.08 manual-cut watch (1.28% buffer = tightest of phase) = highest-priority intraday monitor + PRE-WRITE cut instruction if sustained below $177.08 15+ min post-TSM. XLV hwm-ratchet watch ($163.99 = 2.86% away, UNH-linked) + XLI hwm-ratchet watch ($186.445 = 3.55% away, GE-linked) = secondary mechanical monitors. XLB cap-drift dormant.**
+
+Reasoning: (a) deployment 85.92% = above 85% floor by only 92 bps = new thinnest cushion of phase; (b) all 8 GTC trails armed all 5 positions; (c) 4-of-5 book aligned to YTD-leading sectors = strongest sector-momentum alignment maintained; (d) XLK strike-2 walking-wounded with 1.28% manual-cut buffer = primary risk = defensive holding pattern until TSM prints; (e) TSM + UNH dual AM binary = compressed catalyst window = no pre-catalyst adds; (f) weekly slots 0/6 preserved for post-print conviction bar (Semi/Healthcare/Financials); (g) benign PPI + cool CPI + likely-settled VIX = macro tape supportive, but XLK-idiosyncratic risk not yet neutralized; (h) rotation candidate list crystallized (AVGO/AMD/AMAT/LRCX/MU/JPM/GS/MS/WFC/BAC/CAT/GE/GEV/LLY/UNH/LYB/TPL/NUE/COST/WMT/PG).
+
+### Plan for the day
+- **06:00 ET (pre-open TSM Q2 print)**: monitor rev vs $39-40.2B guide + full-year revision (30% -> ~37-40% base case). Beat + raise = AI-relief validated (XLK relief-bounce probable open). Miss/inline = AI-cap-ex-doubt = XLK gap-down continuation risk.
+- **08:00 ET UNH Q2 print + conf call**: monitor EPS vs $4.85 cons + FY guide vs >$18.25 base. Beat + reaffirm = XLV lift toward hwm ratchets. Miss = XLV -3-5% drag.
+- **08:30 ET jobless claims + retail sales + Philly Fed**: secondary macro read.
+- **09:30 ET open**: HOLD unless XLK gap-down forces action. **Verify all 8 GTC trails armed**. Watch XLK vs $177.08 manual (1.28% buffer). Watch XLV vs $163.99/$165.605 hwm ratchets. Watch XLI vs $186.445 (GE-linked).
+- **Midday scan (12:00 ET)**: XLK $177.08 status (execute manual cut if sustained below 15+ min post-TSM); XLV hwm-ratchet observation; XLI hwm-ratchet observation; XLB cap-drift status; post-print tone assessment (TSM AI-supercycle read + UNH Healthcare read + GE Industrials read); Financials continuation via USB/regionals.
+- **Afternoon**: potential first post-catalyst entry if TSM beat + XLK relief-bounce delivers clear single-name Semi leader (AVGO most likely), OR if UNH beat delivers XLV single-name leader (LLY/UNH direct); OR XLK manual cut executed + redeploy to Semi/AI leader same session per rule-2 floor-compliance. Otherwise HOLD.
+- **15:30-16:00 ET pre-close**: EOD position-check; trail/sector-cap snapshot; XLK vs $177.08 close threshold decision; XLB cap status; TSM/UNH/GE reaction summary. **NFLX AH print = Fri catalyst**.
+- **EOD**: TRADE-LOG snapshot Day 53 (Thu). Document TSM print (rev + guide + capex), UNH print (EPS + guide), GE print (Industrials read), XLK status (manual cut execution or hold), XLV/XLI ratchet activity, XLB cap status, cash-deployment status, weekly-slot usage, NFLX AH read.
+- **Fri Jul 17**: Post-NFLX/TSM/UNH-digestion + housing starts + Michigan Sentiment. Pre-market playbook drafted EOD Thu. Weekend G20 finance ministers watch.

@@ -3396,3 +3396,54 @@ Reasoning: (a) deployment 85.92% = above 85% floor by only 92 bps = new thinnest
 - **15:30-16:00 ET pre-close**: EOD position-check; trail/sector-cap snapshot; XLK vs $177.08 close threshold decision; XLB cap status; TSM/UNH/GE reaction summary. **NFLX AH print = Fri catalyst**.
 - **EOD**: TRADE-LOG snapshot Day 53 (Thu). Document TSM print (rev + guide + capex), UNH print (EPS + guide), GE print (Industrials read), XLK status (manual cut execution or hold), XLV/XLI ratchet activity, XLB cap status, cash-deployment status, weekly-slot usage, NFLX AH read.
 - **Fri Jul 17**: Post-NFLX/TSM/UNH-digestion + housing starts + Michigan Sentiment. Pre-market playbook drafted EOD Thu. Weekend G20 finance ministers watch.
+
+## 2026-07-17 -- Market-Open Research (Fri, Day 54, Week 12, **MANDATORY REDEPLOY DAY -- 74.5% deployed post-XLK cut**)
+
+### Account (09:40 ET intraday)
+- Equity **$97,982.92** (last equity $98,242.53 = -$259.61 / -0.26% intraday); long MV **$72,957.18**; cash **$25,025.74** = **25.5% cash / 74.5% deployed = BELOW 85% hard floor by 10.5pp**
+- Positions (4, XLK cut Thu Jul 16): XLB 491, XLI 130, XLP 60, XLV 120
+- Weekly count fresh **0/6 new-position entries** (Mon-Thu 0 new entries; XLK Thu cut = discipline exit, not weekly slot)
+- Trail stops verified (7 GTC armed all 4 positions post XLK cut)
+
+### Catalysts (Thu post-print + Fri overnight)
+- **TSM Q2 BEAT + guide raise BUT SOLD OFF**: Rev $40.2B (high end of guide, vs $39.85B cons), GM 67.7% (+150bps QoQ), Q3 guide $44.6-45.8B, FY26 growth raised. NET NEGATIVE reaction: **capex hiked to $60-64B (+$8B), + $100B U.S. long-term investment plan** = wallet-share concern + political overhang = TSM ADR **-2 to -4% pre-market Fri**.
+- **UNH Q2 BLOWOUT**: EPS **$6.38 vs $4.85 cons (+31%)**, rev $112.03B (+0.4% YoY, vs $110.8B cons), FY26 EPS guide raised to **$19.50-$20.00** (from >$18.25). Stock +5-7% intraday Thu, closed $423.27 (+1.13%), AH $426.82 (+0.84%). **XLV benefits (UNH ~9% wgt)**.
+- **NFLX Q2 mixed / GUIDE DISAPPOINTED**: Rev $12.56B (slight miss vs $12.58B cons), EPS $0.80 (beat $0.79), FY26 rev guide narrowed to $51-51.4B (from $50.7-51.7B). **Stock -8% AH Thu** = risk-off overhang for high-multiple Tech Fri.
+- **Held-ticker earnings Thu**: GE (XLI-heavy) print unknown detailed reaction; UNH-driven XLV bid; XLK CUT executed Thu.
+- **Fri macro**: Housing starts + Michigan Sentiment prelim 08:30 / 10:00 ET; American Express AM.
+
+### Post-XLK Sector Alignment (BEFORE any new entry)
+- Materials (XLB) 25.55% -- passive drift over 25% cap, escalating watch (was 25.42% Wed)
+- Industrials (XLI) 23.63% -- clean
+- Healthcare (XLV) 19.94% -- clean, UNH lifted single-name backdrop
+- Staples (XLP) 5.33% -- starter
+- **Tech: 0%** (XLK cut Thu, sleeve open)
+- Cash 25.53%
+
+### Held-ticker Live Quotes (09:41 ET)
+- **AVGO ask $359-362** (candidate entry): tight spread, actively trading
+- UNH ask $434.57-442 (post-print gap up, chasing risk)
+- NVDA $199.5-200 (post-TSM capex overhang)
+- Semis mixed (AMAT/LRCX wide spreads, thin AM liquidity)
+
+### Trade Ideas
+1. **BUY AVGO 40 sh @ ~$360 market ($14,400 = 14.7% position)** -- **PRIMARY REDEPLOY**. Rationale: (a) replaces Tech sleeve lost with XLK cut; (b) TSM $60-64B capex hike VALIDATES AI-infra spend cycle -- AVGO custom silicon (Google TPU, Meta MTIA) + AI networking = direct dollar-share beneficiary even as TSM ADR sold off on capex-fear noise; (c) sector alignment: adds Tech single-name at 14.7% (well under 25% cap, under 30% Tech-sector cap given book has no other Tech); (d) satisfies mandatory-redeploy rule 2 (74.5% -> 89.2% deployment, clears 85% floor + hits 90% target zone); (e) single-name leader (rule 6 compliant, not another ETF); (f) 10% trail stop $324 armed at fill = risk defined.
+2. **NO UNH direct** despite blowout catalyst -- would push Healthcare (XLV 19.9% + UNH 15% ≈ 35%) **over 30% sector cap (rule 13 violation)** without XLV trim first. Post-print gap-up chase = poor R:R vs pre-print.
+3. **NO chase into NFLX-tainted high-multiple Tech names** (MSFT/META/GOOGL/CRM) pre-open Fri.
+4. **XLB cap-drift** 25.55% = 55 bps over 25% cap = **trim threshold breached**. Defer trim decision to midday; if XLB doesn't retrace by close, execute 5-8 sh trim per rule 3.
+5. **XLI hwm-ratchet watch** hwm $186.445 (3.5% away). **XLV hwm-ratchet watch** $163.99 / $165.605 (post-UNH bid could tag).
+6. Weekly slots after AVGO: **1/6 used** (5 slots remain Fri).
+
+### Risk Factors
+- **Semis pre-market weakness on TSM+NFLX combo** = AVGO likely opens 0-2% red into market; entering into weakness is acceptable R:R but sizing conservative (14.7% not 20%)
+- **AVGO 10% trail = ~$36 buffer** on $360 stock -- adequate for volatility
+- **Redeploy urgency vs conviction**: rule 2 mandates deploy TODAY (Fri) but doesn't override quality bar. AVGO clears the bar as best available Semi single-name leader with fresh sector validation.
+- **XLB cap trim** deferred to midday -- if trim executed, freed capital rotates into second single-name Mon per plan.
+
+### Decision
+**BUY AVGO 40 sh market DAY + 10% trailing stop GTC at fill.** Rationale: mandatory redeploy per rule 2 (74.5% below 85% floor), AVGO is highest-conviction single-name Tech leader with validated AI-infra tailwind post-TSM capex hike, sizing at 14.7% (well under caps) lifts deployment to 89.2% (above floor, at 90% target zone) while preserving 10.8% cash sleeve for Mon opportunity + XLB cap-trim funding.
+
+### Plan for the day
+- **09:42 ET**: Execute AVGO 40 sh market BUY DAY, then 40 sh 10% trailing-stop SELL GTC
+- **Midday**: XLB cap check (>25.5% by close = trim 5-8 sh); XLV/XLI hwm-ratchet observation; AVGO post-fill mark
+- **EOD (Fri weekly review day)**: TRADE-LOG snapshot Day 54 + weekly recap; deployment/cap verification; Semi tape post-TSM read; post-UNH XLV extension; NFLX AH digestion

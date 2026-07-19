@@ -3396,3 +3396,100 @@ Reasoning: (a) deployment 85.92% = above 85% floor by only 92 bps = new thinnest
 - **15:30-16:00 ET pre-close**: EOD position-check; trail/sector-cap snapshot; XLK vs $177.08 close threshold decision; XLB cap status; TSM/UNH/GE reaction summary. **NFLX AH print = Fri catalyst**.
 - **EOD**: TRADE-LOG snapshot Day 53 (Thu). Document TSM print (rev + guide + capex), UNH print (EPS + guide), GE print (Industrials read), XLK status (manual cut execution or hold), XLV/XLI ratchet activity, XLB cap status, cash-deployment status, weekly-slot usage, NFLX AH read.
 - **Fri Jul 17**: Post-NFLX/TSM/UNH-digestion + housing starts + Michigan Sentiment. Pre-market playbook drafted EOD Thu. Weekend G20 finance ministers watch.
+
+## 2026-07-17 -- Pre-market Research (Fri, Day 54, Week 12, XLK STOP-OUT IMMINENT + CHIP-ROUT DAY 2)
+
+### Account
+- Equity: **$97,822.85** (last equity $98,242.53 = -$419.68 / -0.43% overnight fade)
+- Cash: **$13,732.64** = **14.04% cash / 85.96% deployed** (above 85% floor by 96 bps = still thin cushion)
+- Buying power: $290,383.14 (margin) / non-margin $55,777.74
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$84,090.21**
+- **Positions (5 unchanged from Thu EOD)**:
+  - XLB 491 @ $51.298554 -> **$50.90** (-$196 / -0.78%; change_today +0.02%; flat premkt)
+  - XLI 130 @ $173.962385 -> **$177.96** (+$520 / +2.30%; **change_today -1.22%**; premkt fade $180.15 -> $177.96)
+  - XLK 65 @ $190.41 -> **$174.42** (**-$1,039 / -8.40%**; **change_today -1.75%**; premkt gap DOWN $177.52 -> $174.42 = **BELOW $174.87 TRAIL STOP -- WILL FIRE AT OPEN**)
+  - XLP 60 @ $84.54 -> **$86.35** (+$109 / +2.14%; change_today +0.63%; **fresh hwm intraday-late-Thu, trail ratcheted $76.986 -> $77.2335, hwm $85.30 -> $85.815**)
+  - XLV 120 @ $156.202167 -> **$162.04** (+$701 / +3.74%; change_today +0.15%; UNH-beat delivered post-print bid)
+- Open trail stops (**8 GTC, all armed, all 5 positions covered**):
+  - XLB lots: **$47.979** qty 165 + **$47.979** qty 198 + **$46.971** qty 128 = 491 total; buffers 5.74% / 5.74% / 7.72%
+  - XLI: **$167.8005** qty 130 (hwm $186.445) = only lot; **5.71%** trail buffer
+  - XLK: **$174.87** qty 65 (hwm $194.30) -- **-0.26% (STOP BROKEN)** = **TRAIL STOP WILL FIRE AT OPEN** (current $174.42 < stop $174.87)
+  - XLP: **$77.2335** qty 60 (hwm $85.815) -- **10.56%** trail buffer (fresh Thu ratchet)
+  - XLV: **$149.0445** qty 80 (hwm $165.605) + **$147.591** qty 40 (hwm $163.99) = 120 total; buffers 8.03% / 9.31%
+- Weekly count: **0/6 fresh** (Fri = 5th session new week; Mon/Tue/Wed/Thu all 0 new-position entries)
+- **Sector/position mix** (of $97,822.85 equity):
+  - **XLB 25.55%** = **55 bps over 25% per-position cap** = **BREACHES 25.5% TRIM THRESHOLD** (Wed 25.42% -> Thu ~25.26% -> Fri 25.55% at pre-open; **RULE-3 TRIM ACTION-ELIGIBLE** on any intraday XLB strength)
+  - XLI 23.65% (clean)
+  - XLV 19.88% (clean)
+  - XLK 11.59% (clean; **but stop-out imminent**)
+  - XLP 5.30% (small starter)
+  - Cash 14.04%
+- **POST-XLK-CUT projected state** (65 sh SELL @ ~$174.42 = +$11,337): Cash **~$25,070 (25.6%)** = **DEEPLY BELOW 85% DEPLOYMENT FLOOR** = **MANDATORY SAME-SESSION REDEPLOY** per rule-2 amended (no rollover loophole).
+
+### Market Context
+- **WTI ~$79.80-80.08 / Brent ~$85.09-85.34** (Fri premkt). Oil **+0.84% to +1.43%** day-over-day. Middle East tensions (US-Iran escalation) driving crude toward biggest weekly gain in months. Sub-supportive at $80 for XLB petchem margins (feedstock cost squeeze); **STRONG TAILWIND for Energy sector** (not held; primary redeploy target).
+- **S&P 500 futures ESU26 ~7,509 (-0.90%)**; **NQ100 ~28,742 (-1.66% to -2.05%)**; **DJIA 52,384 (-0.76%)** = broad **RISK-OFF premkt** with chip-selloff as primary driver + NFLX AH -8-9% as secondary drag.
+- **VIX ~17.96 premkt (+7.35%)**; **Thu close 16.73 vs Wed 15.67 (+6.76%)**. **Sub-16 low-vol regime broken decisively**; VIX popping toward 18-20 zone as chip-rout escalates.
+- **TODAY'S PRIMARY DRIVER = CHIP SELLOFF DAY 2**: Broadcom (AVGO) **-12.6% Thu** on soft AI guidance triggered global chip rout; PHLX Semi Index -4.3% to -5.21% multi-day. **NVDA premkt -2.4% to -6%** (leading Mag-7 lower). AMD -5%+. SanDisk/WDC -10-12%. TSMC beat Thu but sold on profit-taking + AI-capex-doubt narrative. **XLK Semi weighting 46.9% + NVDA 13.67% wgt** = idiosyncratic capital-concentration risk fully expressed.
+- **NFLX AH -8-9%** on Q3 rev guide $12.9B vs $13B cons + FCF $1.53B vs $2.72B big miss + FY guide de-anchored. Compounds Nasdaq drag.
+- **TODAY'S CATALYST STACK**:
+  - **08:30 ET June Housing Starts** (cons 1.31M vs prior 1.177M) + **Building Permits** = macro secondary
+  - **10:00 ET Michigan Sentiment prelim** = macro tertiary
+  - **AM prints**: American Express (AXP) = Financials continuation; Halliburton (HAL) = Energy proxy; various regionals
+  - **NFLX open-price digestion + XLK gap-down open**
+- **Middle East / US-Iran escalation** = oil tailwind + risk-off multiplier (Taiwan -6%, Japan -4% overnight)
+- **Sector momentum YTD 2026** (multi-source triangulated):
+  - **Leaders**: **Energy +24-33%** (multi-week acceleration on oil + Middle East) / **Industrials +11-14%** / **Materials +11-18%** / **Consumer Staples +11-16%** / Healthcare mixed
+  - **Laggards**: **Financials -2-7%** / **Cons Disc -4%** / **Info Tech ~flat to -6%** (Nasdaq 100 stretched to breaking point on AI-doubt)
+  - **Book alignment maintained: 3-of-5 in LEADING quadrant** (XLB/XLI/XLP) + XLV neutral-positive + XLK laggard (stop-out imminent).
+- **Macro tone**: Cool CPI Tue + benign PPI Wed + UNH beat Thu + TSMC beat Thu = **micro tape supportive** BUT **AVGO soft guide + NFLX weak guide + chip-rout day 2 = AI-supercycle-doubt narrative dominant**. Weekend risk = G20 finance ministers + Middle East escalation = **investors reluctant to carry long-tech into weekend**.
+
+### Held-ticker News
+- **XLB** $50.90 (-0.78%, change_today +0.02%). Materials YTD **+11-18% = leader**. Oil at $80 = mild petchem headwind but not book-wide risk. **Cap 25.55% = 55 bps over per-position cap = BREACHES 25.5% RULE-3 TRIM THRESHOLD**. **Rule-3 trim ACTION-ELIGIBLE on any intraday XLB strength today**: trim 5-10 sh to bring below 25%. If XLB fades intraday, trim next-day. Trail buffer 5.74% mid-range.
+- **XLI** $177.96 (+2.30%, change_today -1.22%). Industrials YTD **+11-14% = leader**. GE print Thu delivered read-through; AXP AM print = Financials laggard-catchup read (indirect XLI benefit via reshoring/industrial-services). Trail $167.8005 = **5.71%** buffer. Hwm $186.445 unchanged, 4.77% away from fresh ratchet.
+- **XLK** $174.42 (**-8.40%**, change_today -1.75%). Tech YTD **~flat to -6% = laggard**. Semi 46.9% / NVDA 13.67% wgt = concentrated AVGO-guide-driven weakness. **PRIMARY STOP-OUT IMMINENT AT OPEN**: current $174.42 < trail stop $174.87 (0.26% broken) = market SELL at open, expected fill ~$174-175 range = $11.3K cash back. Realized loss ~$1,040 (-8.40%). Positions the book for **anti-Semi rotation** into Energy/Financials/Industrials singles.
+- **XLP** $86.35 (+2.14%, change_today +0.63%). Staples YTD **+11-16% = leader**. Defensive-rotation regime confirmed by VIX pop + chip-rout. **Fresh hwm $85.815 tagged Thu-late** = trail auto-ratcheted **$76.986 -> $77.2335** (Alpaca 2026-07-16 20:00 UTC). Trail buffer 10.56% = ample. Starter position (5.30% of book) = **candidate for size-up** on further chip-rout continuation.
+- **XLV** $162.04 (+3.74%, change_today +0.15%). Healthcare YTD mixed. **UNH beat Thu** delivered post-print bid; hwm $163.99 = **1.20% away** = closest ratchet candidate; older lot $165.605 = 2.20% away. GLP-1 regime intact.
+
+### Trade Ideas
+1. **PRIMARY (execute at open)**: **XLK trail stop expected to fire** at market open (current $174.42 < stop $174.87). Cash proceeds ~$11.3K + existing $13.7K = **~$25K firepower for mandatory same-session redeploy** (rule-2: deployment <85% may not roll forward without placed order).
+2. **PRIMARY REDEPLOY (post XLK cut)**: **Energy single-name leader or XLE**. Energy YTD +24-33% = phase-leader; Middle East + oil $80 = fresh tailwind; anti-AI/anti-Semi rotation candidate. Options:
+   - **XLE ETF** (fast deploy vehicle): buy ~$12-14K worth (~130-150 sh at ~$92-95 est) = 12-14% new position; validates sector regime; single-order simplicity
+   - **Single names**: **EOG** (best-in-class US shale), **TPL** (Permian royalty), **XOM** (integrated leader), **OXY** (Berkshire-backed Permian); pick 1-2 for ~$12-15K = 12-15% each
+   - **Preference**: 1 single-name Energy leader ($12-15K position) per strategy rule 6 (hunt individual leaders, ETFs deployment vehicle only) -- **TPL primary (Permian royalty best-in-class, no operating leverage)**, EOG secondary if TPL gap-up prevents entry
+3. **SECONDARY REDEPLOY** (if XLK cut proceeds > single Energy position): **Financials laggard-catchup post-Q2** (JPM/GS/MS all posted beats last week; AXP prints AM today for continuation). Options: **JPM $12K single position** (best-of-breed, dividend + capital return + IB rebound); **GS** (IB league-table leader post-beat). Sector cap: Financials 0% currently -> up to 25%.
+4. **XLB cap-trim action-eligible** (rule-3): 25.55% > 25.5% trim threshold. On any intraday XLB strength (>$51.20 = +0.60% intraday), execute **10-sh SELL** to bring to ~25.0%. Prewrite: 10-sh market SELL @ ~$51-52 = ~$510 proceeds, XLB post-trim 481 sh, cap ~25.0%. Not urgent (55 bps drift = passive-drift trim, not emergency).
+5. **XLV hwm-ratchet watch (mechanical monitor)**: newer lot **$163.99** = 1.20% away from fresh ratchet; older lot **$165.605** = 2.20% away. UNH-post-beat momentum + defensive-rotation bid = ratchet trigger likely intraday if XLV holds green.
+6. **XLP size-up candidate** (secondary opportunity): Staples 5.30% of book = under-sized starter; defensive-rotation regime confirmed by VIX pop. **Optional**: add 30-40 sh XLP @ ~$86 = ~$3-3.5K = size up to ~8-9% position. Lower priority vs Energy redeploy.
+7. **HOLD XLI/XLV/XLB** post XLK cut. No pre-open new entries other than automatic stop-loss trigger.
+
+### Risk Factors
+- **XLK stop-out mechanics**: trail stop $174.87 broken by 0.26% premkt. At open, market SELL executes at first fill = potential slippage to $173-174 range on high-vol open (Nasdaq -1.9% futures). Realized loss ~$1,040-1,100 range.
+- **Deployment cushion CRITICAL**: post XLK cut, ~25.6% cash = 10-11pp BELOW 85% floor. **Same-session redeploy MANDATORY** per amended rule-2. If open-window market conditions prevent immediate single-name entry (halted stock, extreme spread), fallback is **XLE ETF market order** as fastest deploy vehicle.
+- **Chip-rout Day 2 continuation risk**: AVGO -12.6% Thu + NVDA/AMD/AVGO all leading premkt losses. XLK $174.42 could gap lower to $170s at open = additional negative slippage on stop-out.
+- **NFLX -8-9% AH** = compounds broad tech drag (Comm Svc weight). XLK not directly Comm Svc but risk-off multiplier.
+- **VIX 18 premkt** = new phase high. Sub-16 low-vol regime decisively broken. Weekend risk premium expanding.
+- **Middle East / US-Iran escalation** = oil tailwind for Energy redeploy BUT also risk-off multiplier for equities broadly. G20 finance ministers weekend = potential surprise catalyst tail.
+- **XLB cap breach 55 bps over trim threshold** (25.55% vs 25.5% trigger) = rule-3 action-eligible; must execute on intraday strength.
+- **Weekend risk elevated**: chip-selloff + NFLX + Middle East + G20 = investors reluctant to hold longs into 2-day risk window; potential PM sell-programs.
+- **Phase P&L**: Thu close $98,242.53 (-$1,757.47 / -1.76% from $100K start); Fri premkt $97,822.85 = -$2,177.15 (-2.18%) = fresh under-water, 8th session below breakeven in phase terms.
+- **No -7% manual cuts pre-open** other than XLK (trail stop firing = defacto manual cut executed at trail-stop level).
+
+### Decision
+**EXECUTE at open: XLK trail stop $174.87 will fire (defacto manual cut). Same-session REDEPLOY to Energy single-name leader (TPL or EOG primary, XLE ETF fallback) for ~$12-15K to restore 85%+ deployment. XLB cap-trim eligible on any intraday XLB strength (10-sh SELL). HOLD XLI/XLV/XLP. XLV hwm-ratchet watch = mechanical monitor.**
+
+Reasoning: (a) XLK stop-out mechanical + rule-driven = no discretion; (b) deployment ~25.6% cash post-cut = 10pp below 85% floor = mandatory same-session redeploy under amended rule-2; (c) Energy YTD +24-33% = phase-leading sector + Middle East tailwind = strongest single-sector re-entry; (d) anti-Semi rotation aligns with rule-11 (rotate fast, exit dead money); (e) Energy 0% current weight = ample room under 25% cap for 12-15% new position; (f) XLB rule-3 trim action-eligible on strength; (g) XLI/XLV/XLP core defensive+cyclical mix continues to work in chip-rout regime; (h) weekly slots 0/6 preserved = redeploy Energy = 1/6 slot used = 5 remaining; (i) XLV hwm ratchet mechanical (1.20% away newer lot); (j) rotation candidate list crystallized (TPL/EOG/XOM/OXY primary Energy; JPM/GS Financials fallback; COST/WMT/PG Staples fallback).
+
+### Plan for the day
+- **08:30 ET Housing Starts + Permits**: monitor cons 1.31M; miss = further housing-services demand read-through; beat = XLI/homebuilders lift.
+- **09:30 ET open**: **PRIMARY = observe XLK trail-stop fill** (65 sh @ market ~$174-175 range). **IMMEDIATELY QUEUE Energy redeploy order**: 1) Query TPL/EOG/XLE quotes; 2) Select highest-conviction single-name leader with strong open (avoid gappers up too much); 3) Place limit-buy for 12-15% position size = ~$12-14K. If Energy singles opened >2% gap-up, fallback to XLE ETF market buy 130-150 sh @ ~$92-95.
+- **09:30-09:45 ET**: verify redeploy fill; verify deployment restored to 90%+ range; place 10% GTC trailing stop on new position immediately after fill.
+- **09:30-10:00 ET**: monitor XLB for cap-trim eligibility (rule-3 trim 10 sh if XLB >$51.20 intraday).
+- **10:00 ET Michigan Sentiment**: secondary macro read.
+- **Midday scan (12:00 ET)**: verify all 8 GTC trails armed (one fewer after XLK cut = 7 armed + new Energy trail = 8 total); XLV hwm-ratchet observation ($163.99 = 1.20% away); XLB cap status post-trim (if executed); XLI/XLP trail buffers; VIX and chip-rout status; NFLX open-price digestion read; AXP print reaction.
+- **Afternoon**: monitor for XLV hwm ratchet (mechanical). Post-Housing Starts / Michigan Sentiment tone assessment. No additional entries planned unless XLK cut + Energy redeploy leaves >5% residual cash gap requiring second single-name (JPM/GS Financials laggard-catchup preferred).
+- **15:30-16:00 ET pre-close**: EOD position-check; trail/sector-cap snapshot; XLK-cut realization; new-Energy-position P&L; weekend-risk assessment.
+- **EOD**: TRADE-LOG snapshot Day 54 (Fri). Document XLK stop-out (fill price, realized P&L), Energy redeploy (ticker, entry, initial P&L, trail stop set), XLB cap status (trim executed or not), XLV/XLP ratchet activity, deployment restored, weekly-slot usage 1/6, weekend-risk carry.
+- **Weekend Jul 18-19**: G20 finance ministers watch; Middle East escalation monitoring; TRADE-LOG WEEKLY-REVIEW draft Sat.
+- **Mon Jul 20**: Pre-market read on Energy continuation + chip-rout day-3 continuation vs mean-reversion + weekend catalyst digestion.

@@ -3493,3 +3493,97 @@ Reasoning: (a) XLK stop-out mechanical + rule-driven = no discretion; (b) deploy
 - **EOD**: TRADE-LOG snapshot Day 54 (Fri). Document XLK stop-out (fill price, realized P&L), Energy redeploy (ticker, entry, initial P&L, trail stop set), XLB cap status (trim executed or not), XLV/XLP ratchet activity, deployment restored, weekly-slot usage 1/6, weekend-risk carry.
 - **Weekend Jul 18-19**: G20 finance ministers watch; Middle East escalation monitoring; TRADE-LOG WEEKLY-REVIEW draft Sat.
 - **Mon Jul 20**: Pre-market read on Energy continuation + chip-rout day-3 continuation vs mean-reversion + weekend catalyst digestion.
+
+## 2026-07-20 -- Pre-market Research (Mon, Day 55, Week 13, POST-CHIP-ROUT DIGESTION + MIDDLE EAST OIL SPIKE)
+
+### Account
+- Equity: **$98,454.09** (Fri last_equity $98,080.84 = +$373.25 / +0.38% overnight lift)
+- Cash: **$10,672.11** = **10.84% cash / 89.16% deployed** (above 85% floor by 4.16pp, below 90% target by 84 bps = healthy sleeve)
+- Buying power: $288,477.99 (margin) / non-margin $54,563.10
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$87,781.98**
+- **Positions (5 unchanged from Fri EOD)**:
+  - **AVGO 40** @ $358.84 -> **$374.67** (+$633.20 / **+4.41%**; change_today **+1.04%** premkt = leader; fresh Jul 17 entry working)
+  - XLB 491 @ $51.298554 -> **$50.51** (-$387 / -1.54%; change_today -0.04%; flat premkt)
+  - XLI 130 @ $173.962385 -> **$181.00** (+$914 / +4.05%; change_today +0.89%; premkt firm)
+  - XLP 60 @ $84.54 -> **$85.21** (+$40 / +0.80%; change_today +0.03%; flat)
+  - XLV 120 @ $156.202167 -> **$161.27** (+$607 / +3.24%; change_today +0.11%; flat)
+- Open trail stops (**8 GTC, all armed, all 5 positions covered**):
+  - AVGO: **$339.615** qty 40 (hwm $377.35) -- **9.36%** trail buffer (fresh Jul 17 lot)
+  - XLB lots: **$46.971** qty 128 + **$47.979** qty 165 + **$47.979** qty 198 = 491 total; buffers 6.99% / 5.01% / 5.01%
+  - XLI: **$167.8005** qty 130 (hwm $186.445) = **7.29%** buffer
+  - XLP: **$78.687** qty 60 (hwm $87.43) = **7.66%** buffer
+  - XLV: **$149.0445** qty 80 (hwm $165.605) + **$147.59775** qty 40 (hwm $163.9975); buffers 7.58% / 8.48%
+- Weekly count: **0/6 fresh** (Mon = 1st session new week Mon-Fri Jul 20-24)
+- **Sector/position mix** (of $98,454.09 equity):
+  - XLB **25.19%** (19 bps over 25% cap = passive drift, essentially flat vs Fri 25.32%; not action-eligible)
+  - XLI 23.90% (clean)
+  - XLV 19.66% (clean)
+  - **AVGO 15.22%** (Tech single-name; well under cap)
+  - XLP 5.19% (small starter)
+  - Cash 10.84%
+
+### Market Context
+- **WTI ~$81.71-$83.75 / Brent surging past $90.41** (Mon premkt). Oil **+2.4% to +2.77%** day-over-day. **US-Iran conflict escalation** = six consecutive days of US strikes on Iran; Brent target $95-105 per Schwab/analysts. **STRONG TAILWIND for Energy sector** (still not held; primary redeploy candidate).
+- **S&P 500 futures ESU26 ~7,496.50 (+0.02%)**; **NQ100 ~28,805.50 (+0.13%)**; **DJIA 52,316 (-0.11%)** = broadly flat-to-modestly-bullish premkt. Nasdaq showing relative strength vs Fri's -1.49% close = chip-rout digestion, not continuation.
+- **VIX ~18.28 spot (-2.61% intraday)**; Fri close 18.77 (+12.19% vs Thu 16.73). **Sub-16 low-vol regime broken; 19.5 "volatility trigger" not yet breached** = elevated but constructive.
+- **CHIP-ROUT DAY 3 RISK**: Chinese startup **Moonshot Kimi K3 open-source AI model** = fresh AI-cap-ex-doubt catalyst weekend; **SK Hynix HBM slowdown** narrative persists. AVGO premkt +0.83% = shallow recovery; analyst split (Erste downgrade vs Morgan Stanley $545 PT bull).
+- **TODAY'S CATALYST STACK** (light):
+  - **10:00 ET June Leading Indicators (US)** = macro secondary
+  - **AM earnings**: DPZ (Domino's), RYAAY (Ryanair), AMC (AMC Entertainment) = **NO book-relevant names**
+  - **Week ahead**: STLD (Steel Dynamics) Mon = XLB read-through; SCHW/SYF/DR Horton Tue; UPS/GM/GE Aerospace Tue; CB/CMG/T Wed; INTC Thu = XLK/Tech read
+- **Fed policy uncertainty**: Chair Warsh comments prices "too high" = **rate-cut path re-questioned** post-cool CPI Tue + benign PPI Wed = **hawkish repricing risk** if Fed speak stays firm.
+- **Sector momentum YTD 2026 (multi-source triangulated)**:
+  - **Leaders**: **Energy +21-26%** (accelerating on oil + Middle East) / **Industrials +10-18%** / **Materials +10-17%** / **Consumer Staples +10-11%** / Healthcare mixed
+  - **Laggards**: **Financials -2-7%** / **Cons Disc -4%** / **Info Tech ~flat to -3%** (Momentum unwind: -33% from June highs)
+  - **Book alignment maintained: 4-of-5 in LEADING quadrant** (XLB/XLI/XLP + AVGO Semi single-name outperforming XLK) + XLV neutral-positive; **still 0% Energy exposure = missed alpha vector**.
+- **Macro tone**: Cool CPI + benign PPI + UNH beat = disinflation intact BUT Warsh + Fed-hawkish-repricing risk + Middle East + chip-rout day 3 = tape sensitive; weekend digestion muted.
+
+### Held-ticker News
+- **AVGO** $374.67 (**+4.41%**, change_today +1.04% premkt = **STRONGEST book performer**). Fresh Jul 17 entry working; **hwm $377.35 = 0.71% away = CLOSEST fresh-ratchet candidate**. Q3 AI guide $16B (+200% YoY); analyst target consensus $501-545 = 34-45% upside from spot. Risks: Moonshot Kimi K3 open-source AI model + SK Hynix HBM slowdown = chip-rout residuals; Erste valuation downgrade offset by Morgan Stanley $545 PT. Trail $339.615 = 9.36% buffer = healthy. Position 15.22% of book = room to size up if hwm ratchet triggers strong close.
+- **XLB** $50.51 (-1.54%, change_today -0.04%). Materials YTD **+10-17% = leader**. **Cap 25.19% = 19 bps over 25% cap = passive drift, flat, no action** (Fri 25.32% -> Mon 25.19%). Oil at $84 = mild petchem headwind but not book-wide risk; STLD earnings Mon = Materials read-through. Trail buffers 5-7% mid-range.
+- **XLI** $181.00 (+4.05%, change_today +0.89%). Industrials YTD **+10-18% = leader**. GE Aerospace prints Tue = XLI heavy holding + reshoring/defense/AI-infra tailwinds intact. Trail $167.8005 = **7.29%** buffer. Hwm $186.445 = **3.01% away** from fresh ratchet.
+- **XLP** $85.21 (+0.80%, change_today +0.03%). Staples YTD **+10-11% = leader**. Defensive-rotation regime confirmed by VIX 18+ = potential size-up candidate. Trail $78.687 = **7.66%** buffer. Hwm $87.43 = **2.61% away**.
+- **XLV** $161.27 (+3.24%, change_today +0.11%). Healthcare YTD mixed. UNH-beat momentum + GLP-1 regime intact. **Newer lot hwm $163.9975 = 1.69% away** = 2nd-closest ratchet candidate; older lot $165.605 = 2.69% away.
+
+### Trade Ideas
+1. **PRIMARY: HOLD 5-position book. Watch AVGO for hwm-ratchet trigger** (0.71% away from $377.35). If AVGO trades >$377.35 sustained, trail auto-ratchets $339.615 -> higher; monitor for **+15% trigger at $412.67** (rule-14 trim-into-strength = trim 25-50% at that print).
+2. **XLV hwm-ratchet watch (mechanical)**: newer lot $163.9975 = 1.69% away; older lot $165.605 = 2.69% away. Post-UNH-beat momentum + defensive-rotation bid + VIX 18+ regime = ratchet trigger likely intraday if XLV holds green.
+3. **XLI GE-Aerospace-Tue-linked watch**: hwm $186.445 = 3.01% away from ratchet. STLD Mon = Materials/Industrials read; GE Aerospace Tue = XLI heavy holding beat = potential Tue ratchet trigger.
+4. **XLP size-up candidate (secondary)**: Staples 5.19% of book = under-sized; defensive-rotation regime confirmed; hwm $85.815 (auto-ratcheted Thu Jul 16 -> Alpaca reflects $87.43 as of Fri EOD). **Optional**: add 30-40 sh XLP @ ~$85-86 = ~$2.6-3.4K = size to ~8-9% position. Lower priority vs Energy add.
+5. **PRIMARY REDEPLOY CANDIDATE = Energy single-name** (still 0% book exposure; strongest sector YTD +21-26%; Middle East + oil $90 Brent tailwind fresh). Cash $10,672 = **10-11% deployment room**. Options:
+   - **EOG** (best-in-class US shale, capital-return leader) = **PRIMARY**
+   - **TPL** (Permian royalty, no operating leverage, best margin story)
+   - **XOM** (integrated leader, defensive Energy)
+   - **OXY** (Berkshire-backed, Permian) 
+   - **XLE ETF fallback** if singles gap-up too much at open (~$92-95, ~110 sh = $10K)
+   - **Preference**: EOG single-name ~$10-11K position (per rule 6: hunt individual leaders); TPL secondary
+6. **XLB cap-trim NOT action-eligible today**: 25.19% = 19 bps over cap = passive drift (Fri 25.32% narrowed to 25.19%). Threshold rule-3 trim only fires if >25.5% by close.
+7. **XLK re-entry: NO** (strike-2 exit Jul 17; single-name AVGO now the Tech expression); adherence to rule-12 "exit sector after 2 consecutive failed trades" = Tech ETF sector paused; single-name Semi/AI leader OK.
+
+### Risk Factors
+- **US-Iran escalation** = oil tailwind for Energy redeploy BUT also **risk-off multiplier** for equities broadly; six-day US-strike sequence = ceasefire-broken regime; **weekend risk carry into Monday open**.
+- **Chip-rout day 3 continuation risk**: Moonshot Kimi K3 open-source AI model = fresh negative catalyst; SK Hynix HBM slowdown; AVGO Erste downgrade. AVGO is 15.22% of book = new single-name = **can break the recent Jul 17 gain quickly if chip-rout resumes**. Manual cut $333.72 (= entry $358.84 x 0.93) = 10.94% buffer below current $374.67 = ample; trail $339.615 = 9.36% buffer.
+- **Fed hawkish repricing risk**: Warsh comments "prices too high" = rate-cut path re-questioned; bond-yield lift = growth/tech P/E compression risk = AVGO valuation-sensitive.
+- **VIX 18-19 zone**: elevated but below 19.5 volatility trigger + 20 major call wall; sub-16 low-vol regime broken since Thu Jul 16.
+- **XLB cap drift**: 25.19% = 19 bps over cap, essentially flat, not action-eligible. Watch >25.5% Mon close.
+- **Deployment cushion**: 89.16% = 4.16pp above 85% floor + 84 bps below 90% target = healthy sleeve for 1 more entry; if AVGO breaks and forces cut, deployment compresses to ~74% = mandatory redeploy scenario (same as Jul 17 XLK).
+- **Phase P&L**: Fri close $98,000.18 (-$1,999.82 / -2.00% from $100K start); Mon premkt $98,454.09 = -$1,545.91 (-1.55%) = **partial recovery from Fri phase low**, 3rd-highest phase level in 8 sessions.
+- **No -7% manual cuts**: worst XLB -1.54%, 5.5pp from threshold.
+- **Weekly slots**: 0/6 fresh for Mon-Fri Jul 20-24 = full week of latitude for post-catalyst adds.
+
+### Decision
+**HOLD 5-position book pre-open. Watch AVGO hwm-ratchet trigger ($377.35 = 0.71% away) + XLV newer-lot hwm ratchet ($163.9975 = 1.69% away) as mechanical intraday monitors. Consider 1 Energy single-name (EOG primary, TPL/XOM/OXY secondary, XLE ETF fallback) redeploy of $10K cash sleeve into strongest-YTD sector if premkt/open behavior confirms + no chip-rout day-3 continuation shock.**
+
+Reasoning: (a) deployment 89.16% = healthy 4.16pp cushion above 85% floor + 84 bps below 90% target = comfortable holding room but with slack for 1 more entry; (b) 4-of-5 book aligned to YTD-leading sectors + AVGO Tech single-name outperforming = strongest sector-momentum alignment; (c) AVGO +4.41% since Jul 17 entry (0.71% from ratchet) = redeploy thesis working; (d) light macro calendar (only 10:00 ET Leading Indicators) + no book-relevant AM earnings = quiet Mon = discretionary latitude; (e) US-Iran + oil surge = Energy sector alpha vector still un-captured (0% book weight); (f) weekly slots 0/6 fresh = 1 Energy add = 1/6 = 5 remaining; (g) VIX 18 pre-19.5-trigger = elevated but constructive; (h) chip-rout day 3 = **RISK to AVGO position** but does not force action absent 5%+ intraday break; (i) Fed hawkish repricing = broad growth-valuation risk = discipline on Energy sizing (~10-11% position, not 15-20%); (j) XLB cap 19 bps over cap = passive drift, dormant.
+
+### Plan for the day
+- **08:30 ET**: light macro window (no US CPI/PPI/jobs data today).
+- **09:30 ET open**: HOLD 5 positions. Verify all 8 GTC trails armed. Watch **AVGO vs $377.35** hwm ratchet trigger; **XLV newer lot vs $163.9975** hwm ratchet trigger. Observe overall tape tone -- risk-on continuation (SPY green, VIX <18) = **Energy add candidate GO**; risk-off (SPY red, VIX >20, chip-rout day 3 confirmed) = HOLD cash sleeve.
+- **10:00 ET June Leading Indicators**: macro secondary.
+- **10:00-11:00 ET (post-open assessment)**: If tape constructive + Energy sector (XLE) up >0.5%, execute Energy single-name redeploy: (i) EOG check bid/ask, target ~$10-11K position (~$85-90/sh estimate = 110-120 sh) with 10% GTC trail placed immediately after fill; (ii) if EOG gap-up >2%, fallback to TPL or XOM; (iii) if all singles gap-up >2%, use XLE ETF market order 110 sh @ ~$92-95 = ~$10K. Rule 6 preference: single-name > ETF.
+- **Midday scan (12:00 ET)**: verify Energy fill (if executed); verify trail-stop placement on new position; XLK/AVGO chip-rout status; AVGO/XLV hwm-ratchet observation; XLB cap status; sector-mix compliance check.
+- **Afternoon**: watch AVGO $377.35+ = mechanical ratchet + potential +15% trigger at $412.67 = rule-14 trim-into-strength; watch STLD Mon earnings ripple through XLB/XLI names; monitor VIX vs 19.5 volatility trigger. No second-add unless clean catalyst-driven setup.
+- **15:30-16:00 ET pre-close**: EOD position-check; trail/sector-cap snapshot; deployment status; Energy add reflection; weekend-carry assessment.
+- **EOD**: TRADE-LOG snapshot Day 55 (Mon). Document Energy add (ticker, entry, initial P&L, trail stop set) if executed; AVGO ratchet activity; XLV/XLI ratchet activity; XLB cap status; deployment post-fill; weekly-slot usage 1/6 or 0/6.
+- **Tue Jul 21**: Pre-market read on **GE Aerospace + UPS + GM** print flow (XLI heavy) + SCHW/SYF (Financials read) + Energy continuation vs mean-reversion + AVGO chip-rout day-3 residuals.

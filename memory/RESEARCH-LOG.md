@@ -3681,3 +3681,86 @@ Reasoning: (a) deployment 98.75% = at-target with mechanical 1.25% cash sleeve =
 - **16:00-17:00 ET post-close**: monitor TSLA + GOOGL prints + guidance + Q&A tone; log initial AH AVGO reaction to inform Thu pre-market plan.
 - **EOD**: TRADE-LOG snapshot Day 56 (Wed). Document OXY/AVGO ratchets executed; XLV/XLI/XLP ratchet activity; XLB cap status; TSLA/GOOGL AH read implications for Thu.
 - **Thu Jul 23**: Pre-market read on **TSLA + GOOGL AH digestion** (mega-cap AI-narrative outcome); AVGO gap-open behavior; **INTC AH Thu** = Semi-2 catalyst; potential rule-14 trim trigger execution on AVGO if $412.67+ gap-up; potential add candidate if TSLA/GOOGL positive print + risk-on tape.
+
+## 2026-07-23 -- Pre-market Research (Thu, Day 57, Week 13, POST-TSLA/GOOGL DIGESTION + AVGO +15% TRIM WATCH)
+
+### Account
+- Equity: **$99,729.12** (Wed premkt anchor $98,536.70 = **+$1,192.42 / +1.21%** = TSLA/GOOGL AH digestion net POSITIVE for the book)
+- **Phase P&L -$270.88 (-0.27%)** from $100K start = **best phase level since early Jul** -- near breakeven, recovered from Jul 15 -$2,165 phase low
+- Cash: **$1,233.77** = **1.24% cash / 98.76% deployed** (above 90% target by 8.76pp; no add-room absent trim)
+- Buying power: $1,233.77 (multiplier 1 per account snapshot)
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$98,495.35**
+- **Positions (6 unchanged)**:
+  - **AVGO 40** @ $358.84 -> **$398.20** (+$1,574.40 / **+10.97%**; change_today +0.35% = GOOGL capex-raise AI read-through holding) -- **+15% rule-14 trim trigger $412.67 = 3.63% away**
+  - **OXY 170** @ $55.52 -> **$58.40** (+$489.87 / **+5.19%**; change_today +1.57% = oil bid working) -- current > hwm $57.82 = **ratchet imminent**
+  - **XLB 491** @ $51.298554 -> **$51.17** (-$61.45 / -0.24%; change_today +0.70% = Materials firming, nearly breakeven)
+  - **XLI 130** @ $173.962385 -> **$178.85** (+$635.39 / +2.81%; change_today flat)
+  - **XLP 60** @ $84.54 -> **$84.50** (-$2.40 / -0.05%; change_today +0.14%)
+  - **XLV 120** @ $156.202167 -> **$159.96** (+$450.94 / +2.41%; change_today +0.33%)
+- Open trail stops (**9 GTC, all armed, all 6 positions covered**):
+  - AVGO: **$358.7265** qty 40 (**hwm ratcheted $389.88 -> $398.585 Wed** per order update; trail $350.892 -> $358.7265) -- 9.91% buffer
+  - OXY: **$52.038** qty 170 (**hwm ratcheted $56.50 -> $57.82 Wed**; trail $50.85 -> $52.038) -- 10.90% buffer; current $58.40 > hwm = **next ratchet imminent (~$52.56)**
+  - XLB lots: $46.971 qty 128 + $47.979 qty 165 + $47.979 qty 198; buffers 8.21% / 6.24% / 6.24%
+  - XLI: $167.8005 qty 130 (hwm $186.445) = 6.18% buffer
+  - XLP: $78.687 qty 60 (hwm $87.43) = 6.88% buffer
+  - XLV: $149.0445 qty 80 (hwm $165.605) + $147.59775 qty 40 (hwm $163.9975); buffers 6.82% / 7.73%
+- Weekly count: **1/6** (OXY Mon Jul 21; no adds Tue-Wed; 5 slots remain Thu-Fri)
+- **Sector/position mix** (of $99,729.12 equity):
+  - XLB **25.19%** (19 bps over 25% cap = passive drift, narrowing vs Wed 25.23%; under 25.5% trim threshold = not action-eligible)
+  - XLI 23.31%
+  - XLV 19.25%
+  - AVGO **15.97%** (Tech single-name; under cap)
+  - OXY **9.96%** (Energy single-name; under cap)
+  - XLP 5.08%
+  - Cash 1.24%
+
+### Market Context
+- **Oil surging: WTI ~$86.5-89.7 / Brent ~$93.4-98.3** ("oil tops $96" per Saxo AM wrap; Brent +2.5-4.5% across feeds). Drivers: **Red Sea tanker attacks + 11 nights of US-Iran strikes + Tomahawk-replenishment headlines**. Inflation-fear side effect: commentary now floats a **Fed HIKE staying in play**. **OXY thesis accelerating.**
+- **ES ~7,510 (-0.40%)**; **NQ ~29,046 (-0.46%)** = TSLA-led premarket drag. Europe higher (FTSE +1.2% on miners/energy); Asia rallied (Korean chipmakers on GOOGL capex read).
+- **VIX 17.44 (+4.81% vs 16.64 close)** = re-compression stalled; sub-16 low-vol regime not restored.
+- **TSLA Q2 (AH Wed): MISS** -- rev $28.24B beat ($25.5B est) but EPS $0.33 vs $0.49, margin pressure + heavy capex + weak FCF; **-3.9% AH, ~-6.1% premkt ($351)** = NDX drag today.
+- **GOOGL Q2 (AH Wed): AI-capex RAISE** -- lifted 2026 capex plan = **AI-infrastructure trade reset POSITIVE**; Korean chipmakers (SK Hynix et al.) rallied on the read = **direct AVGO tailwind** (AVGO closed Wed +2.67% $396.81, fresh hwm $398.585 tagged).
+- **Macro today**: **ECB decision 8:15 ET**; **initial jobless claims 8:30 ET** (~210K cons); Chicago Fed activity index. **No US CPI/PPI** (next: Aug 12/13). **FOMC next week Jul 28-29** = looming binary.
+- **Earnings today**: BMO -- **TMO, TMUS, CMCSA, BX, UNP, HON, RTX, LMT** (defense + Tomahawk replenishment catalyst), **DOW, NEM, CLF, AAL** (NEM/CLF = Materials/XLB read; UNP = rails/XLI read). AH -- **INTC (make-or-break Semi-2 catalyst for AVGO Fri open)**, KLA.
+- **Sector momentum YTD**: **Energy leader accelerating (+16-38% by source)**; Materials / Staples / Industrials positive; **Financials worst (-6 to -9%)**; Tech negative YTD but **recovering on AI-capex reset**. Book remains 6-of-6 in leading/neutral-positive sectors.
+
+### Held-ticker News
+- **AVGO** $398.20 (+10.97%). GOOGL capex raise + Korean-chip rally = Semi thesis reinforced; BNP Exane PT $640 stands. Wed hwm ratchet $389.88 -> $398.585 executed (trail $358.7265). **Rule-14 trim trigger $412.67 = 3.63% away** -- closest a position has been this phase. **Preload: trim 10-20 sh (25-50%) same session if $412.67 prints; rule-9 trail tighten to 7% at same trigger.** Risk: one feed shows AVGO -2% premkt on tech pullback; INTC AH tonight = Semi gap risk Fri.
+- **OXY** $58.40 (+5.19%, change_today +1.57%). Brent $93-98 + Red Sea attacks = thesis accelerating. Wed ratchet $56.50 -> $57.82 executed (trail $52.038); current > hwm = **next ratchet imminent (~$52.56)**. Manual cut $51.63 now 11.6% below price.
+- **XLB** $51.17 (-0.24%, change_today +0.70%). NEM + CLF report today = Materials read; FCX Wed read was constructive (copper). Cap 25.19% = passive, narrowing.
+- **XLI** $178.85 (+2.81%, flat today). UNP + HON + RTX/LMT BMO = dense Industrials/defense catalyst day; defense bid (Tomahawk replenishment) = XLI tailwind. Hwm $186.445 = 4.25% away.
+- **XLP** $84.50 (-0.05%). Quiet; hwm $87.43 = 3.47% away.
+- **XLV** $159.96 (+2.41%). TMO BMO = Healthcare read. Hwms $163.9975 / $165.605 = 2.52% / 3.53% away = closest ETF ratchet candidates.
+
+### Trade Ideas
+1. **PRIMARY: HOLD 6-position book.** Deployment 98.76% = no add-room absent trim. No new entry pre-open.
+2. **AVGO rule-14 trim preload (HIGHEST PRIORITY)**: trigger **$412.67** (+15% on $358.84 entry) = 3.63% away -- reachable on a +3.6% AI-capex-momentum day. Execute same session: **trim 10-20 sh (25-50%)**, proceeds ($4.1-8.3K) earmarked for next single-name leader (Energy size-up or Industrials/defense leader per today's LMT/RTX prints). Pair with **rule-9 trail tighten 10% -> 7%**.
+3. **OXY hwm ratchet watch**: $58.40 > $57.82 = trail auto-ratchet ~$52.56 imminent on next print. No action needed (Alpaca handles); verify at midday.
+4. **XLV hwm ratchet watch**: newer lot 2.52% away, older 3.53% -- TMO print could tag it.
+5. **XLI watch**: UNP/HON/RTX/LMT prints; hwm 4.25% away. If defense bid materializes and a trim frees cash, LMT/RTX-style defense leader = candidate for the freed slot (5 weekly slots open).
+6. **No TSLA knife-catch, no INTC pre-positioning** (binary AH print).
+
+### Risk Factors
+- **TSLA -6% premkt** = NDX/megacap drag; could cap AVGO's move and delay the $412.67 trigger.
+- **INTC AH tonight** = Semi-2 binary for AVGO Fri open (Jul 17 XLK gap-down precedent). AVGO 15.97% of book.
+- **Oil-driven inflation fear**: "Fed hike in play" chatter + **FOMC Jul 28-29** = macro overhang building into next week.
+- **VIX +4.8% to 17.44** = vol re-expansion risk on a red tape.
+- **Deployment 98.76% / cash $1,234**: any stop-fire (AVGO trail $358.7265 = -$14.3K MV) drops deployment to ~83% = below 85% floor = mandatory same-session redeploy scenario.
+- **XLB 25.19%** = passive cap drift, dormant; watch >25.5%.
+- No -7% manual-cut candidates (worst XLB -0.24% = 6.8pp from threshold).
+
+### Decision
+**HOLD 6-position book. No new entries (98.76% deployed, cash 1.24%). One armed preload: AVGO rule-14 trim (10-20 sh) + rule-9 trail tighten to 7% the same session $412.67 prints -- 3.63% away, live watch all day. Mechanical: OXY ratchet imminent; XLV/XLI/XLP ratchet watches. Post-close: INTC AH = Semi read setting Fri AVGO gap risk.**
+
+Reasoning: (a) book +$1,192 overnight on TSLA/GOOGL split verdict -- GOOGL capex raise directly validates AVGO thesis, TSLA miss is a tape drag not a holdings hit; (b) deployment at ceiling = only trim-funded action possible; (c) AVGO 3.63% from the first rule-14 trigger of the phase = the day's one discretionary decision, pre-written per rule 14 ("pre-write the exact share count": **trim 15 sh ~ $6.2K at $412.67** = mid-range 37%); (d) OXY thesis accelerating with oil, stops ratcheting behind it; (e) 5 weekly slots + trim proceeds = dry powder for a defense/Energy leader add without violating caps; (f) INTC binary AH = no pre-positioning.
+
+### Plan for the day
+- **8:15 ET**: ECB decision (secondary). **8:30 ET**: jobless claims (~210K cons) = tone check.
+- **9:30 ET open**: verify 9 GTC trails armed. Watch AVGO open vs TSLA drag (two feeds conflict: +0.5% vs -2% premkt). Watch OXY ratchet execute.
+- **10:00-11:00 ET**: BMO reactions -- LMT/RTX (defense bid?), UNP/HON (XLI), NEM/CLF (XLB), TMO (XLV), BX (Financials read).
+- **Midday scan**: AVGO vs $412.67 checkpoint; OXY ratchet verification; XLV/XLI/XLP hwm status; XLB cap status.
+- **Afternoon**: if AVGO tags $412.67 -> **sell 15 sh + replace 40-sh 10% trail with 25-sh 7% trail same session**; log trim in TRADE-LOG; earmark proceeds.
+- **15:00-16:00 ET**: EOD snapshot prep; brace for **INTC AH (~16:05 ET)** = AVGO Fri gap risk read.
+- **EOD**: TRADE-LOG Day 57 snapshot; document ratchets + any trim; INTC read -> Fri pre-market plan.
+- **Fri Jul 24**: INTC digestion; AVGO gap behavior; possible redeploy of trim proceeds; weekly wrap setup (1/6 slots used).

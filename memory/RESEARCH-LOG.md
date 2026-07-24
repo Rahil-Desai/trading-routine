@@ -3764,3 +3764,69 @@ Reasoning: (a) book +$1,192 overnight on TSLA/GOOGL split verdict -- GOOGL capex
 - **15:00-16:00 ET**: EOD snapshot prep; brace for **INTC AH (~16:05 ET)** = AVGO Fri gap risk read.
 - **EOD**: TRADE-LOG Day 57 snapshot; document ratchets + any trim; INTC read -> Fri pre-market plan.
 - **Fri Jul 24**: INTC digestion; AVGO gap behavior; possible redeploy of trim proceeds; weekly wrap setup (1/6 slots used).
+
+## 2026-07-24 -- Pre-market Research (Fri, Day 58, Week 13, POST-INTC BEAT + WEEKLY WRAP DAY)
+
+### Account
+- Equity: **$99,335.18** (vs last_equity $99,434.56 = **-$99.38 / -0.10%** overnight drift)
+- **Phase P&L -$664.82 (-0.66%)** from $100K start (Thu's -$516 best-since-early-Jul print gave back ~$149)
+- Cash: **$1,233.77** = **1.24% cash / 98.76% deployed** (max posture; no add-room absent trim)
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$98,101.41**
+- **Positions (6 unchanged)**:
+  - **AVGO 40** @ $358.84 -> **$390.43** (+$1,263.42 / **+8.80%**; change_today -0.52% = mild give-back pre-INTC-gap) -- **rule-14 trim trigger $412.67 = 5.70% above current**
+  - **OXY 170** @ $55.52 -> **$57.20** (+$285.67 / +3.03%; change_today -0.69% = oil pullback feeds) -- trail ratcheted $52.038 -> **$53.091** Thu as predicted (hwm $58.99)
+  - **XLB 491** @ $51.298554 -> **$50.29** (-$495.20 / -1.97%; flat)
+  - **XLI 130** @ $173.962385 -> **$182.00** (+$1,044.89 / **+4.62%**; +0.03% = best ETF on book)
+  - **XLP 60** @ $84.54 -> **$83.50** (-$62.40 / -1.23%; +0.35%)
+  - **XLV 120** @ $156.202167 -> **$161.65** (+$653.74 / +3.49%; +0.13%)
+- Open trail stops (**9 GTC, all armed, all 6 positions covered**):
+  - AVGO $358.7265 qty 40 (hwm $398.585) = 8.12% below current, **breakeven-protected** (entry $358.84)
+  - OXY $53.091 qty 170 (hwm $58.99, **Thu 13:30 UTC ratchet confirmed**) = 7.18% below current
+  - XLB $46.971 q128 / $47.979 q165 / $47.979 q198 = buffers 6.60% / 4.60% / 4.60%
+  - XLI $167.8005 q130 (hwm $186.445) = 7.80%; XLP $78.687 q60 (hwm $87.43) = 5.76%
+  - XLV $149.0445 q80 / $147.59775 q40 (hwms $165.605 / $163.9975) = 7.80% / 8.69%
+- Weekly count: **1/6** (OXY Mon Jul 21; no adds Tue-Thu; today = last day of week 13 window)
+- **Sector mix** (of $99,335.18): XLB **24.86%** (back under 25% cap), XLI 23.82%, XLV 19.53%, AVGO 15.72%, OXY 9.79%, XLP 5.04%, cash 1.24%. No cap violations.
+
+### Market Context
+- **INTC Q2 (AH Thu): BIG BEAT** -- rev $16.1B +25% YoY (fastest growth since 2011), non-GAAP EPS $0.42 vs $0.21 est, above-consensus guide; stock ~$100 -> **~$110 AH (+6-10%)**. **Semi-2 binary resolved POSITIVE = AVGO tailwind Fri**, though AVGO itself -0.52% premkt (profit-taking after +10% week).
+- **Oil: FEEDS CONFLICT HARD** -- fresh Jul 22-24 prints show WTI ~$71-74 / Brent ~$75-78 (oilprice.com WTI 71.10 **-2.9%**; investing.com 72.27/76.46), vs Wed's logged $86-98 spike levels. One feed: WTI +4.7% to $73.7 on renewed Iran headlines. Read: crude has pulled back hard off the Hormuz-spike highs and remains headline-whipsawed. **OXY -0.69% premkt consistent with softer crude.**
+- **ES ~7,571 (+0.56%)** premkt; **NQ feeds mixed** (-0.6% per one feed; Asia/US "tech selloff continues, AI capex under scrutiny" commentary). Tape = S&P firm, tech soft.
+- **VIX ~17.4-19.3** (feeds conflict) = elevated vs sub-16 low-vol regime either way.
+- **Macro today**: New Home Sales 10:00 ET (minor). **No CPI/PPI until Aug 12/13. FOMC Tue-Wed Jul 28-29 = next week's binary.**
+- **Earnings today**: BMO -- **AXP, VZ, HCA, SLB (Energy-services read for OXY), CNI, THC, CHTR, GNTX**. Light AH (Friday). Next week: FOMC + megacap wave.
+- **Sector momentum YTD**: Energy **+16-27% leader**, Materials +12-17%, Staples +11-16%, Industrials +12-14%; worst = Financials, Discretionary, Tech. **Book 6-of-6 in leading/neutral sectors.**
+
+### Held-ticker News
+- **AVGO** $390.43 (+8.80%). INTC blowout = second AI-capex confirmation this week (GOOGL Wed + INTC Thu). Premkt -0.52% = digestion, not thesis break. Trim trigger $412.67 = 5.70% away (was 3.63% Thu -- drifted further). Trail $358.7265 = position risk-free vs entry.
+- **OXY** $57.20 (+3.03%). Evercore Outperform / $65 PT stands. Oil pullback off spike highs = give-back risk; trail $53.091 (7.2% below) + manual cut $51.63 guard it. Q2 print Aug 5.
+- **XLB** $50.29 (-1.97%, worst on book). No catalyst today; rotate-watch into next week if still dead money.
+- **XLI** $182.00 (+4.62%). Thu's UNP/HON/defense bid held; hwm $186.445 = 2.44% away = closest ratchet candidate.
+- **XLP** $83.50 (-1.23%). Quiet; second dead-money watch.
+- **XLV** $161.65 (+3.49%). HCA/THC BMO = Healthcare reads; hwm $163.9975 = 1.45% away = closest fresh-ratchet on book.
+
+### Trade Ideas
+1. **PRIMARY: HOLD 6-position book.** 98.76% deployed, $1,234 cash = no entry possible without trim/stop. Friday + FOMC next week = no forced action.
+2. **AVGO rule-14 preload stays armed**: $412.67 trigger (trim **15 sh**, ~$6.2K, + rule-9 trail tighten 10% -> 7% same session). 5.70% away = needs an INTC-gap sympathy surge; less imminent than Thu but live.
+3. **Stop-fire contingency**: any trail fire (nearest: XLB lots 4.6% away on a -5% Materials day) drops deployment below 85% floor = mandatory same-session redeploy. Ranked candidates: Energy single-name on SLB print strength (sector leader YTD), defense leader (LMT/RTX digested Thu), or INTC-sympathy semi. Pre-ranked so Monday market-open can execute without fresh research.
+
+### Risk Factors
+- **Oil whipsaw**: $86-98 Wed -> $71-78 Fri feeds = either a violent pullback or stale-feed noise; OXY most exposed (trail 7.2% below = survives a normal give-back, not a crash).
+- **AI-unwind chatter + NQ softness**: AVGO -0.52% premkt despite INTC beat; a tech-wide de-risk Friday caps the trim-trigger path.
+- **FOMC Jul 28-29** + oil-driven "hike in play" chatter = macro overhang; positioning into weekend on max deployment.
+- **VIX 17-19** = vol regime still elevated.
+- **Deployment ceiling**: cash $1,234; any stop-fire = sub-85% floor breach scenario (redeploy plan pre-ranked above).
+- No -7% manual-cut candidates (worst XLB -1.97% = 5pp from threshold).
+
+### Decision
+**HOLD. No new entries (98.76% deployed, 1/6 weekly slots used, Friday pre-FOMC). AVGO $412.67 trim preload stays armed all session. Mechanical watches: XLV hwm $163.9975+ (1.45%), XLI hwm $186.445+ (2.44%), OXY oil give-back vs $53.091 trail. Weekly review due this afternoon.**
+
+Reasoning: (a) INTC beat validates the AVGO redeploy thesis a second time -- let winners run behind ratcheted stops; (b) oil feed conflict = no basis to touch OXY either direction, stops are the risk control; (c) fully deployed + FOMC binary next week = patience > activity; (d) XLB/XLP flagged as rotate-watch for next week's research, not a Friday action.
+
+### Plan for the day
+- **9:30 ET open**: verify 9 GTC trails; AVGO open vs INTC-gap sympathy; OXY vs crude tape.
+- **10:00 ET**: New Home Sales (minor); SLB reaction = Energy read.
+- **Midday scan**: AVGO vs $412.67; XLV/XLI hwm ratchet checks; XLB/XLP dead-money assessment.
+- **Afternoon**: weekly review (Week 13 wrap: 1 entry OXY, 0 exits, phase -0.7%); pre-write Monday redeploy ranks.
+- **EOD**: TRADE-LOG Day 59 snapshot; confirm any ratchets; FOMC-week posture note.

@@ -727,3 +727,70 @@ Note: Fri Jul 17 stats intraday; ending equity = Alpaca portfolio_value $98,011.
 ### Overall Grade: C
 
 -0.77% vs S&P ~+0.5% = ~-1.27% relative miss on a positive market week -- the SEVENTH positive-S&P-week miss in 11 weeks. XLK trail-stop executed textbook after 24 sessions under water (5th clean trail exit of the campaign; manual cut never triggered despite 2.22% buffer on Mon), same-session AVGO redeploy broke the 17-session single-name-leader drought (+3.32% / +$477 day-1), no cash-drift after stop-out (deployment held at 89.1%), no rule breaks on the 4 surviving ETFs (10th straight no-break week for the core book). Held back from C+ by: rule 12 status ambiguous with AVGO (Tech sector arguably closed after DELL + XLK; strategy-doc rewrite required before any further Tech add), CADENCE COLLAPSE with 2 more missing EOD snapshots this week + 5 total in 10 sessions (worst stretch of the campaign, fix from last week not implemented), trim-into-strength rule STILL never triggered (XLI +7.13% -> +3.05% give-back, XLV +7.24% -> +3.03% give-back both fit the pattern Rule 14 was designed to catch but neither hit +15% trigger), XLB dead-money now 37 sessions with -1.64% carry (rule 11 rotation candidate un-actioned). Grade C not C- because the defense held clean (no manual cuts, all trails respected, sector-exit rule fired even under pressure) but the offense-plus-cadence-plus-rulebook-clarity gaps compound. Rule 12 rewrite is the highest-priority strategy-doc action for Mon Jul 20.
+
+## Week ending 2026-07-24
+
+Note: Fri Jul 24 stats intraday (Alpaca portfolio_value $99,605.78 at review time; earlier pre-close EOD snapshot read $99,721.12; last_equity Thu Jul 23 close $99,434.56). S&P Fri close not final at review time -- week number is Thu-basis -0.66% plus a partial Fri rebound, est ~-0.3%.
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $98,000.18 (Fri Jul 17 close = Mon Jul 20 open basis) |
+| Ending portfolio | $99,605.78 (Fri Jul 24 intraday) |
+| Week return | +$1,605.60 (+1.64%) |
+| S&P 500 week | ~-0.3% (est; Jul 17 close 7,457.69 -> Thu Jul 23 7,408.30 = -0.66%, Fri rebounding intraday) |
+| Bot vs S&P | ~+1.9pp (FIRST clear positive-alpha week since week 3) |
+| Trades | 1 (W:0 / L:0 / open:6) -- OXY entry Jul 21 |
+| Win rate | N/A (no closed trades) |
+| Best trade | AVGO +6.45% / +$925 (unrealized; peaked +11.1% at hwm $398.585 Wed) |
+| Worst trade | XLB -0.47% / -$117 (unrealized) |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| -- | -- | -- | -- | None this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| AVGO | $358.84 | $381.97 | +$925.20 (+6.45%) | $358.7265 (10% trail, hwm $398.585) -- BREAKEVEN-PROTECTED |
+| OXY | $55.52 | $57.30 | +$302.67 (+3.21%) | $53.091 (10% trail, hwm $58.99) -- NEW Jul 21 |
+| XLB | $51.298554 (avg, 491 sh) | $51.06 | -$117.08 (-0.47%) | $46.971 / $47.979 / $47.979 (10% trail, hwms $52.19 / $53.31 / $53.31) |
+| XLI | $173.962385 (avg, 130 sh) | $182.55 | +$1,116.39 (+4.94%) | $167.8005 (10% trail, hwm $186.445) |
+| XLP | $84.54 | $84.25 | -$17.40 (-0.34%) | $78.687 (10% trail, hwm $87.43) |
+| XLV | $156.202167 (avg, 120 sh) | $162.46 | +$750.94 (+4.01%) | $149.0445 / $147.59775 (10% trail, hwms $165.605 / $163.9975) |
+
+### What Worked
+- **First positive-alpha week in 9: +1.64% vs S&P ~-0.3% (~+1.9pp) on a tech-selloff week** (Thu S&P -1.21% on TSLA miss/megacap bleed). The differentiator was exactly what 11 weeks of reviews said it would be: the single-name sleeve. AVGO +6.45% and OXY +3.21% carried the book while the ETF sleeves held flat-to-up.
+- **OXY redeploy executed per pre-written Mon plan:** Energy single-name identified Sun/Mon, EOG untradable at open (glitched spread), clean fallback to OXY 170 sh @ $55.52 within the same window. Thesis (Middle East + Brent $90+) paid immediately; trail ratcheted twice ($50.112 -> $52.038 -> $53.091) behind a +5.19% peak. Rule 12 respected as-then-understood (fresh name, not XOM re-entry).
+- **AVGO became breakeven-protected in 3 sessions:** hwm ratchets $377.35 -> $389.88 -> $398.585 walked the trail to $358.7265 (3 cents under the $358.84 entry). Position peaked +10.97% with the rule-14 trim pre-written (15 sh @ $412.67) and rule-9 tighten preloaded -- the offense machinery was armed and specific, it just never printed the trigger.
+- **Deployment finally fixed and held: 89.1% -> 98.76% max posture all week,** zero idle-cash violations, 6 positions / 6 sectors = broadest and tightest-aligned book of the campaign (6-of-6 in leading/neutral sectors). Phase P&L clawed from -$2,000 (Jul 17) to -$394 at review time (~$1,600 recovered).
+- **Held discipline through 3 binaries** (TSLA/GOOGL Wed AH, INTC Thu AH, FOMC looming) with no panic trades, no knife-catches, no pre-positioning. GOOGL capex raise + INTC blowout both validated the AVGO thesis; the book let winners run behind ratcheted stops.
+
+### What Didn't Work
+- **The rule 12 rewrite promised for "Mon Jul 20 pre-market" did NOT happen Monday** -- it is being applied only now, at Friday review (see rule changes below). The AVGO status ambiguity flagged last week sat unresolved through 5 sessions of holding the position. Deferring rulebook fixes is the same paralysis pattern the trade slots had, applied to the strategy doc.
+- **Cadence STILL broken: Jul 20, Jul 21 and Jul 22 EOD snapshots all missing** (Jul 21 has a market-open entry only). That is 8+ missing EODs in 15 sessions despite two consecutive weekly-review "mandatory fix" commitments. The 15:45 ET pre-close snapshot fix from last week was not implemented.
+- **1/6 weekly slots used.** Deployment ceiling (98.76%, $1,234 cash) made this partly structural -- no add-room without a trim -- but the flip side is the week produced no trim either: AVGO's $412.67 rule-14 trigger never printed (peaked $398.585 = +11.1%) and gave back to +6.45% by Fri. The +8-11% zone give-back pattern (MTUM, XLI, XLV precedents) repeated on AVGO, just above the rule's firing line.
+- **XLB dead money extended to ~39 sessions** (-0.47%, was -1.97% Thu before Fri's +1.91% bounce), XLP flat 12 sessions (-0.34%). Two rule-11 rotate candidates carried all week with no decision executed; both recovered to ~flat Fri, which weakens but does not retire the rotate case.
+
+### Key Lessons
+- **The single-name sleeve is confirmed as THE alpha engine.** 11 weeks of ETF-heavy book = 7 positive-S&P-week misses. The first week holding TWO single-name leaders (AVGO Tech + OXY Energy) = +1.9pp alpha on a down-tape week. Rule 6 was right all along; the book just didn't obey it until Jul 17/21. Never let the single-name sleeve go empty again.
+- **Rule-14's +15% bright line leaves the +8-12% give-back zone unguarded.** AVGO +10.97% Wed -> +6.45% Fri (~$650 given back) is the fourth instance of the pattern (MTUM +8.66%, XLI +7.13%, XLV +7.24% precedents). The trail ratchet floors the loss but doesn't harvest the peak. Candidate sub-trigger (defer one more week for evidence): position >+10% unrealized that closes red on the day = trim 25% next session. Test retroactively before codifying.
+- **Trail ratchets converted a $14.4K single-name risk position into a risk-free hold in 3 sessions.** Breakeven protection changes position math: AVGO can now be held through FOMC week binaries at zero downside to cost basis. This is the structural payoff of buying strength early enough that the ratchet outruns the entry.
+- **Max deployment has a real cost: zero flex.** At 98.76% with $1,234 cash, every new idea requires a trim/stop first, and any stop-fire = instant sub-85%-floor breach + mandatory same-session redeploy. The pre-ranked redeploy list (Energy/defense/semi candidates) written into Fri's research is the right mitigation -- keep it fresh every week the book runs at ceiling.
+- **Rulebook ambiguity is operational risk, not paperwork.** The AVGO entry was made under an unresolved rule-12 reading and could have required an unwind. Rules that fire on live positions must be unambiguous BEFORE the position exists; the rewrite below removes the vehicle/consecutive/reset ambiguity permanently.
+
+### Adjustments for Next Week
+- **FOMC Tue-Wed Jul 28-29 = the week's binary.** No new entries Mon-Wed pre-decision (deployment ceiling enforces this anyway). All 9 GTC trails armed; AVGO breakeven-locked; nearest stop 5.97% away. Let the decision print before any discretionary action.
+- **AVGO rule-14 preload stays armed:** $412.67 = trim 15 sh + rule-9 tighten 10% -> 7% same session. If AVGO instead closes a session below +5% unrealized (~$376.78), flag the give-back sub-trigger case study for next review.
+- **XLB/XLP rotate decision tree Mon Jul 27:** XLB back over $51.63 (add-lot cost) = hold full; XLB < $50 = trim 128-sh add-lot, proceeds to next single-name leader post-FOMC. XLP < $83 = rotate-eligible; XLP > $85.30 = hold. Pre-written, no future-tense.
+- **Post-FOMC redeploy ranks (if a stop fires or a trim frees cash):** Energy single-name on SLB-print strength, defense leader (LMT/RTX digested), INTC-sympathy semi -- carried forward from Fri pre-market research, re-validate Thu.
+- **Cadence, fourth attempt, minimal version:** the EOD snapshot is a 2-minute raw-data commit. If the full annotated snapshot can't happen, commit the bare positions table + equity line. A short snapshot beats a missing one; reconstruction from Alpaca orders cost time in 3 of the last 4 reviews.
+- **Slot math resets Mon (0/6).** With the book at ceiling, realistic slot usage = trim-funded. That is fine -- rule 5's bias-to-action is satisfied by trims that fund upgrades, not by forced adds at max deployment.
+
+### Strategy Rule Changes Applied This Week
+- **Rule 12 REWRITTEN (was: "exit a sector after 2 consecutive failed trades" -- ambiguity exposed live by the Jul 17 AVGO entry and flagged in last week's review; rewrite was due Mon Jul 20, executed at this review).** New text defines: failed trade = any ETF or single-name position in a GICS sector closed at a loss; 2 failed trades in the same sector within a rolling 90 days with no intervening winner = sector PAUSED 20 trading sessions from the second stop-out; no new entries (either vehicle) while paused; already-open positions grandfathered (hold on existing stops, no adds); re-entry after expiry requires fresh catalyst + sector momentum leadership. **Retroactive application: Energy (XOM May 27 + XLE Jun 15) pause expired ~Jul 14 -> the OXY Jul 21 entry was LEGAL. Tech (DELL Jun 3 + XLK Jul 17) is PAUSED through ~Aug 14; AVGO (Jul 17 same-session redeploy, pre-rewrite) is GRANDFATHERED: hold on its trail, NO adds, no other Tech entries until the pause expires.**
+
+### Overall Grade: B+
+
++1.64% vs S&P ~-0.3% = ~+1.9pp relative -- the first clear positive-alpha week since week 3 (+3.04%), and the first ever driven by design rather than concentration luck: the two single-name leaders (AVGO +6.45%, OXY +3.21%) did exactly what rule 6 said they would while the tape sold off tech. OXY executed per pre-written plan with a clean fallback when EOG glitched; AVGO reached breakeven-protection in 3 sessions via trail ratchets; deployment held at max posture all week with zero violations; three binaries (TSLA/GOOGL, INTC, pre-FOMC) navigated without a panic trade; phase P&L recovered ~$1,600 to -0.39%. Held back from A-/A by: the rule 12 rewrite missing its Mon deadline and landing only at this review (rulebook deferral = the old paralysis in new clothes), cadence still broken (3 more missing EOD snapshots, 4th consecutive week flagged), the AVGO +10.97% -> +6.45% give-back repeating the unguarded +8-12% zone pattern with no harvest, and XLB/XLP dead-money decisions carried un-executed all week. Defense is now elite (breakeven-locked leader, 9 trails armed, 6-sector spread); offense finally produced alpha. Keep the single-name sleeve filled and the grade ceiling comes off.

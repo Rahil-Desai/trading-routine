@@ -22,7 +22,12 @@ Beating the index means OUT-returning it -- holding index-proxy ETFs or megacaps
 9. Tighten trail: 7% at +15%, 5% at +20%.
 10. Never within 3% of current price; never move a stop down.
 11. Rotate fast: exit dead money (flat laggards, stalled/broken theses) to free capital for stronger setups. Don't let slots rot.
-12. Follow sector AND single-name momentum. Exit a sector after 2 consecutive failed trades.
+12. Follow sector AND single-name momentum. SECTOR STRIKE RULE (rewritten 2026-07-24; prior "exit a sector after 2 consecutive failed trades" left vehicle-counting, "consecutive," and reset undefined -- ambiguity exposed live by the Jul 17 AVGO entry 11 min after the XLK strike-2 stop-out):
+    - Failed trade = ANY position in a GICS sector (ETF or single-name -- both count) closed at a loss.
+    - 2 failed trades in the same sector within a rolling 90 days with no intervening winning exit in that sector = sector PAUSED for 20 trading sessions from the second stop-out. No new entries in a paused sector, either vehicle.
+    - Positions already open when the pause fires are grandfathered: hold on existing stops, NO adds.
+    - After the pause expires, re-entry requires a fresh catalyst AND the sector back in momentum leadership (log the justification).
+    - Status as of 2026-07-24: Energy pause (XOM May 27 + XLE Jun 15) expired ~Jul 14 -> OXY Jul 21 entry legal. Tech PAUSED through ~Aug 14 (DELL Jun 3 + XLK Jul 17); AVGO grandfathered -- hold on trail, no adds, no other Tech entries until expiry.
 13. Max 30% of book per GICS sector (added 2026-05-29 after 5 consecutive weeks of energy-concentration paralysis). Sector ETFs count fully toward their sector; megacap proxies (e.g. XOM under Energy, NVDA under Tech) count toward the underlying sector even when held as singles. Breach = trim on next strength to reach compliance; no add that would lift a sector above 30%.
 14. TRIM-INTO-STRENGTH (added 2026-07-03 after 8 consecutive weeks of the same paragraph in the weekly review and MTUM +8.66% Tue -> +0.30% Thu round-trip on week 9). Two independent triggers, either fires the trim:
     - Any single position at +15% unrealized (regardless of book %): trim 25-50% same session as the +15% print. Pairs with rule 9's +15% trail tighten -- the tighten locks the floor, the trim locks the cash.

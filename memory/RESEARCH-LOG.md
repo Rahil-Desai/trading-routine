@@ -4033,3 +4033,10 @@ Reasoning: (a) FOMC + 4 megacap prints inside 30 hours = pure event risk, no inf
 - **Midday scan**: stop distances; XLV/XLP/XLI hwm ratchet verification; pre-FOMC posture note. NO trades into 14:00 ET.
 - **14:00/14:30 ET**: statement + Powell -- observe only; log reaction, no knee-jerk trades.
 - **EOD**: TRADE-LOG Day 62 snapshot; AVGO AH gap-risk note (MSFT/META/QCOM/ARM); pre-write Thu plan (AAPL/AMZN AH next).
+
+### Midday Addendum (13:06 ET, pre-FOMC)
+- **Scan result: NO ACTION.** No -7% cuts (worst intraday XLI -2.67%, all unrealized green). No +15%/+20% tighten triggers (best XLV +7.0%). No rule-14 trim triggers (XLB 24.1% of book, no position at +15%).
+- **Positions @ 13:06 ET:** AVGO $375.64 (+4.68% unreal, -1.39% day); OXY $56.12 (+1.08%, **+4.06% day** on crude re-escalation -- Tue's stop-fire watch fully reversed, trail buffer now 5.4%); XLB $51.59 (+0.46%, -1.44%); XLI $177.61 (+2.10%, **-2.67% day**); XLP $87.64 (+3.67%, +0.67%); XLV $167.15 (+7.01%, flat).
+- **XLI drop checked via Perplexity:** broad industrial-sector softness (weak industrial-production data + pre-Fed de-risk), no single-name shock, SWK not identified as catalyst. Thesis (Industrials #2 YTD momentum) intact; trail $167.8005 = 5.5% below. HOLD.
+- **Equity $99,598.38** (-0.76% day vs last_equity $100,361.19) -- pre-Fed give-back of Tue's gain. Deployment 97.4%. 9 GTC trails armed, all 986 shares covered.
+- **Posture into 14:00 ET:** per plan, no trades, no stop adjustments. Let trails carry the binary. EOD to log Fed reaction + AVGO AH gap risk (MSFT/META/QCOM/ARM tonight).

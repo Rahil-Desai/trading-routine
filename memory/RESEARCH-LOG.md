@@ -3966,3 +3966,70 @@ Reasoning: (a) day-1 FOMC tape = noise; no informational edge until the statemen
 - **Midday scan**: stop-distance recheck on OXY/AVGO; XLP/XLI hwm ratchet watch; XLB cap status.
 - **Afternoon**: FOMC-eve posture note; if any trail fires -> log exit + strike accounting + execute ranked redeploy only with conviction.
 - **EOD**: TRADE-LOG Day 61 snapshot; pre-write Wed FOMC-day plan (no trades into 14:00 ET statement).
+
+## 2026-07-29 -- Pre-market Research (Wed, Day 62, Week 14, FOMC DAY)
+
+### Account
+- Equity: **$100,532.99** (vs last_equity $100,361.19 = **+$171.80 / +0.17%**)
+- **Phase P&L +$532.99 (+0.53%)** -- second consecutive green phase print; **first $100K+ equity read of the phase**
+- Cash: **$2,547.75** = **2.53% cash / 97.47% deployed** (above 90% target band; no idle-cash violation)
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$97,985.24**
+- **Positions (6 unchanged)**:
+  - **AVGO 40** @ $358.84 -> **$380.87** (+$881.20 / **+6.14%**; flat overnight) -- trail $358.7265 = 5.81% below (out of watch zone); rule-14 trim trigger $412.67 = 8.3% above
+  - **OXY 170** @ $55.52 -> **$55.25** (-$45.83 / -0.49%; **+2.45% premarket** on oil surge) -- trail $53.091 = **3.91% below** (buffer widened from Tue's 1.61% = stop-fire pressure OFF for now)
+  - **XLB 466** @ $51.348114 -> **$52.34** (+$462.22 / +1.93%; flat) -- **24.26% of book = under 25% cap post-trim, drift resolved**
+  - **XLI 130** @ $173.962385 -> **$181.71** (+$1,007.19 / +4.45%; -0.43%) -- hwm $186.445 = 2.61% away
+  - **XLP 60** @ $84.54 -> **$87.20** (+$159.60 / +3.15%; +0.16%) -- hwm $88.78 = 1.81% away
+  - **XLV 120** @ $156.202167 -> **$167.61** (+$1,368.94 / **+7.30%** = book leader; +0.21%) -- **hwm $168.525 = 0.55% away = closest ratchet on book**
+- Open trail stops (**9 GTC, all armed, all 986 shares covered**):
+  - AVGO $358.7265 q40 (hwm $398.585) = 5.81% below
+  - OXY $53.091 q170 (hwm $58.99) = 3.91% below (manual -7% cut $51.63 = 6.6% below)
+  - XLB $47.3085 q103 / $47.979 q165 / $47.979 q198 = 9.61% / 8.33% / 8.33% below
+  - XLI $167.8005 q130 = 7.65%; XLP $79.902 q60 (hwm $88.78) = 8.37%
+  - XLV $151.6725 q80 / $151.6725 q40 (hwms $168.525 both) = 9.51% below
+- Weekly count: **0/6** new-position slots (Tue XLB trim = trim only)
+- **Sector mix** (of $100,532.99): XLB **24.26%**, XLI 23.50%, XLV 20.01%, AVGO 15.15%, OXY 9.34%, XLP 5.20%, cash 2.53%. No cap breaches -- cleanest sector sheet in weeks.
+
+### Market Context
+- **Oil WHIPSAW BACK UP: WTI ~$71.8-76 / Brent ~$75.5-80** -- headlines that the **US-Iran ceasefire is OVER**; WTI reported +4-6% overnight. OXY +2.4-3.4% premarket in sympathy. Feeds conflict widely on level; direction = sharply higher.
+- **ES ~7,571-7,580, flat to +0.5%** -- Tue cash closed higher (BA/KO offset chip weakness); tape coiled ahead of the Fed.
+- **VIX ~19-21** (one read 20.95 +12%; feeds conflict 16.9-21) = elevated, decision premium fully priced.
+- **FOMC DECISION TODAY 14:00 ET + Powell 14:30 ET.** Consensus = hold at 3.50-3.75% (~62% per FedWatch); a tail (~26% per one prediction market) prices a HIKE -- statement + presser = binary for high-beta.
+- **Other data**: Core PCE MoM + Employment Cost Index (per one calendar), Chicago PMI, EIA crude inventories 10:30 ET (extra torque on oil tape), 10:00 ET BLS metro employment.
+- **Earnings today**: BMO -- BSX/TEVA/HUM (XLV reads), PPG/MAS (XLB reads), SWK (XLI read), BG, SOFI. **AMC -- MSFT + META (AI-capex verdict), QCOM + ARM (semi reads for AVGO)**. AAPL/AMZN Thu AH.
+- **Sector momentum YTD**: Energy #1 (+20.7%), Industrials +19.3%, Tech +16.7%, Real Estate +13.8%, Materials +13.7%. Laggards: Discretionary -0.1%, Comm +2.7%, Financials +3.2%. **Book 6-of-6 in leading/neutral sectors.**
+
+### Held-ticker News
+- **AVGO** $380.87 (+6.14% unreal). Apple custom-silicon deal through 2031 + $200B Samsung AI partnership = thesis intact; stock consolidating $374-391. **Tonight's MSFT/META capex + QCOM/ARM prints = the gap risk event** (15.15% of book). Trail $358.7265 = breakeven-locked.
+- **OXY** $55.25 (+2.45% premarket). **Ceasefire-over headlines reignite crude** -- position back to ~flat (-0.49%), trail buffer widened to 3.91%. Evercore Outperform $65 target stands. Q2 print Aug 5. Whipsaw risk BOTH directions (Jul 27 de-escalation precedent cut crude -3% in a session).
+- **XLB** $52.34 (+1.93%). PPG/MAS BMO prints = today's Materials reads; cap clean at 24.26%.
+- **XLI** $181.71 (+4.45%). SWK BMO; hwm $186.445 = 2.61% away.
+- **XLP** $87.20 (+3.15%). Quiet; hwm $88.78 = 1.81% away.
+- **XLV** $167.61 (+7.30% = book leader). BSX/TEVA/HUM BMO = dense Healthcare catalyst morning; **hwm $168.525 = 0.55% away -> ratchet expected on any green open**.
+
+### Trade Ideas
+1. **PRIMARY: HOLD through the 14:00 ET decision.** 97.47% deployed, 0/6 slots, all 9 trails armed. Zero edge pre-positioning an FOMC binary + MSFT/META AH. Entry/stop/target work is pre-positioned via existing stops.
+2. **OXY (hold, catalyst = Iran re-escalation)**: oil +4-6% flips OXY from likeliest stop-fire to recovering leader. Entry = held @ $55.52; stop = trail $53.091; target $63.85 (+15%) intact. If crude reverses again post-EIA 10:30 ET, let the trail do its job -- a fire = Energy strike-2 = 20-session pause (redeploy ranks: Industrials single-name > Materials single-name; NO Energy re-entry).
+3. **AVGO gap-risk plan (tonight's MSFT/META/QCOM/ARM)**: gap UP toward $412.67 = rule-14 trim 25-50% same session (pre-write ~10-20 sh); gap DOWN through $358.7265 = trail fires a scratch exit, Tech pause blocks semi redeploy -> proceeds to ranked list. Both outcomes rule-compliant, no pre-emptive action today.
+4. **Mechanical watches**: XLV hwm $168.525 (0.55% = nearest trigger); XLP $88.78 (1.81%); XLI $186.445 (2.61%); XLV +7.30% = closest to the +15% tighten ladder (7.7pp away).
+
+### Risk Factors
+- **FOMC statement + presser 14:00/14:30 ET** at 97.47% deployment -- a surprise hike or hawkish hold hits high-beta hardest; ~26% hike tail per prediction markets is NOT nothing.
+- **MSFT/META AH + QCOM/ARM AH** = AVGO gap risk both directions overnight (15.15% of book; Jul 17 XLK precedent).
+- **Oil whipsaw**: ceasefire headlines have flipped crude -3% to +6% within 48h twice this month -- OXY is pure beta to it; EIA 10:30 ET adds intraday torque.
+- **VIX 19-21** elevated; Tue's tape showed chip-sector fragility (NXPI/semis sold).
+- No cap breaches; no -7% cut candidates (worst OXY -0.49%); no stops inside the 3% zone.
+
+### Decision
+**HOLD. No new entries, no stop adjustments (FOMC day, 97.47% deployed, 0/6 slots). Let the 9 trails carry the book through the 14:00 ET binary. XLV ratchet expected on a green open. AVGO trim preload armed at $412.67 if a post-Fed melt-up prints it. Patience > activity -- the week's alpha decides tonight and Thu AH.**
+
+Reasoning: (a) FOMC + 4 megacap prints inside 30 hours = pure event risk, no informational edge before 14:00 ET; (b) book enters the binary at its healthiest state of the phase -- phase green, 5 of 6 positions green-unrealized, zero cap breaches, nearest stop 3.91% out; (c) OXY's crude tailwind self-resolved yesterday's stop-fire watch -- no action needed either way, the trail covers a reversal; (d) tomorrow's tape (post-Fed + MSFT/META digested) is the higher-quality decision point for any rotation.
+
+### Plan for the day
+- **9:30 ET open**: verify 9 GTC trails; XLV $168.525 ratchet watch; OXY open vs crude tape.
+- **10:00 ET**: BLS metro employment; BSX/TEVA/HUM + PPG/MAS + SWK reactions (XLV/XLB/XLI reads).
+- **10:30 ET**: EIA crude inventories -- OXY torque check.
+- **Midday scan**: stop distances; XLV/XLP/XLI hwm ratchet verification; pre-FOMC posture note. NO trades into 14:00 ET.
+- **14:00/14:30 ET**: statement + Powell -- observe only; log reaction, no knee-jerk trades.
+- **EOD**: TRADE-LOG Day 62 snapshot; AVGO AH gap-risk note (MSFT/META/QCOM/ARM); pre-write Thu plan (AAPL/AMZN AH next).

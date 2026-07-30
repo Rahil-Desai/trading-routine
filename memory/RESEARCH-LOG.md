@@ -4033,3 +4033,62 @@ Reasoning: (a) FOMC + 4 megacap prints inside 30 hours = pure event risk, no inf
 - **Midday scan**: stop distances; XLV/XLP/XLI hwm ratchet verification; pre-FOMC posture note. NO trades into 14:00 ET.
 - **14:00/14:30 ET**: statement + Powell -- observe only; log reaction, no knee-jerk trades.
 - **EOD**: TRADE-LOG Day 62 snapshot; AVGO AH gap-risk note (MSFT/META/QCOM/ARM); pre-write Thu plan (AAPL/AMZN AH next).
+
+## 2026-07-30 -- Pre-market Research (Thu, Day 63, Week 14, GDP/PCE 8:30 + AAPL/AMZN AH)
+
+### Account
+- Equity: **$99,174.65** (vs Alpaca last_equity $100,361.19 = -$1,186.54 / -1.18%) -- **data note:** last_equity inconsistent with lastday marks; reconstructed Wed close from lastday_price fields = **$99,152.69** -> book is ~flat overnight (+$22), the -1.18% hit landed **Wednesday post-Fed afternoon** (XLI -3.2%, AVGO -2.3%, XLV -0.65% Wed)
+- **Phase P&L -$825.35 (-0.83%)** -- gave back Tue/Wed's green phase prints in the post-Fed fade
+- Cash: **$2,547.75** = **2.57% cash / 97.43% deployed** (above 90% target; no idle-cash violation)
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$96,626.90**
+- **Positions (6 unchanged)**:
+  - **AVGO 40** @ $358.84 -> **$375.37** (+$661.20 / **+4.61%**; **+1.36% premarket** -- holding up despite QCOM/ARM AH dumps; MSFT capex read = AI-silicon tailwind) -- trail $358.7265 = **4.43% below** (re-entering watch zone after Wed's -2.3%); rule-14 trim trigger $412.67 = 9.9% above
+  - **OXY 170** @ $55.52 -> **$55.90** (+$64.67 / +0.69%; -0.23% pre on oil re-dump) -- trail $53.091 = **5.02% below**; crude whipsaw cycle continues (WTI -2.9% overnight)
+  - **XLB 466** @ $51.348114 -> **$51.75** (+$187.28 / +0.78%; flat) -- **24.32% of book, under cap**
+  - **XLI 130** @ $173.962385 -> **$176.66** (+$350.69 / +1.55%; flat pre) -- **Wed -3.2% = worst day on book** (Industrials post-Fed give-back); trail $167.8005 = **5.01% below**; hwm $186.445 now 5.5% away
+  - **XLP 60** @ $84.54 -> **$86.93** (+$143.40 / +2.83%; -0.49% pre) -- hwm $88.78 = 2.13% away
+  - **XLV 120** @ $156.202167 -> **$165.10** (+$1,067.74 / **+5.70%** = book leader; -0.69% pre) -- hwm $168.525 = 2.07% away (Tue's ratchet holds, no fresh tag Wed)
+- Open trail stops (**9 GTC, all armed, all 986 shares covered**): AVGO $358.7265 q40; OXY $53.091 q170; XLB $47.3085 q103 / $47.979 q165 / $47.979 q198; XLI $167.8005 q130; XLP $79.902 q60; XLV $151.6725 q80 / $151.6725 q40
+- Weekly count: **0/6** new-position slots (Tue XLB trim = trim only)
+- **Sector mix** (of $99,174.65): XLB **24.32%**, XLI 23.16%, XLV 19.98%, AVGO 15.14%, OXY 9.58%, XLP 5.26%, cash 2.57%. No cap breaches.
+
+### Market Context
+- **FED HELD** (Warsh FOMC, Wed 14:00 ET) -- the ~26-35% hike tail did NOT land; relief outcome, but the cash tape faded into Wed's close anyway (post-Fed digestion; book -1.18% Wed).
+- **Oil DUMPED AGAIN: WTI ~$71.1 (-2.9%) / Brent ~$74.8 (-3.0%)** -- ceasefire whipsaw cycle flips risk-premium back OFF (3rd reversal in 2 weeks). OXY beta headwind today.
+- **ES ~7,465-7,478**, roughly flat pre-market; Wed cash close soft.
+- **VIX**: no verified fresh read (Perplexity returned none; last known ~19-21 into FOMC -- assume still elevated with AAPL/AMZN tonight).
+- **Megacap AH scoreboard (Wed): MSFT UP** (+2-8% AH, cloud/AI accel, capex strong) / **META DOWN ~5-7%** (EPS miss $6.18 vs $7.19, capex raised to $130-145B, soft guide) / **QCOM DOWN 4-10%** (soft outlook) / **ARM DOWN ~9%** (beat but sold). AI trade = selective, not broken -- spend intact (good for AVGO), monetization questioned.
+- **Today 8:30 ET: Q2 advance GDP** (cons ~2.1-2.3% vs 1.1% prior) + **June PCE** (core cons +0.1-0.3% MoM) + **jobless claims** (cons ~195-201k vs 187k). First inflation read POST-Fed-hold = repricing risk if hot. EIA nat gas 10:30 ET.
+- **Earnings: AAPL AH tonight** (cons $1.88 / ~$108.9B; Tim Cook's final call as CEO -- AVGO customer + sentiment read) + **AMZN AH**. Sector YTD ranking: no fresh verified table (prior read: Energy/Industrials/Tech led).
+
+### Held-ticker News
+- **AVGO** $375.37 pre (+1.36%). Semi tape mixed post-AH: QCOM/ARM sold hard but MSFT capex acceleration = custom-AI-silicon demand signal -- AVGO diverging UP from handset/IP-licensing names. AAPL print tonight = direct customer read (custom silicon deal through 2031). Trail 4.43% below = closest stop on book.
+- **OXY** $55.90 (-0.23% pre). Crude -3% on de-escalation headlines again; Evercore Outperform $65 stands; Q2 print Aug 5 (realized $96.78/bbl disclosed, but $156M hedge-collar drag flagged). Trail buffer 5.02% = pressure off vs Tue's 1.61%, but the whipsaw owns this position.
+- **XLB** $51.75. Quiet; cap clean.
+- **XLI** $176.66. Wed's -3.2% = sharpest Industrials day of the month; watch for follow-through -- 2 more red days puts XLI on rotate-watch (unrealized +1.55% = thin cushion).
+- **XLP** $86.93 (-0.49% pre). Defensive fade post-Fed.
+- **XLV** $165.10 (-0.69% pre). Giving back Tue's surge; still book leader +5.70%.
+
+### Trade Ideas
+1. **PRIMARY: HOLD through 8:30 ET data + AAPL/AMZN AH.** 97.43% deployed, 0/6 slots, 9 trails armed, no room for entries without a trim. Second straight binary-event day = no informational edge pre-positioning. Entry/stop/target work already pre-positioned via stops.
+2. **AVGO (hold, catalyst = AAPL tonight)**: entry held @ $358.84; stop = trail $358.7265 (breakeven-locked); target = rule-14 trim at $412.67. AAPL beat + iPhone build strength = custom-silicon read-through UP; AAPL miss = gap-down risk with trail only 4.43% below -- a fire = scratch exit, Tech pause (thru ~Aug 14) blocks semi redeploy, proceeds go to ranked list (Industrials single-name > Materials single-name).
+3. **OXY (hold, no adds)**: oil whipsaw cycle 3rd leg down; trail $53.091 does the work. A stop-fire = **Energy strike 2 = 20-session sector pause** -- accept it, do not pre-empt, do not add. Target $63.85 intact if crude re-firms.
+4. **XLI rotate-watch (new)**: Wed -3.2% cracked the +5% cushion to +1.55%. If Industrials print two more red closes, XLI = first rotation candidate to fund a single-name leader next week (6/6 slots then).
+
+### Risk Factors
+- **8:30 ET triple release** (GDP + core PCE + claims) = first post-hold inflation print; a hot core PCE reprices the "relief hold" and hits the 97% deployed book directly.
+- **AAPL + AMZN AH** = overnight gap risk; AVGO (15.14% of book) most exposed via AAPL custom-silicon read; trail is closest on book at 4.43%.
+- **Oil whipsaw** -- 3 direction-flips in 2 weeks; OXY pure beta; EIA nat gas 10:30 adds noise.
+- **Post-Fed fade already underway** (Wed afternoon selloff took the book -1.18%); META's capex-raise selloff shows AI-spend tolerance thinning.
+- No -7% cut candidates (worst = none red); no stop inside the 3% zone (nearest AVGO 4.43%); no cap breaches. Data gaps this session: VIX + sector-YTD table unverified (Perplexity returned no fresh figures; no exit-3, so no WebSearch fallback triggered).
+
+### Decision
+**HOLD. No new entries, no stop adjustments. Let the 9 trails carry the book through 8:30 ET data and AAPL/AMZN AH. AVGO is the session's watch position (closest trail + AAPL binary tonight). XLI goes on formal rotate-watch. Patience > activity -- Thursday's AH prints decide the week.**
+
+### Plan for the day
+- **8:30 ET**: GDP + core PCE + claims -- observe reaction, no knee-jerk trades.
+- **9:30 ET open**: verify 9 GTC trails; AVGO follow-through vs QCOM/ARM drag; OXY vs crude tape.
+- **10:30 ET**: EIA nat gas -- OXY noise check.
+- **Midday scan**: stop distances (AVGO 4.43% = priority); XLV/XLP hwm ratchet checks (2.07% / 2.13% away); XLI red-day count.
+- **EOD**: TRADE-LOG Day 63 snapshot; log AAPL/AMZN AH prints + AVGO gap-risk note; pre-write Fri weekly-review inputs.

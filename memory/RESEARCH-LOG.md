@@ -4033,3 +4033,17 @@ Reasoning: (a) FOMC + 4 megacap prints inside 30 hours = pure event risk, no inf
 - **Midday scan**: stop distances; XLV/XLP/XLI hwm ratchet verification; pre-FOMC posture note. NO trades into 14:00 ET.
 - **14:00/14:30 ET**: statement + Powell -- observe only; log reaction, no knee-jerk trades.
 - **EOD**: TRADE-LOG Day 62 snapshot; AVGO AH gap-risk note (MSFT/META/QCOM/ARM); pre-write Thu plan (AAPL/AMZN AH next).
+
+## 2026-07-30 -- Midday Scan Addendum (Thu, Day 63, Week 14, POST-FOMC + MSFT/META DIGESTED)
+
+**Note:** No Jul 30 pre-market entry (session gap); this is the midday addendum only.
+
+### Position check (midday)
+- No -7% cuts: worst OXY -0.39%. No +15%/+20% tightens: best AVGO +7.35%. All 9 GTC trails intact (986 shares covered).
+- **AVGO +4.02% today** to $385.21 (+7.35% unreal) -- AI/semi bid post MSFT/META capex prints; hwm $398.585 = 3.5% away, +15% tighten trigger $412.67 = 7.1% above.
+- **XLP -2.35%** to $85.31 (+0.91% unreal) and **XLV -1.79%** to $163.27 (+4.52% unreal) -- Perplexity check: broad **rotation OUT of defensives** into tech/semis on risk-on tape; XLV also dragged by insurer/provider disappointments (ELV cost-trend guide-down, HCA payer-mix cut, ISRG/GSK misses). No staples-specific shock. **Theses NOT broken** -- both still green unrealized, stops 6.3-7.5% below; hold, rotate-watch only.
+- OXY -1.29% to $55.31 (-0.39% unreal); trail $53.091 = 4.0% below -- oil whipsaw continues, trail covers it.
+- XLB -0.37% ($51.55, +0.39%); XLI +0.41% ($177.38, +1.97%); both quiet.
+
+### Decision
+**NO ACTION.** No cuts, no tightens (none eligible), no thesis breaks. Defensive fade = rotation, not deterioration -- XLV/XLP stay on rotate-watch if weakness persists into next week. Let trails work; EOD snapshot to capture Day 63.

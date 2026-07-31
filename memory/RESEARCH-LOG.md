@@ -4033,3 +4033,69 @@ Reasoning: (a) FOMC + 4 megacap prints inside 30 hours = pure event risk, no inf
 - **Midday scan**: stop distances; XLV/XLP/XLI hwm ratchet verification; pre-FOMC posture note. NO trades into 14:00 ET.
 - **14:00/14:30 ET**: statement + Powell -- observe only; log reaction, no knee-jerk trades.
 - **EOD**: TRADE-LOG Day 62 snapshot; AVGO AH gap-risk note (MSFT/META/QCOM/ARM); pre-write Thu plan (AAPL/AMZN AH next).
+
+## 2026-07-31 -- Pre-market Research (Fri, Day 64, Week 14, POST-AAPL/AMZN + MONTH-END + WEEKLY WRAP DAY)
+
+### Account
+- Equity: **$99,910.89** (vs last_equity $99,578.39 = **+$332.50 / +0.33%**)
+- **Phase P&L -$89.11 (-0.09%)** -- essentially flat, knocking on the $100K door again
+- Cash: **$2,547.75** = **2.55% cash / 97.45% deployed** (above 90% target band; no idle-cash violation)
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$97,363.14**
+- **Positions (6 unchanged)**:
+  - **AVGO 40** @ $358.84 -> **$392.98** (+$1,365.60 / **+9.51%** = book %-leader; +1.33% overnight on AMZN beat + ARM AI-shipment pop) -- **hwm $398.585 = 1.43% away = closest ratchet on book**; rule-14 trim trigger $412.67 = 5.0% above; trail $358.7265 = 8.7% below (breakeven-locked)
+  - **OXY 170** @ $55.52 -> **$55.90** (+$64.67 / +0.69%; -0.09%) -- trail $53.091 = 5.02% below (out of watch zone); **XOM/CVX BMO today = sector read**; crude easing off the re-escalation spike
+  - **XLB 466** @ $51.348114 -> **$51.64** (+$136.02 / +0.57%; flat) -- 24.09% of book = clean under cap; **LIN/LYB BMO**
+  - **XLI 130** @ $173.962385 -> **$179.99** (+$783.59 / +3.47%; +0.90%) -- hwm $186.445 = 3.59% away; **ETN/FLR BMO**
+  - **XLP 60** @ $84.54 -> **$85.30** (+$45.60 / +0.90%; -0.20%) -- hwm $88.78 = 4.08% away; **CL BMO**
+  - **XLV 120** @ $156.202167 -> **$163.00** (+$815.74 / +4.35%; -0.32%) -- hwms $168.525 = 3.39% away; **ABBV BMO**
+- Open trail stops (**9 GTC, all armed, all 986 shares covered**):
+  - AVGO $358.7265 q40 (hwm $398.585); OXY $53.091 q170 (hwm $58.99)
+  - XLB $47.3085 q103 / $47.979 q165 / $47.979 q198 (hwms $52.565 / $53.31 / $53.31)
+  - XLI $167.8005 q130 (hwm $186.445); XLP $79.902 q60 (hwm $88.78)
+  - XLV $151.6725 q80 / $151.6725 q40 (hwms $168.525 both)
+- Weekly count: **0/6** new-position slots used (Tue XLB trim = trim only); slots reset Mon
+- **Sector mix** (of $99,910.89): XLB 24.09%, XLI 23.42%, XLV 19.58%, AVGO 15.73%, OXY 9.51%, XLP 5.12%, cash 2.55%. **All caps clean.**
+
+### Market Context
+- **Oil EASING off the spike: WTI ~$71-72 / Brent ~$75-76** (down ~2-3% from the re-escalation pop; feeds conflict on exact level, direction = lower). OXY holding ~$55.90 anyway. XOM/CVX BMO = the Energy tape-setter today.
+- **ES +0.3-0.6% premarket (~7,490-7,570 across feeds); Nasdaq futures leading** -- AMZN beat driving a tech rebound, AAPL DOWN after a print that missed lofty expectations. ARM +25% on AI core shipments = semi complex bid (AVGO tailwind).
+- **VIX ~18** (17.98 Jul 30 midday, -13% = post-FOMC vol crush from ~20.7). Decision premium bleeding out.
+- **FOMC behind us** (held Jul 29). Today's macro: **ECI Q2 8:30 ET** (Fed's preferred wage gauge -- hot print = rate repricing), **Chicago PMI 9:45**, **UMich final + inflation expectations 10:00**.
+- **Earnings BMO -- dense book-relevant morning**: XOM/CVX (OXY reads), ABBV (XLV), LIN/LYB (XLB), ETN/FLR (XLI), CL (XLP). Effectively 5 of 6 positions get a same-sector print before the open.
+- **Month-end today**: rebalancing flows = chop risk into the close.
+- **Sector momentum YTD** (thru 7/16): Energy +24.2% #1, Tech +16.2%, Industrials +14.0%, Real Estate +13.4%, Staples +10.1%, Materials +9.1%. Laggards: Discretionary +0.7%, Financials +3.4%, Healthcare +4.0%. Book stays in leading/neutral sectors.
+
+### Held-ticker News
+- **AVGO** $392.98 (+9.51% unreal). Semi tape strongly supportive overnight (ARM AI shipments +25%, AMZN capex read-through); Apple-silicon-through-2031 + Samsung AI partnership theses intact. **hwm $398.585 = 1.43% away -> ratchet likely on a green open**; $412.67 trim trigger now just 5.0% above = pre-write the 10-20 sh rule-14 trim.
+- **OXY** $55.90 (+0.69% unreal, back green). Crude easing -2-3% off the ceasefire-over spike = headwind resumed; XOM/CVX BMO set the sector tone. Q2 print Aug 5. Trail buffer 5.02% = adequate.
+- **XLB** $51.64 (+0.57%). LIN/LYB BMO; cap clean 24.09%.
+- **XLI** $179.99 (+3.47%). ETN/FLR BMO; recovering toward $186.445 hwm.
+- **XLP** $85.30 (+0.90%). CL BMO; quiet.
+- **XLV** $163.00 (+4.35%). ABBV BMO = big Pharma read; hwms 3.39% away.
+
+### Trade Ideas
+1. **PRIMARY: HOLD.** 97.45% deployed, all 9 trails armed, week ends today with 0/6 slots used -- no forced action, no room without a trim. Weekly review this afternoon is the decision forum, not the premarket.
+2. **AVGO rule-14 trim preload (catalyst = semi bid post-ARM/AMZN)**: at $392.98 the +15% trigger $412.67 is 5.0% away -- a strong semi Friday can print it. If tagged: trim 25-50% (10-20 sh) SAME SESSION + trail tightens 10% -> 7%. Proceeds rank to next single-name leader Mon (not ETF). No pre-emptive action below the trigger.
+3. **OXY (hold, no add)**: crude easing + XOM/CVX prints = two-way risk; entry held @ $55.52, stop = trail $53.091, target $63.85 intact. A trail fire = Energy strike-2 = 20-session pause; redeploy ranks Industrials/Materials single-name.
+4. **Mechanical watches**: AVGO hwm $398.585 (1.43% = nearest trigger on book); XLV $168.525 (3.39%); XLI $186.445 (3.59%); XLP $88.78 (4.08%).
+
+### Risk Factors
+- **ECI 8:30 ET** -- hot wage print repriced rates two quarters running; 97.45% deployed into it.
+- **AAPL drag vs AMZN lift** = megacap tug-of-war at the index level; AVGO rides the semi side (15.73% of book).
+- **Oil easing** -- OXY gives back its tailwind; XOM/CVX guidance could accelerate either way.
+- **Month-end rebalance flows** = chop into the close; don't read the last hour as signal.
+- VIX ~18 post-Fed crush = complacency re-entry risk after a binary-heavy week.
+- No cap breaches; no -7% cut candidates (all 6 green unrealized, worst XLB +0.57%); no stop inside the 3% zone (nearest OXY/AVGO ~5%+).
+
+### Decision
+**HOLD. No new entries, no stop adjustments. Let the BMO prints (XOM/CVX/ABBV/LIN/ETN/CL) and ECI set the tape; the only pre-authorized action is the AVGO rule-14 trim if $412.67 prints intraday. Weekly review this afternoon. Patience > activity.**
+
+Reasoning: (a) fully deployed at 97.45% with all caps clean -- nothing to fix; (b) the week's binaries (FOMC + 4 megacaps) are resolved and the book came through green-across-the-board -- realized alpha is in the trails, not in new Friday risk; (c) AVGO is the one live trigger (hwm 1.43% away, trim 5.0% away) and it's fully pre-written; (d) month-end + weekly-review Friday = the right day to observe, log, and plan Monday's rotation with fresh slots.
+
+### Plan for the day
+- **9:30 ET open**: verify 9 GTC trails; AVGO hwm $398.585 ratchet watch; BMO earnings reactions (XOM/CVX/ABBV/LIN/ETN/CL) vs held positions.
+- **9:45/10:00 ET**: Chicago PMI + UMich final -- rate-repricing check after ECI.
+- **Midday scan**: stop distances; AVGO distance to $412.67 trim trigger; OXY vs crude tape.
+- **Afternoon**: WEEKLY-REVIEW.md entry (Week 14 wrap: FOMC held, megacap earnings digested, phase ~flat, 1 trim, 0 new entries); pre-write Monday rotation plan (slots reset 0/6, watch Financials/Discretionary laggard-reversal vs staying in momentum leaders).
+- **EOD**: TRADE-LOG Day 64 snapshot; month-end phase bookmark; confirm no trail fired into the rebalance chop.

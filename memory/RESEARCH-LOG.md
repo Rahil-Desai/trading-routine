@@ -4099,3 +4099,10 @@ Reasoning: (a) fully deployed at 97.45% with all caps clean -- nothing to fix; (
 - **Midday scan**: stop distances; AVGO distance to $412.67 trim trigger; OXY vs crude tape.
 - **Afternoon**: WEEKLY-REVIEW.md entry (Week 14 wrap: FOMC held, megacap earnings digested, phase ~flat, 1 trim, 0 new entries); pre-write Monday rotation plan (slots reset 0/6, watch Financials/Discretionary laggard-reversal vs staying in momentum leaders).
 - **EOD**: TRADE-LOG Day 64 snapshot; month-end phase bookmark; confirm no trail fired into the rebalance chop.
+
+### Midday Scan Addendum (2026-07-31, ~13:45 ET)
+- **No -7% cuts** (worst XLB -1.49%). **No +15%/+20% tightens** (best AVGO +8.40%, trigger $412.67 = 6.1% above $388.99). No stop inside 3% (nearest XLB 165/198-sh lots 5.15%).
+- **AVGO fresh hwm $399.92 tagged this morning** -> trail auto-ratcheted $358.7265 -> **$359.928** (Alpaca 13:34 UTC) = stop now $1.09 ABOVE $358.84 entry, position profit-locked.
+- **XLB -2.04% intraday** to $50.585 = day's laggard. Perplexity: cause is mixed Materials Q2 slate -- **LIN solid** ($9.29B rev, $4.50 adj EPS, $11B backlog), but **Air Products surprise $2.1B operating loss** (~$2.9B project charges) + **Martin Marietta down on margin/pricing** dragging the ETF; risk-off tape on top. Sector earnings noise, not thesis break -- momentum framework intact, unrealized only -1.49%, 5.15% stop buffer. **HOLD.**
+- Rest of book: OXY +0.74% intraday $56.365 (crude firm, XOM/CVX digested, buffer 5.81%); XLI +0.94% $180.06 (ETN read positive); XLV -0.59% $162.56; XLP -0.21% $85.29.
+- **No trades, no stop changes.** 9 GTC trails armed covering all 986 shares. Deployment ~97.4%. Weekly review + EOD snapshot this afternoon per plan.

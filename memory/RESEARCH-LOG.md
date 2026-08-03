@@ -4106,3 +4106,68 @@ Reasoning: (a) fully deployed at 97.45% with all caps clean -- nothing to fix; (
 - **XLB -2.04% intraday** to $50.585 = day's laggard. Perplexity: cause is mixed Materials Q2 slate -- **LIN solid** ($9.29B rev, $4.50 adj EPS, $11B backlog), but **Air Products surprise $2.1B operating loss** (~$2.9B project charges) + **Martin Marietta down on margin/pricing** dragging the ETF; risk-off tape on top. Sector earnings noise, not thesis break -- momentum framework intact, unrealized only -1.49%, 5.15% stop buffer. **HOLD.**
 - Rest of book: OXY +0.74% intraday $56.365 (crude firm, XOM/CVX digested, buffer 5.81%); XLI +0.94% $180.06 (ETN read positive); XLV -0.59% $162.56; XLP -0.21% $85.29.
 - **No trades, no stop changes.** 9 GTC trails armed covering all 986 shares. Deployment ~97.4%. Weekly review + EOD snapshot this afternoon per plan.
+
+## 2026-08-03 -- Pre-market Research (Mon, Day 65, Week 15, ISM DAY + JOBS WEEK + XLB ROTATE DECISION WEEK)
+
+### Account
+- Equity: **$99,461.42** (vs last_equity $99,309.43 = **+$151.99 / +0.15%**)
+- **Phase P&L -$538.58 (-0.54%)**
+- Cash: **$2,547.75** = **2.56% cash / 97.44% deployed** (above 90% target band; no idle-cash violation)
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$96,913.67**
+- **Positions (6 unchanged)**:
+  - **AVGO 40** @ $358.84 -> **$388.75** (+$1,196.40 / **+8.34%**; -0.14% vs lastday) -- hwm $399.92 = 2.87% away; rule-14 trim trigger $412.67 = 6.15% above; trail $359.928 = 7.4% below (**profit-locked**, stop $1.09 above entry)
+  - **OXY 170** @ $55.52 -> **$56.03** (+$86.94 / +0.92%; **-1.82%** on the crude slide) -- trail $53.091 = 5.25% below; **Q2 print Wed Aug 5**
+  - **XLB 466** @ $51.348114 -> **$50.50** (-$395.22 / **-1.65%**; +0.14%) -- 23.66% of book = clean under cap; **ROTATE DECISION flagged from Fri** (8 weeks held, flat-to-red); 165/198-lot stops $47.979 = 4.99% below
+  - **XLI 130** @ $173.962385 -> **$181.44** (+$972.09 / +4.30%; +0.89%) -- hwm $186.445 = 2.76% away
+  - **XLP 60** @ $84.54 -> **$85.35** (+$48.60 / +0.96%; +0.35%) -- hwm $88.78 = 4.02% away
+  - **XLV 120** @ $156.202167 -> **$163.31** (+$852.94 / +4.55%; +0.47%) -- hwms $168.525 = 3.19% away
+- Open trail stops (**9 GTC, all armed, all 986 shares covered**):
+  - AVGO $359.928 q40 (hwm $399.92); OXY $53.091 q170 (hwm $58.99)
+  - XLB $47.3085 q103 / $47.979 q165 / $47.979 q198 (hwms $52.565 / $53.31 / $53.31)
+  - XLI $167.8005 q130 (hwm $186.445); XLP $79.902 q60 (hwm $88.78)
+  - XLV $151.6725 q80 / $151.6725 q40 (hwms $168.525 both)
+- Weekly count: **0/6** new-position slots (fresh week)
+- **Sector mix** (of $99,461.42): XLB 23.66%, XLI 23.72%, XLV 19.70%, AVGO 15.63%, OXY 9.58%, XLP 5.15%, cash 2.56%. **All caps clean.**
+
+### Market Context
+- **Oil DOWN ~3%: WTI ~$71.10 / Brent ~$74.76** -- easing extends; direct OXY headwind (-1.82% sympathy) two days before its Q2 print.
+- **ES futures GREEN premarket, +0.3-0.6% (~7,490-7,570 across feeds)** -- AMZN AWS blowout (+37% y/y) reviving the AI/cloud trade; Nikkei-led Asia strength; record yen intervention whipsawing USD/JPY; **China PMI unexpectedly contracted** = global-cycle caution note.
+- **VIX ~18-19** (feeds conflict 17.4-21; WSJ Jul 30 print 17.98 post-FOMC crush) -- decision premium still bled out, complacency zone.
+- **Macro today: ISM Manufacturing 10:00 ET (consensus ~54.0 vs 53.x prior)** + S&P Global final PMI 9:45 + construction spending 10:00. **The week's main event is NFP Friday Aug 7** (CPI not until Aug 12 -- jobs carries the rates debate alone). JOLTS Tue, ADP + ISM Services Wed.
+- **Earnings today: quiet BMO** (DRI/SNX/AYI/CMC -- no book overlap). **PLTR AMC = the AI-sentiment read for the tape**; BRK.B TBD. Week: AMD, SNDK, ON, SpaceX debut print.
+- **Sector momentum YTD**: Energy #1 (+~29% per Bespoke), Materials/Staples/Industrials leading quadrant; Tech/Comm/Discretionary/Financials lagging. **Book sits in 3 of 4 leading sectors**; Tech single-name (AVGO) rides the AI bid.
+
+### Held-ticker News
+- **AVGO** $388.75 (+8.34% unreal). Semi complex bid intact (AMZN capex read-through, Apple-through-2031 $30B+ deal, Samsung pact, OpenAI Jalapeno ASIC). hwm $399.92 = 2.87% away -> ratchet candidate on a green AI tape; trim trigger $412.67 = 6.15% above -- **pre-written: tag = trim 10-20 sh SAME SESSION + trail 10% -> 7%**. Tech sector pause (thru ~Aug 14) blocks NEW Tech entries but AVGO grandfathered hold stands.
+- **OXY** $56.03 (-1.82% premkt read). Crude -3% = headwind resumed; **Q2 earnings Wed Aug 5** -- pre-earnings risk check tomorrow (trail 5.25% below = adequate; no add into the print).
+- **XLB** $50.50 (-1.65% unreal). No fresh catalyst; Materials still "leading" in rotation models but the position is 8-week dead money. Rotate decision live this week.
+- **XLI** $181.44 (+4.30%). Industrials in leading quadrant; hwm 2.76% away = closest ETF ratchet.
+- **XLP** $85.35 (+0.96%). Quiet; leading quadrant.
+- **XLV** $163.31 (+4.55%). hwms 3.19% away; sector still a YTD laggard but position performing.
+
+### Trade Ideas
+1. **PRIMARY: HOLD premarket; XLB rotate decision AFTER ISM 10:00 ET.** 97.44% deployed, all caps clean, no room without a sell first. XLB = the funding source: full exit frees ~$23.5K + keeps Materials winless-streak intact (exit near flat = not a "failed trade" if green at execution). If ISM confirms industrial momentum, redeploy candidates = single-name Materials/Industrials relative-strength leaders (LYB +72% YTD, DOW +70% YTD per slickcharts screen -- validate catalyst + R:R before any order). NOT eligible: Tech singles (sector paused thru ~Aug 14 -- SNDK/MU/WDC momentum screen leaders are all blocked).
+2. **AVGO rule-14 trim preload (catalyst = AI-cloud revival post-AMZN/PLTR)**: trigger $412.67 = 6.15% above -- unlikely today without a >6% move, but PLTR AMC could gap it Tue. Pre-written: trim 10-20 sh same session + tighten trail to 7%. No action below the trigger.
+3. **OXY pre-earnings posture (Q2 Wed Aug 5)**: hold, no add, trail is the risk control. Crude -3% + print risk = two-way; a trail fire = Energy strike 2 = 20-session pause. Decide hold-through-earnings vs de-risk at tomorrow's session with the print 1 day out.
+
+### Risk Factors
+- **ISM 10:00 ET** -- hot print reprices rates (echoes ECI); miss = growth scare on a China-PMI-contraction morning. 97.44% deployed into it.
+- **NFP Friday** -- the week's binary; jobs data carries the entire rates debate until Aug 12 CPI.
+- **Crude -3%** -- OXY earnings Wed with a falling-tape setup; watch trail buffer (5.25%).
+- **PLTR AMC** -- AI-sentiment read-through for AVGO (15.63% of book); a valuation rejection at 61x P/S could sour the semi bid.
+- **Yen intervention + rising yields** -- cross-asset volatility source; VIX ~18 = complacency re-entry.
+- No -7% cut candidates (worst XLB -1.65%); no stop inside the 3% zone (nearest XLB 165/198 lots 4.99%).
+
+### Decision
+**HOLD premarket. No orders before ISM 10:00 ET. The one live decision this week is the XLB rotation -- take it at market-open/midday with ISM in hand, not blind at the bell. AVGO trim and OXY earnings posture are pre-written. Patience > activity.**
+
+Reasoning: (a) fully deployed at 97.44%, all caps clean -- nothing structurally to fix premarket; (b) the XLB decision is better made with today's ISM + tape confirmation than on a Friday-close read; (c) OXY print is Wed -- tomorrow is the de-risk decision point, not today; (d) fresh week, 0/6 slots, no forced action.
+
+### Plan for the day
+- **9:30 ET open**: verify 9 GTC trails; XLB/XLI/XLV/XLP opening tape vs futures; AVGO semi bid check.
+- **10:00 ET**: ISM Manufacturing + construction spending -- rate/growth repricing check.
+- **Post-ISM**: XLB rotate decision -- exit (full or 165/198-lot partial) if dead-money thesis confirmed; screen LYB/DOW-class Materials/Industrials singles for redeploy with catalyst + 2:1 R:R; place any entry with 10-12% GTC trail same session.
+- **Midday scan**: stop distances; AVGO hwm $399.92 watch; OXY vs crude tape.
+- **AMC**: PLTR print -- read-through for Tue's semi tape.
+- **EOD**: TRADE-LOG Day 65 snapshot; confirm any new position has its trail armed.

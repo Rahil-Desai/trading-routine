@@ -4171,3 +4171,11 @@ Reasoning: (a) fully deployed at 97.44%, all caps clean -- nothing structurally 
 - **Midday scan**: stop distances; AVGO hwm $399.92 watch; OXY vs crude tape.
 - **AMC**: PLTR print -- read-through for Tue's semi tape.
 - **EOD**: TRADE-LOG Day 65 snapshot; confirm any new position has its trail armed.
+
+### Midday Scan Addendum (2026-08-03, ~13:00 ET)
+- **No -7% cuts** (worst XLB -1.32%). **No +15%/+20% tightens** (best AVGO +8.26%, trigger $412.67 = 6.2% above $388.47). No stop inside 3% (nearest OXY 4.60%).
+- **ISM Manufacturing 55.6 vs ~53.8 consensus** -- highest since May 2022, all 5 subindexes expanding (New Orders 56.7, Production 63.7, Employment 52.8 = first expansion in 34 months, Prices 71.1 still hot). Industrial/materials momentum CONFIRMED.
+- **XLB thesis check: HOLD, rotation deferred.** ISM beat validates Materials momentum; XLB +0.48% intraday = best on book, only green intraday position. Dead-money case weakened by the print -- cutting a green-intraday position into a sector-confirming beat at midday, with no vetted redeploy, would drop deployment to ~74% (floor breach). Rotate decision stays live for market-open workflow with a screened replacement (LYB/DOW-class) in hand.
+- **OXY -2.49% intraday** $55.65 (crude down, not growth-driven per ISM; unrealized +0.24%, trail $53.091 = 4.60% buffer). Q2 print Wed -- de-risk decision tomorrow per plan. No add.
+- Rest of book: XLI +0.97% $181.59 (ISM tailwind, unreal +4.39%, hwm 2.67% away); AVGO -0.21% $388.47 (unreal +8.26%, profit-locked); XLV -0.44% $161.83 (+3.60%); XLP -0.29% $84.80 (+0.31%).
+- **No trades, no stop changes.** 9 GTC trails armed covering all 986 shares. Deployment ~97.4%.

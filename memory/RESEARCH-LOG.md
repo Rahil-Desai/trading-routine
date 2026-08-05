@@ -4243,3 +4243,67 @@ Reasoning: (a) 97.46% deployed, all caps clean, phase green premarket -- book is
 - **Midday scan**: OXY de-risk decision (crude tape + buffer); AVGO trim-trigger distance; XLI hwm $186.446+ ratchet watch (1.25%); XLB rotate screen (LYB/DOW + CAT read).
 - **AMC**: AMD print -- read-through for Wed's semi tape and AVGO gap risk; SpaceX debut print for sentiment.
 - **EOD**: TRADE-LOG Day 66 snapshot; confirm any trim/exit has trail adjustments logged; pre-position for OXY print Wed BMO.
+
+## 2026-08-05 -- Pre-market Research (Wed, Day 67, Week 15, OXY EARNINGS **AMC not BMO** + ADP/ISM SERVICES)
+
+### Account
+- Equity: **$101,947.92** (vs last_equity $101,670.27 = **+$277.65 / +0.27%** premarket read)
+- **Phase P&L +$1,947.92 (+1.95%)** -- new challenge high water, second straight $100K+ session
+- Cash: **$6,721.97** = **6.59% cash / 93.41% deployed** (inside 90-100% band; ~$6.7K = rule-14 sleeve from Tue's AVGO trim, earmarked for next single-name leader)
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$95,225.95**
+- **Positions (6 unchanged)**:
+  - **AVGO 30** @ $358.84 -> **$416.52** (+$1,730.25 / **+16.07%**; -0.39% vs lastday) -- **+20% tighten trigger $430.61 = 3.4% above** (would take trail 7% -> 5%); trail $392.5205 = 5.76% below, locks ~+9.4% worst case
+  - **OXY 170** @ $55.52 -> **$55.22** (-$50.93 / -0.54%; +0.24%) -- **CORRECTION: Q2 print is AMC TODAY (Wed Aug 5), call Thu 1pm ET -- not BMO as prior logs assumed.** Full session to manage posture before the print; trail $53.091 = 3.86% below
+  - **XLB 466** @ $51.348114 -> **$51.95** (+$280.48 / +1.17%; -0.10%) -- 3rd straight constructive session; rotate decision live but bar higher; nearest stops $47.979 = 7.64% buffer
+  - **XLI 130** @ $173.962385 -> **$187.54** (+$1,765.09 / **+7.81%**; +0.61%) -- **printing ABOVE hwm $186.87 -> fresh ratchet expected at open** (stop $168.183 rises toward ~$168.79+)
+  - **XLP 60** @ $84.54 -> **$85.57** (+$61.80 / +1.22%; +0.23%) -- hwm $88.78 = 3.75% away
+  - **XLV 120** @ $156.202167 -> **$163.50** (+$875.74 / +4.67%; +0.86%) -- hwms $168.525 = 3.07% away = closest ETF ratchet watch
+- Open trail stops (**9 GTC, all armed, all 976 shares covered**):
+  - AVGO $392.5205 q30 (7%, hwm $422.065); OXY $53.091 q170 (10%, hwm $58.99)
+  - XLB $47.3085 q103 / $47.979 q165 / $47.979 q198 (10%, hwms $52.565 / $53.31 / $53.31)
+  - XLI $168.183 q130 (10%, hwm $186.87); XLP $79.902 q60 (10%, hwm $88.78)
+  - XLV $151.6725 q80 / $151.6725 q40 (10%, hwms $168.525 both)
+- Weekly count: **0/6** new-position slots (Tue's AVGO trim = exit-side, no slot used)
+- **Sector mix** (of $101,947.92): XLI 23.91%, XLB 23.75%, XLV 19.25%, AVGO (Tech) 12.26%, OXY (Energy) 9.21%, XLP 5.04%, cash 6.59%. **All caps clean** (nearest XLI 23.91%).
+
+### Market Context
+- **Oil DOWN 3rd session: WTI ~$68.8-71.1 / Brent ~$72.1-74.8** (feeds delayed/split) -- US-Iran talks / Strait-of-Hormuz normalization hopes = the driver. **OXY headwind on spot, but Q2 realizations already locked: prelim 8-K shows $96.78/bbl worldwide realized oil, -$156M collar-settlement drag.**
+- **ES futures ~flat to +0.3% (~7,465-7,490)** after a monster Tuesday: **S&P +1.8% to record ~7,510s**, Dow/Nasdaq records, PHLX semis +7%. Asia followed through (Kospi +4%, SK Hynix +6%) despite AMD/SpaceX AMC misses.
+- **VIX feeds conflict (16-21); best read ~17-19** -- still complacency zone; the record tape is priced for good news.
+- **Macro today: ADP employment 8:15 ET, S&P Services PMI final 9:45, ISM Services PMI 10:00.** NFP Friday = the week's binary. CPI not until Aug 12.
+- **Earnings: AMD -9% AMC Tue (outlook disappointed vs sky-high bar); SpaceX -7.5%; PLTR +29%. Today AMC: OXY (held).** Semi tape shrugged off AMD overnight -- AI-capex bid intact (NVDA +2% post-market).
+- **Sector momentum YTD**: Energy #1 (~22-27%), Materials ~16-17%, Staples ~11-16%, Industrials ~10-14% = leadership quadrant; Tech/Financials/Discretionary lag. Book remains in 3 of 4 leaders + AVGO.
+
+### Held-ticker News
+- **AVGO** $416.52 (+16.07% unreal). AMD's guide-down miss knocked semis AMC but Asia bid them right back; AVGO -0.39% vs lastday = shallow give-back from Tue's +6.6% rip. Apple-through-2031 custom-silicon pact + AI-capex narrative intact. 7% trail does the work; **$430.61 = +20% trigger, 3.4% away**.
+- **OXY** $55.22. **Print AMC TODAY** (EPS consensus ~$1.84-1.96, rev ~$7.1-7.2B, +400% YoY EPS); prelim 8-K already disclosed $96.78/bbl realized + $156M collar drag = quarter itself de-risked at the margin. Spot crude sliding on Hormuz = the forward-guide risk. Hold-through stands (Tue midday decision): position -0.54% = near flat, voluntary red exit would arm Energy strike 2 (20-session pause); trail $53.091 caps downside ~-$362 on a normal tape. **Overnight gap risk is the real exposure** -- a bad print gaps through the trail and fills at Thu open.
+- **XLB** $51.95 (+1.17% unreal -- best read in weeks). 3rd straight green-ish session post-ISM; rotation urgency down, decision stays parked for a vetted LYB/DOW-class replacement.
+- **XLI** $187.54 (+7.81%). CAT strength extended the sector bid; **above hwm -> ratchet fires at open**.
+- **XLP** $85.57 (+1.22%). Defensive drift upward; quiet.
+- **XLV** $163.50 (+4.67%). Post-PFE/MRK sector bid follow-through; hwm 3.07% away = closest ratchet watch.
+
+### Trade Ideas
+1. **AVGO +20% tighten watch (rule 9)**: trigger $430.61 = 3.4% above. Tag = tighten trail 7% -> 5% same session (no second trim required -- rule-14 trim banked Tue). Catalyst: AI-capex tape, semi bid ex-AMD. No action below trigger.
+2. **OXY hold-through AMC print (decision AFFIRMED with corrected timing)**: quarter largely pre-disclosed (realizations locked at $96.78/bbl), consensus reset lower into the print, position flat, trail armed 3.86% below. Voluntary red exit = Energy strike 2 = 20-session pause for zero thesis reason. Re-check at midday: if crude breaks below ~$67 WTI intraday or position hits -3%+, revisit de-risk before the close; otherwise hold, trail is the exit.
+3. **Sleeve deploy screen ($6.7K, rule-14 proceeds)**: hunt single-name leader in Materials (LYB/DOW-class) or CAT-validated Industrials (CMI printed strong Tue) -- non-Tech until ~Aug 14 pause expiry. Entry needs catalyst + 2:1 R:R + 10-12% GTC trail same session. Deployment 93.41% = compliant, so no forced buy -- but sleeve idle past today starts to cut against rule 2 bias-to-action.
+
+### Risk Factors
+- **OXY AMC print** on 9.2% of book -- overnight gap risk bypasses the trail (fills Thu open, not at $53.091).
+- **ADP 8:15 + ISM Services 10:00** -- hot prints = rate reprice against a record-high, VIX-teens tape; 93.4% deployed into it.
+- **AMD -9% aftershock** -- if the Asia shrug fades, semi give-back hits AVGO (12.3% of book) from a +16% perch; 7% trail = backstop at +9.4%.
+- **Record-tape complacency** -- S&P +1.8% to records on Hormuz hopes; headline risk cuts both ways on any Iran-talks setback (would spike crude = OXY tailwind, index headwind).
+- No -7% cut candidates (worst OXY -0.54%); no stop inside the 3% zone (nearest OXY 3.86%).
+
+### Decision
+**HOLD premarket. No orders before the open. Watches, in priority order: (1) XLI ratchet confirm at open (printing above hwm); (2) AVGO $430.61 +20% tighten -- execute same session if tagged; (3) OXY midday re-check (crude tape + position P&L) ahead of the AMC print -- hold-through is the standing call; (4) sleeve-deploy screen for a Materials/Industrials single-name -- enter only if the full checklist clears.**
+
+Reasoning: (a) phase at new highs, 93.4% deployed, all caps clean, 5 of 6 green -- book is working; (b) OXY quarter is substantially pre-disclosed, consensus already trimmed, and a voluntary red exit arms the sector-strike clock -- asymmetry favors holding with the trail; (c) AVGO/XLI actions are rule-triggered, not discretionary; (d) sleeve deploy wants a vetted name, not a forced ETF park.
+
+### Plan for the day
+- **8:15 ET**: ADP print -- rate-reprice check.
+- **9:30 ET open**: verify 9 GTC trails; XLI ratchet above $186.87 confirm; AVGO distance to $430.61; OXY vs crude tape.
+- **10:00 ET**: ISM Services -- second growth read after Monday's ISM mfg blowout.
+- **Midday scan**: OXY posture re-check (crude <$67 WTI or position -3% = revisit); AVGO trigger distance; XLV $168.526+ / XLP $88.79+ ratchet watches; sleeve-deploy screen (LYB/DOW/CMI-class).
+- **AMC**: **OXY Q2 print** -- read release same evening if possible; call Thu 1pm ET; gap plan: trail handles normal tape, a gap-down fill Thu open = Energy strike 2 -> log pause status and rotate proceeds per rules.
+- **EOD**: TRADE-LOG Day 67 snapshot; log any ratchets/tightens; pre-position Thu plan around OXY reaction.

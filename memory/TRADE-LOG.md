@@ -871,3 +871,27 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action: NONE. OXY hold-through-earnings re-affirmed. Sleeve deploy ($6.7K) still parked -- screen stays for market-open with vetted Materials/Industrials single-name (non-Tech until ~Aug 14).**
 
 **PM watch:** AVGO $430.61 (+20% -> 5% trail, 2.5% away); OXY AMC print; XLV hwm $168.526+ (3.02% away) / XLP $88.79+ ratchets. EOD snapshot Day 67 on next workflow.
+
+## 2026-08-06 -- Market-Open Execution (XLB -> FCX ROTATION: SOLD 466 XLB +$509, BOUGHT 290 FCX)
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-08-06 | XLB | SELL | 466 | ~$52.44 | -- | Rule-11 rotate: 9-week dead-money ETF exited at a GAIN (realized ~+$509 / +2.1%) into vetted single-name leader | -- | -- |
+| 2026-08-06 | FCX | BUY | 290 | $69.05 | $62.17 (10% trail GTC, order ade9f84d) | Q2 beat (EPS $0.74 vs $0.62, rev $7.03B vs $6.47B), record realized copper $6.17/lb, ISM mfg 55.6 tailwind, Materials leader | ~$83 (+20% copper cycle) | 2:1 |
+
+**Execution (13:42-13:43 UTC):** (1) cancelled 3 XLB trails (103/165/198 lots); (2) SOLD 466 XLB market @ ~$52.44 = ~$24,437 proceeds, realized **~+$509 (+2.1%)** = winning Materials exit (no strike, clears sector ledger); (3) BOUGHT 290 FCX market @ $69.05 = $20,024.50 cost = **19.5% of equity** (< 20% cap); (4) placed 10% trail GTC same minute (stop $62.17, hwm $69.08).
+
+**Post-trade account:** Equity $102,558.72 | Cash $11,134.97 (10.86%) | Deployment 89.14% (> 85% floor; midday may top up on strength)
+
+| Ticker | Shares | Entry | Now | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------------|------|
+| AVGO | 30 | $358.84 | $415.39 | +15.76% | $397.11 (7% trail, hwm $427.00) |
+| FCX | 290 | $69.05 | $69.08 | +0.04% | $62.1945 (10% trail, hwm $69.0801) |
+| OXY | 170 | $55.52 | $56.70 | +2.13% | $53.091 (10% trail, hwm $58.99) |
+| XLI | 130 | $173.962385 | $187.185 | +7.60% | $169.3665 (10% trail, hwm $188.185) |
+| XLP | 60 | $84.54 | $85.76 | +1.44% | $79.902 (10% trail, hwm $88.78) |
+| XLV | 120 | $156.202167 | $165.095 | +5.69% | $151.6725 (qty 80) / $151.6725 (qty 40) (10% trail, hwms $168.525 both) |
+
+**Rule checks (pre-order, all passed):** positions after trade 6/6 cap OK (swap, not add); trades this week 3/3 after both legs (Tue AVGO trim + today's 2); FCX cost 19.5% < 20%; catalyst documented in 2026-08-06 RESEARCH-LOG; no day trade (XLB held since Jun/Jul, FCX held overnight), PDT clean. Sector mix post-trade: XLI 23.73%, FCX (Materials) 19.53%, XLV 19.32%, AVGO (Tech) 12.15%, OXY (Energy) 9.40%, XLP 5.02%, cash 10.86% -- all caps clean. **OXY Q2 beat** (EPS $2.40 vs ~$1.88) gapped +6.2% to $57.16 premkt -- HOLD, call 1pm ET, trail will ratchet on new hwm. Trail coverage: 7 GTC orders, all 800 shares.
+
+**Watches for midday:** OXY call 1pm ET guidance; AVGO +20% trigger $430.61 (tighten 7% -> 5%); XLI above hwm $188.185 ratchet; deployment top-up candidate on strength (cash 10.86%, band bottom 90%); NFP tomorrow = binary.

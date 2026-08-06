@@ -4307,3 +4307,30 @@ Reasoning: (a) phase at new highs, 93.4% deployed, all caps clean, 5 of 6 green 
 - **Midday scan**: OXY posture re-check (crude <$67 WTI or position -3% = revisit); AVGO trigger distance; XLV $168.526+ / XLP $88.79+ ratchet watches; sleeve-deploy screen (LYB/DOW/CMI-class).
 - **AMC**: **OXY Q2 print** -- read release same evening if possible; call Thu 1pm ET; gap plan: trail handles normal tape, a gap-down fill Thu open = Energy strike 2 -> log pause status and rotate proceeds per rules.
 - **EOD**: TRADE-LOG Day 67 snapshot; log any ratchets/tightens; pre-position Thu plan around OXY reaction.
+
+## 2026-08-06 -- Market-Open Research (Thu, Day 68, Week 15, OXY BEAT REACTION + XLB->FCX ROTATE)
+
+### Account (9:41 ET)
+- Equity: **$102,513.17** (last_equity $101,992.81 = +$520.36 / +0.51%) -- **new challenge high**
+- Cash: $6,721.97 (6.56%) / deployment 93.44% -- rule-14 sleeve still parked
+- 6 positions, 9 GTC trails armed covering all 976 shares
+- Weekly count: 1 trade (Tue AVGO trim); 0/6 new-position slots. Prompt hard-cap for today: trades this week <= 3 -> room for 2 more.
+
+### Market Context
+- **OXY Q2 AMC beat big: EPS $2.40 vs $1.83-1.92 est; rev $8.07B vs ~$7.1B est** (+53% YoY). Stock gapped to $57.16 (+6.2%) -- unrealized flipped to +2.96%. Call 1pm ET today. HOLD, trail armed (hwm will ratchet).
+- ISM mfg 55.6 Mon (highest since May 2022) = manufacturing/metals tailwind intact.
+- **CMI: Q2 EPS MISS ($6.94 vs $7.33), stock -6-8% -> killed as Industrials candidate.**
+- **LYB/DOW: depressed downtrends (DOW ~$29.77, LYB ~$57-62 wide) -- value traps, not leaders. Killed.**
+- **FCX: Q2 BEAT -- EPS $0.74 vs $0.62, rev $7.03B vs $6.47B, record realized copper $6.17/lb.** Copper leverage + tariff pricing + ISM beat = strongest Materials single-name setup. NUE also beat (EPS $4.84 vs $4.46) but steel more extended; STLD slight miss.
+
+### Trade Decision -- XLB -> FCX ROTATION (executes the standing Aug 3-5 plan)
+- **SELL 466 XLB @ mkt (~$52.45)**: 9-week dead-money ETF (rule 6: ETFs = deployment vehicle, never core; rule 11: rotate dead money). Exit at a GAIN (~+2.1% / ~+$513) = winning Materials exit (no sector-strike risk). Proceeds ~$24.4K.
+- **BUY 290 FCX @ mkt (~$69.06, ~$20.0K = 19.5% of equity)**: catalyst = Q2 beat + record copper realizations + ISM 55.6; relative strength = sector leader near highs; sector = Materials leading quadrant YTD. Stop: 10% trail GTC. Target: +20%+ on copper pricing cycle = 2:1 R:R vs 10% stop.
+- Post-trade book: 6 positions (cap 6 OK); Materials = FCX only ~19.5% (cap 30% OK); position 19.5% < 20% cap; trades this week 3/3 after both legs; no day-trade (XLB held weeks, FCX held overnight).
+- Residual cash ~$11.1K (10.9%) -- above 90% band bottom miss noted; deployment 89.1% > 85% floor, no idle-cash violation (<15%). Midday may top up an existing holding on strength.
+- Sleeve deploy satisfied per rule 14 (proceeds -> single-name leader, non-Tech).
+
+### Risk Factors
+- NFP tomorrow = week's binary; FCX high-beta into it (10% trail = the control).
+- OXY call 1pm ET -- guidance risk after the gap.
+- AVGO -1.0% early ($414.02); +20% trigger $430.61 = 4.0% away, 7% trail armed.

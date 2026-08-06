@@ -895,3 +895,30 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Rule checks (pre-order, all passed):** positions after trade 6/6 cap OK (swap, not add); trades this week 3/3 after both legs (Tue AVGO trim + today's 2); FCX cost 19.5% < 20%; catalyst documented in 2026-08-06 RESEARCH-LOG; no day trade (XLB held since Jun/Jul, FCX held overnight), PDT clean. Sector mix post-trade: XLI 23.73%, FCX (Materials) 19.53%, XLV 19.32%, AVGO (Tech) 12.15%, OXY (Energy) 9.40%, XLP 5.02%, cash 10.86% -- all caps clean. **OXY Q2 beat** (EPS $2.40 vs ~$1.88) gapped +6.2% to $57.16 premkt -- HOLD, call 1pm ET, trail will ratchet on new hwm. Trail coverage: 7 GTC orders, all 800 shares.
 
 **Watches for midday:** OXY call 1pm ET guidance; AVGO +20% trigger $430.61 (tighten 7% -> 5%); XLI above hwm $188.185 ratchet; deployment top-up candidate on strength (cash 10.86%, band bottom 90%); NFP tomorrow = binary.
+
+## 2026-08-06 -- Midday Scan (NO ACTION -- FCX SETTLING IN, OXY POST-BEAT GREEN, AVGO 1.4% FROM +20% TRIGGER)
+
+**Midday account:** Equity $102,169.01 | Cash $11,134.97 (10.90%) | Long MV $91,034.04 | Day P&L +$176.20 (+0.17%) | Phase P&L +$2,169.01 (+2.17%)
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AVGO | 30 | $358.84 | $424.60 | +1.51% | +$1,972.80 (+18.33%) | $397.6494 (7% trail, hwm $427.58) |
+| FCX | 290 | $69.05 | $68.75 | -0.92% | -$87.00 (-0.43%) | $62.703 (10% trail, hwm $69.67) |
+| OXY | 170 | $55.52 | $56.235 | +4.51% | +$121.62 (+1.29%) | $53.091 (10% trail, hwm $58.99) |
+| XLI | 130 | $173.962385 | $185.625 | -0.39% | +$1,516.14 (+6.70%) | $169.3665 (10% trail, hwm $188.185) |
+| XLP | 60 | $84.54 | $84.845 | -0.57% | +$18.30 (+0.36%) | $79.902 (10% trail, hwm $88.78) |
+| XLV | 120 | $156.202167 | $163.365 | -0.48% | +$859.54 (+4.59%) | $151.6725 (qty 80) / $151.6725 (qty 40) (10% trail, hwms $168.525 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none (worst FCX -0.43% = morning entry settling, normal noise inside a 10% trail).
+- +15%/+20% tighten: none. AVGO +18.33% already on 7% trail; **+20% trigger $430.61 = 1.42% above** $424.60 -- closest trigger on book, execute 7% -> 5% same session if tagged. No other position near +15% (next XLI +6.70%).
+- Thesis crack: none. **OXY +4.51% post-beat** ($56.235; EPS $2.40 vs ~$1.88) -- beat thesis confirmed, call 1pm ET is the remaining guidance risk, trail armed. **FCX -0.92% day 1** vs XLB-equivalent tape also red = market-wide soft session, not name-specific; Q2-beat/copper thesis intact, no re-check trigger. AVGO +1.51% = AMD aftershock not materializing.
+- **2 fresh auto-ratchets since market-open:** AVGO hwm $427.00 -> **$427.58**, stop $397.11 -> **$397.6494** (locks ~+10.8% worst case on rump); FCX hwm $69.08 -> **$69.67**, stop $62.1945 -> **$62.703**. Both moved UP only; no manual touches.
+- 3% / move-down rules: clean (nearest stop OXY 5.59% below; no stop touched).
+- Deployment 89.10% -- below 90% band bottom but above 85% floor and cash 10.90% < 15% = no violation. **No top-up: weekly trade cap 3/3 used** (Tue AVGO trim + today's XLB/FCX legs) and tape is soft (4 of 6 red intraday) = no "on strength" trigger anyway. Top-up candidate rolls to next session's slots.
+- Sector concentration: XLI 23.62%; FCX (Materials) 19.51%; XLV 19.19%; AVGO (Tech) 12.47%; OXY (Energy) 9.36%; XLP 4.98%; Cash 10.90%. All caps clean.
+- Trail coverage: 7 GTC orders covering all 800 shares across 6 positions.
+
+**Action: NONE. Rotation book from this morning riding as placed.**
+
+**PM watch:** AVGO $430.61 (+20% -> 5% trail, 1.4% away = live watch into close); OXY call 1pm ET guidance; XLI hwm $188.185 / XLV $168.526+ / XLP $88.79+ ratchets; NFP tomorrow 8:30 ET = week's binary, 89.1% deployed into it. EOD snapshot Day 68 on next workflow.

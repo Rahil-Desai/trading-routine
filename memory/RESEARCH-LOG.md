@@ -4334,3 +4334,62 @@ Reasoning: (a) phase at new highs, 93.4% deployed, all caps clean, 5 of 6 green 
 - NFP tomorrow = week's binary; FCX high-beta into it (10% trail = the control).
 - OXY call 1pm ET -- guidance risk after the gap.
 - AVGO -1.0% early ($414.02); +20% trigger $430.61 = 4.0% away, 7% trail armed.
+
+## 2026-08-07 -- Pre-market Research (Fri, Day 69, Week 15, NFP 8:30 ET = THE BINARY, 3/3 SLOTS USED = MANAGE-ONLY)
+
+### Account
+- Equity: **$102,283.44** (last_equity $101,909.70 = **+$373.74 / +0.37%** premarket read)
+- **Phase P&L +$2,283.44 (+2.28%)**
+- Cash: **$11,134.35** = **10.89% cash / 89.11% deployed** (below 90% band bottom, above 85% floor; top-up blocked by 3/3 weekly cap -- rolls to Monday, no idle-cash violation <15%)
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$91,149.09**
+- **Positions (6)**:
+  - **AVGO 30** @ $358.84 -> **$422.89** (+$1,921.50 / **+17.85%**; +0.55% vs lastday) -- **+20% tighten trigger $430.61 = 1.83% above** (tag = trail 7% -> 5% same session, closest trigger on book); trail $397.8447 = 5.92% below, locks ~+10.9% worst case
+  - **FCX 290** @ $69.05 -> **$69.44** (+$113.10 / +0.57%; +1.85%) -- day-2 bounce from Thu's -1.99% dip; copper-beat thesis intact; trail $62.703 = 9.70% below
+  - **OXY 170** @ $55.52 -> **$55.81** (+$50.07 / +0.53%; -0.40%) -- post-beat consolidation; WTI back up ~$71 = tailwind returning; trail $53.091 = 4.88% below
+  - **XLI 130** @ $173.962385 -> **$184.76** (+$1,403.69 / +6.21%; flat) -- hwm $188.185 = 1.85% away; trail $169.3665 = 8.33% below
+  - **XLP 60** @ $84.54 -> **$85.10** (+$33.60 / +0.66%; flat) -- quiet; hwm $88.78 = 4.32% away
+  - **XLV 120** @ $156.202167 -> **$164.26** (+$967.34 / +5.16%; -0.11%) -- hwms $168.525 = 2.59% away
+- Open trail stops (**7 GTC, all armed, all 800 shares covered**):
+  - AVGO $397.8447 q30 (7%, hwm $427.79); FCX $62.703 q290 (10%, hwm $69.67)
+  - OXY $53.091 q170 (10%, hwm $58.99); XLI $169.3665 q130 (10%, hwm $188.185)
+  - XLP $79.902 q60 (10%, hwm $88.78); XLV $151.6725 q80 / $151.6725 q40 (10%, hwms $168.525 both)
+- Weekly count: **3/3 hard cap used** (Tue AVGO trim + Thu XLB/FCX rotation legs) -- **NO new trades today; manage-only session** (stop-fires and rule-triggered tightens/ratchets excepted)
+- **Sector mix** (of $102,283.44): XLI 23.48%, FCX (Materials) 19.69%, XLV 19.27%, AVGO (Tech) 12.40%, OXY (Energy) 9.28%, XLP 4.99%, cash 10.89%. **All caps clean.**
+
+### Market Context
+- **Oil REBOUNDING: WTI ~$71.1 / Brent ~$74.8** (delayed feeds; up from ~$68.8 midweek) -- OXY tailwind returning after the Hormuz-normalization slide.
+- **ES futures GREEN premarket: ~+0.3% to +0.9% (~7,490-7,570, feeds conflict on timestamp)** -- risk-on into the print after Thursday's soft session.
+- **VIX ~21 (20.95)** -- UP from the 17-19 complacency zone = NFP hedging bid; first 20-handle in over a week.
+- **Macro today: JULY NFP 8:30 ET = the week's binary** (unemployment rate + private/mfg payrolls same release). FOMC minutes also listed today per one calendar feed (verify -- feeds conflict). CPI Aug 12, PPI later -- neither today.
+- **Earnings BMO: VST, TTWO, PPL, PAA, FLR, OKLO, ACMR, DRI/SNX/AYI/CMC/WGO** (feeds conflict on exact slate) -- **nothing held reports today**; AMD/LLY aftershocks still working through the tape.
+- **Sector momentum YTD**: Energy #1 (~22-27%), Materials ~16-17%, Staples ~16%, Industrials ~12-14% = leadership quadrant unchanged; Financials/Discretionary lag. Book in 3 of 4 leaders + AVGO + XLV.
+
+### Held-ticker News
+- **AVGO** $422.89 (+17.85% unreal). AI-chip momentum narrative intact (analyst targets to $640 outperform cited; Q3 print Sep 3 = no near-term earnings risk). Feeds quoted stale prices -- Alpaca $422.89 authoritative. **$430.61 = +20% trigger, 1.83% away = live watch.**
+- **FCX** $69.44 (+0.57%). No fresh news; day-2 recovery +1.85% validates entry-noise read. Copper/tariff/ISM thesis intact.
+- **OXY** $55.81 (+0.53%). No fresh news post-beat; crude rebound to ~$71 WTI supports. Call risk done (Thu 1pm ET passed).
+- **XLI/XLP/XLV**: quiet; no held-sector BMO prints today.
+
+### Trade Ideas (all rule-triggered -- no discretionary slots left)
+1. **AVGO +20% tighten (rule 9, PRIMARY watch)**: trigger $430.61 = 1.83% above premkt. Tag intraday = tighten trail 7% -> 5% SAME SESSION (order replace, not a trade slot). NFP-green tape could tag it at the open.
+2. **NFP reaction management**: hot print = rate reprice against 89.1% deployment -- trails are the control, no panic exits; soft print = risk-on, watch XLI hwm $188.185 (1.85%) and XLV $168.525 (2.59%) ratchets. No manual action either way unless a -7% cut or thesis crack appears.
+3. **Monday top-up screen (prep only)**: cash 10.89% must deploy next week (band bottom 90%). Pre-screen: Materials/Industrials/Energy single-name leaders (non-Tech until ~Aug 14 pause expiry); NUE (Q2 beat) + CAT-complex names on the list. No orders today.
+
+### Risk Factors
+- **NFP 8:30 ET on 89.1% deployment** -- the binary; VIX ~21 says the market is paying up for protection into it.
+- **AVGO 12.4% of book at +17.9%** -- give-back risk from a high perch; 7% trail = backstop ~+10.9%.
+- **FCX day 2** (high-beta, 19.7% of book) -- NFP-sensitive cyclical; 10% trail armed.
+- **Feeds conflicting** (futures, VIX, FOMC-minutes listing) -- treat levels as approximate; Alpaca prices authoritative.
+- No -7% cut candidates (worst = none red beyond noise); no stop inside the 3% zone (nearest OXY 4.88%).
+
+### Decision
+**HOLD. No orders premarket, no discretionary trades today (3/3 weekly cap). Manage-only: (1) AVGO $430.61 +20% tighten -- execute same session if tagged; (2) NFP reaction -- trails do the work; (3) ratchet watches XLI/XLV/XLP; (4) Friday = weekly-review day (separate workflow). Patience > activity.**
+
+Reasoning: (a) weekly cap exhausted Thu -- rule 4 makes today manage-only regardless of tape; (b) book is green across all 6 into the print with 7 trails armed; (c) AVGO tighten is rule-triggered, not discretionary; (d) Monday inherits the top-up obligation with fresh slots.
+
+### Plan for the day
+- **8:30 ET**: NFP -- read print vs consensus; rate-reprice check on futures/VIX.
+- **9:30 ET open**: verify 7 GTC trails; AVGO distance to $430.61; FCX follow-through; OXY vs crude tape.
+- **Midday scan**: AVGO trigger check; ratchet confirms (XLI $188.185+, XLV $168.525+, XLP $88.78+); -7% sweep.
+- **PM**: weekly review workflow (Fri); EOD TRADE-LOG Day 69 snapshot; pre-write Monday top-up screen (cash 10.89% -> deploy).

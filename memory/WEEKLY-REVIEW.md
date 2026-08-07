@@ -859,3 +859,71 @@ Note: Ending equity = live Alpaca read $99,413.03 at review time (post-EOD-snaps
 ### Overall Grade: B-
 
 -0.31% vs S&P +1.05% = -1.36pp relative miss on a positive market week -- the eighth in 14 weeks, and that pattern caps the grade. But this was the cleanest binary-week execution of the campaign: FOMC + MSFT/META/AAPL/AMZN navigated at 97%+ deployment with zero panic trades, AVGO became the campaign's first profit-locked position (trail $1.09 above entry after the Fri hwm ratchet), the OXY near-stop-out (1.61% buffer Tue) resolved into a +3.3% winner purely on rule adherence, the XLB cap-trim executed same-session per pre-write, 5+ trail ratchets fired mechanically, and EOD cadence hit 4-of-5 (best in 6 weeks) with all caps clean. Held back from B/B+ by: the relative miss itself (flat book in a +1% tape = composition problem), XLB dead-money rotation deferred for the third consecutive review while 24% of the book sat in the weakest sleeve, 0/6 slots for the second straight week with no rotation trim to show for it, and the FOMC-day EOD snapshot gap. No strategy rule changes: nothing failed badly (the rules were the week's best performer) and the rule-14 sub-trigger evidence file, while growing, is still not 2-weeks-proven -- the AVGO profit-lock materially weakens the urgency case. Next week's grade lives or dies on executing the XLB rotation instead of re-describing it.
+
+## Week ending 2026-08-07
+
+Note: Ending equity = live Alpaca read $102,723.63 at review time (Fri Aug 7 intraday, post-NFP; Aug 7 EOD log snapshot $102,720.77). Starting basis = Alpaca last_equity $99,309.43 (authoritative Fri Jul 31 close, per Aug 3 anchor convention). S&P week is an estimate: WSJ reported +2.9% through Thu (best week since mid-April); Fri feeds conflicted (+0.46% / -0.16%), so the week lands ~+2.9% to +3.4% off the 7,489.72 Jul 31 close.
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $99,309.43 (Fri Jul 31 close = Mon Aug 3 open basis) |
+| Ending portfolio | $102,723.63 (Fri Aug 7 review-time) |
+| Week return | +$3,414.20 (+3.44%) -- best week of the challenge |
+| S&P 500 week | ~+3.2% (est; +2.9% through Thu per WSJ, Fri mixed) |
+| Bot vs S&P | ~+0.2pp (est; range 0.0 to +0.5pp -- first time keeping pace with a monster S&P up week) |
+| Trades | 3 (W:1 / L:0 / open:6) -- Tue AVGO rule-14 trim, Thu XLB sell + FCX buy |
+| Win rate | 100% (1 closed trade, 1 winner) |
+| Best trade | AVGO +19.0% (unrealized; 10-sh trim banked +16.3% / +$585.84 realized) |
+| Worst trade | XLP +0.62% (unrealized -- all 6 positions green, no losers) |
+| Profit factor | N/A-inf (realized +$1,095 -- XLB +$509 + AVGO trim +$586; zero realized losses) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| XLB | $51.348114 (avg, 466 sh) | ~$52.44 | +$509 (+2.1%) | Rule-11 rotate Aug 6: 9-week dead-money ETF exited at a GAIN (winning Materials exit, no sector strike) -> funded FCX single-name entry same minute. Partial: AVGO trim 10 sh @ $417.424 (+$585.84 / +16.3% realized) on the Aug 4 +15% rule-14 trigger; position remains open. |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| AVGO | $358.84 (30 sh) | $426.84 | +$2,040.00 (+18.95%) | $406.847 (5% trail after +20% tighten Fri, hwm $428.26) -- locks ~+13.4% worst case |
+| FCX | $69.05 (290 sh) | $69.72 | +$193.98 (+0.97%) | $63.4815 (10% trail, hwm $70.535) -- NEW Aug 6 |
+| OXY | $55.52 (170 sh) | $55.98 | +$78.27 (+0.83%) | $53.091 (10% trail, hwm $58.99) |
+| XLI | $173.962385 (130 sh) | $185.18 | +$1,458.29 (+6.45%) | $169.3665 (10% trail, hwm $188.185) |
+| XLP | $84.54 (60 sh) | $85.06 | +$31.20 (+0.62%) | $79.902 (10% trail, hwm $88.78) |
+| XLV | $156.202167 (120 sh) | $165.60 | +$1,127.74 (+6.02%) | $151.6725 x2 lots (10% trail, hwms $168.525) |
+
+### What Worked
+- **Rule 14 fired for the FIRST time and executed exactly as pre-written.** AVGO tagged $412.67 Tue -> same-session trim 10 sh @ $417.424 (+16.3% realized) + trail tighten 10% -> 7%; Fri the +20% trigger tightened 7% -> 5% (stop $406.847 = $48 above entry, ~+13.4% locked worst case). Fourteen weeks of "the trigger never printed" ended with a flawless mechanical sequence -- trim banked the cash, ratchets locked the rest.
+- **The XLB -> FCX rotation finally executed after 3 consecutive deferral reviews** -- and it was done RIGHT: waited for ISM confirmation + a vetted replacement (CMI killed on its miss, LYB/DOW killed as value traps, FCX validated on its Q2 beat + record $6.17/lb copper), exited XLB at a GAIN (+$509, no Materials strike), entered FCX at 19.5% < 20% cap with the trail placed the same minute.
+- **OXY hold-through-earnings was the right call, made and re-affirmed 3 times** (Mon plan, Tue midday, Wed midday) against a falling-crude tape, explicitly weighing the sector-strike asymmetry of a voluntary red exit. Q2 beat big (EPS $2.40 vs ~$1.88), gapped +6.2%, position exited the week green. Process AND outcome aligned.
+- **Best week of the challenge on every axis:** +3.44%, new equity highs Tue/Wed/Fri ($102.7K), phase P&L flipped from -$538 Mon premarket to +$2,724 Fri, first ALL-GREEN book (6/6 positions positive unrealized), and the week's two binaries (OXY print, NFP Fri at 89% deployed) both absorbed without a scratch.
+- **Kept pace with a monster S&P week (~+3.2%) for the first time** -- the eight prior positive-S&P weeks were all misses. The difference is exactly what the reviews prescribed: single-name sleeve carrying (AVGO +19%, FCX entered), dead ETF ballast cut.
+
+### What Didn't Work
+- **Aug 5 (Wed) EOD snapshot missed again** -- the OXY-earnings day, repeating the FOMC-day pattern flagged Jul 31 ("binary days are precisely when the record matters most"). Fri market-open/midday runs also left no log entries (orders fired -- AVGO tighten + FCX ratchet are on the Alpaca tape -- but the log shows nothing until EOD). Cadence is better than June but still breaks on event days.
+- **Deployment ended the week at 89.2% -- below the 90% band bottom for 2 straight sessions** with $11.1K idle. Blocked by the self-imposed 3/3 weekly trade cap after the rotation legs, so no violation of the 85% floor, but the band miss rolls a forced top-up decision to Monday.
+- **The weekly trade-count ledger conflicts with the rulebook:** logs treated 3 as the week's hard cap while rule 4 allows up to 6 new trades (and a trim is exit-side, not a slot). The conservative reading cost the Friday top-up. Ledger definition needs a cleanup before it silently halves the action budget again.
+- **FCX entered on a red day-1** (-1.99% Thu) -- noise inside a 10% trail and recovered +2.24% Fri, but the entry print was at the day's high tick zone ($69.05 vs $68.01 close). Minor, worth watching entry timing on momentum names.
+- **Relative alpha was only ~flat-to-+0.5pp on the best absolute week** -- the book matched the index rather than beating it, because 47% of equity still sits in mid-beta ETFs (XLI/XLV/XLP) that lagged the AI-led tape.
+
+### Key Lessons
+- **The rules work when the tape cooperates AND the triggers are pre-written.** Every action this week (trim, tighten x2, rotate, hold-through) was scripted in advance with exact levels and share counts -- zero discretionary improvisation. This is what 15 weeks of review grind was for; keep pre-writing.
+- **Rotation done at a gain beats rotation done at a stop.** XLB exited green after 9 weeks means no sector strike, no pause clock, full redeploy freedom. Waiting 3 extra sessions for ISM + a vetted candidate (vs cutting blind Monday) turned a dead-money exit into a clean upgrade. Patience with a deadline ≠ paralysis.
+- **Voluntary red exits carry hidden strike costs** -- the OXY decision framework (trail = the exit, voluntary red sell = arms strike 2) is now proven through a live earnings binary and belongs in every future pre-earnings posture decision.
+- **Matching the S&P on a +3% week is composition progress, not victory.** The remaining ETF ballast (XLI/XLV/XLP ~47%) is the drag; the single-name sleeve (AVGO/FCX/OXY ~42%) is the engine. The mix shifted the right direction this week; alpha follows the mix.
+- **Event-day logging needs to be mechanical, not aspirational** -- the miss pattern is now clearly correlated with binary days. The "commit the bare table before analyzing the event" rule from Jul 31 was not followed on Aug 5.
+
+### Adjustments for Next Week
+- **Monday priority 1: deploy the $11.1K cash (10.8%)** to re-enter the 90-100% band -- single-name leader screen, non-Tech until the pause expires ~Aug 14. Candidates from Fri research carry forward; validate catalyst + 2:1 R:R before the order, trail same minute.
+- **Clarify the weekly trade-count ledger in the daily logs:** rule 4 = up to 6 NEW trades/week; trims and stop-outs are exit-side and consume no slot. Log "slots used X/6" only for entries. No rulebook change needed -- the doc is right, the ledger drifted.
+- **AVGO ladder:** 5% trail does the work (stop $406.847, hwm $428.26). If +25% prints (~$448.55), consider second rule-14 trim 25% of the rump; pre-write the share count Sunday. Tech pause expiry ~Aug 14 -- after that, AVGO add-eligibility returns but 12.5% weight + 5% trail argues let-it-ride.
+- **FCX day-3+ watch:** entry noise done, +0.95% at week end. Cut line -7% ($64.22); trail $63.4815. Copper thesis re-check only if Q2-beat momentum stalls below $67 for 2+ sessions.
+- **OXY post-beat:** hold, trail is the exit. If crude reclaims $75+ WTI and OXY tags $59+, fresh hwm ratchets do the work.
+- **Event-day snapshot rule, mechanical version:** any day with held-name earnings or a top-tier macro print (NFP/CPI/FOMC), the EOD bare-table commit happens BEFORE any event analysis is written. Third consecutive review flagging this -- if next week misses another binary-day snapshot, escalate to a strategy-doc process rule.
+
+### Strategy Rule Changes Applied This Week
+- **NONE.** Rule 14 just had its first live fire and worked exactly as written (trim + tighten sequence, same session, pre-written counts) -- no amendment needed. The +8-12% give-back sub-trigger evidence file is CLOSED for now: AVGO blew through +15% and +20%, and the ratchet+trim combo captured both the cash and the floor, which is what the sub-trigger was meant to add. The weekly trade-count ledger fix is a logging convention, not a rule change.
+
+### Overall Grade: A-
+
++3.44% -- the best absolute week of the challenge -- while finally keeping pace with a monster S&P week (~+3.2%) after eight straight positive-week misses. Everything the review process spent 15 weeks building fired in one week: rule 14's first live trigger executed same-session as scripted (AVGO trim +16.3% + double tighten to a 5% trail locking +13.4% worst case), the thrice-deferred XLB rotation executed at a gain into a vetted leader (FCX, Q2 beat + record copper), OXY held through its earnings binary on an explicitly-reasoned strike-asymmetry framework and won, and the week closed at new equity highs with all 6 positions green and every cap clean. Held back from A by: the Aug 5 binary-day EOD snapshot miss (third consecutive review flagging event-day cadence), the sub-band 89.2% deployment close with $11.1K rolling idle to Monday on a self-inflicted trade-count misread, and relative alpha of only ~flat-to-+0.5pp -- matching the index on its best week since April is progress, not outperformance, and the remaining 47% mid-beta ETF ballast is the known drag. The offense finally showed up; now it has to compound.

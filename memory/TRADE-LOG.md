@@ -936,3 +936,31 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | XLV | 120 | $156.202167 | $164.45 | +0.18% | +$989.74 (+5.28%) | $151.6725 (qty 80) / $151.6725 (qty 40) (10% trail, hwms $168.525 both) |
 
 **Notes:** Rotation day, small give-back. Day P&L **-$194.24 (-0.19%)** vs Alpaca last_equity $101,992.81 (authoritative Aug 5 close; note: no Aug 5 EOD log entry -- that run was missed, last_equity anchor keeps the chain intact); phase **+$1,798.57 (+1.80%)**. **Two trades today = the rule-11 XLB -> FCX rotation (13:42-13:43 UTC): SOLD 466 XLB @ ~$52.44 (realized ~+$509 / +2.1%, winning Materials exit, no strike), BOUGHT 290 FCX @ $69.05 (19.5% of equity, 10% trail placed same minute).** Weekly count now **3/3** (Tue AVGO trim + today's two legs) -- no more trades until Monday. **FCX day 1: -1.99%** to $68.01 (unrealized -1.51% / -$302) -- entry noise inside a copper-beat thesis, no re-check trigger (cut line -7%). **OXY +3.88%** post-Q2-beat to $55.90 (unrealized back green +0.69%); faded from the $57 premarket pop after the 1pm call but beat thesis held. **AVGO +0.70%** to $421.20 (unrealized **+17.38% / +$1,871**, best on book); fresh ratchet hwm $427.58 -> **$427.79**, stop -> **$397.8447** = locks ~+10.9% worst case on the rump; **+20% trigger $430.61 = 2.23% above close, not tagged**. XLI -1.05% (unrealized +5.99% / +$1,356), XLP -0.45%, XLV +0.18% (+5.28% / +$990). No -7% cuts (worst FCX -1.51%). Deployment **89.06%** ($90,663.60 / $101,798.57) -- below the 90% band bottom but above the 85% floor; top-up blocked by the 3/3 weekly cap, rolls to Monday's slots. **Sector mix:** XLI 23.55%; FCX (Materials) 19.37%; XLV 19.39%; AVGO (Tech) 12.41%; OXY (Energy) 9.33%; XLP 5.01%; Cash 10.94%. 6 positions, 5-8 band OK. **Trail coverage:** 7 GTC orders covering all 800 shares across 6 positions. **Tomorrow (Fri):** **NFP 8:30 ET = the binary**, 89.1% deployed into it, trails armed; AVGO $430.61 (+20% -> 5% trail) watch; XLI hwm $188.185 / XLV $168.526+ / XLP $88.79+ ratchet watches; Friday = weekly review day; no trade slots left, so tomorrow is manage-only unless a stop fires.
+
+## 2026-08-07 -- Midday Scan (NO NEW ACTION -- RECONCILED UNLOGGED AVGO 7%->5% TIGHTEN FROM 9:51 ET RUN; NFP ABSORBED, NEW CHALLENGE HIGH)
+
+**Midday account:** Equity $102,587.20 | Cash $11,134.35 (10.85%) | Long MV $91,452.85 | Day P&L +$677.50 (+0.66%) | Phase P&L +$2,587.20 (+2.59%) -- new challenge high
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AVGO | 30 | $358.84 | $424.91 | +1.03% | +$1,982.10 (+18.41%) | $406.4765 (5% trail, hwm $427.87) |
+| FCX | 290 | $69.05 | $69.46 | +1.88% | +$118.90 (+0.59%) | $63.4815 (10% trail, hwm $70.535) |
+| OXY | 170 | $55.52 | $56.31 | +0.48% | +$134.37 (+1.42%) | $53.091 (10% trail, hwm $58.99) |
+| XLI | 130 | $173.962385 | $185.40 | +0.35% | +$1,486.89 (+6.58%) | $169.3665 (10% trail, hwm $188.185) |
+| XLP | 60 | $84.54 | $85.035 | -0.09% | +$29.70 (+0.59%) | $79.902 (10% trail, hwm $88.78) |
+| XLV | 120 | $156.202167 | $164.86 | +0.25% | +$1,038.94 (+5.54%) | $151.6725 (qty 80) / $151.6725 (qty 40) (10% trail, hwms $168.525 both) |
+
+**Midday Rule Checks:**
+- **LOG RECONCILIATION:** Alpaca shows AVGO trail replaced 7% -> **5%** today 13:51:50 UTC (new order d2b22d38, trail 5%, stop $406.4765, hwm $427.87) -- executed by the morning run but NOT logged (no Aug 7 market-open/pre-market entries exist in TRADE-LOG or RESEARCH-LOG). Tighten fired at ~+19.2% (hwm $427.87 < $430.61 +20% trigger = slightly early vs rule 9), but stop moved UP only ($397.84 -> $406.48) and sits 4.34% below current (>3% rule OK) -- keeping per never-move-down. Worst case now locks ~+13.3% on the 30-sh rump.
+- -7% manual cut: none (all 6 positions green unrealized; smallest FCX +0.59%).
+- +15%/+20% tighten: no further action -- AVGO already at 5% (tightest tier); next largest XLI +6.58%, far from +15%.
+- Thesis crack: none. **NFP morning absorbed cleanly** -- book green across the board, equity **$102,587.20 = new challenge high**. FCX +1.88% day 2 rebound (copper-beat thesis working, unrealized back green); OXY +0.48% post-beat drift up; AVGO +1.03%.
+- **1 fresh auto-ratchet since Aug 6 EOD:** FCX hwm $69.67 -> **$70.535**, stop $62.703 -> **$63.4815** (13:50 UTC). Moved UP only.
+- 3% / move-down rules: clean (nearest stop AVGO 4.34% below current; no stop lowered).
+- Deployment 89.15% -- below 90% band bottom, above 85% floor, cash 10.85% < 15% = no violation. **Top-up blocked: weekly cap 3/3 used** (Tue trim + Thu XLB/FCX legs); rolls to Monday.
+- Sector concentration: XLI 23.49%; FCX (Materials) 19.64%; XLV 19.28%; AVGO (Tech) 12.43%; OXY (Energy) 9.33%; XLP 4.97%; Cash 10.85%. All caps clean.
+- Trail coverage: 7 GTC orders covering all 800 shares across 6 positions.
+
+**Action: NONE (trading). Log-only: reconciled the unlogged AVGO 5% tighten.**
+
+**PM watch:** XLI hwm $188.185 / XLV $168.526+ / XLP $88.79+ / OXY $58.99+ ratchets; AVGO 5% trail does the work from here. Friday = weekly review due this afternoon. Monday: fresh 6 trade slots, deployment top-up to 90%+ is priority action. EOD snapshot Day 69 on next workflow.

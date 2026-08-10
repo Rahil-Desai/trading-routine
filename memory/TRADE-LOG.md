@@ -985,3 +985,17 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: log backfill only -- no orders placed or cancelled at midday.**
 
 **PM watch:** OXY hwm $58.99 (0.98% away) ratchet; XLV hwm $168.525 (0.48% away) ratchet; NEM day-1 hold; CPI Wed 8:30 ET = the binary, 94.3% deployed into it, trails armed. EOD snapshot Day 70 on next workflow.
+
+### Aug 10 -- EOD Snapshot (Day 70, Monday)
+**Portfolio:** $103,678.88 | **Cash:** $5,922.16 (5.71%) | **Day P&L:** +$955.03 (+0.93%) | **Phase P&L:** +$3,678.88 (+3.68%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| AVGO | 30 | $358.84 | $422.69 | -1.19% | +$1,915.50 (+17.79%) | $411.0935 (5% trail, hwm $432.73) |
+| FCX | 290 | $69.05 | $70.238 | +0.89% | +$344.52 (+1.72%) | $64.0935 (10% trail, hwm $71.215) |
+| NEM | 90 | $114.16 | $117.00 | +3.56% | +$255.60 (+2.49%) | $105.957 (10% trail, hwm $117.73) |
+| OXY | 170 | $55.52 | $58.66 | +4.92% | +$533.87 (+5.66%) | $53.091 (10% trail, hwm $58.99) |
+| XLI | 130 | $173.962385 | $184.60 | -0.31% | +$1,382.89 (+6.12%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $168.39 | +1.64% | +$1,462.54 (+7.80%) | $151.6725 (qty 80) / $151.6725 (qty 40) (10% trail, hwms $168.525 both) |
+
+**Notes:** Best close of the challenge -- **new phase high $103,678.88 (+3.68%)**, Day P&L **+$955.03 (+0.93%)** vs Alpaca last_equity $102,723.85 (authoritative Aug 7 close). **Two trades today = the rule-11 XLP -> NEM rotation at market-open (13:47-13:48 UTC): SOLD 60 XLP @ $84.370167 (realized -$10.19 / -0.20%, Staples strike 1), BOUGHT 90 NEM @ $114.16 (9.9% of equity, 10% trail placed same minute).** Weekly count **2/6**, Monday reset. **NEM day 1: +2.49% unrealized** to $117.00 (+3.56% day) -- gold-complex thesis working immediately; fresh auto-ratchet hwm $116.455 -> **$117.73**, stop $104.8095 -> **$105.957**. **OXY +4.92%** to $58.66 on crude rebound (unrealized +5.66% / +$534), hwm $58.99 = 0.56% away, ratchet likely tomorrow. **XLV +1.64%** to $168.39 (unrealized +7.80% / +$1,463), hwm $168.525 just 0.08% above close = ratchet imminent. AVGO -1.19% digestion to $422.69 (still +17.79% / +$1,916, best on book, 5% trail locks ~+14.6% worst case). FCX +0.89% (+1.72%). XLI -0.31% (+6.12% / +$1,383). No -7% cuts (all 6 green unrealized). No tighten triggers (AVGO already 5%; next XLV +7.80% < +15%). Deployment **94.29%** ($97,756.72 / $103,678.88) -- back inside the 90-100% band after the NEM deploy, rule-2 top-up complete. **Sector mix:** XLI 23.15%; Materials **29.81%** (FCX 19.65% + NEM 10.16%) -- under the 30% cap with zero headroom, NO Materials adds; XLV 19.49%; AVGO (Tech) 12.23%; OXY (Energy) 9.62%; Cash 5.71%. 6 positions, 5-8 band OK. **Trail coverage:** 7 GTC orders covering all 830 shares across 6 positions. **Tomorrow (Tue):** manage-mode into **CPI Wed 8:30 ET = the week's binary**, 94.3% deployed with trails armed; ratchet watches XLV $168.526+ / OXY $58.99+ / FCX $71.22+ / XLI $188.19+ / AVGO $432.74+ / NEM $117.74+; 4 weekly trade slots left -- no adds planned unless a leader sets up, Materials capped.

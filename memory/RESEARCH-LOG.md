@@ -4334,3 +4334,65 @@ Reasoning: (a) phase at new highs, 93.4% deployed, all caps clean, 5 of 6 green 
 - NFP tomorrow = week's binary; FCX high-beta into it (10% trail = the control).
 - OXY call 1pm ET -- guidance risk after the gap.
 - AVGO -1.0% early ($414.02); +20% trigger $430.61 = 4.0% away, 7% trail armed.
+
+## 2026-08-10 -- Pre-market Research (Mon, Day 70, Week 16, CPI WEEK + FRESH SLOTS + DEPLOY-THE-CASH DAY)
+
+### Account
+- Equity: **$102,927.20** (vs last_equity $102,723.85 = **+$203.35 / +0.20%** premarket read)
+- **Phase P&L +$2,927.20 (+2.93%)** -- new challenge high water
+- Cash: **$11,134.35** = **10.82% cash / 89.18% deployed** -- below 90% band bottom (above 85% floor, <15% so no violation), but this is the SECOND session rolling with the top-up undone. Friday's plan made Monday deploy the priority; weekly slots are fresh -- **today is the deploy day.**
+- Daytrade count: PDT preserved (swings only)
+- Long MV: **$91,792.85**
+- **Positions (6 unchanged)**:
+  - **AVGO 30** @ $358.84 -> **$429.81** (+$2,129.10 / **+19.78%**; +0.48%) -- **printing ABOVE hwm $428.26 -> 5% trail ratchets at open.** $430.61 (+20%) = 0.19% above, but rule-9 tighten to 5% ALREADY DONE Fri -> a tag needs no action; trail $406.847 locks ~+13.4% worst case
+  - **FCX 290** @ $69.05 -> **$70.00** (+$275.50 / +1.38%; +0.55%) -- day-3 constructive; hwm $70.535 = 0.76% away = closest ratchet
+  - **OXY 170** @ $55.52 -> **$56.36** (+$142.87 / +1.51%; +0.81%) -- crude rebound tailwind; trail $53.091 = 5.80% below
+  - **XLI 130** @ $173.962385 -> **$185.37** (+$1,482.99 / +6.56%; +0.10%) -- hwm $188.185 = 1.52% away
+  - **XLP 60** @ $84.54 -> **$84.74** (+$12.05 / +0.24%; -0.45%) -- quiet; hwm $88.78 = 4.77% away
+  - **XLV 120** @ $156.202167 -> **$165.29** (+$1,090.54 / +5.82%; -0.24%) -- hwms $168.525 = 1.96% away
+- Open trail stops (**7 GTC, all armed, all 800 shares covered**):
+  - AVGO $406.847 q30 (**5%**, hwm $428.26); FCX $63.4815 q290 (10%, hwm $70.535)
+  - OXY $53.091 q170 (10%, hwm $58.99); XLI $169.3665 q130 (10%, hwm $188.185)
+  - XLP $79.902 q60 (10%, hwm $88.78); XLV $151.6725 q80 / $151.6725 q40 (10%, hwms $168.525 both)
+- Weekly count: **0/6 -- fresh slots** (last week closed at 3)
+- **Sector mix** (of $102,927.20): XLI 23.41%, FCX (Materials) 19.72%, XLV 19.27%, AVGO (Tech) 12.53%, OXY (Energy) 9.31%, XLP 4.94%, cash 10.82%. **All caps clean.** Materials headroom to 30% cap = **~$10.5K max add**; Industrials headroom ~$6.8K; Energy ~$21.3K; Healthcare ~$11.0K.
+
+### Market Context
+- **Oil REBOUNDING: WTI ~$78.4 (+1.0-1.7%), Brent ~$83.8-84.4 (+0.9-1.9%)** -- Strait-of-Hormuz reopening uncertainty re-priced after last week's >7% slide. OXY tailwind today; inflation-read risk for Wednesday's CPI.
+- **ES futures flat (~7,772-7,777, -0.1% to flat)** at records. Friday: **S&P +0.62% to record 7,757.64** -- best 5-day run since April -- after **NFP showed -23,000 jobs in July** (weakest in years) and the tape bought the Fed-cut path. Bad-news-is-good-news regime.
+- **VIX 14.90** (-1.65% Fri) -- deepest complacency of the challenge; record tape priced for good news into a binary week.
+- **Macro: light Monday. The week: CPI Wed Aug 12 8:30 ET (cons ~3.4% YoY vs 3.5% prior) = THE binary; PPI Thu; Retail Sales Fri.** Fed-cut trade is now the tape's engine -- a hot CPI is the biggest single risk on the calendar.
+- **Earnings: today BMO Barrick (B), Ferguson (FERG), Kaspi, Axsome; AMC Simon Property (SPG), Rocket Lab (RKLB). Nothing held reports** (AVGO Sep 2). Tue AMC: SMCI, LITE, CAH.
+- **Sector momentum YTD -- LEADERSHIP SHIFT: Tech reclaimed #1 (~+30.6% YTD, +7.2% 1W** on PLTR/semis rip); Energy +28.6% (**-3.4% 1W, fading**); Industrials +19.4%; Materials +16.6% (+4.8% 1W). Book sits in 3 leaders + AVGO; the one sector ripping (Tech) is entry-paused until ~Aug 14 -- AVGO grandfathered rump is the exposure.
+
+### Held-ticker News
+- **AVGO** $429.81 (+19.78% unreal). Bloomberg: **Apollo/Blackstone weighing a $55B financing package** tied to Broadcom -- stock rallied on the headline; AI-capex narrative + Apple-through-2031 pact intact. Watch: proposed US ban on Chinese-made optical transceivers = supply-chain headline risk. 5% trail does the work; ratchet fires at open.
+- **FCX** $70.00 (+1.38%). No fresh name news; copper/Q2-beat thesis intact, Materials +4.8% 1W supports. Hwm 0.76% away.
+- **OXY** $56.36 (+1.51%). Crude +1-2% premarket = spot tailwind post-beat; no name-specific news. Trail is the exit.
+- **XLI** $185.37 (+6.56%). Sector +3.0% 1W; quiet, ratchet watch.
+- **XLP** $84.74 (+0.24%). Laggard on the book -- flat 9+ weeks; rotation candidate if a vetted single-name needs the slot (small: only ~$5.1K).
+- **XLV** $165.29 (+5.82%). Sector bid intact; hwm 1.96% away.
+
+### Trade Ideas
+1. **DEPLOY THE $11.1K (priority, rule 2 + Friday's standing plan): NEM (Newmont) ~$111** -- catalyst: gold-complex momentum (NEM +5.3% Friday screen, gold at highs) + **Barrick (B) BMO print TODAY = free sector read-through before entry**; relative strength: Materials +4.8% 1W, NEM leading the sector. Entry: ~90 sh ≈ $10.0K (9.7% of book) at/after open **if Barrick print confirms complex strength**; stop 10% GTC trail; target +20% (2:1). **Cap check: Materials 19.72% + 9.7% = ~29.4% -- fits under 30% but NO room to size up; hard ceiling $10.5K.**
+2. **Fallback if Barrick disappoints: Energy single-name top-up** (sector room ~$21.3K; crude rebounding; but Energy -3.4% 1W = weaker momentum case -- needs the oil bid to hold through the open) or **Healthcare single-name** (room ~$11.0K; XLV +5.8% and rising). Either way the cash gets deployed THIS session -- band bottom is 90% and slots are fresh.
+3. **AVGO: no discretionary action.** Ratchet fires at open (printing above hwm); +20% tag already satisfied by Friday's 5% tighten. Next event Sep 2 earnings.
+
+### Risk Factors
+- **CPI Wed on a VIX-14.9 record tape** -- the Fed-cut trade IS the tape; oil's rebound feeds the hot-CPI scenario. Deploying today means ~99% invested into the print -- trails are the control (worst-case book drawdown to stops ≈ 8-9%).
+- **Bad-news-is-good-news fragility**: Friday rallied on job LOSSES; a second soft data point could flip to growth-scare read.
+- **AVGO optical-transceiver China-ban headlines** on 12.5% of book at +19.8% -- 5% trail caps the give-back at ~+13.4%.
+- **Barrick miss** would kill idea 1 same morning -- fallbacks pre-listed, don't force the gold read.
+- No -7% cut candidates (worst XLP +0.24%); no stop inside the 3% zone (nearest AVGO 5.34% below).
+
+### Decision
+**HOLD premarket -- no orders before the open. Market-open run executes the deploy: (1) read Barrick BMO print; (2) if gold complex confirms -> BUY ~90 NEM ≈ $10.0K with 10% GTC trail same minute (Materials ceiling $10.5K); (3) if not -> Energy or Healthcare fallback per idea 2 -- cash does NOT roll a third session; (4) confirm AVGO/FCX ratchets at open.**
+
+Reasoning: (a) fresh 6/6 slots + 10.8% cash + band bottom 90% = rule-2/rule-5 alignment, and Friday's plan already named Monday as deploy day; (b) NEM is the one candidate with a same-morning catalyst gate (Barrick print) AND sector momentum behind it; (c) sizing is cap-constrained, not conviction-constrained -- $10K keeps Materials legal with zero headroom games; (d) everything else on the book is rule-managed by the 7 trails into a binary CPI week.
+
+### Plan for the day
+- **8:00 ET**: Barrick (B) print -- gold-complex gate for NEM.
+- **9:30 ET open**: verify 7 GTC trails; AVGO ratchet above $428.26 confirm; FCX $70.54+ / XLI $188.19+ / XLV $168.53+ ratchet watches; execute deploy per decision tree.
+- **Midday scan**: deployment % re-check (target 98-99% post-buy); new-position trail confirmed; XLP dead-money assessment (rotation candidate, low priority).
+- **AMC**: SPG/RKLB prints -- read-only, nothing held.
+- **EOD**: TRADE-LOG Day 70 snapshot; log the deploy (or the documented fallback path taken); pre-position Tue plan (SMCI AMC = semi tape mover -> AVGO sympathy watch).

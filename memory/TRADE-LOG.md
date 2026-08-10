@@ -950,3 +950,38 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | XLV | 120 | $156.202167 | $165.68 | +0.75% | +$1,137.34 (+6.07%) | $151.6725 (qty 80) / $151.6725 (qty 40) (10% trail, hwms $168.525 both) |
 
 **Notes:** NFP Friday absorbed well -- best close of the challenge. Day P&L **+$811.07 (+0.80%)** vs Alpaca last_equity $101,909.70 (authoritative Aug 6 close; Aug 6 log snapshot $101,798.57 ran light -- last_equity anchor kept per convention); phase **+$2,720.77 (+2.72%)** = **new equity high**. **Zero trades today** (weekly count stays 3 = Tue AVGO trim + Wed XLB->FCX legs; no market-open/midday log entries today, but order timestamps show the runs acted). **Key order action intraday: AVGO trail tightened 7% -> 5%** (13:51 UTC, new order d2b22d38 replacing the 7% trail): hwm $428.26, stop **$406.847** = $48.01 above entry, locks ~**+13.4% worst case** on the 30-sh rump; buffer to close 4.79% (>3% rule OK, stop moved UP only). **FCX +2.24%** to $69.705 = day-2 recovery, unrealized back green (+0.95% / +$190); fresh ratchet hwm $69.67 -> **$70.535**, stop -> **$63.4815** (13:50 UTC). **AVGO +1.61%** to $427.325 (unrealized **+19.09% / +$2,055**, best on book). XLV +0.75% (+6.07% / +$1,137; hwm $168.525 = 1.72% away = closest ratchet). XLI +0.18% (+6.40% / +$1,448). OXY -0.23% post-beat digestion ($55.91, +0.70% unrealized). XLP -0.07%. No -7% cuts (no position red). **All 6 positions green unrealized** -- first time in the challenge. Deployment **89.16%** ($91,586.42 / $102,720.77) -- below the 90% band bottom, above the 85% floor; top-up was blocked all week by the used slots, rolls to Monday. **Sector mix:** XLI 23.43%; FCX (Materials) 19.68%; XLV 19.35%; AVGO (Tech) 12.48%; OXY (Energy) 9.25%; XLP 4.97%; Cash 10.84%. 6 positions, 5-8 band OK. **Trail coverage:** 7 GTC orders covering all 800 shares across 6 positions. **Monday:** fresh weekly slots = priority is the ~$11.1K cash deploy to re-enter the 90-100% band (single-name leader screen, non-Tech until ~Aug 14); ratchet watches XLV $168.526+ / XLP $88.79+ / XLI $188.186+ / AVGO $428.27+ / FCX $70.54+; OXY steady post-print, trail is the exit.
+## 2026-08-10 -- Midday Scan (BACKFILL: MARKET-OPEN XLP -> NEM ROTATION; NO NEW MIDDAY ACTION)
+
+**Backfill note:** Market-open run executed the pre-market plan (13:47-13:48 UTC) but did not log/commit -- reconstructed here from Alpaca order history at midday.
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-08-10 | XLP | SELL | 60 | $84.370167 | -- | Rule-11 dead-money rotation: flat 9+ weeks, book laggard; realized **-$10.19 (-0.20%)** -> **Staples STRIKE 1** (rolling 90d, rule 12) | -- | -- |
+| 2026-08-10 | NEM | BUY | 90 | $114.16 | $104.8095 (10% trail GTC, order be3b3624) | Gold-complex momentum (gold at highs, NEM sector leader, Materials +4.8% 1W); Barrick BMO gate passed per pre-market plan | ~$137 (+20%) | 2:1 |
+
+**Execution (13:47-13:48 UTC):** (1) cancelled XLP 10% trail (7dea6880); (2) SOLD 60 XLP market @ $84.370167 = $5,062.21 proceeds, realized **-$10.19 (-0.20%)** -- counts as a Staples losing exit = strike 1; (3) BOUGHT 90 NEM market @ $114.16 = $10,274.40 = 9.9% of equity; (4) placed 10% trail GTC same minute. Weekly count **2/6**.
+
+**Midday account:** Equity **$103,646.07** = new phase high | Cash $5,922.16 (**5.71%**) | Long MV $97,723.91 | Day P&L +$922.22 (+0.90%) vs last_equity $102,723.85 | Phase P&L **+$3,646.07 (+3.65%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AVGO | 30 | $358.84 | $423.20 | -1.07% | +$1,930.80 (+17.94%) | $411.0935 (5% trail, hwm $432.73) |
+| FCX | 290 | $69.05 | $70.77 | +1.65% | +$498.80 (+2.49%) | $64.0935 (10% trail, hwm $71.215) |
+| NEM | 90 | $114.16 | $115.79 | +2.49% | +$146.70 (+1.43%) | $104.8095 (10% trail, hwm $116.455) |
+| OXY | 170 | $55.52 | $58.42 | +4.49% | +$493.07 (+5.22%) | $53.091 (10% trail, hwm $58.99) |
+| XLI | 130 | $173.962385 | $184.89 | -0.16% | +$1,420.59 (+6.28%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $167.72 | +1.23% | +$1,382.14 (+7.37%) | $151.6725 (qty 80) / $151.6725 (qty 40) (10% trail, hwms $168.525 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none (all 6 green, worst NEM +1.43%).
+- +15%/+20% tighten: none needed. AVGO +17.94% already on 5% trail (tightest tier). Next XLV +7.37%.
+- Thesis crack: none. OXY +4.49% = crude rebound per pre-market read (WTI ~$78+), thesis working, hwm $58.99 = 0.98% away = ratchet imminent. NEM day 1 +1.43% -- gold complex confirmed. AVGO -1.07% = noise after Friday rip.
+- **Auto-ratchets since Friday:** AVGO hwm $428.26 -> **$432.73**, stop -> **$411.0935** (locks ~+14.6% worst case; buffer to price 2.86% -- auto-trail, no touch, never moved down); FCX hwm $70.535 -> **$71.215**, stop -> **$64.0935**.
+- 3% / move-down rules: no manual stop placed inside 3%; nothing moved down.
+- Deployment **94.29%** -- back inside 90-100% band (was 89.2% Fri). Rule-2 top-up COMPLETE via NEM deploy.
+- **Sector concentration: Materials 29.86%** (FCX 19.80% + NEM 10.05%) -- under 30% cap with ZERO headroom: NO Materials adds; trim on strength only if it breaches. XLI 23.19%; XLV 19.42%; AVGO (Tech) 12.25%; OXY (Energy) 9.58%; cash 5.71%. Staples: book exposure now 0, strike 1 on ledger.
+- Positions: 6 (5-8 band OK). Trail coverage: **7 GTC orders covering all 830 shares across 6 positions.**
+
+**Action this run: log backfill only -- no orders placed or cancelled at midday.**
+
+**PM watch:** OXY hwm $58.99 (0.98% away) ratchet; XLV hwm $168.525 (0.48% away) ratchet; NEM day-1 hold; CPI Wed 8:30 ET = the binary, 94.3% deployed into it, trails armed. EOD snapshot Day 70 on next workflow.

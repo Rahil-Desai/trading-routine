@@ -4396,3 +4396,61 @@ Reasoning: (a) fresh 6/6 slots + 10.8% cash + band bottom 90% = rule-2/rule-5 al
 - **Midday scan**: deployment % re-check (target 98-99% post-buy); new-position trail confirmed; XLP dead-money assessment (rotation candidate, low priority).
 - **AMC**: SPG/RKLB prints -- read-only, nothing held.
 - **EOD**: TRADE-LOG Day 70 snapshot; log the deploy (or the documented fallback path taken); pre-position Tue plan (SMCI AMC = semi tape mover -> AVGO sympathy watch).
+
+## 2026-08-11 -- Pre-market Research (Tue, Day 71, Week 16, CPI EVE -- MANAGE MODE)
+
+### Account
+- Equity: **$103,794.02** (vs last_equity $103,776.62 = +$17.40 / +0.02% premarket read)
+- **Phase P&L +$3,794.02 (+3.79%)** -- at the challenge high water
+- Cash: **$5,922.02 (5.71%) / 94.29% deployed** -- inside 90-100% band, rule 2 clean
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6)**:
+  - **AVGO 30** @ $358.84 -> **$424.99** (+$1,984.50 / **+18.43%**; +0.61%) -- 5% trail $411.0935, hwm $432.73
+  - **FCX 290** @ $69.05 -> **$70.75** (+$493.00 / +2.46%; +0.34%) -- hwm $71.215 = 0.66% away = closest ratchet
+  - **NEM 90** @ $114.16 -> **$116.57** (+$216.90 / +2.11%; -0.59%) -- day-2 digestion after +3.56% Mon; trail $105.957, hwm $117.73
+  - **OXY 170** @ $55.52 -> **$58.35** (+$481.17 / +5.10%; -0.51%) -- crude +5% Mon = tailwind; hwm $58.99 = 1.10% away
+  - **XLI 130** @ $173.962385 -> **$184.60** (+$1,382.89 / +6.12%; flat) -- hwm $188.185 = 1.94% away
+  - **XLV 120** @ $156.202167 -> **$168.30** (+$1,451.74 / +7.75%; -0.08%) -- **hwm $168.525 = 0.13% away = ratchet likely at open**
+- Open trail stops (**7 GTC, all 830 shares covered**): AVGO $411.0935 q30 (5%, hwm $432.73); FCX $64.0935 q290 (10%, hwm $71.215); NEM $105.957 q90 (10%, hwm $117.73); OXY $53.091 q170 (10%, hwm $58.99); XLI $169.3665 q130 (10%, hwm $188.185); XLV $151.6725 q80 / q40 (10%, hwms $168.525)
+- Weekly count: **2/6** (Mon XLP->NEM rotation legs)
+- **Sector mix** (of $103,794.02): XLI 23.12%; **Materials 29.88%** (FCX 19.77% + NEM 10.11%) -- under 30% cap, ZERO headroom, NO Materials adds; XLV 19.46%; AVGO (Tech) 12.28%; OXY (Energy) 9.56%; cash 5.71%. All caps clean.
+
+### Market Context
+- **Oil SURGED: WTI ~$82-83 (+~5% Mon), Brent ~$87-89** -- US-Iran deal faded after Trump compensation demand; Hormuz reopening re-priced OUT. Direct OXY tailwind; direct hot-CPI-scenario feed 24h before the print.
+- **ES futures ~7,785-7,790 (+0.1%)** at records; S&P cash ~7,755 after a flat Monday (oil drag vs soft-jobs Fed-cut bid).
+- **VIX ~15.5 (+3.8% Mon, from 14.90)** -- vol bid INTO the CPI, complacency cracking slightly but still low-teens.
+- **Macro: today light (ADP weekly 8:15 ET, 10:00 misc). CPI TOMORROW Wed Aug 12 8:30 ET = THE binary (cons ~3.4% YoY vs 3.5% prior; June printed -0.4% m/m on the energy slide -- Monday's oil spike is the upside risk to the NEXT print, sentiment risk today).** PPI Thu, Retail Sales Fri.
+- **Earnings: BMO today CAH, ARMK, LITE, CELH -- nothing held. AMC TODAY: SMCI + CRWV = AI-hardware tape movers -> AVGO sympathy read Wed open.** AVGO itself Sep 2.
+- **Sector momentum: Materials +4.8% 1W (gold complex + copper), Energy re-bid on crude spike, Tech AI-trade re-broadening (NVDA $500B AI-infra financing consortium with Apollo/Blackstone/BlackRock/Brookfield).** Book is aligned: 2 Materials names, OXY in Energy, AVGO grandfathered Tech.
+
+### Held-ticker News
+- **AVGO** $424.99 (+18.43% unreal). **Long-term Google deal for AI-specific ASIC accelerators reported Mon PM** -- second custom-silicon mega-client headline in 3 sessions (Apollo/Blackstone $55B financing Fri). Closed Mon -1.25% on profit-taking; SMCI/CRWV prints AMC = tonight's sympathy risk/catalyst. 5% trail locks ~+14.6% worst case.
+- **FCX** $70.75 (+2.46%). No fresh name news; copper thesis intact, sector 1W leadership holds. Hwm 0.66% away.
+- **NEM** $116.57 (+2.11%). Day-2 digestion (-0.59% premarket) after +3.56% day 1; gold complex bid intact. No name news. Trail armed.
+- **OXY** $58.35 (+5.10%). **Crude +5% Mon = strongest name tailwind on the book**; hwm $58.99 = 1.10% away, ratchet on any green open.
+- **XLI** $184.60 (+6.12%). Quiet; sector flat Mon. Hwm 1.94% away.
+- **XLV** $168.30 (+7.75%). **Hwm 0.13% away -- ratchet fires on essentially any green tick at open.**
+
+### Trade Ideas
+1. **NO NEW ENTRIES TODAY (primary): CPI eve at 94.29% deployed.** Band is satisfied, Materials capped at zero headroom, Tech paused until ~Aug 14, and the one hot sector (Energy via crude spike) prints its inflation read tomorrow 8:30. Adding today = buying the top of a 24h binary with no deployment obligation. Trails are the risk control -- worst-case book-to-stops ~8-9%.
+2. **OXY ratchet watch (rule-managed):** crude +5% should carry OXY through hwm $58.99 -> auto-ratchet lifts stop above $53.091. No manual touch -- log the new hwm/stop at midday. If crude reverses hard intraday (Iran headline whipsaw), trail already banked +5.10% floor-ish; no discretionary exit.
+3. **Wed-morning prep (post-CPI playbook, pre-write today):** (a) cool CPI + SMCI/CRWV beats -> Tech pause expires ~Aug 14, screen AVGO-adjacent AI-hardware leaders (CRWV/SMCI reaction, LITE, COHR) for the Thu/Fri slots (4 left); (b) hot CPI -> stand down, let 7 trails work, re-assess deployment only if a stop fires and frees cash.
+
+### Risk Factors
+- **CPI Wed 8:30 ET on a record tape, VIX 15.5, 94.3% deployed** -- Monday's +5% crude move is literal upside fuel for the inflation scare scenario; bad-news-is-good-news regime flips if the print runs hot.
+- **SMCI + CRWV AMC tonight** -- AI-hardware disappointment hits AVGO (12.3% of book at +18.4%) at Wed open; 5% trail caps give-back at ~+14.6%.
+- **Iran headline whipsaw** -- deal revival = crude dump = OXY reversal (trail floor ~$53.09 pre-ratchet); deal collapse = crude rip = OXY up but CPI-scare beta down everywhere else.
+- **NEM day-2 red** -- normal digestion, but gold complex is crowd-long into CPI; cut line -7% (far, position +2.11%).
+- No -7% cut candidates (all 6 green, worst NEM +2.11%); no stop inside the 3% zone (nearest AVGO 3.21% below price... verify at open); nothing moved down.
+
+### Decision
+**HOLD. Zero orders today -- manage mode into CPI. Watches, in priority order: (1) XLV $168.525+ ratchet confirm at open (0.13% away); (2) OXY $58.99+ ratchet on the crude bid; (3) FCX $71.22+ ratchet; (4) SMCI/CRWV AMC prints -> Wed AVGO sympathy read; (5) pre-write both CPI branches per idea 3 -- Wed market-open run executes the branch that prints.**
+
+Reasoning: (a) 94.29% deployed, all caps clean, all 6 green, 7 trails armed -- the book IS the position; (b) rule 2 satisfied so bias-to-action has no deployment trigger, and 4 remaining weekly slots are worth more Thu/Fri post-CPI with the Tech pause expiring than today at records into the binary; (c) every open watch is rule-triggered (auto-ratchets), zero discretionary touches needed; (d) crude's spike helps the book's biggest 1W winners (OXY, Materials complex) while its main risk (hot CPI) is exactly what the trail stack is built for.
+
+### Plan for the day
+- **8:15 ET**: ADP weekly -- minor; rate-reprice check only.
+- **9:30 ET open**: verify 7 GTC trails; XLV/OXY/FCX ratchet confirms; NEM day-2 hold check.
+- **Midday scan**: log any ratchets (new hwm/stop pairs); deployment re-check; crude tape vs OXY; no new entries.
+- **AMC**: **SMCI + CRWV prints -- read same evening**; note beat/miss + guide for Wed AVGO sympathy and post-pause Tech screen.
+- **EOD**: TRADE-LOG Day 71 snapshot; CPI-eve positioning note; pre-position Wed plan = the two-branch CPI playbook.

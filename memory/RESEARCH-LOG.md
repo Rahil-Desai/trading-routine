@@ -4396,3 +4396,14 @@ Reasoning: (a) fresh 6/6 slots + 10.8% cash + band bottom 90% = rule-2/rule-5 al
 - **Midday scan**: deployment % re-check (target 98-99% post-buy); new-position trail confirmed; XLP dead-money assessment (rotation candidate, low priority).
 - **AMC**: SPG/RKLB prints -- read-only, nothing held.
 - **EOD**: TRADE-LOG Day 70 snapshot; log the deploy (or the documented fallback path taken); pre-position Tue plan (SMCI AMC = semi tape mover -> AVGO sympathy watch).
+
+## 2026-08-11 -- Midday Addendum (Tue, Day 71; no pre-market entry today -- run didn't commit)
+
+### Intraday check: FCX -2.78% to $68.55
+- Perplexity: weakness = **Grasberg execution-risk repricing + insider-selling chatter**; no fresh company-specific headline today; copper action secondary.
+- Read: sentiment noise inside an intact copper/Q2-beat thesis (Grasberg guidance trim was known at entry). Position -0.72% unrealized on day 4. **HOLD** -- cut line -7% (~$64.22) per rule 8.
+- NEM (other Materials leg): -0.39%, no name news, tracking gold/sector sentiment. Thesis intact.
+
+### Context into CPI (tomorrow 8:30 ET, cons ~3.4% YoY)
+- 94.27% deployed, 7 GTC trails covering all 830 shares; worst-case book drawdown to stops ~8-9%.
+- No action taken at midday: no -7% cuts, no tighten triggers, no thesis breaks.

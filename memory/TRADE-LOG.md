@@ -1013,3 +1013,30 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | XLV | 120 | $156.202167 | $168.28 | -0.10% | +$1,449.34 (+7.73%) | $152.694 (qty 80) / $152.694 (qty 40) (10% trail, hwms $169.66 both) |
 
 **Notes:** Quiet pre-CPI give-back. Day P&L **-$502.60 (-0.48%)** vs Alpaca last_equity $103,776.62 (authoritative Aug 10 close; Aug 10 log snapshot $103,678.88 ran light -- last_equity anchor kept per convention); phase **+$3,274.02 (+3.27%)**. **Zero trades today** -- weekly count stays **2/6** (Mon XLP -> NEM rotation legs). Manage-only session as planned. **Three auto-ratchets today, all stops UP only:** NEM hwm $117.73 -> **$118.2124**, stop -> **$106.3912**; OXY hwm $58.99 -> **$59.55** (finally tagged after sitting <1% away for two sessions), stop -> **$53.595**; XLV hwm $168.525 -> **$169.66**, stop -> **$152.694** (both lots). **FCX -2.33%** to $68.87 = worst on book, unrealized back slightly red (-0.26% / -$52) -- copper-beat thesis intact, nowhere near the -7% cut line, 10% trail armed. **AVGO -1.52%** digestion to $415.98 (unrealized **+15.92% / +$1,714**, still best on book; 5% trail stop $411.0935 = 1.17% below close -- auto-trail, locks ~+14.6% worst case). OXY +0.70% to $59.06 (+6.38% / +$602) = crude-rebound thesis still working. XLI +0.60% (+6.75% / +$1,526). XLV -0.10% (+7.73% / +$1,449). NEM -0.26% day 2 ($116.95, +2.44% unrealized). No -7% cuts; no +15%/+20% tighten triggers (AVGO already on 5% tier). Deployment **94.27%** ($97,352.00 / $103,274.02) -- inside the 90-100% band. **Sector mix:** XLI 23.38%; Materials **29.53%** (FCX 19.34% + NEM 10.19%) -- under the 30% cap, zero headroom, NO Materials adds; XLV 19.55%; AVGO (Tech) 12.08%; OXY (Energy) 9.72%; Cash 5.73%. 6 positions, 5-8 band OK. **Trail coverage:** 7 GTC orders covering all 830 shares across 6 positions. **Tomorrow (Wed): CPI 8:30 ET = the week's binary**, 94.3% deployed into it with trails armed; ratchet watches OXY $59.56+ / XLV $169.67+ / NEM $118.22+ / FCX $71.22+ / XLI $188.19+ / AVGO $432.74+; 4 weekly slots left -- post-CPI strength could fund a leader add (non-Materials), weakness = trails do the work.
+
+## 2026-08-12 -- Midday Scan (CPI DAY -- NO ACTION, NEM AUTO-RATCHET LOGGED)
+
+**Midday account:** Equity $103,392.17 | Cash $5,922.02 (5.73%) | Long MV $97,470.15 | Day P&L +$124.15 (+0.12%) vs last_equity $103,268.02 | Phase P&L +$3,392.17 (+3.39%)
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AVGO | 30 | $358.84 | $419.29 | +0.77% | +$1,813.37 (+16.85%) | $411.0935 (5% trail, hwm $432.73) |
+| FCX | 290 | $69.05 | $68.84 | -0.04% | -$60.90 (-0.30%) | $64.0935 (10% trail, hwm $71.215) |
+| NEM | 90 | $114.16 | $118.04 | +0.71% | +$349.20 (+3.40%) | $108.171 (10% trail, hwm $120.19) |
+| OXY | 170 | $55.52 | $58.37 | -1.17% | +$484.57 (+5.13%) | $53.595 (10% trail, hwm $59.55) |
+| XLI | 130 | $173.962385 | $186.20 | +0.27% | +$1,590.89 (+7.04%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $168.11 | +0.06% | +$1,428.94 (+7.62%) | $152.694 (qty 80) / $152.694 (qty 40) (10% trail, hwms $169.66 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none (worst FCX -0.30% = noise inside a 10% trail).
+- +15%/+20% tighten: none needed. AVGO +16.85% already on 5% trail (tightest tier); next XLV +7.62%.
+- Thesis crack: none. **CPI 8:30 ET absorbed flat-to-green** -- book +0.12% at midday, no binary blowup either way. OXY -1.17% = crude give-back after Monday's +5% spike, thesis (+5.13% unrealized) intact, trail armed. NEM +0.71% day 3, gold complex bid holding. AVGO +0.77% = SMCI/CRWV AMC prints didn't dent the AI-hardware tape.
+- **1 fresh auto-ratchet since Tue EOD:** NEM hwm $118.2124 -> **$120.19**, stop $106.3912 -> **$108.171** (14:25 UTC, locks entry -5.2% worst case on day 3). Moved UP only; no manual touch. All other hwms unchanged (AVGO $432.73, FCX $71.215, OXY $59.55, XLI $188.185, XLV $169.66).
+- 3% / move-down rules: clean -- no manual stop placed or moved; AVGO auto-trail sits 1.95% below price (auto-ratchet artifact, not a manual placement), fires = locks ~+14.6%.
+- Deployment **94.27%** ($97,470.15 / $103,392.17) -- inside 90-100% band, rule 2 clean.
+- Sector concentration: XLI 23.41%; **Materials 29.58%** (FCX 19.31% + NEM 10.27%) -- under 30% cap, zero headroom, NO Materials adds; XLV 19.51%; AVGO (Tech) 12.17%; OXY (Energy) 9.60%; Cash 5.73%. All caps clean.
+- Positions: 6 (5-8 band OK). Trail coverage: **7 GTC orders covering all 830 shares across 6 positions.**
+
+**Action: NONE. Zero orders placed or cancelled -- CPI-day manage mode per Tue plan, trails doing the work.**
+
+**PM watch:** AVGO 5% trail $411.0935 = 1.95% below price -- closest stop on book, fires = clean +14.6% exit, no touch; XLI hwm $188.185 (1.07% away) / NEM $120.20+ / XLV $169.67+ ratchets; post-CPI leader screen for the 4 remaining weekly slots rolls to Thu (Tech pause expires ~Aug 14). EOD snapshot Day 72 on next workflow.

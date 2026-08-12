@@ -4454,3 +4454,29 @@ Reasoning: (a) 94.29% deployed, all caps clean, all 6 green, 7 trails armed -- t
 - **Midday scan**: log any ratchets (new hwm/stop pairs); deployment re-check; crude tape vs OXY; no new entries.
 - **AMC**: **SMCI + CRWV prints -- read same evening**; note beat/miss + guide for Wed AVGO sympathy and post-pause Tech screen.
 - **EOD**: TRADE-LOG Day 71 snapshot; CPI-eve positioning note; pre-position Wed plan = the two-branch CPI playbook.
+
+## 2026-08-12 -- Market-Open Inline Research (Wed, Day 72, Week 16, CPI DAY -- BRANCH (a) COOL PRINT)
+
+### Account
+- Equity: **$103,508.62** (vs last_equity $103,268.02 = +$240.60 / +0.23%)
+- Phase P&L **+$3,508.62 (+3.51%)**
+- Cash: **$5,922.02 (5.72%) / 94.28% deployed** -- inside 90-100% band, rule 2 clean
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6)**: AVGO 30 @ $358.84 -> $418.61 (+16.66%); FCX 290 @ $69.05 -> $69.14 (+0.12%); NEM 90 @ $114.16 -> $118.76 (+4.03%); OXY 170 @ $55.52 -> $58.57 (+5.49%, -0.83% day); XLI 130 @ $173.96 -> $186.60 (+7.27%); XLV 120 @ $156.20 -> $167.26 (+7.08%, -0.45% day)
+- Open trail stops (**7 GTC, all 830 shares covered**): AVGO $411.0935 q30 (5%, hwm $432.73); FCX $64.0935 q290 (10%, hwm $71.215); **NEM $108.054 q90 (10%, hwm $118.2124 -> $120.06 auto-ratchet this morning, stop UP from $106.3912)**; OXY $53.595 q170 (10%, hwm $59.55); XLI $169.3665 q130 (10%, hwm $188.185); XLV $152.694 q80 / q40 (10%, hwms $169.66)
+- Weekly count: **2/6** (Mon XLP->NEM legs); scheduled-run cap 3/week leaves 1 slot
+
+### Market Context
+- **CPI PRINTED IN LINE / COOL: headline +3.4% YoY (from 3.5%), +0.1% MoM; core +2.5% YoY (from 2.6%), +0.2% MoM** (BLS/CNBC). Fed-cut path intact; the week's binary resolved benign = pre-written branch (a).
+- **SMCI Q4 AMC: EPS $1.70 vs ~$0.71-0.92 cons = big beat; revenue $11.12B light vs $11.73B; strong guide -> stock +9% AH/premarket.** AI-hardware tape supportive; AVGO sympathy neutral-to-positive (+0.61% early).
+- Sector reads: gold complex strong (NEM +1.32% early, new hwm); crude digesting Mon spike (OXY -0.83%); Industrials/Healthcare steady.
+
+### Rule Checks (STEP 3 hard gates)
+- Positions after any new buy: 6 -> 7 = **FAIL vs <=6 cap. No new position may be opened today.**
+- Trades this week: 2 (cap 3 scheduled / 6 strategy) -- 1 slot, unusable per above.
+- Materials 29.70% -- zero headroom, no adds. Tech PAUSED through ~Aug 14 (rule 12) -- SMCI/CRWV screen is for Thu/Fri post-expiry.
+- -7% cuts: none (worst FCX +0.12%). +15%/+20% tightens: none new (AVGO +16.66% already on 5% tier, rule-14 trim done Aug 4). Rule-14 trim triggers: none (no other position >+15%, none >25% of book).
+- Deployment 94.28% -- no rule-2 obligation.
+
+### Decision
+**HOLD -- zero orders. Cool CPI branch (a) executed as pre-written: no chase at the open; trails do the work.** Tech-pause expiry ~Aug 14 + SMCI beat sets up the Thu/Fri screen (AVGO-adjacent AI hardware: SMCI reaction hold, LITE, COHR) -- any entry requires a slot freed by rotation (position cap 6 full) + fresh catalyst logged. Watches: NEM ratchet confirmed (stop $108.054); OXY hwm $59.55 vs crude digestion; XLV $169.66+ / FCX $71.22+ / XLI $188.19+ ratchets; PPI Thu 8:30 ET next macro gate.

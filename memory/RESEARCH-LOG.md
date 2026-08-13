@@ -4454,3 +4454,13 @@ Reasoning: (a) 94.29% deployed, all caps clean, all 6 green, 7 trails armed -- t
 - **Midday scan**: log any ratchets (new hwm/stop pairs); deployment re-check; crude tape vs OXY; no new entries.
 - **AMC**: **SMCI + CRWV prints -- read same evening**; note beat/miss + guide for Wed AVGO sympathy and post-pause Tech screen.
 - **EOD**: TRADE-LOG Day 71 snapshot; CPI-eve positioning note; pre-position Wed plan = the two-branch CPI playbook.
+
+## 2026-08-13 -- Midday Scan Addendum (Thu, Day 73)
+
+**Trigger:** NEM -3.17% intraday to $114.11 (sharpest book move, day-4 position back to breakeven).
+
+- **Cause (Perplexity):** gold itself down -0.3% to -0.8% (spot ~$4,386-4,401 vs ~$4,432 Wed close; Aug futures ~$4,384-4,395) on reduced rate-cut expectations + profit-taking after four straight days above $4,400. No NEM-specific news. ~4x miner beta explains the stock move.
+- **Read:** one red day in a bid complex != broken thesis. Barchart commentary flags the correction as possibly ending (weaker USD, improving sentiment). HOLD -- 10% trail at $108.171 (5.2% below price) is the exit if wrong.
+- **FCX -2.15%** to $67.73: metals-complex sympathy, no name news; copper thesis intact, -1.91% unrealized, far from -7% line.
+- PPI headline figures not confirmed by search; tape reaction modest (book -0.73% day, AVGO the only green name +1.43%).
+- **No action taken.**

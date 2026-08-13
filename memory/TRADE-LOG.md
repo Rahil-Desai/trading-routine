@@ -1027,3 +1027,30 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | XLV | 120 | $156.202167 | $168.43 | +0.25% | +$1,467.34 (+7.83%) | $152.694 (qty 80) / $152.694 (qty 40) (10% trail, hwms $169.66 both) |
 
 **Notes:** CPI Wednesday absorbed cleanly -- small green day. Day P&L **+$153.08 (+0.15%)** vs Alpaca last_equity $103,268.02 (authoritative Aug 11 close; Aug 11 log snapshot $103,274.02 ran a touch heavy -- last_equity anchor kept per convention); phase **+$3,421.10 (+3.42%)**. **Zero trades today** -- weekly count stays **2/6** (Mon XLP -> NEM rotation legs); manage-only session through the CPI binary, 94.3% deployed into it and it paid. **One auto-ratchet today: NEM** hwm $118.2124 -> **$120.19** (intraday tag), stop $106.3912 -> **$108.171** (14:25 UTC, up only) -- day-3 NEM now **+3.36% unrealized** at $118.00, gold-complex thesis compounding. **OXY -0.86%** to $58.55 = worst on book today, crude digestion after the rebound run, still +5.46% / +$515 unrealized, trail 8.5% below. **AVGO flat** (-0.02%) at $415.98 (unrealized **+15.92% / +$1,714**, best on book; 5% trail $411.0935 = 1.17% below close, locks ~+14.6% worst case -- auto-trail, never moved down). FCX +0.52% recovery day ($69.23, back green +0.26%). XLI +0.09% (+6.85% / +$1,548). XLV +0.25% (+7.83% / +$1,467), hwm $169.66 = 0.73% away. No -7% cuts (all 6 green unrealized). No +15%/+20% tighten triggers (AVGO already 5% tier; next XLV +7.83% < +15%). Deployment **94.27%** ($97,499.08 / $103,421.10) -- inside the 90-100% band. **Sector mix:** XLI 23.36%; Materials **29.68%** (FCX 19.41% + NEM 10.27%) -- under the 30% cap, zero headroom, NO Materials adds; XLV 19.54%; AVGO (Tech) 12.07%; OXY (Energy) 9.62%; Cash 5.73%. 6 positions, 5-8 band OK. **Trail coverage:** 7 GTC orders covering all 830 shares across 6 positions. **Tomorrow (Thu):** post-CPI drift -- manage-mode with 4 weekly slots live; a non-Materials leader add on strength is the only sanctioned use of them; ratchet watches XLV $169.67+ / NEM $120.20+ / FCX $71.22+ / XLI $188.19+ / AVGO $432.74+ / OXY $59.56+; PPI Thu 8:30 ET = minor binary, trails armed.
+
+## 2026-08-13 -- Midday Scan (Thu, Day 73 -- NO ACTION; POST-CPI RED DRIFT, PPI DAY)
+
+**Midday account:** Equity **$102,658.47** | Cash $5,922.02 (5.77%) | Long MV $96,736.45 | Day P&L **-$755.15 (-0.73%)** vs last_equity $103,413.62 (authoritative Aug 12 close) | Phase P&L **+$2,658.47 (+2.66%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AVGO | 30 | $358.84 | $421.98 | +1.43% | +$1,894.20 (+17.60%) | $411.0935 (5% trail, hwm $432.73) |
+| FCX | 290 | $69.05 | $67.73 | -2.15% | -$382.71 (-1.91%) | $64.0935 (10% trail, hwm $71.215) |
+| NEM | 90 | $114.16 | $114.11 | -3.17% | -$4.50 (-0.04%) | $108.171 (10% trail, hwm $120.19) |
+| OXY | 170 | $55.52 | $57.66 | -1.52% | +$363.87 (+3.86%) | $53.595 (10% trail, hwm $59.55) |
+| XLI | 130 | $173.962385 | $185.775 | -0.06% | +$1,535.64 (+6.79%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $168.385 | -0.03% | +$1,461.94 (+7.80%) | $152.739 (qty 80) / $152.739 (qty 40) (10% trail, hwms $169.71 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst unrealized FCX -1.91%; worst day move NEM -3.17% (still only -0.04% vs entry).
+- +15%/+20% tighten: none needed. AVGO +17.60% already on 5% trail (tightest tier); next XLV +7.80% < +15%.
+- Thesis check: NEM -3.17% = gold pullback (spot ~$4,386-4,401 vs ~$4,432 Wed, -0.6-0.8% on reduced rate-cut odds + profit-taking after 4 days above $4,400); no NEM name news; miner-beta amplification, day-4 position at breakeven, trail 5.2% below price -- thesis NOT broken, hold. FCX -2.15% metals-complex sympathy, no name news, copper thesis intact. AVGO +1.43% = only green name.
+- **Auto-ratchet since Wed: XLV** hwm $169.66 -> **$169.71**, stops $152.694 -> **$152.739** both lots (13:30 UTC, up only).
+- 3% / move-down rules: no manual stops placed; nothing inside 3% manually; nothing moved down.
+- Deployment **94.23%** ($96,736.45 / $102,658.47) -- inside 90-100% band.
+- **Sector mix:** XLI 23.53%; Materials **29.13%** (FCX 19.13% + NEM 10.00%) -- under 30% cap, NO Materials adds; XLV 19.68%; AVGO (Tech) 12.33%; OXY (Energy) 9.55%; Cash 5.77%.
+- Positions: 6 (5-8 band OK). Weekly count **2/6**. Trail coverage: **7 GTC orders covering all 830 shares across 6 positions.**
+
+**Action this run: NONE -- no orders placed or cancelled.**
+
+**PM watch:** NEM day-4 gold tape (cut line -7% = ~$106.17, trail $108.171 fires first); FCX vs copper; ratchet watches XLV $169.72+ / NEM $120.20+ / FCX $71.22+ / XLI $188.19+ / AVGO $432.74+ / OXY $59.56+. EOD snapshot Day 73 on next workflow.

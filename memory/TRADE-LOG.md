@@ -1041,3 +1041,39 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | XLV | 120 | $156.202167 | $168.38 | -0.04% | +$1,461.34 (+7.80%) | $152.739 (qty 80) / $152.739 (qty 40) (10% trail, hwms $169.71 both) |
 
 **Notes:** Worst day since the challenge high -- Materials-led give-back on PPI Thursday. Day P&L **-$1,153.10 (-1.12%)** vs Alpaca last_equity $103,413.62 (authoritative Aug 12 close; Aug 12 log snapshot $103,421.10 ran a touch heavy -- last_equity anchor kept per convention); phase **+$2,260.52 (+2.26%)**. **Zero trades today** -- weekly count stays **2/6** (Mon XLP -> NEM rotation legs); no market-open/midday log entries today, manage-only session. **FCX -3.35%** to $66.90 = worst on book, unrealized **-3.11% / -$624** -- copper give-back, still well above the -7% cut line and stop $64.0935 sits 4.2% below price; thesis re-check due if weakness persists, day 6 of the position. **NEM -3.60%** to $113.5944 (unrealized -0.50%) = gold-complex pullback after Wednesday's $120.19 hwm tag; stop $108.171 is 4.8% below. **OXY -1.52%** to $57.66 (+3.86% unrealized) = crude digestion. AVGO **only green name** (+0.58% to $418.45, unrealized **+16.61% / +$1,788**, best on book; 5% trail $411.0935 = 1.76% below close, locks ~+14.6% worst case). XLI -0.05% (+6.80% / +$1,538). XLV -0.04% (+7.80% / +$1,461); **one auto-ratchet today: XLV** hwm $169.66 -> **$169.71**, stop -> **$152.739** both lots (13:30 UTC, up only). No -7% cuts (worst FCX -3.11%). No +15%/+20% tighten triggers (AVGO already 5% tier; next XLV +7.80% < +15%). Deployment **94.21%** ($96,338.50 / $102,260.52) -- inside the 90-100% band. **Sector mix:** XLI 23.62%; Materials **28.97%** (FCX 18.97% + NEM 10.00%) -- under the 30% cap, small headroom back after today's fade, still NO Materials adds; XLV 19.76%; AVGO (Tech) 12.28%; OXY (Energy) 9.59%; Cash 5.79%. 6 positions, 5-8 band OK. **Trail coverage:** 7 GTC orders covering all 830 shares across 6 positions. **Tomorrow (Fri):** weekly review day; watch FCX closely -- a second heavy red day forces the thesis re-check (cut line -7% = ~$64.22, stop $64.0935 just below it); AVGO trail 1.76% below price = closest stop on book; ratchet watches XLV $169.72+ / XLI $188.19+ / others far; 4 weekly slots left, no adds planned into Friday tape unless a leader sets up.
+
+## 2026-08-14 -- Midday Scan (BACKFILL: AVGO 5% TRAIL STOP-OUT + MARKET-OPEN SMCI ENTRY; NO NEW MIDDAY ACTION)
+
+**Backfill note:** Neither today's pre-market nor market-open run logged/committed -- reconstructed here from Alpaca order history at midday.
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-08-14 | AVGO | SELL (trail fill) | 30 | $407.867 | -- | 5% trail fired 13:30 UTC (hwm $432.73, stop $411.0935; fill $407.867 on gap-through). Realized **+$1,470.81 (+13.66%)** -- winning Tech exit, no strike. Full campaign: 40 @ $358.84 Jul 17, trim 10 @ $417.424 (+$585.84), stop 30 @ $407.867 -> total realized **+$2,056.65** | -- | -- |
+| 2026-08-14 | SMCI | BUY | 350 | $40.12 | $36.54 (10% trail GTC, order f0cb7d3b, hwm $40.60) | Tech pause EXPIRED today (rule 12): fresh catalyst = SMCI Q4 beat (AI-server demand, beat lifted Nasdaq per Aug 13 read) + Tech in momentum leadership (+31-33% YTD). AI-hardware leader replaces stopped AVGO Tech slot. 13.7% of equity | ~$48 (+20%) | 2:1 |
+
+**Execution (13:30-13:56 UTC):** (1) AVGO 5% trail d2b22d38 FILLED 30 sh @ $407.867 = $12,236 proceeds, realized +$1,470.81; (2) BOUGHT 350 SMCI market @ $40.12 = $14,042 (13.7% of equity); (3) 10% trail GTC placed same minute (f0cb7d3b). Weekly count **3/6** (Mon XLP->NEM legs + today's SMCI buy; trail fill is not a slot).
+
+**Midday account:** Equity **$102,206.28** | Cash $4,116.03 (**4.03%**) | Long MV $98,090.25 | Day P&L -$75.44 (-0.07%) vs last_equity $102,281.72 | Phase P&L **+$2,206.28 (+2.21%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| FCX | 290 | $69.05 | $66.75 | -0.12% | -$667.00 (-3.33%) | $64.0935 (10% trail, hwm $71.215) |
+| NEM | 90 | $114.16 | $117.84 | +3.20% | +$331.20 (+3.22%) | $108.171 (10% trail, hwm $120.19) |
+| OXY | 170 | $55.52 | $58.565 | +1.50% | +$517.72 (+5.49%) | $53.595 (10% trail, hwm $59.55) |
+| SMCI | 350 | $40.12 | $39.52 | +0.92% | -$210.00 (-1.50%) | $36.54 (10% trail, hwm $40.60) |
+| XLI | 130 | $173.962385 | $186.535 | +0.40% | +$1,634.44 (+7.23%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $167.41 | -0.58% | +$1,344.94 (+7.18%) | $152.739 (qty 80) / $152.739 (qty 40) (10% trail, hwms $169.71 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none (worst FCX -3.33%; cut line $64.22, price $66.75 = 3.8% above it).
+- +15%/+20% tighten: none (best XLI +7.23%).
+- Thesis check: FCX stabilizing (day -0.12% after Thu -3.35%) -- copper thesis intact, watch stands, no cut. NEM +3.20% = gold-complex rebound, thesis working. SMCI day 1: -1.50% from entry = entry noise, no trigger. OXY +1.50% crude steady. XLV -0.58% quiet.
+- Ratchets since Thu EOD: none (all hwms/stops unchanged: FCX $64.0935, NEM $108.171, OXY $53.595, XLI $169.3665, XLV $152.739x2; SMCI new $36.54).
+- 3% / move-down rules: no manual stop inside 3%; nothing moved down. AVGO fill honored the never-move-down chain (stop $411.0935 was auto-trail; gap-through fill $407.867).
+- Deployment **95.97%** -- inside 90-100% band.
+- **Sector mix:** XLI 23.72%; **Materials 29.31%** (FCX 18.94% + NEM 10.38%) -- under 30% cap, zero headroom, NO Materials adds; XLV 19.66%; **SMCI (Tech) 13.53%** -- pause expired, entry legal, sector well under cap; OXY (Energy) 9.74%; Cash 4.03%. Staples strike 1 on ledger (rolling 90d).
+- Positions: 6 (5-8 band OK). Trail coverage: **7 GTC orders covering all 1,150 shares across 6 positions.**
+
+**Action this run: log backfill only -- no orders placed or cancelled at midday.**
+
+**PM watch:** SMCI day-1 hold (stop $36.54 = 7.5% below price); FCX $64.22 cut line (3.8% down); ratchet watches XLI $188.19+ / XLV $169.72+ / NEM $120.20+ / OXY $59.56+ / FCX $71.22+ / SMCI $40.61+; Retail Sales printed this morning -- tape absorbed. Friday = weekly review day. EOD snapshot Day 74 on next workflow.

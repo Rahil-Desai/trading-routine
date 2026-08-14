@@ -4454,3 +4454,62 @@ Reasoning: (a) 94.29% deployed, all caps clean, all 6 green, 7 trails armed -- t
 - **Midday scan**: log any ratchets (new hwm/stop pairs); deployment re-check; crude tape vs OXY; no new entries.
 - **AMC**: **SMCI + CRWV prints -- read same evening**; note beat/miss + guide for Wed AVGO sympathy and post-pause Tech screen.
 - **EOD**: TRADE-LOG Day 71 snapshot; CPI-eve positioning note; pre-position Wed plan = the two-branch CPI playbook.
+
+## 2026-08-13 -- Pre-market Research (Thu, Day 73, Week 16, PPI DAY -- MANAGE MODE)
+
+### Account
+- Equity: **$103,023.42** (vs last_equity $103,413.62 = -$390.20 / -0.38% premarket read)
+- **Phase P&L +$3,023.42 (+3.02%)**
+- Cash: **$5,922.02 (5.75%) / 94.25% deployed** -- inside 90-100% band, rule 2 clean
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6)**:
+  - **AVGO 30** @ $358.84 -> **$416.64** (+$1,734.00 / **+16.11%**; +0.14%) -- 5% trail $411.0935, hwm $432.73 (auto-trail 1.33% below price -- placed by ratchet, never moved down)
+  - **FCX 290** @ $69.05 -> **$68.21** (-$243.60 / **-1.22%**; -1.46%) -- worst on book, back red; -7% manual cut line $64.22 sits ABOVE trail $64.0935 -- manual cut fires first
+  - **NEM 90** @ $114.16 -> **$116.61** (+$220.50 / +2.15%; -1.04%) -- day-3 digestion after hwm $120.19 tag; trail $108.171
+  - **OXY 170** @ $55.52 -> **$58.20** (+$455.67 / +4.83%; -0.60%) -- crude -1.4% overnight = fade risk; trail $53.595, hwm $59.55
+  - **XLI 130** @ $173.962385 -> **$185.88** (+$1,549.29 / +6.85%; flat) -- hwm $188.185 = 1.24% away
+  - **XLV 120** @ $156.202167 -> **$168.90** (+$1,523.74 / **+8.13%**; +0.27%) -- hwm $169.66 = 0.45% away = closest ratchet
+- Open trail stops (**7 GTC, all 830 shares covered**): AVGO $411.0935 q30 (5%, hwm $432.73); FCX $64.0935 q290 (10%, hwm $71.215); NEM $108.171 q90 (10%, hwm $120.19); OXY $53.595 q170 (10%, hwm $59.55); XLI $169.3665 q130 (10%, hwm $188.185); XLV $152.694 q80 / q40 (10%, hwms $169.66)
+- Weekly count: **2/6** (Mon XLP->NEM rotation legs); 4 slots live
+- **Sector mix** (of $103,023.42): XLI 23.46%; **Materials 29.39%** (FCX 19.20% + NEM 10.19%) -- under 30% cap, zero headroom, NO Materials adds; XLV 19.67%; AVGO (Tech) 12.13%; OXY (Energy) 9.60%; cash 5.75%. All caps clean.
+
+### Market Context
+- **Oil FADING: WTI ~$82 (-1.4%), Brent ~$88-89 (-1.2%)** -- two-day pullback off the Iran-stalemate spike; still elevated vs last week. OXY tailwind cooling, not reversed.
+- **ES futures ~7,770-7,780 (+0.1% to +0.4%)** at records; cash S&P ~7,755. CPI Wednesday printed IN-LINE (~3.4% YoY) -> relief, Sept Fed-cut confidence up.
+- **VIX ~14.7-15.0 (down from 15.3)** -- post-CPI vol crush, complacency back.
+- **Macro TODAY: PPI Jul 8:30 ET (cons +0.2% m/m vs -0.3% prior; core +0.3% vs +0.2%) + jobless claims (cons ~202K)** = the day's binary, minor vs CPI. Retail Sales Fri.
+- **Earnings: BMO JD, DRI, SNX, AYI, CMC, WGO -- nothing held. AMC TODAY: AMAT = semi-cap tape mover -> AVGO sympathy read Fri open.**
+- **AI tape HOT: CoreWeave + SMCI beats lifted Nasdaq; Asia rallied on AI-chip strength.** Sector YTD leaders: Energy (+36%), Tech (+31-33%), Industrials, Materials -- book aligned.
+- **Tech pause EXPIRES ~Aug 14 (tomorrow)** -- first legal Tech entry window since Jul 17; requires fresh catalyst + momentum leadership (rule 12).
+
+### Held-ticker News
+- **AVGO** $416.64 (+16.11% unreal). AI-semi narrative intact (Q2 AI rev $10.8B +143% YoY still the anchor headline; Google ASIC + Apollo financing deals last week). AMAT AMC tonight = sympathy risk/catalyst. 5% trail locks ~+14.6% worst case.
+- **FCX** $68.21 (-1.22%). No name news; copper thesis intact but 3 red days in 5. Watch line: -7% = $64.22.
+- **NEM** $116.61 (+2.15%). No name news; gold complex digesting after Mon-Wed run, hwm $120.19 tagged Wed.
+- **OXY** $58.20 (+4.83%). Q2 beat still the anchor ($2.40 EPS, $3.0B FCF, debt cut to $11.8B); crude -1.4% overnight = today's drag. Trail floor $53.595.
+- **XLI** $185.88 (+6.85%). Quiet. Hwm 1.24% away.
+- **XLV** $168.90 (+8.13%). Quiet. **Hwm $169.66 = 0.45% away -- ratchet on any green open.**
+
+### Trade Ideas
+1. **NO NEW ENTRIES TODAY (primary): PPI at 8:30 into a record tape, 94.25% deployed, band satisfied.** Materials capped, Tech paused one more session, Energy = oil fading. Nothing to buy that the rules allow AND the tape rewards today. Trails are the risk control.
+2. **Tech re-entry prep (execute Fri at earliest):** pause expires ~Aug 14. AMAT AMC tonight = the semi-cap read; screen CRWV/SMCI/LITE/COHR + AVGO-adjacent AI-hardware leaders for the 4 weekly slots. Entry needs fresh catalyst + Tech back in leadership (it is: +31-33% YTD, AI tape hot) -- log justification per rule 12. Sizing ~10% ($10.3K) fits cash only if a trim/stop frees more; otherwise cash $5.9K caps the add.
+3. **FCX discipline check:** red 3 of 5 sessions, -1.22% unrealized. No action above -$64.22 (-7%); manual cut fires BEFORE the $64.09 trail if it gets there. Copper thesis (leadership, supply) intact -- this is a watch, not a trade.
+
+### Risk Factors
+- **PPI hot surprise** the morning after an in-line CPI = rate re-scare on a record tape, VIX 14.7 = no fear priced; 94.25% deployed, worst-case book-to-stops ~7-9%.
+- **AMAT AMC** -- semi-cap guide miss hits AVGO (12.1% of book at +16.1%) Fri open; 5% trail caps give-back at ~+14.6%.
+- **Crude two-day fade** -- OXY +4.83% unrealized with hwm 2.3% above; deeper oil pullback = trail does the work, no discretionary exit.
+- **FCX** worst on book; gap risk through the -7% line would force a market cut at open prices.
+- **NEM** gold complex crowd-long post-CPI; day-3 red streak normal so far (+2.15% cushion).
+
+### Decision
+**HOLD. Zero orders today -- manage mode through PPI. Watches, in priority order: (1) XLV $169.66+ ratchet (0.45% away); (2) FCX $64.22 cut line (far, 5.9% down); (3) XLI $188.19+ / NEM $120.20+ / OXY $59.56+ / AVGO $432.74+ ratchets; (4) AMAT AMC print -> Fri Tech-pause-expiry screen; (5) PPI 8:30 tape check at open.**
+
+Reasoning: (a) band satisfied at 94.25% -- rule 2 gives no deployment trigger, so bias-to-action has nothing to act on that the caps allow; (b) the only open sector (Tech) is paused until tomorrow -- entering today violates rule 12 for a one-session head start; (c) PPI + AMAT are both <24h away and both feed the Fri decision; 4 slots are worth more Fri with the pause expired than today into the print; (d) all risk is rule-managed: 7 trails armed, FCX cut line pre-written.
+
+### Plan for the day
+- **8:30 ET**: PPI + claims -- tape check; hot print = stand down harder, cool print = records extend.
+- **9:30 ET open**: verify 7 GTC trails; XLV ratchet confirm; FCX red-streak check.
+- **Midday scan**: log ratchets (new hwm/stop pairs); deployment re-check; crude vs OXY; no new entries.
+- **AMC**: **AMAT print -- read same evening**; beat/guide = Fri Tech screen input (CRWV/SMCI/LITE/COHR + AVGO sympathy).
+- **EOD**: TRADE-LOG Day 73 snapshot; pre-write Fri plan = Tech-pause-expiry branch (enter leader if catalyst + leadership confirm, else hold).

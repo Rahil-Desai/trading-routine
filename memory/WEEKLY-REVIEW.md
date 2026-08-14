@@ -927,3 +927,72 @@ Note: Ending equity = live Alpaca read $102,723.63 at review time (Fri Aug 7 int
 ### Overall Grade: A-
 
 +3.44% -- the best absolute week of the challenge -- while finally keeping pace with a monster S&P week (~+3.2%) after eight straight positive-week misses. Everything the review process spent 15 weeks building fired in one week: rule 14's first live trigger executed same-session as scripted (AVGO trim +16.3% + double tighten to a 5% trail locking +13.4% worst case), the thrice-deferred XLB rotation executed at a gain into a vetted leader (FCX, Q2 beat + record copper), OXY held through its earnings binary on an explicitly-reasoned strike-asymmetry framework and won, and the week closed at new equity highs with all 6 positions green and every cap clean. Held back from A by: the Aug 5 binary-day EOD snapshot miss (third consecutive review flagging event-day cadence), the sub-band 89.2% deployment close with $11.1K rolling idle to Monday on a self-inflicted trade-count misread, and relative alpha of only ~flat-to-+0.5pp -- matching the index on its best week since April is progress, not outperformance, and the remaining 47% mid-beta ETF ballast is the known drag. The offense finally showed up; now it has to compound.
+
+## Week ending 2026-08-14
+
+Note: Ending equity = live Alpaca read $102,220.45 at review time (Fri Aug 14 intraday; Aug 14 EOD log snapshot $102,152.28 ran light -- late-session NEM/XLI marks lifted the book). Starting basis = Alpaca last_equity $102,723.85 (authoritative Fri Aug 7 close, per anchor convention). S&P week is an estimate: Fri intraday ~7,784 (-0.2% on the day) vs 7,757.64 Aug 7 close = ~+0.35%; Thu-basis +0.53%.
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $102,723.85 (Fri Aug 7 close = Mon Aug 10 open basis) |
+| Ending portfolio | $102,220.45 (Fri Aug 14 review-time) |
+| Week return | -$503.40 (-0.49%) |
+| S&P 500 week | ~+0.3% (est; Fri intraday ~7,784 vs 7,757.64; +0.53% Thu-basis) |
+| Bot vs S&P | ~-0.8pp (NINTH positive-S&P-week miss in 16 weeks) |
+| Trades | 3 slots used (Mon XLP sell + NEM buy, Fri SMCI buy; AVGO exit = auto-trail, no slot). W:1 / L:1 / open:6 |
+| Win rate | 50% (2 closed: AVGO W, XLP L) |
+| Best trade | AVGO +13.66% realized rump exit (+$1,470.81; full campaign +$2,056.65 incl Aug 4 trim) |
+| Worst trade | XLP -0.20% realized (-$10.19); worst on book FCX -3.77% unrealized |
+| Profit factor | 144.3 (+$1,470.81 / -$10.19) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| XLP | $84.54 (60 sh) | $84.370167 | -$10.19 (-0.20%) | Rule-11 dead-money rotation Aug 10 (flat 9+ wks) -> funded NEM same session. Losing exit = **Staples strike 1** (rolling 90d, rule 12). |
+| AVGO | $358.84 (30 sh rump) | $407.867 | +$1,470.81 (+13.66%) | 5% trail (post +20% tighten) FIRED at Fri open, gap slippage -$3.23/sh vs stop $411.0935. Full campaign realized **+$2,056.65** (+16.3% trim Aug 4 + rump). **Tech WINNING exit = strike clock reset.** Proceeds -> SMCI same session. |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| FCX | $69.05 (290 sh) | $66.44 | -$755.68 (-3.77%) | $64.0935 (10% trail, hwm $71.215); -7% cut $64.22 fires FIRST |
+| NEM | $114.16 (90 sh) | $117.83 | +$330.30 (+3.22%) | $108.171 (10% trail, hwm $120.19) -- NEW Aug 10 |
+| OXY | $55.52 (170 sh) | $58.26 | +$466.67 (+4.94%) | $53.595 (10% trail, hwm $59.55) |
+| SMCI | $40.12 (350 sh) | $39.97 | -$52.50 (-0.37%) | $36.54 (10% trail, hwm $40.60) -- NEW Aug 14 |
+| XLI | $173.962385 (130 sh) | $186.48 | +$1,627.29 (+7.20%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | $156.202167 (120 sh) | $167.45 | +$1,349.74 (+7.20%) | $152.739 x2 lots (10% trail, hwms $169.71) |
+
+### What Worked
+- **The AVGO campaign closed 100% by the rule stack, zero discretion: the biggest realized winner of the challenge.** Rule 14 trim at +15% (Aug 4, +$586), rule-9 tightens 10%->7%->5%, trail ratchets to $411.09, Fri gap-down fired the 5% trail = +$1,470.81 rump / **+$2,056.65 campaign realized**. Every leg pre-written weeks in advance.
+- **Rule-11 rotation executed Monday per pre-written plan** -- no deferral this time: XLP (flat 9+ weeks) sold at open, NEM bought through the Barrick-print gate from Friday's research, 10% trail same minute, deployment back inside the 90-100% band day 1. NEM +3.2% by Friday.
+- **Same-session redeploy proven a 4th time:** AVGO trail fired 13:33 UTC, SMCI 350 sh bought 13:56 UTC (13.6%) on the exact day the Tech pause expired, trail same minute. No cash drift after a $12.2K exit; deployment 95.97% at week end.
+- **EOD snapshot cadence 5/5 -- first perfect week of the campaign**, including CPI day (the binary-day miss pattern flagged in 3 straight reviews). The mechanical bare-table rule works.
+- **CPI + PPI absorbed at ~94% deployed with zero panic trades**; 7+ auto-ratchets fired (NEM x3, OXY, XLV x2, FCX), all up-only, no stop touched by hand.
+
+### What Didn't Work
+- **NINTH positive-S&P-week miss: -0.49% vs ~+0.3%.** The give-back was concentrated Thu (PPI, -1.12% day, Materials-led) plus the AVGO gap exit ~$97 slippage. All-time equity high Mon ($103,679) faded all week.
+- **FCX is the book's problem: -3.77%, red 4 of 6 sessions since entry.** Thesis re-check flagged Thu, deferred to Monday; entry-timing flag from Aug 6 (bought the high tick) has now cost the position its whole cushion.
+- **SMCI entered with NO pre-written research entry.** Aug 12 and Aug 14 pre-market research entries are missing entirely; the rule-12 re-entry justification (fresh catalyst + leadership) was reconstructed at EOD, violating PROJECT-CONTEXT's "every trade documented BEFORE execution." The EOD cadence fix worked; the discipline gap moved to pre-market.
+- **Bought the morning pop again:** SMCI filled $40.12, closed $39.75 (-0.92% day 1) -- second consecutive single-name entry at the day's high zone (FCX precedent). Entry timing on momentum names is a repeating leak.
+- **Two new positions (NEM, SMCI) both whipsawed intra-week** (NEM $120.19 hwm Wed -> $113.59 Thu -> $117.83 Fri) -- noise inside the trails, but the book's day-to-day vol is again being set by freshest entries.
+
+### Key Lessons
+- **The trail-tier ladder is a complete exit strategy.** AVGO went entry -> +15% trim -> +20% 5%-tighten -> gap exit at +13.7% with every decision made by a standing order. 16 weeks of building that machinery paid in one position. Trust it on SMCI/NEM next.
+- **Exit color controls future optionality.** XLP's -0.20% "flat" exit still arms Staples strike 1 for 90 days; AVGO's winning exit RESETS the Tech strike clock (DELL/XLK strikes now moot) -- SMCI enters a clean-slate sector. Pre-exit, always check what the exit color does to the ledger.
+- **Gap-through-stop slippage is a real cost on tight trails:** 5% trail on a high-beta name gapped -$3.23/sh (~0.8%) through the stop. Budget ~1% slippage when sizing the tighten decision; it is still far cheaper than the give-back it prevents.
+- **Documentation discipline migrates rather than resolves:** fixing EOD (5/5) coincided with pre-market entries going missing (2 of 5). The invariant that matters is trade-before-log never log-after-trade -- that broke Friday even though the trade itself was sound.
+- **Two data points = pattern: momentum entries fill at the morning high.** Next single-name entry uses a limit at/below the prior close or a midday-confirm entry, not a market order into the open pop.
+
+### Adjustments for Next Week
+- **Monday priority 1: FCX decision, pre-written.** Below $64.22 (-7%) = manual cut at market (fires BEFORE the $64.09 trail), realized Materials strike 1, no re-entry pending sector re-check. Between $64.22-$67: hold, trail does the work, no adds. Reclaims $68+ = thesis intact, hold full. No averaging down under any condition.
+- **SMCI day 2-3: let it settle.** Stop $36.54 (8.6% below Fri close); -7% cut $37.31. No adds; Tech clean slate does NOT mean Tech re-load -- one name at 13.6% is the sleeve.
+- **Slots reset 0/6 Mon.** At 96% deployed, usage = trim/stop-funded only. If FCX cut fires (~$19.3K freed), redeploy ranks must be pre-written Monday pre-market: non-Materials single-name leader first (sector at 29.3% releases to ~10.4% on a cut).
+- **Pre-market log rule (mechanical, like the EOD fix): the pre-market run commits its research entry BEFORE the open, every session.** Any entry order without a same-day pre-written plan is prohibited -- if the plan is missing, the trade waits for midday with the justification logged first.
+- **Ratchet watches:** NEM $120.20+ / OXY $59.56+ / XLI $188.19+ / XLV $169.72+ / FCX $71.22+ / SMCI $40.61+. No manual stop moves, up only.
+- **Retail-sales soft print Fri = consumer wobble**; XLV/XLI defensiveness helped Fri -- watch whether leadership rotates defensive; book is 43% XLI+XLV.
+
+### Strategy Rule Changes Applied This Week
+- **NONE.** The Aug 7 escalation condition ("another missed binary-day EOD snapshot -> strategy-doc process rule") did NOT trigger -- CPI day was logged and EOD went 5/5. The pre-market gap is new this week; per the 2-week standard it goes to the adjustments list now and becomes a doc rule next Friday if it repeats. Rule 12's winning-exit reset and strike arming both applied as written (Tech reset, Staples strike 1) -- no ambiguity this time.
+
+### Overall Grade: B-
+
+-0.49% vs S&P ~+0.3% = ~-0.8pp relative miss on a positive market week -- the ninth in 16 weeks, and the miss caps the grade again. But the machinery had its best mechanical week of the campaign: the AVGO campaign closed entirely by pre-written rules for +$2,056.65 realized (the challenge's biggest winner, made and exited without a single discretionary decision), the XLP->NEM rotation executed Monday exactly per Friday's plan (no deferral -- a first for a rule-11 call), the AVGO->SMCI redeploy landed 23 minutes after the stop fired on the exact day the Tech pause expired, EOD cadence hit 5/5 including CPI day, and both macro binaries were absorbed at ~94% deployed with zero panic trades. Held back from B/B+ by: the relative miss itself, FCX's -3.77% drag with its thesis re-check deferred to Monday, the SMCI entry executing without a pre-written research entry (documentation invariant broken even though the trade logic was sound), and the second straight morning-pop fill on a momentum entry. The offense engine (single-name sleeve) banked its first full harvest; now the entry side (timing + pre-trade documentation) is the leak to close.

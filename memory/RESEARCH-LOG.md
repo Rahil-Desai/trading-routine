@@ -4513,3 +4513,62 @@ Reasoning: (a) band satisfied at 94.25% -- rule 2 gives no deployment trigger, s
 - **Midday scan**: log ratchets (new hwm/stop pairs); deployment re-check; crude vs OXY; no new entries.
 - **AMC**: **AMAT print -- read same evening**; beat/guide = Fri Tech screen input (CRWV/SMCI/LITE/COHR + AVGO sympathy).
 - **EOD**: TRADE-LOG Day 73 snapshot; pre-write Fri plan = Tech-pause-expiry branch (enter leader if catalyst + leadership confirm, else hold).
+
+## 2026-08-14 -- Pre-market Research (Fri, Day 74, Week 16, RETAIL SALES DAY + TECH PAUSE EXPIRED)
+
+### Account
+- Equity: **$102,485.32** (vs last_equity $102,281.72 = +$203.60 / +0.20% premarket read)
+- **Phase P&L +$2,485.32 (+2.49%)**
+- Cash: **$5,922.02 (5.78%) / 94.22% deployed** -- inside 90-100% band, rule 2 clean
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6)**:
+  - **AVGO 30** @ $358.84 -> **$418.40** (+$1,786.80 / **+16.60%**; +0.14%) -- 5% trail $411.0935, hwm $432.73; AMAT sell-the-news = sympathy watch at open
+  - **FCX 290** @ $69.05 -> **$66.94** (-$611.90 / **-3.06%**; +0.17%) -- worst on book, red 4 of 6 sessions; -7% cut line $64.22 sits ABOVE trail $64.0935 -- manual cut fires first
+  - **NEM 90** @ $114.16 -> **$114.52** (+$32.40 / +0.32%; +0.29%) -- gold-complex pullback day 2, cushion nearly gone; trail $108.171, hwm $120.19
+  - **OXY 170** @ $55.52 -> **$57.86** (+$397.87 / +4.22%; +0.28%) -- crude stabilizing after 2-day fade; trail $53.595, hwm $59.55
+  - **XLI 130** @ $173.962385 -> **$186.53** (+$1,633.79 / +7.22%; +0.40%) -- hwm $188.185 = 0.89% away
+  - **XLV 120** @ $156.202167 -> **$168.39** (+$1,462.54 / +7.80%; flat) -- hwm $169.71 = 0.78% away
+- Open trail stops (**7 GTC, all 830 shares covered**): AVGO $411.0935 q30 (5%, hwm $432.73); FCX $64.0935 q290 (10%, hwm $71.215); NEM $108.171 q90 (10%, hwm $120.19); OXY $53.595 q170 (10%, hwm $59.55); XLI $169.3665 q130 (10%, hwm $188.185); XLV $152.739 q80 / q40 (10%, hwms $169.71)
+- Weekly count: **2/6** (Mon XLP->NEM rotation legs); 4 slots live, expire tonight (weekly reset Mon)
+- **Sector mix** (of $102,485.32): XLI 23.66%; **Materials 29.00%** (FCX 18.94% + NEM 10.06%) -- under 30% cap, NO Materials adds; XLV 19.72%; AVGO (Tech) 12.25%; OXY (Energy) 9.60%; cash 5.78%. All caps clean.
+
+### Market Context
+- **Oil STABILIZING: WTI ~$81.3-82.4 (+0.1 to +0.7%), Brent ~$87.1-87.8** -- floor forming after the two-day pullback; Brent stays below $90 with Hormuz diplomacy stalled. OXY tailwind neutral-to-mild.
+- **ES futures ~7,823-7,833 (+0.7-0.8%)** -- S&P closed at a RECORD Thu (~7,800) after FLAT July PPI (0.0% m/m vs +0.2% cons) killed the rate-hike scare; memory chips (SNDK, MU) led. Futures extending.
+- **VIX ~14.4-14.6** -- post-CPI/PPI vol crush, zero fear priced at records.
+- **Macro TODAY: Retail Sales (Jul) 8:30 ET = the day's binary** (Jun +0.2%; consumer-resilience test into Jackson Hole Aug 28); UMich sentiment prelim 10:00 ET; Business Inventories 10:00; 13F deadline today. Fed minutes Wed Aug 19.
+- **Earnings: BMO DRI, SNX, AYI, CMC, WGO, PAGP/PAA -- nothing held.** AMC yesterday: **AMAT record Q3 -- rev $9.12B (+25%) beat, EPS $3.50 beat, Q4 guide $10.25B vs $9.54B est -- and the stock FELL ~2.5% RTH / ~5% AH.** Sell-the-news after a ~200% run = semi-cap tape rich, not broken. Demand signal for AI chips intact.
+- **Sector momentum YTD: Energy (~+29%) leads, Tech (+22%) and Industrials (+21%) next, Materials close behind** -- book aligned with leadership.
+- **TECH PAUSE EXPIRED TODAY (Aug 14)** -- DELL Jun 3 + XLK Jul 17 20-session pause done. First legal Tech entry since Jul 17; requires fresh catalyst + Tech in leadership (rule 12), log justification.
+
+### Held-ticker News
+- **AVGO** $418.40 (+16.60% unreal). Flat premarket ($417.62 AH) despite AMAT AH fade -- absorbing the sympathy well so far. AI narrative intact (Samsung pact, Apple $30B chips deal, ARK buying ahead of Sep 2 earnings). 5% trail locks ~+14.6% worst case.
+- **FCX** $66.94 (-3.06%). No name news; copper give-back continues. Watch line -7% = $64.22. Day 7 of position.
+- **NEM** $114.52 (+0.32%). No name news; gold complex day-2 digestion, cushion thin.
+- **OXY** $57.86 (+4.22%). No name news; crude floor forming = thesis intact, trail 7.4% below.
+- **XLI** $186.53 (+7.22%). Quiet. Record tape + futures +0.7% = ratchet candidate today (hwm 0.89% away).
+- **XLV** $168.39 (+7.80%). Quiet. Hwm $169.71 = 0.78% away -- ratchet on a green open.
+
+### Trade Ideas
+1. **NO NEW ENTRIES AT OPEN (primary): Retail Sales 8:30 is the binary; 94.22% deployed, band satisfied, cash $5,922 caps any add at ~5.8% = sub-scale.** Let the print pass, let trails work. Materials capped, nothing held reports today.
+2. **Tech re-entry -- pause expired, catalyst check FAILED today:** AMAT's beat-and-raise confirms AI semi-cap demand, but the -5% AH sell-the-news says the group is priced for perfection this week. Rule 12 needs a FRESH catalyst -- chasing a fading gap isn't one. Screen CRWV/SMCI/LITE/COHR + AVGO complex at midday; enter ONLY if a leader is green post-AMAT with its own catalyst AND a trim/stop frees real sizing (>= 10%). Otherwise this rolls to next week with a fresh 6-slot budget.
+3. **FCX discipline check:** -3.06% unrealized, red 4 of 6. No action above -$64.22 (-7% manual cut, fires before the $64.09 trail). Copper thesis (supply tightness, leadership) not broken -- watch, don't trade. If it cuts, Materials frees ~$19K = next week's Tech/leader ammo.
+
+### Risk Factors
+- **Hot retail sales** = yields pop on a record tape with VIX 14.5 = air pocket; 94.22% deployed, worst-case book-to-stops ~7-9%.
+- **AMAT AH fade spreads** -- semi-cap risk-off hits AVGO (12.25% of book, +16.6%); 5% trail caps give-back at ~+14.6%. A $411.09 stop-out would free $12.3K and put Tech at strike 1 fresh off pause -- accept it, trail is the rule.
+- **FCX** gap through -$64.22 forces a market cut at open prices.
+- **NEM** cushion nearly gone (+0.32%) -- a gold flush puts it red; stop 5.5% below.
+- **Friday 13F deadline + OpEx-adjacent flows** = noise spikes around 10:00.
+
+### Decision
+**HOLD at open. Zero orders pre-market -- manage mode through Retail Sales. Watches, in priority order: (1) XLV $169.72+ / XLI $188.19+ ratchets (both <1% away on futures +0.7%); (2) FCX $64.22 cut line; (3) AVGO open behavior vs AMAT fade; (4) midday Tech screen (pause expired -- entry only w/ fresh catalyst + freed capital); (5) NEM red-cross watch. Weekly review due this afternoon.**
+
+Reasoning: (a) band satisfied at 94.22% -- rule 2 gives no deployment trigger; (b) the one open lane (Tech) failed its catalyst check this morning -- AMAT sell-the-news is the opposite of a fresh entry catalyst, and $5.9K cash can't size a real position anyway; (c) retail sales lands 60 min before the open -- no edge in front-running it fully deployed; (d) all risk rule-managed: 7 trails armed, FCX cut pre-written, AVGO locked at ~+14.6% worst case.
+
+### Plan for the day
+- **8:30 ET**: Retail Sales + UMich 10:00 -- tape check; hot = stand down, cool = records extend and ratchets fire.
+- **9:30 ET open**: verify 7 GTC trails; XLV/XLI ratchet confirms; AVGO vs AMAT-fade read; FCX level check.
+- **Midday scan**: log ratchets; Tech screen (CRWV/SMCI/LITE/COHR) -- entry only per idea 2 conditions; deployment re-check.
+- **Afternoon**: **WEEKLY REVIEW (Friday)** -- week 16 entry per template; weekly count closes at 2/6.
+- **EOD**: TRADE-LOG Day 74 snapshot; pre-write Monday plan = fresh 6-slot week, Tech legal, FCX/NEM health check.

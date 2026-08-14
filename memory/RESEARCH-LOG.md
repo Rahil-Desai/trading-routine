@@ -4513,3 +4513,54 @@ Reasoning: (a) band satisfied at 94.25% -- rule 2 gives no deployment trigger, s
 - **Midday scan**: log ratchets (new hwm/stop pairs); deployment re-check; crude vs OXY; no new entries.
 - **AMC**: **AMAT print -- read same evening**; beat/guide = Fri Tech screen input (CRWV/SMCI/LITE/COHR + AVGO sympathy).
 - **EOD**: TRADE-LOG Day 73 snapshot; pre-write Fri plan = Tech-pause-expiry branch (enter leader if catalyst + leadership confirm, else hold).
+
+## 2026-08-14 -- Market-Open Research (Fri, Day 74, Week 16, AVGO TRAIL FIRED + TECH PAUSE EXPIRED -- REDEPLOY DAY)
+
+*(Written inline at market-open run -- no separate pre-market session today.)*
+
+### Account (9:55 ET)
+- Equity: **$102,358.30** (last_equity $102,281.72; +0.07% early)
+- **Phase P&L +$2,358.30 (+2.36%)**
+- Cash: **$18,158.03 (17.74%) / 82.26% deployed -- BELOW 85% hard floor = rule-2 MANDATORY DEPLOY today**
+- **AVGO EXITED 9:33 ET: 5% trail fired, 30 sh @ $407.867** (hwm $432.73, stop $411.0935, gapped-through fill). Realized **+$1,470.81 (+13.66%)** vs $358.84 entry -- Tech WINNING exit (no strike; resets Tech strike ledger). Frees $12,236.
+- **Positions (5)**: FCX 290 @ $69.05 -> $66.87 (-3.16%); NEM 90 @ $114.16 -> $117.69 (+3.09%, +3.07% today); OXY 170 @ $55.52 -> $58.32 (+5.04%); XLI 130 @ $173.96 -> $186.71 (+7.33%); XLV 120 @ $156.20 -> $166.89 (+6.84%, -0.89% today)
+- Open trails (**6 GTC, all 800 shares covered**): FCX $64.0935 q290; NEM $108.171 q90; OXY $53.595 q170; XLI $169.3665 q130; XLV $152.739 q80/q40
+- Weekly count: **2/6 strategy (prompt cap 3)** -- Mon XLP->NEM legs; 1 slot live today under the tighter cap
+- **Sector mix** (of $102,358.30): XLI 23.71%; Materials 29.29% (FCX 18.95% + NEM 10.35%) -- NO adds; XLV 19.56%; OXY (Energy) 9.69%; Tech 0% post-AVGO; cash 17.74%
+
+### Market Context
+- **ES ~7,828 (+0.1%) at records**; S&P cash ~7,803. Post-CPI/PPI relief tape intact. Retail Sales 8:30 print absorbed without futures damage.
+- **VIX ~14.5-14.7** -- low vol, risk-on.
+- **WTI ~$81 (-2.8% from spike)** -- crude fade continues, OXY tailwind cooling.
+- **AMAT (AMC yday): beat + raised ($9.115B rev, $3.50 EPS, Q4 guide ~$10.25B) but stock -5% AH** -- semi-CAP-EQUIPMENT sold the news; AVGO -4% sympathy premkt (validates this morning's trail fire).
+- **AI-INFRASTRUCTURE names decoupled from semi-cap: SMCI +4.1% yday to $39.16, up again today (~$40.1); CRWV consolidating ~$106 after +19% Wed pop.**
+- **Tech pause EXPIRED (~Aug 14 per rule-12 ledger; pre-written Aug 12-13: "execute Fri at earliest")** -- Tech re-entry legal with fresh catalyst + leadership. Tech = #1 sector YTD (+31-33%), AI tape hot. Justification logged per rule 12.
+
+### Held-ticker News
+- **FCX** $66.87 (-3.16%). Worst on book, 4 red days in 5. Cut line -7% = $64.22 (3.96% below). Watch only.
+- **NEM** $117.69 (+3.09%, +3.07% today) -- gold complex rebounding hard off Thursday dip; hwm $120.19 = 2.1% away.
+- **OXY** $58.32 (+5.04%). Crude fading but name holding. Trail $53.595.
+- **XLI** $186.71 (+7.33%). Quiet strength; hwm $188.185 = 0.8% away = ratchet watch.
+- **XLV** $166.89 (-0.89% today). Digestion; trail $152.739.
+
+### Trade Ideas
+1. **BUY SMCI ~350 sh @ ~$40.1 (~$14.0K, 13.7% of equity) -- PRIMARY, executes today.** Catalyst: Aug 11 FQ4 EPS beat ($1.70 vs $1.59) + monster guide -- Q1 FY27 rev $14.5-15.5B vs $11.8B consensus (+27% above), FY27 $65-72B, **$60B+ new orders / record backlog**, GM guide ~2x to 15-17% (printed 17.5%). RS: +36%/month vs SPY +low-single; broke $35 resistance, follow-through +4.1% Thu + green today = not a one-day pop. Sector: Tech #1 YTD, pause expired, 0% current Tech exposure. Stop: 10% trail GTC ($36.1 initial). Target: $48-50 (analyst range to $55). **R:R ~2:1** (risk ~$4, reward ~$8-10).
+2. **CRWV pass (for now):** Q2 beat + FY raise + backlog, but -1.3% fade Thu after +19% Wed, 52wk range $60-153 = wilder tape; SMCI has the cleaner multi-day follow-through and fresher guide shock. Revisit next week's slots.
+3. **AVGO re-entry pass:** -4% sympathy to AMAT sell-the-news; no fresh name catalyst today; just exited on trail. Needs new setup.
+4. **LITE/COHR pass:** no validated fresh catalyst in today's research.
+
+### Risk Factors
+- SMCI = very high beta; accounting-history baggage; a 10% trail can be tagged on noise -- accepted, rule 7 standard.
+- Semi-cap sell-the-news (AMAT -5%) could bleed into AI-hardware complex; SMCI decoupled so far (green through it).
+- Crude fade -> OXY; FCX 4-of-5 red = closest watch to the -7% line.
+- Friday tape + records + VIX 14.5 = complacency; trails cover all 800 existing shares.
+
+### Decision
+**BUY 350 SMCI at market (~$14.0K, 13.7%), 10% trailing stop GTC same minute. This is the rule-2 mandatory redeploy (cash 17.74% > 15%) into the highest-conviction rule-compliant leader. Weekly count -> 3 (prompt cap reached; no further entries this week). Positions -> 6.**
+
+Checks: positions after = 6 <= 6 OK; trades this week 2->3 <= 3 OK; cost $14.0K = 13.7% <= 20% OK; catalyst documented above; swing entry = no PDT consumption; Tech post-buy 13.7% <= 30% OK; Materials untouched.
+
+### Plan for the day
+- Execute SMCI buy + trail at open window; confirm fill + GTC stop live.
+- Midday: ratchet watch XLI $188.19+ / NEM $120.20+; FCX -7% line $64.22.
+- EOD: Day 74 snapshot; weekly review due today (separate run).

@@ -4513,3 +4513,12 @@ Reasoning: (a) band satisfied at 94.25% -- rule 2 gives no deployment trigger, s
 - **Midday scan**: log ratchets (new hwm/stop pairs); deployment re-check; crude vs OXY; no new entries.
 - **AMC**: **AMAT print -- read same evening**; beat/guide = Fri Tech screen input (CRWV/SMCI/LITE/COHR + AVGO sympathy).
 - **EOD**: TRADE-LOG Day 73 snapshot; pre-write Fri plan = Tech-pause-expiry branch (enter leader if catalyst + leadership confirm, else hold).
+
+## 2026-08-17 -- Midday Addendum (Mon, Day 75)
+
+**Note: no pre-market entry logged today -- this addendum is the day's first research record.**
+
+- **SMCI -4.3% intraday, cause identified:** Netlist filed an ITC complaint alleging DDR5 RDIMM/MRDIMM patent infringement, naming SMCI, Micron, HPE, Lenovo. Group move (DELL -3% on same story). Secondary overhang: reports of Taiwanese prosecutors detaining two SMCI employees in an Nvidia chip-smuggling probe. Neither breaks the entry thesis (Q4 beat, $72B FY27 revenue guide, AI-server demand); SMCI still +28% trailing week. **HOLD; -7% cut line $37.31 is the control.**
+- **FCX/copper:** no name-specific news found; +3.47% rebound day, unrealized back to -0.37%. Friday's mandated thesis re-check = PASSED.
+- **NEM:** gold complex bid continues; auto-ratchet tagged hwm $121.40, stop up to $109.26. Position +5.97%.
+- Sources: 247wallst.com (Aug 17 DDR5 ITC story), Yahoo Finance (SMCI Taiwan detention).

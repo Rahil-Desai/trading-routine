@@ -1055,3 +1055,30 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | XLV | 120 | $156.202167 | $167.35 | -0.61% | +$1,337.74 (+7.14%) | $152.739 (qty 80) / $152.739 (qty 40) (10% trail, hwms $169.71 both) |
 
 **Notes:** AVGO campaign closed by the system working as designed -- flat day overall. Day P&L **-$129.44 (-0.13%)** vs Alpaca last_equity $102,281.72 (authoritative Aug 13 close; Aug 13 log snapshot $102,260.52 ran light -- last_equity anchor kept per convention); phase **+$2,152.28 (+2.15%)**. **Two fills today: (1) AVGO 5% trail FIRED at the open -- SOLD 30 @ $407.867 (13:33 UTC, stop $411.0935, slippage -$3.23/sh on the gap), realized +$1,470.81 (+13.66%) on the rump; full campaign realized +$2,056.65 incl. the Aug 4 trim (+$585.84). (2) BOUGHT 350 SMCI @ $40.12 (13:56 UTC, $14,042 = 13.6% of equity)** -- proceeds rotated same-session per rule 14; Tech single-name re-entry on the day the non-Tech pause (~Aug 14) expired; **10% GTC trail placed same minute** (stop $36.54, hwm $40.60). Weekly count **3/6** (Mon XLP sell + NEM buy + Fri SMCI buy; AVGO exit = auto-trail, not a slot). SMCI day 1: -0.92% from entry ($39.7507 close, +1.51% on the day vs prior close -- bought the morning pop). **NEM +3.12%** to $117.75 = best day on book, gold complex reasserting (+3.15% unrealized). OXY +1.13% (+5.10% / +$481). XLI +0.37% (+7.20% / +$1,627 = biggest $ winner now AVGO is gone). XLV -0.61% (+7.14% / +$1,338). **FCX -0.51%** to $66.49, unrealized **-3.71% / -$742** = worst on book, day 3 of the copper give-back -- still above the -7% cut line (~$64.22) with stop $64.0935 just below it; Monday thesis re-check mandatory, the trail may settle it first. No -7% cuts today; no +15%/+20% tighten triggers (best XLI +7.20% < +15%). No auto-ratchets today (all hwms untouched on a soft tape). Deployment **95.97%** ($98,036.25 / $102,152.28) -- inside the 90-100% band, cash tightest of the challenge at 4.03%. **Sector mix:** XLI 23.73%; Materials **29.25%** (FCX 18.88% + NEM 10.37%) -- under the 30% cap, zero headroom, NO Materials adds; XLV 19.66%; SMCI (Tech) 13.62%; OXY (Energy) 9.71%; Cash 4.03%. 6 positions, 5-8 band OK. **Trail coverage: 7 GTC orders covering all 1,150 shares across 6 positions.** **Monday:** fresh weekly slots (0/6); **FCX is the decision** -- second thesis re-check or let the trail ($64.0935, 3.6% below) do the work, Materials capped either way; SMCI day-2 watch (stop 8.1% below close); ratchet watches NEM $120.20+ / OXY $59.56+ / XLI $188.19+ / XLV $169.72+ / FCX $71.22+ / SMCI $40.61+.
+
+## 2026-08-17 -- Midday Scan (Day 75, Monday -- NO ORDERS)
+
+**Midday account:** Equity **$102,702.49** | Cash $4,115.75 (**4.01%**) | Long MV $98,586.74 | Day P&L +$510.34 (+0.50%) vs last_equity $102,192.15 | Phase P&L **+$2,702.49 (+2.70%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| FCX | 290 | $69.05 | $68.795 | +3.47% | -$73.95 (-0.37%) | $64.0935 (10% trail, hwm $71.215) |
+| NEM | 90 | $114.16 | $120.97 | +2.73% | +$612.90 (+5.97%) | $109.26 (10% trail, hwm $121.40) |
+| OXY | 170 | $55.52 | $58.455 | +0.16% | +$499.02 (+5.29%) | $53.595 (10% trail, hwm $59.55) |
+| SMCI | 350 | $40.12 | $38.1313 | -4.29% | -$696.05 (-4.96%) | $36.54 (10% trail, hwm $40.60) |
+| XLI | 130 | $173.962385 | $187.335 | +0.44% | +$1,738.44 (+7.69%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $167.53 | +0.10% | +$1,359.34 (+7.25%) | $152.739 (qty 80) / $152.739 (qty 40) (10% trail, hwms $169.71 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst SMCI **-4.96%** (cut line $37.31, price $38.13 = 2.2% above it) -- watch, not a trade.
+- +15%/+20% tighten: none. Best XLI +7.69% < +15%.
+- **Thesis checks:** (1) **SMCI -4.29%** = Netlist ITC complaint over DDR5 patents naming SMCI/Micron/HPE/Lenovo -- group headline (DELL -3% same story), NOT company-specific fundamentals; Q4 beat + $72B FY27 guide thesis intact, SMCI still +28% on the trailing week. HOLD, -7% line is the control. (2) **FCX Monday re-check (mandated Friday): PASSED** -- +3.47% to $68.795, unrealized back to -0.37% from -3.71%; copper thesis intact, streak broken.
+- **Auto-ratchet since Friday: NEM** hwm $120.19 -> **$121.40**, stop $108.171 -> **$109.26** (17:03 UTC, up only).
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **95.99%** -- inside 90-100% band.
+- **Sector concentration: Materials 30.03%** (FCX 19.43% + NEM 10.60%) = **marginal cap breach (~$27 over)** on NEM strength -- de minimis vs intraday noise; NO Materials adds; **EOD run: trim to compliance if breach holds or widens** (1 NEM share clears it; note trail cancel/replace needed to free shares).
+- Positions: 6 (5-8 band OK). Weekly count **0/6** (Monday reset). Trail coverage: **7 GTC orders covering all 1,150 shares across 6 positions.**
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** SMCI $37.31 cut line (gap risk on patent/Taiwan headlines); Materials 30% cap re-check at EOD; ratchet watches NEM $121.41+ / XLI $188.19+ / XLV $169.72+ / OXY $59.56+ / FCX $71.22+ / SMCI $40.61+.

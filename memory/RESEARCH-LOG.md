@@ -4513,3 +4513,61 @@ Reasoning: (a) band satisfied at 94.25% -- rule 2 gives no deployment trigger, s
 - **Midday scan**: log ratchets (new hwm/stop pairs); deployment re-check; crude vs OXY; no new entries.
 - **AMC**: **AMAT print -- read same evening**; beat/guide = Fri Tech screen input (CRWV/SMCI/LITE/COHR + AVGO sympathy).
 - **EOD**: TRADE-LOG Day 73 snapshot; pre-write Fri plan = Tech-pause-expiry branch (enter leader if catalyst + leadership confirm, else hold).
+
+## 2026-08-17 -- Pre-market Research (Mon, Day 77, Week 17 -- QUIET MACRO MONDAY, FCX RE-CHECK DAY)
+
+### Account
+- Equity: **$102,474.05** (vs last_equity $102,192.15 = +$281.90 / +0.28% premarket read)
+- **Phase P&L +$2,474.05 (+2.47%)**
+- Cash: **$4,115.75 (4.02%) / 95.98% deployed** -- inside 90-100% band, rule 2 clean, tightest cash of the challenge
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6)**:
+  - **FCX 290** @ $69.05 -> **$67.3793** (-$484.50 / **-2.42%**; +1.34%) -- MANDATED THESIS RE-CHECK TODAY (3 red days last week); bouncing premarket; -7% cut line $64.22 sits ABOVE trail $64.0935 -- manual cut fires first
+  - **NEM 90** @ $114.16 -> **$119.30** (+$462.60 / **+4.50%**; +1.31%) -- gold complex firm; **hwm $120.19 = 0.75% away = closest ratchet**
+  - **OXY 170** @ $55.52 -> **$58.10** (+$438.67 / +4.65%; -0.45%) -- crude holding $82 = thesis intact; trail $53.595, hwm $59.55
+  - **SMCI 350** @ $40.12 -> **$39.87** (-$87.50 / -0.62%; +0.08%) -- day 2 of Fri re-entry; hwm $40.60 = 1.83% away; stop $36.54 = 8.4% below
+  - **XLI 130** @ $173.962385 -> **$186.10** (+$1,577.89 / +6.98%; -0.22%) -- hwm $188.185 = 1.12% away
+  - **XLV 120** @ $156.202167 -> **$167.14** (+$1,312.54 / +7.00%; -0.14%) -- hwm $169.71 = 1.54% away
+- Open trail stops (**7 GTC, all 1,150 shares covered**): FCX $64.0935 q290 (10%, hwm $71.215); NEM $108.171 q90 (10%, hwm $120.19); OXY $53.595 q170 (10%, hwm $59.55); SMCI $36.54 q350 (10%, hwm $40.60); XLI $169.3665 q130 (10%, hwm $188.185); XLV $152.739 q80 / q40 (10%, hwms $169.71)
+- Weekly count: **0/6 -- Monday reset, all slots live**
+- **Sector mix** (of $102,474.05): XLI 23.61%; **Materials 29.55%** (FCX 19.07% + NEM 10.48%) -- under 30% cap, zero headroom, NO Materials adds; XLV 19.57%; SMCI (Tech) 13.62%; OXY (Energy) 9.64%; cash 4.02%. All caps clean.
+
+### Market Context
+- **Oil steady-elevated: WTI ~$82.1 (flat), Brent ~$88.6 (+0.1-0.4%)** -- Hormuz reopening talks stalled = floor under crude. OXY tailwind intact after last week's fade scare.
+- **ES futures ~7,805-7,817 (flat to -0.2%)** at records; last week = cool CPI (2.8% YoY headline, 2.1% core) + cool PPI -> Sept-cut confidence, but Fri closed mixed on weak retail sales + a jump in yields.
+- **VIX ~14.9-15.0 (+5% from Fri 14.25 close)** -- small Monday bid, still complacent-low.
+- **Macro TODAY: Empire State Mfg 8:30 ET (only release, minor) + NAHB housing + TIC 16:00.** NO CPI/PPI/jobs today. **Week's binary = FOMC minutes Wed** (July hold at 3.50-3.75% carried THREE dissents -- hawkish-minutes risk on a tape pricing cuts). Flash PMIs + Jackson-Hole-adjacent headlines late week.
+- **Earnings: BMO -- nothing noteworthy. AMC TODAY: PANW; Fabrinet FN (AI-optics = SMCI supply-chain sympathy read Tue); BHP (miner read for FCX/NEM Tue).** HD/WMT retail prints later this week.
+- **Sector YTD: Energy +25%, Tech +17.2%, Industrials +17.0** -- book aligned with leadership; momentum status lists Staples/Industrials/Materials/Energy leading.
+
+### Held-ticker News
+- **FCX** $67.38 (-2.42% unreal, +1.34% today). No fresh catalyst -- headlines are noise (CAO insider sale $334K, "overvalued after +34% YTD" takes). Grasberg guide-cut = old news (early Aug). Q2 beat + copper price intact. Premarket bounce = re-check input positive.
+- **NEM** $119.30 (+4.50% unreal). No name news; gold complex firm, best relative strength on book last 2 sessions.
+- **OXY** $58.10 (+4.65% unreal). No name news; crude $82 + stalled Hormuz talks = thesis support. Q2 beat anchor unchanged.
+- **SMCI** $39.87 (-0.62% unreal, day 2). Quiet; FN print AMC = nearest sympathy catalyst.
+- **XLI** $186.10 (+6.98%). Quiet; hwm 1.12% away.
+- **XLV** $167.14 (+7.00%). Quiet.
+
+### Trade Ideas
+1. **FCX THESIS RE-CHECK (mandated Fri) -- verdict: HOLD.** Evidence: +1.34% premarket bounce to $67.38; -2.42% unrealized is sector give-back, not name breakdown (no negative FCX news, copper price supported, Q2 beat intact, analysts $71-72 PT); well above the -7% cut line ($64.22). Re-check CLOSED. New trigger to reopen: close below $65 or -5% unrealized. Cut line and trail unchanged -- no order.
+2. **NO NEW ENTRIES (primary): cash $4.1K cannot fund a rules-size add** (~10% = $10.2K min); Materials capped at 29.55%, every other slot already represented; quiet-macro Monday into Wed FOMC minutes. Bias-to-action has nothing legal to act on -- trails are the risk control.
+3. **Redeploy pre-write (if a trail fires): AI-hardware leader screen** off tonight's FN print + PANW tone -- CRWV/LITE/COHR + SMCI add-through-strength candidates for Tue. Not an order today; logged so freed capital moves same-session per rule 11.
+
+### Risk Factors
+- **VIX +5% premarket** off a complacent 14.25 close; record tape + weak Fri retail sales + higher yields = fragile-top risk with 95.98% deployed. Worst-case book-to-stops ~8-9%.
+- **FOMC minutes Wed**: 3 dissents in the July 9-3 hold -- hawkish read would hit a cuts-priced tape.
+- **FCX gap risk** through $64.22 cut line on any copper/Grasberg headline; BHP AMC = Tue miner read both ways (also NEM).
+- **NEM** crowd-long gold at 0.75% below hwm -- a ratchet raises the floor, but a gold air-pocket unwinds fast.
+- **SMCI** high-beta day 2, -0.62% from entry; FN miss AMC = sympathy gap risk Tue.
+
+### Decision
+**HOLD. Zero orders today. Watches, priority order: (1) NEM $120.20+ ratchet (0.75% away); (2) SMCI $40.61+ ratchet (1.83% away); (3) XLI $188.19+ / XLV $169.72+ / OXY $59.56+ / FCX $71.22+ ratchets; (4) FCX reopen-trigger = close <$65 or -5% unrealized; (5) FN + PANW + BHP AMC prints -> Tue reads.**
+
+Reasoning: (a) rule 2 satisfied at 95.98% deployed -- no deployment trigger exists; (b) cash $4.1K is below minimum viable position size, so any add requires freed capital first; (c) Materials capped, and no held name hit a trim/tighten trigger (+15% best is XLV/XLI ~+7%); (d) FCX re-check resolved on evidence -- bounce + no name news = sector noise, trail + cut line already pre-written; (e) the week's only binary (FOMC minutes) is 2 days out -- patience > activity into it.
+
+### Plan for the day
+- **8:30 ET**: Empire State -- tape check only, minor.
+- **9:30 ET open**: verify 7 GTC trails; NEM/SMCI ratchet watch; FCX bounce-holds check.
+- **Midday scan**: log ratchets (new hwm/stop pairs); deployment re-check; crude vs OXY.
+- **AMC**: **FN + PANW + BHP prints -- read same evening**; FN = SMCI sympathy, BHP = FCX/NEM miner read, both feed Tue.
+- **EOD**: TRADE-LOG Day 77 snapshot; pre-write Tue plan = ratchet follow-ups + AMC-print reactions; FOMC minutes Wed positioning note.

@@ -4513,3 +4513,59 @@ Reasoning: (a) band satisfied at 94.25% -- rule 2 gives no deployment trigger, s
 - **Midday scan**: log ratchets (new hwm/stop pairs); deployment re-check; crude vs OXY; no new entries.
 - **AMC**: **AMAT print -- read same evening**; beat/guide = Fri Tech screen input (CRWV/SMCI/LITE/COHR + AVGO sympathy).
 - **EOD**: TRADE-LOG Day 73 snapshot; pre-write Fri plan = Tech-pause-expiry branch (enter leader if catalyst + leadership confirm, else hold).
+
+## 2026-08-17 -- Market-Open Research (Mon, Day 75, Week 17, INLINE -- NO PRE-MARKET RAN -- MANAGE MODE)
+
+### Account
+- Equity: **$101,690.40** (vs last_equity $102,192.15 = -$501.75 / -0.49% at 9:42 ET)
+- **Phase P&L +$1,690.40 (+1.69%)**
+- Cash: **$4,115.75 (4.05%) / 95.95% deployed** -- inside 90-100% band, rule 2 clean
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6)**:
+  - **FCX 290** @ $69.05 -> **$66.645** (-$697.45 / **-3.48%**; +0.23%) -- day 4 of copper give-back; cut line $64.22 = 3.6% below; trail $64.0935
+  - **NEM 90** @ $114.16 -> **$119.26** (+$459.00 / +4.47%; +1.27%) -- gold complex bid; hwm $120.19 = 0.78% away = closest ratchet
+  - **OXY 170** @ $55.52 -> **$58.345** (+$480.32 / +5.09%; flat) -- WTI ~$82.9 tailwind holds; trail $53.595
+  - **SMCI 350** @ $40.12 -> **$38.17** (-$682.47 / **-4.86%**; -4.19%) -- day 2, legal headline (see below); cut line $37.31 = 2.25% below; trail $36.54
+  - **XLI 130** @ $173.962385 -> **$186.67** (+$1,651.99 / +7.31%; +0.09%) -- hwm $188.185 = 0.81% away
+  - **XLV 120** @ $156.202167 -> **$166.42** (+$1,226.14 / +6.54%; -0.57%) -- quiet
+- Open trail stops (**7 GTC, all 1,150 shares covered -- verified at open**): FCX $64.0935 q290 (10%, hwm $71.215); NEM $108.171 q90 (10%, hwm $120.19); OXY $53.595 q170 (10%, hwm $59.55); SMCI $36.54 q350 (10%, hwm $40.60); XLI $169.3665 q130 (10%, hwm $188.185); XLV $152.739 q80 / q40 (10%, hwms $169.71)
+- Weekly count: **0/6** (Monday reset); 6 slots live
+- **Sector mix** (of $101,690.40): XLI 23.87%; **Materials 29.57%** (FCX 19.01% + NEM 10.56%) -- under 30% cap, ZERO headroom, NO Materials adds; XLV 19.64%; SMCI (Tech) 13.14%; OXY (Energy) 9.75%; cash 4.05%. All caps clean.
+
+### Market Context
+- **ES futures ~7,805-7,817 (flat to +0.15%)** at records; Nasdaq futures +0.4-0.5% outperforming.
+- **VIX ~14.9** -- low, complacent tape.
+- **Oil: WTI ~$82.9 (+0.6%), Brent ~$89.3 (+0.9%)** -- elevated on Hormuz/Iran supply risk; OXY tailwind intact.
+- **Macro: light week. Today Empire State Mfg + NAHB. Fed July minutes WED = the week's binary.** 10Y ~4.69% = yield headwind noted.
+- **Earnings: retail week -- WMT, TGT, HD, LOW, BABA. Nothing held reports.**
+- Sector momentum: Energy/Tech YTD leaders; soft retail sales + benign inflation prints have Sept-cut odds supporting risk.
+
+### Held-ticker News
+- **SMCI** $38.17 (-4.86% unreal, -4.19% today). **Taiwanese prosecutors detained 2 SMCI employees after raiding local offices -- Nvidia-chip-smuggling probe escalation.** Compounds the known legal overhang (Mar co-founder charges). Thesis (AI-hardware momentum re-entry, record backlog, FY27 guide $65-72B) NOT broken but headline risk is live. Cut line $37.31; trail $36.54. NO add, NO panic exit -- rules decide.
+- **FCX** $66.645 (-3.48%). No company news; copper-price weakness only (miners lagged Friday's copper rebound). Q2 anchor intact ($6.17/lb realized, +36% YoY; H2 volumes guided higher). **Monday thesis re-check (per Fri log): PASS -- hold on trail.** Cut line $64.22.
+- **NEM** $119.26 (+4.47%, +1.27% today). Gold complex reasserting; ratchet watch $120.20+.
+- **OXY** $58.345 (+5.09%). Crude bid holds; quiet.
+- **XLI** $186.67 (+7.31%). Quiet; hwm 0.81% away.
+- **XLV** $166.42 (+6.54%). Soft open; trail 8.2% below.
+
+### Trade Ideas
+1. **NO NEW ENTRIES TODAY (primary): position cap is the binding constraint -- 6/6 slots full, any new name = 7 positions = market-open rule violation.** Deployment 95.95% satisfies rule 2 (no deploy obligation); cash $4,115 cannot fund a rule-sized (~10%+) add anyway. Blocking reason logged per rule 2.
+2. **SMCI discipline line (the day's decision risk):** -4.86% with a fresh legal headline. Above the -7% line = HOLD on trail. If it prints <=$37.31 intraday -> manual cut fires at midday/EOD check per rule 8; trail $36.54 backstops a gap. No discretionary exit above the line -- headline is noise until the line says otherwise.
+3. **Slot-freeing watch (prep only):** if SMCI cut or FCX trail fires this week, that frees a slot + cash -> screen non-Materials leaders (retail-earnings winners WMT/TGT reaction, AI-hardware ex-SMCI: CRWV, LITE, COHR) for a Wed+ entry with documented catalyst. Nothing pre-committed.
+
+### Risk Factors
+- **SMCI legal escalation** -- 13.1% of book, day 2, gap risk through the -7% line on any indictment expansion; trail caps at ~$36.54.
+- **FCX day 4+** of copper give-back -- two red names = 32.2% of book combined.
+- **Fed minutes Wed** on a record tape, VIX 14.9, 95.95% deployed -- hawkish surprise hits everything; 7 trails armed, worst-case book-to-stops ~8-9%.
+- **10Y 4.69%** creeping = multiple-compression risk for the Tech sleeve.
+- No stop inside the 3% zone (nearest: SMCI trail 4.3% below price); nothing moved down.
+
+### Decision
+**HOLD. Zero orders at market-open -- 6/6 position cap + 95.95% deployed = no legal, no needed trade. Watches, in priority order: (1) SMCI $37.31 cut line (2.25% away -- THE line of the day); (2) NEM $120.20+ ratchet (0.78% away); (3) XLI $188.19+ ratchet; (4) FCX $64.22 cut line (far); (5) retail earnings tape (WMT/TGT/HD) for slot-freeing screen.**
+
+Reasoning: (a) every buy path is rule-blocked -- position cap full, sector caps tight (Materials zero headroom), cash below min size; (b) rule 2 satisfied at 95.95% so bias-to-action has no deployment trigger; (c) the two red positions are both above their cut lines with trails armed -- the rules, not headlines, decide; (d) fresh weekly slots (0/6) are worth more mid-week if a stop frees cash + slot with retail earnings and Fed minutes as catalysts.
+
+### Plan for the day
+- **9:42 ET (this run)**: 7 GTC trails verified; no orders.
+- **Midday scan**: SMCI vs $37.31 cut line = the check; log NEM/XLI ratchets if tagged; deployment re-check.
+- **EOD**: TRADE-LOG Day 75 snapshot; SMCI/FCX cut-line status; pre-write Tue plan.

@@ -1082,3 +1082,17 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log only.**
 
 **PM watch:** SMCI $37.31 cut line (gap risk on patent/Taiwan headlines); Materials 30% cap re-check at EOD; ratchet watches NEM $121.41+ / XLI $188.19+ / XLV $169.72+ / OXY $59.56+ / FCX $71.22+ / SMCI $40.61+.
+
+### Aug 17 -- EOD Snapshot (Day 75, Monday)
+**Portfolio:** $102,432.61 | **Cash:** $4,115.75 (4.02%) | **Day P&L:** +$240.46 (+0.24%) | **Phase P&L:** +$2,432.61 (+2.43%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| FCX | 290 | $69.05 | $68.43 | +2.92% | -$179.80 (-0.90%) | $64.0935 (10% trail, hwm $71.215) |
+| NEM | 90 | $114.16 | $120.33 | +2.18% | +$555.30 (+5.41%) | $109.26 (10% trail, hwm $121.40) |
+| OXY | 170 | $55.52 | $59.03 | +1.15% | +$596.77 (+6.32%) | $53.595 (10% trail, hwm $59.55) |
+| SMCI | 350 | $40.12 | $38.1136 | -4.33% | -$702.24 (-5.00%) | $36.54 (10% trail, hwm $40.60) |
+| XLI | 130 | $173.962385 | $186.32 | -0.10% | +$1,606.49 (+7.10%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $167.05 | -0.19% | +$1,301.74 (+6.95%) | $152.739 (qty 80) / $152.739 (qty 40) (10% trail, hwms $169.71 both) |
+
+**Notes:** Modest green Monday, faded off the midday high. Day P&L **+$240.46 (+0.24%)** vs Alpaca last_equity $102,192.15 (authoritative Aug 14 close; Aug 14 log snapshot $102,152.28 ran light -- last_equity anchor kept per convention); phase **+$2,432.61 (+2.43%)**. **Zero trades today** -- weekly count **0/6** (Monday reset intact), manage-only session as logged at midday. **One auto-ratchet today: NEM** hwm $120.19 -> **$121.40**, stop $108.171 -> **$109.26** (17:03 UTC, up only) -- NEM +2.18% to $120.33, **best unrealized-gain mover of the day** (+5.41% / +$555), gold-complex thesis compounding day 6. **FCX +2.92%** to $68.43 = Monday thesis re-check PASSED (mandated Friday) -- unrealized back to -0.90% from -3.71%, copper streak broken. OXY +1.15% to $59.03 (+6.32% / +$597), hwm $59.55 = 0.88% away, ratchet watch. **SMCI -4.33%** to $38.1136 = worst on book, unrealized **-5.00% / -$702** on the Netlist ITC patent headline (group story, not company-specific; Q4 beat / $72B FY27 guide thesis intact per midday check) -- **cut line -7% = $37.31, close 2.2% above it**, day-2 gap risk is the book's main watch; 10% trail $36.54 below. XLI -0.10% (+7.10% / +$1,606 = biggest $ winner). XLV -0.19% (+6.95% / +$1,302). No -7% cuts (worst SMCI -5.00%). No +15%/+20% tighten triggers (best XLI +7.10% < +15%). Deployment **95.98%** ($98,316.86 / $102,432.61) -- inside the 90-100% band, cash 4.02%. **Sector mix:** XLI 23.65%; Materials **29.95%** (FCX 19.37% + NEM 10.57%) -- midday's marginal cap breach (30.03%) resolved by the close on FCX/NEM drift, back under 30% with zero headroom, NO Materials adds, no trim needed; XLV 19.57%; SMCI (Tech) 13.02%; OXY (Energy) 9.80%; Cash 4.02%. 6 positions, 5-8 band OK. **Trail coverage: 7 GTC orders covering all 1,150 shares across 6 positions.** **Tomorrow (Tue):** SMCI $37.31 cut line is the decision point -- headline gap risk, otherwise let the -7% rule govern; 6 weekly slots live, non-Materials leader add on strength is the only sanctioned use; ratchet watches NEM $121.41+ / OXY $59.56+ / XLI $188.19+ / XLV $169.72+ / FCX $71.22+ / SMCI $40.61+.

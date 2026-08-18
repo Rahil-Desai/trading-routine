@@ -4522,3 +4522,60 @@ Reasoning: (a) band satisfied at 94.25% -- rule 2 gives no deployment trigger, s
 - **FCX/copper:** no name-specific news found; +3.47% rebound day, unrealized back to -0.37%. Friday's mandated thesis re-check = PASSED.
 - **NEM:** gold complex bid continues; auto-ratchet tagged hwm $121.40, stop up to $109.26. Position +5.97%.
 - Sources: 247wallst.com (Aug 17 DDR5 ITC story), Yahoo Finance (SMCI Taiwan detention).
+
+## 2026-08-18 -- Pre-market Research (Tue, Day 76, Week 17, SMCI CUT DAY)
+
+### Account
+- Equity: **$101,651.75** (vs last_equity $102,478.05 = -$826.30 / -0.81% premarket read)
+- **Phase P&L +$1,651.75 (+1.65%)**
+- Cash: **$4,115.75 (4.05%) / 95.95% deployed** -- inside 90-100% band, rule 2 clean (pre-cut)
+- Daytrade count: PDT preserved (swings only; SMCI held since Fri -- today's exit is NOT a day trade)
+- **Positions (6)**:
+  - **FCX 290** @ $69.05 -> **$67.22** (-$530.70 / **-2.65%**; -1.70%) -- copper give-back resumes; -7% cut line $64.22 above trail $64.0935
+  - **NEM 90** @ $114.16 -> **$119.30** (+$462.60 / +4.50%; -0.86%) -- gold complex digestion, trail $109.26, hwm $121.40
+  - **OXY 170** @ $55.52 -> **$59.56** (+$686.87 / **+7.28%**; +0.88%) -- **price AT/ABOVE hwm $59.55 -- ratchet fires at open on crude spike**
+  - **SMCI 350** @ $40.12 -> **$36.88** (-$1,134.00 / **-8.08%**; -3.66%) -- **BELOW -7% cut line $37.31. MANDATORY EXIT TODAY (rule 8).** Trail $36.54 sits 0.9% below
+  - **XLI 130** @ $173.962385 -> **$185.56** (+$1,507.69 / +6.67%; -0.41%) -- quiet, hwm $188.185
+  - **XLV 120** @ $156.202167 -> **$167.91** (+$1,404.94 / +7.50%; +0.52%) -- hwm $169.71 = 1.07% away
+- Open trail stops (**7 GTC, all 1,150 shares covered**): FCX $64.0935 q290; NEM $109.26 q90; OXY $53.595 q170; SMCI $36.54 q350; XLI $169.3665 q130; XLV $152.739 q80 / q40
+- Weekly count: **0/6** (zero trades Monday); 6 slots live
+- **Sector mix** (of $101,651.75): XLI 23.73%; **Materials 29.74%** (FCX 19.18% + NEM 10.56%) -- under 30% cap, zero headroom, NO Materials adds; XLV 19.82%; SMCI (Tech) 12.70%; OXY (Energy) 9.96%; cash 4.05%
+
+### Market Context
+- **Oil SPIKING: WTI ~$85 (+3.5%), Brent ~$91.3 (+3.1%)** -- Strait of Hormuz reopening talks stalled, both sides demanding compensation. Strongest OXY tailwind since the Aug 10 spike.
+- **ES futures SOFT: ~7,766-7,795 (-0.13% to -0.54%)** off record settlement ~7,805; SPY implied below $775.
+- **VIX ~15.8-15.9 (+4.7% from 15.19 close)** -- two-day vol lift off Friday's 14.25, crude+minutes nerves.
+- **Macro TODAY: Import/Export Prices 8:30 ET (day's top inflation read), Housing Starts + Building Permits 8:30, Industrial Production 9:15.** FOMC minutes WED 2pm -- July hold drew THREE hawkish dissents (Logan/Hammack/Kashkari); crude spike + minutes = the week's rate-scare combo.
+- **Earnings: BMO HD (consumer bellwether), BIDU, MDT, TOL. Nothing held reports.** Reddit joins S&P 500 today (~$2.9B forced buying).
+- **Sector YTD: Energy +40.0% (leader), Tech +33.3%, Industrials +20.6%.** Book aligned ex-cash.
+
+### Held-ticker News
+- **SMCI** $36.88 premarket (-8.08% unreal). Monday -3.92% to $38.28, extended-hours bleed to ~$36.85-37.03 -- day 2 of profit-taking off the post-earnings +60% month; Netlist ITC + Taiwan probe overhang persists. No thesis-saving headline. **Rule 8 governs: -7% manual cut, no exceptions.**
+- **OXY** $59.56 (+7.28%). Crude +3.5% on Hormuz stall = direct tailwind; hwm tagged, ratchet at open.
+- **FCX** $67.22 (-2.65%). No fresh name news (Q2 beat old); copper soft again after Monday's rebound faded. Cut line $64.22 = 4.5% below.
+- **NEM** $119.30 (+4.50%). No name news; gold complex digesting, 6-day thesis intact.
+- **XLI** $185.56 (+6.67%). Quiet.
+- **XLV** $167.91 (+7.50%). Quiet; MDT BMO is a sector input.
+
+### Trade Ideas
+1. **SMCI EXIT AT OPEN (mandatory, rule 8):** -8.08% < -7%. If it gaps below $36.54 the GTC trail fires first (market sell); if it opens $36.54-$37.31, market-open run cancels the trail and sells 350 at market. Est. proceeds ~$12.9K, realized ~-$1,100 to -$1,250. **Tech strike note: AVGO won Aug 14 (intervening winning exit) -- SMCI loss = strike 1, Tech NOT paused.**
+2. **Same-session redeploy into Energy (catalyst: crude +3.5% Hormuz stall; Energy #1 YTD +40%; sector only 9.96% of book = ~$20K headroom):** post-cut cash ~$17K (16.7%) breaches rule 2 -- deploy same day. Primary: **XLE ~$12K at open** (fast deployment vehicle per rule 6) with **10% GTC trail same minute**; target = ride sector leadership, R:R via trail. Alt single-name: screen premarket leaders (FANG, HES, XOM RS) at market-open run -- single preferred if one is breaking out, ETF otherwise. Do NOT add OXY (would push a winner's cost basis up into a spike).
+3. **Import Prices 8:30 gate:** hot print + crude spike = rate-scare tape -- if ES breaks harder than -0.7% at open, execute idea 1 (mandatory) but size idea 2 down to ~$8-10K and keep rest for Wed post-minutes.
+
+### Risk Factors
+- **Crude +3.5% into FOMC minutes Wed with 3 hawkish dissents** -- inflation-scare fuel on a record tape; VIX lifting 2 days straight.
+- **SMCI gap risk:** open below $36.54 means trail fills at market -- accept slippage, do not chase with limits.
+- **FCX** back red (-2.65%), copper fade day 2 of restart -- watch line $64.22; Materials capped so no averaging anyway.
+- **HD miss** = consumer scare hits breadth; XLI/XLV lower-beta but not immune.
+- OXY crowd-tailwind reversal if Hormuz headline flips -- trail (post-ratchet ~$53.60+) is the control, no discretionary exit.
+
+### Decision
+**TRADE -- one mandated exit + same-session redeploy. (1) SMCI OUT at open per rule 8 (trail or manual, whichever fires). (2) Redeploy ~$12K of proceeds into Energy leader/XLE per idea 2 with 10% GTC trail -- keeps deployment >90% and cash under 15%. (3) Confirm OXY ratchet (hwm $59.55 tagged). Everything else manage-mode: ratchet watches XLV $169.72+ / NEM $121.41+ / XLI $188.19+ / FCX $71.22+.**
+
+Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redeploying parks ~17% cash = rule 2 violation by tomorrow -- Energy is the rules-legal home (Materials capped, sector 9.96% -> plenty of room, #1 YTD momentum, live catalyst in crude); (c) weekly count 0/6 leaves ample slots (exit via stop costs none; XLE/single buy = 1); (d) sizing gate on the 8:30 print keeps the add disciplined into a red-futures open.
+
+### Plan for the day
+- **8:30 ET**: Import/Export Prices + Housing Starts -- tape check; sets idea 2 sizing.
+- **9:30 ET open**: SMCI exit (verify fill, trail vs manual); OXY ratchet confirm; place Energy add + trail same minute.
+- **Midday scan**: log SMCI realized P&L + new position; deployment re-check (target >90%); sector mix re-check.
+- **EOD**: TRADE-LOG Day 76 snapshot; update weekly count; Wed prep = FOMC minutes 2pm branch plan.

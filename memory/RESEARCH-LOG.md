@@ -4579,3 +4579,40 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - **9:30 ET open**: SMCI exit (verify fill, trail vs manual); OXY ratchet confirm; place Energy add + trail same minute.
 - **Midday scan**: log SMCI realized P&L + new position; deployment re-check (target >90%); sector mix re-check.
 - **EOD**: TRADE-LOG Day 76 snapshot; update weekly count; Wed prep = FOMC minutes 2pm branch plan.
+
+## 2026-08-19 -- Pre-market Research (Wed, Day 77, Week 17, run inline at market-open -- FOMC MINUTES DAY)
+
+### Account
+- Equity: **$102,740.62** (vs last_equity $100,992.60 = +$1,748.02 / +1.73% intraday read)
+- **Phase P&L +$2,740.62 (+2.74%)**
+- Cash: **$7,371.90 (7.18%) / 92.82% deployed** -- inside 90-100% band, rule 2 clean
+- Daytrade count: PDT preserved (swings only, no same-day round-trips planned)
+- **Positions (6)** -- post Aug 18 SMCI cut + XLE add (see TRADE-LOG backfill):
+  - **FCX 290** @ $69.05 -> $67.61 (-$417.60 / -2.09%; +1.95% today) -- copper bounce, cut line $64.22 above trail $64.0935
+  - **NEM 90** @ $114.16 -> **$124.34** (+$916.05 / **+8.92%**; **+7.21% today**) -- gold-complex geopolitical bid; **auto-ratchet fired**: hwm $121.40 -> **$125.29**, stop $109.26 -> **$112.761**
+  - **OXY 170** @ $55.52 -> $60.055 (+$771.02 / +8.17%; +0.43%) -- crude 3-wk high; ratchet since Mon: hwm $60.155, stop $54.1395
+  - **XLE 150** @ $63.48 -> $63.935 (+$68.25 / +0.72%; +0.40%) -- day 2, Energy leadership add; trail $57.582, hwm $63.98
+  - **XLI 130** @ $173.962385 -> $183.42 (+$1,229.49 / +5.44%; -0.08%) -- quiet, hwm $188.185
+  - **XLV 120** @ $156.202167 -> **$174.295** (+$2,171.14 / **+11.58%**; **+2.69% today**) -- **auto-ratchet fired**: hwm $169.71 -> **$174.35**, stop $152.739 -> **$156.915** both lots
+- Open trail stops (**7 GTC, all 950 shares covered**): FCX $64.0935 q290; NEM $112.761 q90; OXY $54.1395 q170; XLE $57.582 q150; XLI $169.3665 q130; XLV $156.915 q80/q40
+- Weekly count: **1/6** (Tue XLE buy; SMCI exit = trail fill, no slot)
+- **Sector mix** (of $102,740.62): XLI 23.21%; **Materials 29.97%** (FCX 19.08% + NEM 10.89%) -- AT the 30% cap, NO Materials adds; XLV 20.36%; **Energy 19.27%** (OXY 9.94% + XLE 9.33%); cash 7.18%
+
+### Market Context
+- **WTI ~$85.5 (3-week high), Brent ~$91.6** -- Hormuz shipping uncertainty persists (Reuters). Energy tailwind intact for OXY/XLE.
+- **VIX ~15.9** -- calm, two-day lift stalled.
+- **FOMC minutes 2pm ET = the day's binary** -- July hold drew 3 hawkish dissents; crude at 3-wk highs is inflation-scare fuel.
+- **Gold complex bid** (geopolitical/risk-off) -- NEM +7.2% today, driving the Materials cap to the line.
+- No held-name company-specific headlines this morning (FCX, OXY, XLE, XLI, XLV all quiet).
+
+### Trade Ideas
+1. **NONE ACTIONABLE TODAY.** Book is full at 6 positions (workflow cap: positions after trade <= 6); deployment 92.8% already in band; Materials AT cap blocks the only hot single-name theme (gold miners); Energy 19.3% after yesterday's XLE add -- adding more into a 3-wk crude high the day of hawkish-risk minutes is chasing, not leading.
+2. **Watch for midday/EOD:** XLV +11.58% approaching the +15% tighten/trim trigger (~$179.63); NEM +8.92% same watch (~$131.28); if Materials cap breaches on NEM strength at EOD, trim to compliance per rule 13.
+
+### Risk Factors
+- **FOMC minutes 2pm**: hawkish read + crude spike = rate-scare tape; 92.8% deployed with all trails armed is the plan, no de-risking pre-release.
+- **NEM parabolic day** (+7.2%): ratchet already locked $112.761; no chase, no add (cap).
+- **FCX** still -2.09% unrealized; cut line $64.22, trail just below at $64.0935.
+
+### Decision
+**NO TRADE -- manage-mode through the minutes. All 6 positions covered by ratcheting GTC trails; deployment and sector caps clean. Log-only market-open run; backfill Aug 18 executions to TRADE-LOG (session ran orders but never committed).**

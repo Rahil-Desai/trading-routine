@@ -4579,3 +4579,60 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - **9:30 ET open**: SMCI exit (verify fill, trail vs manual); OXY ratchet confirm; place Energy add + trail same minute.
 - **Midday scan**: log SMCI realized P&L + new position; deployment re-check (target >90%); sector mix re-check.
 - **EOD**: TRADE-LOG Day 76 snapshot; update weekly count; Wed prep = FOMC minutes 2pm branch plan.
+
+## 2026-08-19 -- Pre-market Research (Wed, Day 77, Week 17, FOMC MINUTES DAY)
+
+### Account
+- Equity: **$101,395.37** (vs last_equity $100,992.60 = +$402.77 / +0.40% premarket read)
+- **Phase P&L +$1,395.37 (+1.40%)**
+- Cash: **$7,371.90 (7.27%) / 92.73% deployed** -- inside 90-100% band, rule 2 clean
+- Daytrade count: PDT preserved (swings only)
+- **Yesterday's plan executed:** SMCI OUT (rule 8 cut; realized ~-$1,260 est. from cash math -- TRADE-LOG Day 76 entry missing, backfill at EOD run) + **BOUGHT 150 XLE @ $63.48** ($9,522, 10% GTC trail placed, hwm $63.71). Weekly count **1/6**.
+- **Positions (6)**:
+  - **FCX 290** @ $69.05 -> **$66.16** (-$838.10 / **-4.19%**; -0.24%) -- copper give-back day 4; **cut line $64.22 = 2.9% below**, trail $64.0935 just under it
+  - **NEM 90** @ $114.16 -> **$117.67** (+$315.97 / +3.08%; +1.46%) -- gold complex re-bid
+  - **OXY 170** @ $55.52 -> **$60.20** (+$795.67 / **+8.43%**; +0.67%) -- **price ABOVE hwm $60.155 -- ratchet fires at open**
+  - **XLE 150** @ $63.48 -> **$64.00** (+$78.00 / +0.82%; +0.50%) -- day 2, crude tailwind
+  - **XLI 130** @ $173.962385 -> **$183.79** (+$1,277.59 / +5.65%; +0.12%) -- quiet
+  - **XLV 120** @ $156.202167 -> **$171.00** (+$1,775.74 / **+9.47%**; +0.75%) -- best on book; **price ABOVE hwm $170.3022 -- ratchet fires at open**
+- Open trail stops (**7 GTC, all 950 shares covered**): FCX $64.0935 q290; NEM $109.26 q90; OXY $54.1395 q170; XLE $57.339 q150; XLI $169.3665 q130; XLV $153.27198 q80 / q40
+- **Ratchets since Tue log:** OXY hwm $59.55 -> $60.155 (stop $54.1395); XLV hwm $169.71 -> $170.3022 (stop $153.27198 both lots)
+- **Sector mix** (of $101,395.37): XLI 23.56%; **Materials 29.28%** (FCX 18.92% + NEM 10.44%) -- under 30% cap, zero headroom, NO Materials adds; XLV 20.24%; **Energy 19.56%** (OXY 10.09% + XLE 9.47%) -- ~$10.6K headroom; Tech 0% (post-SMCI); cash 7.27%
+
+### Market Context
+- **Oil day 3 up: WTI ~$85.0-85.9 (+0.8-1.1%), Brent ~$91.4-91.9** -- Hormuz reopening talks still stalled. Energy book (19.6%) tailwind intact.
+- **ES futures FLAT: ~7,708-7,715** after Tue -0.45% (tech-led selling, rotation INTO energy + health care -- both our books).
+- **VIX ~15.8-15.9** -- third day elevated off Friday's 14.25; long-bond yields pressuring tech valuations.
+- **Macro TODAY: FOMC minutes 2pm ET** -- July 28-29 hold was 9-3 with THREE hawkish dissents (Hammack/Kashkari/Logan); minutes detail = rate-scare risk. **Jackson Hole opens tomorrow, Powell Friday.** No CPI/PPI/jobs today.
+- **Earnings BMO: TGT, LOW, TJX, ADI, EL** -- retail read-through day. Nothing held reports.
+- **Sector YTD: Energy +43.3% (leader), Tech +29.1%, Industrials +18.7%.** Tue rotation confirmed energy/health-care leadership -- book aligned.
+
+### Held-ticker News
+- **FCX** $66.16. Tue -3.00% to $66.33; no fresh name news (Q2 beat / Grasberg guidance old) -- macro copper fade, day 4. Cut line $64.22.
+- **NEM** $117.67 (+3.08%). No name news; gold complex re-bid after 2-day digestion.
+- **OXY** $60.20 (+8.43%). Crude day 3 = direct tailwind; hwm tagged again.
+- **XLE** $64.00 (+0.82%). Day 2; Energy #1 YTD, crude bid.
+- **XLI** $183.79 (+5.65%). Quiet.
+- **XLV** $171.00 (+9.47%). Tue rotation winner; hwm tagged, ratchet at open.
+
+### Trade Ideas
+1. **FCX cut contingency (rule 8 pre-write):** manual cut of 290 sh if $64.22 tags (trail $64.0935 backs it 0.2% lower). If cut: realized ~-$1,400, cash -> ~$26K (26%) = **rule 2 mandatory same-session redeploy** -- Energy has ~$10.6K headroom to 30% cap (single-name leader per rule 6: screen XOM/FANG/HES RS at open), remainder to a non-Materials momentum leader. Materials strike check on exit (NEM still open; log strike count at cut).
+2. **Optional Energy single-name add ~$5K post-minutes ONLY on clean tape** (catalyst: crude day 3, Energy #1 YTD +43%, sector 19.6% of book): entry on RS leader breaking out, 10% GTC trail same minute, keeps cash ~2%+ and deployment ~95%. Skip if minutes read hawkish -- band already satisfied at 92.73%, no forced trade.
+3. **XLV +15% trim pre-write (rule 14):** trigger $179.63 (5.5pp away, outside 3pp pre-write mandate -- noted only). Ratchet at open locks stop ~$153.9+.
+
+### Risk Factors
+- **FOMC minutes 2pm + crude $85 into Jackson Hole (Powell Fri)** -- hawkish dissent detail on a 3-day VIX lift = rate-scare tape.
+- **FCX gap risk:** open through $64.22/$64.09 = cut + forced redeploy day.
+- **TGT/LOW/TJX prints:** consumer miss hits breadth; XLI/XLV lower-beta but not immune.
+- Hormuz headline flip = crude reversal; OXY post-ratchet stop ~$54.18 and XLE $57.34 are the controls.
+
+### Decision
+**HOLD. Zero orders premarket -- manage mode through the 2pm minutes. Watches, in priority order: (1) OXY + XLV ratchet confirms at open (both above hwm); (2) FCX $64.22 cut line (2.9% down -- closest risk trigger on book); (3) idea 2 Energy add only on post-minutes strength; (4) ratchet watches NEM $121.41+ / XLI $188.19+ / XLE $63.72+ / FCX $71.22+.**
+
+Reasoning: (a) band satisfied at 92.73% -- rule 2 gives no deployment trigger; (b) minutes + Jackson Hole = binary macro within hours, weekly slots (5 left) are worth more after Powell than before; (c) all risk is rule-managed: 7 trails armed, FCX cut pre-written, two ratchets auto-fire at open; (d) book is already positioned with the rotation (Energy 19.6% + XLV 20.2% = Tue's winning sectors).
+
+### Plan for the day
+- **9:30 ET open**: verify 7 GTC trails; OXY + XLV ratchet confirms; FCX tape check vs $64.22.
+- **Midday scan**: log ratchets (new hwm/stop pairs); FCX distance re-check; TGT/LOW breadth read.
+- **2:00 ET**: FOMC minutes -- hawkish = stand down, clean = idea 2 sizing check.
+- **EOD**: TRADE-LOG Day 77 snapshot; **backfill Day 76 (SMCI exit + XLE entry) realized P&L from Alpaca fills**; Thu prep = Jackson Hole branch plan.

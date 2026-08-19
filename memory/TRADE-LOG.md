@@ -1128,3 +1128,30 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Backfilled Aug 18 executions above. Log only.**
 
 **PM watch:** FOMC minutes 2pm ET = binary, trails armed, no pre-positioning; XLV +15% trigger $179.63 / NEM $131.28 (tighten+trim same session if hit); Materials cap re-check at EOD (29.97%, one NEM up-day breaches -- trim to compliance per rule 13); ratchet watches NEM $125.30+ / XLV $174.36+ / OXY $60.16+ / XLE $63.99+ / FCX $71.22+ / XLI $188.19+.
+
+## 2026-08-19 -- Midday Scan (Day 77, Wednesday -- NO ORDERS, pre-FOMC-minutes)
+
+**Midday account (17:08 UTC / 1:08pm ET, minutes at 2pm):** Equity **$103,183.62** | Cash $7,371.90 (**7.14%**) | Long MV $95,811.72 (92.86% deployed) | Day P&L +$2,191.02 (+2.17%) vs last_equity $100,992.60 | Phase P&L **+$3,183.62 (+3.18%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| FCX | 290 | $69.05 | $69.25 | +4.42% | +$58.00 (+0.29%) | $64.0935 (10% trail, hwm $71.215) |
+| NEM | 90 | $114.16 | $124.78 | +7.59% | +$955.80 (+9.30%) | $113.931 (10% trail, hwm $126.59) |
+| OXY | 170 | $55.52 | $60.43 | +1.05% | +$834.77 (+8.84%) | $54.747 (10% trail, hwm $60.83) |
+| XLE | 150 | $63.48 | $63.825 | +0.23% | +$51.75 (+0.54%) | $57.825 (10% trail, hwm $64.25) |
+| XLI | 130 | $173.962385 | $182.45 | -0.61% | +$1,103.39 (+4.88%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $174.65 | +2.90% | +$2,213.74 (+11.81%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst position is FCX at **+0.29%** unrealized -- copper bounce day 2 (+4.42% today to $69.25, back above entry).
+- +15%/+20% tighten: none. Best XLV **+11.81%** (trigger ~$179.63, 2.8% away); NEM +9.30% (trigger ~$131.28). No stop changes placed.
+- **Thesis checks: all HOLD.** NEM +7.59% gold-complex bid extending (thesis compounding, not breaking); FCX copper recovery confirms Monday's re-check; OXY/XLE riding crude at 3-wk highs; XLI -0.61% quiet drift, thesis intact; XLV +2.90% strong.
+- **Four auto-ratchets since the market-open log** (Alpaca-side, up only): **NEM** hwm $125.29 -> **$126.59**, stop $112.761 -> **$113.931**; **OXY** hwm $60.155 -> **$60.83**, stop $54.1395 -> **$54.747**; **XLE** hwm $63.98 -> **$64.25**, stop $57.582 -> **$57.825**; **XLV** hwm $174.35 -> **$176.59**, stops $156.915 -> **$158.931** both lots.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment 92.86% -- inside 90-100% band.
+- **Sector concentration: Materials 30.35%** (FCX 19.46% + NEM 10.88%) = **cap BREACH (~$358 over)** on NEM strength -- wider than Aug 17's marginal $27 but still <0.4pp; per Aug 17 precedent and this morning's pre-written plan, **EOD run trims to compliance if breach holds** (pre-write: SELL 3 NEM ~$374 clears it; requires NEM trail cancel/replace to free shares). No Materials adds. Energy 19.23%, XLV 20.31%, XLI 22.99% all clean.
+- Positions: 6 (5-8 band OK). Weekly count **1/6**. Trail coverage: **7 GTC orders covering all 950 shares across 6 positions.**
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** FOMC minutes 2pm ET (~50 min out) = the binary, trails armed, no pre-positioning; Materials trim decision at EOD (3 NEM pre-written); XLV +15% trigger $179.63 / NEM $131.28 = tighten+trim same session if hit; ratchet watches NEM $126.60+ / XLV $176.60+ / OXY $60.84+ / XLE $64.26+ / FCX $71.22+ / XLI $188.19+.

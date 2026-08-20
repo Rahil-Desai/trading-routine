@@ -1155,3 +1155,15 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log only.**
 
 **PM watch:** FOMC minutes 2pm ET (~50 min out) = the binary, trails armed, no pre-positioning; Materials trim decision at EOD (3 NEM pre-written); XLV +15% trigger $179.63 / NEM $131.28 = tighten+trim same session if hit; ratchet watches NEM $126.60+ / XLV $176.60+ / OXY $60.84+ / XLE $64.26+ / FCX $71.22+ / XLI $188.19+.
+
+## 2026-08-20 -- Market-Open Execution (Day 78, Thursday -- NEM COMPLIANCE TRIM)
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-08-20 | NEM | SELL | 4 | $126.72 | -- | Rule-13 compliance trim: Materials 30.41% at open ($31,452.20 / $103,423.98) -- breach held from Wed midday pre-write. Realized **+$50.24 (+11.0%)** vs $114.16 entry. NOT a slot (exit) | -- | -- |
+
+**Execution:** Breach re-checked live at open: Materials **30.41%** (FCX $20,030.30 + NEM $11,421.90 = $31,452.20 of $103,423.98 equity) -- pre-write fires. **Deviation from pre-write: SOLD 4 (not 3)** -- NEM rallied to $126.91 (+1.5% today), 3 shares only cut to 30.04% (still >30%); 4 shares required to actually reach compliance. Sequence: (1) cancelled NEM 90-share trail (order be3b3624, stop $114.291, hwm $126.99) 13:39 UTC; (2) SOLD 4 @ $126.72 market, filled 13:39 UTC; (3) **replaced 10% GTC trail qty 86 same minute** (order b08340b2, 13:40 UTC, stop $113.931, hwm $126.59 at placement -- Alpaca reset on replace; NEM trading ~$126.7+ so hwm re-ratchets to intraday tape immediately, restoring the prior level). Post-trim **Materials ~29.90%** -- compliant.
+
+**Rule checks (all passed):** positions 6 (trim, not exit -- count unchanged); weekly count stays **1/6** (sell = no slot); catalyst = rule-13 cap breach documented in 2026-08-20 RESEARCH-LOG + Wed midday pre-write; no day trade (NEM held since Aug 10), PDT clean; no new entries per today's plan (book full, Materials capped, Energy no-chase).
+
+**Trail coverage: 7 GTC orders covering all 946 shares across 6 positions.** Watch unchanged: XLV +15% trigger $179.63 / NEM $131.28 (tighten+trim same session); ratchet watches NEM $127.00+ / XLV $176.60+ / OXY $61.89+ / XLE $64.51+ / FCX $71.22+ / XLI $188.19+.

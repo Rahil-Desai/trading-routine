@@ -4661,3 +4661,49 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD on new positions -- one compliance trim only. (1) Market-open run: re-check Materials %; if >30% at the open, execute the pre-written 3-share NEM trim (cancel/replace trail). (2) No new entries -- no rules-legal setup beats what's on. (3) Manage-mode: XLV $179.63 and NEM $131.28 tighten+trim triggers armed; ratchet watches NEM $126.60+ / XLV $176.60+ / OXY $60.84+ / XLE $64.26+ / FCX $71.22+ / XLI $188.19+. (4) EOD: backfill missing Aug 19 daily summary.**
+
+## 2026-08-21 -- Pre-market Research (Fri, Day 79, Week 17 -- OpEx)
+
+### Account
+- Equity: **$104,501.67** (vs last_equity $103,587.38 = +$914.29 / +0.88% read) -- **new phase high**
+- **Phase P&L +$4,501.67 (+4.50%)**
+- Cash: **$7,878.74 (7.54%) / 92.46% deployed** -- inside 90-100% band, rule 2 clean
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **FCX 290** @ $69.05 -> **$73.36** (+$1,249.90 / **+6.24%**; **+3.00% today**) -- copper rip continues; trail $64.3635, hwm $71.515 (ratchet since Wed: $71.215 -> $71.515); premarket tape ~$73.55
+  - **NEM 86** @ $114.16 -> **$130.91** (+$1,440.47 / **+14.67%**; +2.56%) -- **+15% tighten/trim trigger $131.28 = 0.28% AWAY, closest watch ever**; trail $115.821, hwm $128.69 (ratchets: hwm $126.59 -> $128.69 post Thu trim-replace)
+  - **OXY 170** @ $55.52 -> $61.50 (+$1,016.67 / **+10.77%**; flat) -- crude 6th up day; trail $55.9305, hwm $62.145
+  - **XLE 150** @ $63.48 -> $63.80 (+$48.00 / +0.50%) -- day 4; trail $58.23, hwm $64.70
+  - **XLI 130** @ $173.962385 -> $179.77 (+$754.99 / +3.34%) -- faded $183 -> $179.77, dead-money watch; trail $169.3665, hwm $188.185; **trail order EXPIRES 2026-08-28 -- replace next week**
+  - **XLV 120** @ $156.202167 -> $172.46 (+$1,950.94 / **+10.41%**) -- faded from $176.59 hwm; +15% trigger $179.63 now 4.2% away; trails $158.931 q80/q40
+- Open trail stops: **7 GTC, all 946 shares covered** (NEM q86 replaced post Thu 4-share compliance trim)
+- Weekly count: **1/6** (Tue XLE buy); resets Monday
+- **Sector mix** (of $104,501.67): XLI 22.36%; **Materials 31.13%** (FCX 20.36% + NEM 10.77%) = **cap BREACH ~$1,182 over** -- FCX +3% reflated it one day after Thu's 4-share NEM trim; XLV 19.80%; Energy 19.16% (OXY 10.00% + XLE 9.16%); cash 7.54%
+
+### Market Context
+- **WTI ~$86.5, Brent ~$93.3-93.6** -- 6th straight up session cumulative, marginally softer this a.m. (-0.4%); Hormuz supply-disruption fears persist. Energy tailwind intact.
+- **ES futures ~7,700 (-0.3%)** -- Thu closed lower on a Treasury-yield rebound + WMT-led consumer wobble; 30-yr still >5%.
+- **VIX ~15.7** (popped +5.6% Thu off 14.89, easing -1.9% premarket) -- still calm regime.
+- **Today: flash S&P Global PMIs 9:45 ET (mfg + services), BLS state employment 10:00, EARNINGS BMO: BJ, UI, BKE -- nothing held. Light macro Friday + monthly OpEx** = open/close volatility, thin catalyst tape.
+- **FOMC minutes (Wed) hawkish, absorbed.** No confirmed Fed speaker today; Jackson Hole window ambient next week.
+- **Sector YTD: Energy +44.6% (leader), Tech +27.5%, Materials +16.5%.** Book aligned: Energy 19.2%, Materials 31.1% (over cap), XLI 22.4%.
+- **COPPER WARNING: LME backwardation collapsed $545 -> $248 as Trafigura et al. delivered metal into warehouses -- the historic squeeze is cracking.** FCX +6.2% on squeeze-driven copper strength = thesis input reversing under it.
+
+### Held-ticker News
+- **FCX**: no fresh company news; move is copper-complex (squeeze). Squeeze-crack headline above is the counter-signal.
+- **NEM / OXY / XLE / XLI / XLV: no company-specific catalysts this morning.** Theses intact.
+
+### Trade Ideas
+1. **NEM +15% trigger pre-write (rules 9+14, NOT a new trade): trigger $131.28 (0.28% away).** If NEM prints >= $131.28: same session cancel trail -> SELL 21 (25% trim, ~$2,760) -> replace GTC trail q65 at **7%**. The trim alone drops Materials to ~29.0% = clears the cap breach too.
+2. **Materials compliance trim fallback (rule 13): if NEM does NOT trigger and Materials >30% at the open, SELL 10 NEM @ market (~$1,309)** -> cancel/replace trail q76. Clears to ~29.9%. NEM stays the trim vehicle (precedent Thu; FCX untouched pending copper-squeeze read).
+3. **No new entries.** Book full at 6, 92.46% deployed, Materials capped, Energy 2 vehicles into a 6-day crude run on OpEx Friday = chasing. Weekly count irrelevant (no slot wanted).
+
+### Risk Factors
+- **Copper squeeze unwind**: FCX +6.24% built partly on backwardation that just collapsed; a fast give-back retests the +3% overnight pop. Trail $64.3635 and -7% cut line $64.22 (~$68.22 breakeven-band watch) are the controls.
+- **OpEx Friday**: pin/unwind swings at open and 3-4pm; don't read the first 30 min as trend.
+- **Crude reversal** after 6 up days: OXY/XLE trails $55.9305/$58.23 are the control -- no discretionary exits.
+- **Yields**: Thu's 30-yr >5% rebound knocked the tape; a hot PMI print re-runs it.
+- **XLI trail expiry 8/28**: replace before expiry or 130 shares go uncovered next Friday.
+
+### Decision
+**HOLD on new positions -- manage-mode with two pre-writes armed. (1) Market-open run: NEM >= $131.28 -> tighten to 7% + SELL 21 (clears cap as byproduct); else if Materials >30% -> SELL 10 NEM compliance trim. (2) No new entries. (3) Watches: XLV $179.63 trigger; ratchets NEM $128.70+ / FCX $71.52+ / OXY $62.15+ / XLE $64.71+ / XLV $176.60+ / XLI $188.19+. (4) Next week: replace XLI trail before 8/28 expiry.**

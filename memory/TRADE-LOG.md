@@ -1221,3 +1221,32 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Rule checks (all passed):** positions 6 (trim, not exit -- count unchanged); weekly count stays **1/6** (sell = no slot); catalyst = rules 9+13+14 triggers documented in 2026-08-21 RESEARCH-LOG (run inline); no day trade (NEM held since Aug 10), PDT clean; no new entries -- book full at 6 (workflow cap), trim proceeds queue for next single-name leader add per rule 14 when a slot opens.
 
 **Post-trade:** Cash ~$10,761 (10.2%), deployed ~89.8% (above 85% floor, cash < 15% -- no rule-2 violation). Materials ~28.9% compliant. **Trail coverage: 7 GTC orders covering all 924 shares across 6 positions** (FCX 290 @ $68.76 / NEM 64 @ $121.7928 7% / OXY 170 @ $55.9305 / XLE 150 @ $58.23 / XLI 130 @ $169.3665 / XLV 80+40 @ $158.931). **Watch:** FCX +15% trigger $79.41 (tighten+trim same session if printed); NEM +20% = $136.99 -> 5% trail; XLV $179.63; ratchet watches FCX $76.41+ / NEM $130.97+ / OXY $62.15+ / XLE $64.71+ / XLV $176.60+ / XLI $188.19+.
+
+## 2026-08-21 -- Midday Scan (Day 79, Friday -- NO ORDERS; recovered 4 stranded log commits)
+
+**Midday account (~15:40 UTC / 11:40am ET):** Equity **$105,865.60** | Cash $10,761.47 (**10.17%**) | Long MV $95,104.13 (89.83% deployed) | Day P&L +$2,278.22 (+2.20%) vs last_equity $103,587.38 | Phase P&L **+$5,865.60 (+5.87%)** -- new phase high
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| FCX | 290 | $69.05 | $76.65 | +7.62% | +$2,204.00 (+11.01%) | $69.597 (10% trail, hwm $77.33) |
+| NEM | 64 | $114.16 | $131.935 | +3.37% | +$1,137.60 (+15.57%) | $123.0297 (**7% trail**, hwm $132.29) |
+| OXY | 170 | $55.52 | $61.51 | -0.02% | +$1,018.37 (+10.79%) | $55.9305 (10% trail, hwm $62.145) |
+| XLE | 150 | $63.48 | $63.82 | +0.11% | +$51.00 (+0.54%) | $58.23 (10% trail, hwm $64.70) |
+| XLI | 130 | $173.962385 | $180.13 | +0.20% | +$801.78 (+3.55%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $174.925 | +1.47% | +$2,246.74 (+11.99%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. **All 6 positions green** -- worst is XLE at +0.54%.
+- +15%/+20% tighten: **NEM +15.57% already on the 7% trail placed at market-open** (rule 9 satisfied); +20% trigger $136.99 = 3.8% away. FCX +11.01% (trigger $79.41, 3.6% away); XLV +11.99% (trigger $179.63, 2.7% away). No stop changes this run.
+- **Thesis checks: all HOLD.** FCX +7.62% day 3 of the copper rip -- pre-market's squeeze-crack warning (LME backwardation collapse) noted, but price action contradicts it and the ratcheted trail is the control: **FCX stop $69.597 now ABOVE the $69.05 entry = breakeven locked, the -7% cut line ($64.22) is moot; trail governs.** NEM +3.37% gold-complex day 9. OXY/XLE flat with crude pausing after 6 up days. XLI +0.20% quiet. XLV +1.47%.
+- **Auto-ratchets since market-open log: FCX** hwm $76.40 -> **$77.33**, stop $68.76 -> **$69.597**; **NEM** hwm $130.96 -> **$132.29**, stop $121.7928 -> **$123.0297** (7%). OXY/XLE/XLI/XLV unchanged.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **89.83%** -- a touch under the 90-100% target on this morning's NEM trim proceeds, above the 85% floor; cash 10.17% < 15% = no rule-2 violation. Trim cash queues for the next single-name leader add per rule 14.
+- **Sector concentration: Materials 28.97%** (FCX 21.00% + NEM 7.98%) -- compliant, breach cured by the market-open trim + NEM share reduction. XLI 22.12%; XLV 19.83%; Energy 18.92% (OXY 9.88% + XLE 9.04%). FCX 21.00% single-position < 25% cap.
+- Positions: 6 (5-8 band OK). Weekly count **1/6**. Trail coverage: **7 GTC orders covering all 924 shares across 6 positions.**
+
+**Housekeeping this run:** recovered 4 log commits stranded on side branches (never landed on main): Aug 20 midday scan, Aug 20 EOD snapshot, Aug 21 pre-market research (11:04 UTC), Aug 21 market-open NEM tighten+trim. Cherry-picked onto main in chronological order -- memory continuity restored. Cause: those sessions pushed to per-session `claude/*` branches instead of main.
+
+**Action this run: none -- no orders placed or cancelled. Log recovery only.**
+
+**PM watch (OpEx close 3-4pm ET swings):** FCX +15% trigger $79.41 / XLV $179.63 / NEM +20% $136.99 = same-session tighten(+trim) if printed; ratchet watches FCX $77.34+ / NEM $132.30+ / OXY $62.15+ / XLE $64.71+ / XLI $188.19+ / XLV $176.60+; XLI trail expiry 8/28 -- replace next week.

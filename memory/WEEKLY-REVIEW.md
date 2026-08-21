@@ -927,3 +927,71 @@ Note: Ending equity = live Alpaca read $102,723.63 at review time (Fri Aug 7 int
 ### Overall Grade: A-
 
 +3.44% -- the best absolute week of the challenge -- while finally keeping pace with a monster S&P week (~+3.2%) after eight straight positive-week misses. Everything the review process spent 15 weeks building fired in one week: rule 14's first live trigger executed same-session as scripted (AVGO trim +16.3% + double tighten to a 5% trail locking +13.4% worst case), the thrice-deferred XLB rotation executed at a gain into a vetted leader (FCX, Q2 beat + record copper), OXY held through its earnings binary on an explicitly-reasoned strike-asymmetry framework and won, and the week closed at new equity highs with all 6 positions green and every cap clean. Held back from A by: the Aug 5 binary-day EOD snapshot miss (third consecutive review flagging event-day cadence), the sub-band 89.2% deployment close with $11.1K rolling idle to Monday on a self-inflicted trade-count misread, and relative alpha of only ~flat-to-+0.5pp -- matching the index on its best week since April is progress, not outperformance, and the remaining 47% mid-beta ETF ballast is the known drag. The offense finally showed up; now it has to compound.
+
+## Week ending 2026-08-21
+
+Note: Week ending 2026-08-14 review was not logged (second missing weekly review of the campaign, after Jun 5). This review covers Mon Aug 17 -> Fri Aug 21 only; the Aug 10-14 trades (XLP -> NEM rotation Aug 10, SMCI entry, AVGO winning exit Aug 14) enter this narrative only as carried context. Ending equity = live Alpaca read $105,787.50 at review time (Aug 21 EOD log snapshot $105,797.67); starting basis = Alpaca last_equity $102,192.15 (authoritative Fri Aug 14 close, per anchor convention).
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $102,192.15 (Fri Aug 14 close = Mon Aug 17 open basis) |
+| Ending portfolio | $105,787.50 (Fri Aug 21 review-time; best equity of the challenge) |
+| Week return | +$3,595.35 (+3.52%) -- best absolute week, edging out Aug 7's +3.44% |
+| S&P 500 week | ~-1.4% (est; 7,785.76 -> 7,641.16 = -1.86% through Thu, Fri rebounding ~+0.5% intraday; FRED prelim prints -1.9%) |
+| Bot vs S&P | ~+4.9pp (range +4.4 to +5.4) -- BEST relative week of the challenge by a factor of ~1.6x |
+| Trades | 4 actions: 1 entry (XLE, 1/6 slots), 1 stop-out (SMCI, W:0/L:1), 2 NEM partial trims; open 6 |
+| Win rate | 0% (1 closed trade, 0 winners) |
+| Best trade | NEM +15.63% unrealized (+$1,142) plus +$421 realized across 2 trims (+14.78% on the 22-sh Fri trim) |
+| Worst trade | SMCI -9.00% realized (-$1,263.50, trail stop-out through a gap) |
+| Profit factor | 0.33 (realized: +$421.45 trims / -$1,263.50 SMCI) -- realized ledger red, book +$7,282 unrealized |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| SMCI | $40.12 | $36.51 | -$1,263.50 (-9.00%) | 10% GTC trail fired 14:55 UTC Aug 18 after -8.08% premarket gap through the -7% cut line (Netlist ITC patent complaint + Taiwan probe overhang, day-3 slide off the post-earnings +60% run). Rule 8 satisfied by the standing stop. Tech strike 1 only -- AVGO's Aug 14 winning exit intervened, so no rule-12 pause. Partials: NEM 4 sh @ $126.72 Aug 20 (+$50.24, rule-13 compliance) and NEM 22 sh @ $131.0332 Aug 21 (+$371.21 / +14.78%, rules 9+14 combo). |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| FCX | $69.05 (290 sh) | $76.65 | +$2,204.00 (+11.01%) | $69.597 (10% trail, hwm $77.33) -- BREAKEVEN-LOCKED (stop $0.55 above entry) |
+| NEM | $114.16 (64 sh) | $132.00 | +$1,141.76 (+15.63%) | $123.0716 (7% trail post-tighten, hwm $132.335) |
+| OXY | $55.52 (170 sh) | $61.30 | +$982.67 (+10.41%) | $55.9305 (10% trail, hwm $62.145) |
+| XLE | $63.48 (150 sh) | $63.64 | +$24.00 (+0.25%) | $58.23 (10% trail, hwm $64.70) -- NEW Aug 18 |
+| XLI | $173.962385 (130 sh) | $180.25 | +$817.39 (+3.61%) | $169.3665 (10% trail, hwm $188.185; order expires 8/28 -- replace Mon) |
+| XLV | $156.202167 (120 sh) | $174.62 | +$2,210.14 (+11.79%) | $158.931 x2 lots (10% trail, hwms $176.59) |
+
+### What Worked
+- **+3.52% on a ~-1.4% S&P week = ~+5pp alpha -- the best relative week of the challenge, and it came on a DOWN tape.** The commodity-complex book (FCX copper, NEM gold, OXY/XLE crude -- ~58% of equity) was exactly the right composition for a risk-off, geopolitical-bid week. Composition, not luck: every one of those positions was entered on a documented sector-momentum catalyst.
+- **The SMCI cut executed the anti-paralysis playbook end-to-end:** -7% breach identified premarket Tue, trail fired at the open (no discretionary hesitation), and the ~$17K cash was redeployed SAME SESSION into XLE per the pre-written plan (crude +3.5% Hormuz-stall catalyst, Energy #1 YTD). No cash drift, no revenge trade, no mourning period. The week absorbed a -$1,263 realized loss and still finished +3.5%.
+- **Rules 9+13+14 fired as one pre-written action Fri:** NEM printed the +15% trigger ($131.28) -> same-session 22-sh trim (25.6%, +$371 realized) + trail tighten 10% -> 7% + Materials cap breach cured (31.6% -> 29.0%), one cancel/replace sequence, 2 minutes. Second live rule-14 fire of the campaign, second flawless execution.
+- **Trail ratchets fired 15+ times across the week** (NEM x5, OXY x4, XLE x3, FCX x2, XLV x2) and FCX became the campaign's third breakeven-locked position (stop $69.597 > $69.05 entry). All-green book at Friday close; worst position +0.25%.
+- **Rule-12's rewrite paid its first dividend:** AVGO's Aug 14 winning exit reset the Tech strike ledger, so the SMCI loss = strike 1, not a sector pause. The old ambiguous rule would have re-litigated this live; the rewritten text answered it in one line of the Tue premarket log.
+
+### What Didn't Work
+- **The Aug 18 session executed both orders but committed NOTHING -- the week's most consequential day (SMCI cut + XLE entry) had to be reconstructed next morning from Alpaca order history,** and the Aug 18 EOD snapshot is permanently missing. Worse, Thu/Fri runs discovered 4 more log commits stranded on per-session `claude/*` side branches (Aug 20 midday, Aug 20 EOD, Aug 21 premarket, Aug 21 market-open) and had to cherry-pick them onto main. Memory persistence is now the campaign's most repeated failure and this week it was infrastructure (wrong branch), not discipline.
+- **SMCI realized -9.00% against a -7% rule line** -- the name gapped from -5.00% at Mon close through the cut line to -8.08% premarket, and the trail filled another 2pp lower. Slippage past the rule cost ~$280 vs a clean -7% exit. Gap risk on high-beta singles is real; the -7% line is a floor for decisions, not a guaranteed fill.
+- **The Aug 14 weekly review never happened** -- second missed review of the campaign. The week that contained the AVGO exit (the campaign's biggest realized winner) and two new entries (NEM, SMCI) has no retrospective, which weakened this week's strike-ledger and thesis context.
+- **Materials cap churn: 3 breaches in 5 sessions, all winner-drift** (30.03% Mon, 30.35% Wed, 30.54% Thu close, 31.64% Fri open). Thursday's 4-share compliance trim was undone by FCX's rally the same afternoon. The cap forced selling the book's strongest name (NEM) three times while it was ripping -- rule held, but the friction was constant and each trim required a trail cancel/replace.
+- **Deployment closed at 89.8%, a touch under the 90-100 band** on the Fri trim proceeds (~$10.8K cash queued). Above the 85% floor, no violation, but the single-name-leader add the cash is earmarked for did not get hunted Friday.
+
+### Key Lessons
+- **Composition IS the alpha.** 17 weeks of reviews said it: this book finally beat the index by ~5pp in a week where the index fell, because the sleeve was concentrated in the leading complex (commodities) with every position catalyst-documented. The same concentration that destroyed May (energy, thesis-blind) built August (commodities, thesis-checked daily) -- the difference is the daily thesis check plus ratcheted trails, not the concentration itself.
+- **Cut-and-redeploy is now a proven pattern, 4 for 4** (XLE->XLK+XLV Jun 15, MTUM->XLI+XLV+XLP Jul 8, XLK->AVGO Jul 17, SMCI->XLE Aug 18). Stop-out + pre-written candidate + same-session order = no cash drift, ever. The May "powder preservation paralysis" failure mode is dead.
+- **A standing GTC trail is also the -7% cut's execution engine:** SMCI's trail sat 0.9% below the cut line and fired first, converting a mandatory manual decision into a mechanical fill. Accept the gap slippage -- the alternative (discretionary premarket limit-chasing) is worse.
+- **Log commits that don't land on main don't exist.** Session work pushed to `claude/*` branches stranded 5 records this week (1 lost, 4 recovered). Every routine's push MUST verify the target branch is main before commit -- a perfect log on the wrong branch is a missing log.
+- **A winning exit resets the sector strike clock (rule 12) -- and that changes exit incentives:** taking AVGO's win Aug 14 is what kept Tech open for a future re-entry after SMCI's loss. Voluntary red exits arm strikes; banked green exits clear them. The asymmetry argues for harvesting winners in a sector where a shaky high-beta name is also held.
+
+### Adjustments for Next Week
+- **Monday priority 1: replace the XLI trail before its 8/28 expiry** (130 sh, current stop $169.3665) -- an expired trail = 130 uncovered shares = rule-7 breach by omission.
+- **Monday priority 2: deploy the ~$10.8K trim cash (10.2%)** into a single-name leader per rule 14's proceeds mandate -- non-Materials (29.0%, no headroom), Energy already 18.9%. Screen: Industrials single-name (XLI +3.6% is the laggard sleeve), Tech re-entry legal (strike 1 only) but only on a fresh catalyst. Target back inside the 90-100% band by Tue.
+- **Ladder watches armed:** FCX +15% trigger $79.41 (tighten+trim same session, pre-write ~70-sh count Sunday), NEM +20% $136.99 (-> 5% trail), XLV +15% $179.63. FCX at 21.0% single-position is 4pp from the 25% cap -- a +19% print breaches it; the rule-14 trim fires first if sequenced right.
+- **Persistence fix (this week's version): every scheduled run confirms `git branch --show-current` = main (or merges to main) before its final push; any run that finds a missing prior-session log reconstructs it FIRST** (the Aug 19 backfill pattern). This replaces the "event-day snapshot" framing -- the failure moved from discipline to plumbing.
+- **Materials cap: keep the EOD-only trim cadence** (Aug 17/19/20 precedent -- marginal intraday breaches <0.4pp defer to close; wider or held breaches trim at next open). It cost 3 forced NEM sales but kept the book compliant through a 9-day gold rip without over-trading.
+- **Weekly review cadence: 2 misses in 17 weeks, both unlogged Fridays.** If a Friday review cannot run, the following Monday premarket MUST open with a catch-up stub (stats table minimum) before any trade work.
+
+### Strategy Rule Changes Applied This Week
+- **NONE.** The rulebook was the week's best performer: rule 8 executed via the trail, rule 12's rewrite resolved the SMCI strike question in one line, rules 9+13+14 fired as a single pre-written action, and rule 2's redeploy mandate drove the same-session XLE add. The persistence and review-cadence fixes above are process/infrastructure, not strategy. The Materials-cap churn is friction, not failure -- no change to rule 13 with only one week of evidence.
+
+### Overall Grade: A-
+
++3.52% -- the best absolute week of the challenge -- against a ~-1.4% S&P week = ~+5pp, the best relative week ever and the first big beat on a falling tape. The commodity-composition thesis built over 4 weeks of rotations (FCX, NEM, OXY, XLE) delivered exactly when the market turned, the SMCI -7% cut executed mechanically with a same-session Energy redeploy (cut-and-redeploy now 4-for-4), the NEM +15% trigger fired the rules-9+13+14 combo flawlessly for the second live rule-14 execution, FCX became the third breakeven-locked position, and the week closed at a new equity high ($105.8K) with all six positions green and every cap compliant. Held back from A by: the Aug 18 log blackout on the week's most consequential session plus 4 stranded side-branch commits (persistence is now the campaign's most repeated failure, 2nd straight week), the missing Aug 14 weekly review (2nd of the campaign), SMCI's -9.00% fill vs the -7% line (gap slippage, tolerable but real), and the sub-band 89.8% close with the trim cash unhunted. The offense compounded exactly as last review demanded -- now the record-keeping has to be as good as the trading.

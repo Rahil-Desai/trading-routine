@@ -4661,3 +4661,40 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD on new positions -- one compliance trim only. (1) Market-open run: re-check Materials %; if >30% at the open, execute the pre-written 3-share NEM trim (cancel/replace trail). (2) No new entries -- no rules-legal setup beats what's on. (3) Manage-mode: XLV $179.63 and NEM $131.28 tighten+trim triggers armed; ratchet watches NEM $126.60+ / XLV $176.60+ / OXY $60.84+ / XLE $64.26+ / FCX $71.22+ / XLI $188.19+. (4) EOD: backfill missing Aug 19 daily summary.**
+
+## 2026-08-21 -- Pre-market Research (Fri, Day 79, Week 17 -- RUN INLINE AT MARKET-OPEN; scheduled pre-market session did not run)
+
+### Account
+- Equity: **$105,617.81** (vs last_equity $103,587.38 = +$2,030.43 / +1.96% day read at open)
+- **Phase P&L +$5,617.81 (+5.62%)** -- new phase high
+- Cash: **$7,878.74 (7.46%) / 92.54% deployed** -- in band pre-trade
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **FCX 290** @ $69.05 -> $76.3388 (+$2,113.75 / **+10.56%**; **+7.19% today** -- copper squeeze extension) -- trail $68.76, hwm $76.40
+  - **NEM 86** @ $114.16 -> $131.17 (+$1,462.86 / **+14.90%**) -- **hwm printed $131.87 >= +15% trigger $131.28 -> rules 9+14 FIRE: tighten to 7% + trim 25-50% THIS session**
+  - **OXY 170** @ $55.52 -> $61.56 (+$1,026.87 / +10.88%) -- trail $55.9305, hwm $62.145
+  - **XLE 150** @ $63.48 -> $64.155 (+$101.25 / +1.06%) -- trail $58.23, hwm $64.70
+  - **XLI 130** @ $173.962385 -> $180.44 (+$842.09 / +3.72%) -- trail $169.3665, hwm $188.185
+  - **XLV 120** @ $156.202167 -> $173.13 (+$2,031.34 / +10.84%) -- trails $158.931 q80/q40, hwm $176.59
+- Open trail stops: 7 GTC, all 946 shares covered pre-trade. Ratchets since Thu: FCX $68.76 (hwm $76.40), OXY $55.9305 (hwm $62.145), XLE $58.23 (hwm $64.70), NEM $118.683 (hwm $131.87)
+- Weekly count: **1/6** (Tue XLE buy)
+- **Sector mix** (of $105,617.81): **Materials 31.64% = cap BREACH ~$1,734 over** (FCX 20.96% + NEM 10.68%) on FCX +7.2% day; XLI 22.21%; XLV 19.67%; Energy 19.02%; cash 7.46%
+
+### Market Context
+- **WTI ~$86.9, Brent ~$93.8** -- crude firm, 2nd straight weekly gain, Iran/Hormuz premium persists. Energy tailwind intact (OXY/XLE).
+- **S&P near records** (~7,800 zone); Wed hawkish minutes absorbed.
+- **Today: flash PMIs 9:45 ET, BLS state employment 10:00** -- second-tier Friday. **Powell Jackson Hole speech Fri Aug 28** = next macro binary; NVDA earnings next week.
+- **No held-name company-specific catalysts:** FCX +7% = copper supply-squeeze/AI-electrification momentum (group), NEM = gold-complex bid extension (group). All theses intact.
+
+### Trade Ideas
+1. **NEM tighten+trim (rules 9+14, NOT a new trade):** hwm $131.87 printed the +15% trigger ($131.28). Execute at market-open run: cancel 86-sh trail -> SELL 22 (25.6%, ~$2,880) -> replace **7% trail** qty 64. Also cures Materials breach (31.64% -> ~28.9%) -- one action satisfies rules 9, 13, 14.
+2. **No new entries.** Book full at 6 (workflow cap), all 6 theses working (worst XLE +1.1%), nothing to rotate out. Trim proceeds (~$2.9K) queue for next single-name leader add per rule 14 when a slot opens.
+3. **Watch:** FCX +15% trigger $79.41 (4.0% away after today's run); XLV $179.63; OXY $63.85; NEM +20% = $136.99 -> 5% trail.
+
+### Risk Factors
+- FCX parabolic day-2 (+7.2%): ratcheted trail $68.76 is the control; no chase, Materials capped.
+- Crude reversal risk after 2 up weeks: OXY/XLE ratcheted trails armed.
+- Quiet-Friday drift into Jackson Hole week; 92.5% deployed with all trails ratcheting is the plan.
+
+### Decision
+**EXECUTE NEM tighten+trim (rules 9+13+14, one action). No new entries -- book full, all theses working. Manage-mode into the weekend.**

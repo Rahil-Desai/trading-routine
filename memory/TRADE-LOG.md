@@ -1167,3 +1167,15 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Rule checks (all passed):** positions 6 (trim, not exit -- count unchanged); weekly count stays **1/6** (sell = no slot); catalyst = rule-13 cap breach documented in 2026-08-20 RESEARCH-LOG + Wed midday pre-write; no day trade (NEM held since Aug 10), PDT clean; no new entries per today's plan (book full, Materials capped, Energy no-chase).
 
 **Trail coverage: 7 GTC orders covering all 946 shares across 6 positions.** Watch unchanged: XLV +15% trigger $179.63 / NEM $131.28 (tighten+trim same session); ratchet watches NEM $127.00+ / XLV $176.60+ / OXY $61.89+ / XLE $64.51+ / FCX $71.22+ / XLI $188.19+.
+
+## 2026-08-21 -- Market-Open Execution (Day 79, Friday -- NEM +15% TIGHTEN+TRIM, rules 9+13+14)
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-08-21 | NEM | SELL | 22 | $131.0332 | -- | Rule-14 trim at +15% print (hwm $131.87 >= trigger $131.28): trim 25.6% same session. Also cures rule-13 Materials breach (31.64% -> 28.9%). Realized **+$371.21 (+14.78%)** vs $114.16 entry. NOT a slot (exit) | -- | -- |
+
+**Execution:** NEM hwm $131.87 (trail order b08340b2) printed through the +15% trigger $131.28 -- rules 9+14 fire same session. Sequence: (1) cancelled NEM 86-share 10% trail (order b08340b2, stop $118.683, hwm $131.87) 13:40 UTC; (2) SOLD 22 @ $131.0332 market, filled 13:41 UTC, realized **+$371.21 / +14.78%**; (3) **replaced with TIGHTENED 7% GTC trail qty 64** (order b0bf4f87, 13:41 UTC, stop $121.7928, hwm $130.96 at placement -- re-ratchets to tape). Stop up only: $118.683 -> $121.7928 ✓; 7% from price, not within 3% ✓. One action satisfies rule 9 (tighten at +15%), rule 13 (Materials 31.64% -> ~28.9% compliant), rule 14 (25-50% trim, locked $2,882.73 cash).
+
+**Rule checks (all passed):** positions 6 (trim, not exit -- count unchanged); weekly count stays **1/6** (sell = no slot); catalyst = rules 9+13+14 triggers documented in 2026-08-21 RESEARCH-LOG (run inline); no day trade (NEM held since Aug 10), PDT clean; no new entries -- book full at 6 (workflow cap), trim proceeds queue for next single-name leader add per rule 14 when a slot opens.
+
+**Post-trade:** Cash ~$10,761 (10.2%), deployed ~89.8% (above 85% floor, cash < 15% -- no rule-2 violation). Materials ~28.9% compliant. **Trail coverage: 7 GTC orders covering all 924 shares across 6 positions** (FCX 290 @ $68.76 / NEM 64 @ $121.7928 7% / OXY 170 @ $55.9305 / XLE 150 @ $58.23 / XLI 130 @ $169.3665 / XLV 80+40 @ $158.931). **Watch:** FCX +15% trigger $79.41 (tighten+trim same session if printed); NEM +20% = $136.99 -> 5% trail; XLV $179.63; ratchet watches FCX $76.41+ / NEM $130.97+ / OXY $62.15+ / XLE $64.71+ / XLV $176.60+ / XLI $188.19+.

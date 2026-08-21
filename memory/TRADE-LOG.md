@@ -1250,3 +1250,17 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log recovery only.**
 
 **PM watch (OpEx close 3-4pm ET swings):** FCX +15% trigger $79.41 / XLV $179.63 / NEM +20% $136.99 = same-session tighten(+trim) if printed; ratchet watches FCX $77.34+ / NEM $132.30+ / OXY $62.15+ / XLE $64.71+ / XLI $188.19+ / XLV $176.60+; XLI trail expiry 8/28 -- replace next week.
+
+### Aug 21 -- EOD Snapshot (Day 79, Friday)
+**Portfolio:** $105,797.67 | **Cash:** $10,761.47 (10.17%) | **Day P&L:** +$2,210.29 (+2.13%) | **Phase P&L:** +$5,797.67 (+5.80%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| FCX | 290 | $69.05 | $76.65 | +7.62% | +$2,204.00 (+11.01%) | $69.597 (10% trail, hwm $77.33) |
+| NEM | 64 | $114.16 | $132.00 | +3.42% | +$1,141.76 (+15.63%) | $123.0716 (**7% trail**, hwm $132.335) |
+| OXY | 170 | $55.52 | $61.30 | -0.36% | +$982.67 (+10.41%) | $55.9305 (10% trail, hwm $62.145) |
+| XLE | 150 | $63.48 | $63.64 | -0.17% | +$24.00 (+0.25%) | $58.23 (10% trail, hwm $64.70) |
+| XLI | 130 | $173.962385 | $180.25 | +0.27% | +$817.39 (+3.61%) | $169.3665 (10% trail, hwm $188.185) |
+| XLV | 120 | $156.202167 | $174.62 | +1.29% | +$2,210.14 (+11.79%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Notes:** Best equity close of the challenge and a new phase high -- $105,797.67, Day P&L **+$2,210.29 (+2.13%)** vs Alpaca last_equity $103,587.38, phase **+$5,797.67 (+5.80%)**. **One trade today: SOLD 22 NEM @ $131.0332 at the open** (rules 9+13+14 combo -- +15% print tightened trail to 7%, trimmed 25.6%, cured Materials breach; realized +$371.21) -- weekly count stays **1/6** (Tue XLE buy; sells = no slot). FCX carried the day, **+7.62%** to $76.65 (copper rip day 3, +11.01% / +$2,204 unrealized, stop $69.597 ABOVE $69.05 entry = breakeven locked). NEM +3.42% to $132.00 (**+15.63% / +$1,142**, now on the 7% trail -- +20% trigger $136.99 -> 5%). XLV +1.29% (+11.79% / +$2,210). XLI +0.27%. Energy paused: OXY -0.36% (+10.41% still), XLE -0.17% (+0.25%). Entire book green; no -7% cuts (worst XLE +0.25%). **One auto-ratchet since midday: NEM** hwm $132.29 -> **$132.335**, stop $123.0297 -> **$123.0716** (7%). Deployment **89.83%** ($95,036.20 / $105,797.67) -- a touch under the 90-100% target on the NEM trim proceeds, above the 85% floor; trim cash queues for the next single-name leader add per rule 14. **Sector mix:** Materials **29.00%** (FCX 21.01% + NEM 7.99%) -- compliant, breach cured; XLI 22.15%; XLV 19.81%; Energy 18.87% (OXY 9.85% + XLE 9.02%); Cash 10.17%. FCX single-name 21.01% < 25% cap. 6 positions, 5-8 band OK. **Trail coverage: 7 GTC orders covering all 924 shares across 6 positions.** **Weekend -- no trading. Monday:** replace XLI trail before 8/28 expiry; hunt single-name leader for trim cash (deploy toward 90%+); watch FCX +15% trigger $79.41 / NEM +20% $136.99 / XLV $179.63 (tighten if printed); ratchet watches FCX $77.34+ / NEM $132.34+ / OXY $62.15+ / XLE $64.71+ / XLI $188.19+ / XLV $176.60+.

@@ -1283,3 +1283,30 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Rule checks:** positions 6 (5-8 band OK); deployment 89.85% -- above 85% floor, cash 10.15% < 15% = no rule-2 violation; weekly count **0/6** (Week 18 fresh). **No -7% cuts** (worst XLE +0.21%). **No pre-write triggers printed:** FCX $78.235 < $79.41 (+15%), NEM $132.00 < $136.99 (+20%), XLV $173.945 < $179.63 (+15%). **Two auto-ratchets over the weekend: FCX** hwm $77.33 -> **$78.87**, stop $69.597 -> **$70.983**; **NEM** hwm $132.335 -> **$133.72**, stop $123.0716 -> **$124.3596** (7%). **Sector mix:** Materials 29.37% (FCX 21.40% + NEM 7.97%) -- compliant; XLI 21.98%; XLV 19.69%; Energy 18.81% (OXY 9.81% + XLE 9.00%); FCX single-name 21.40% < 25% cap. **Trail coverage: 7 GTC orders covering all 924 shares across 6 positions -- no expiries before 9/11 (XLV qty-80 lot).**
 
 **PM watch:** FCX +15% trigger $79.41 (1.5% away -- same-session 7% tighten + 25-50% trim if printed, pre-write ~70-145 sh); NEM +20% $136.99 -> 5% trail; XLV +15% $179.63 -> 7% tighten + trim; XLE on rotation watch (decision Wed midday earliest, crude red on Iran-sanctions positioning); NVDA Wed AMC = catalyst gate for the Tech single-name add. Ratchet watches FCX $78.88+ / NEM $133.73+ / OXY $62.15+ / XLE $64.71+ / XLI $179.30+ / XLV $176.60+.
+
+## 2026-08-24 -- Midday Scan (Day 80, Monday -- NO ORDERS)
+
+**Midday account (~timestamped this run):** Equity **$105,261.51** | Cash $10,761.39 (**10.22%**) | Long MV $94,500.12 (89.78% deployed) | Day P&L **-$506.30 (-0.48%)** vs last_equity $105,767.81 | Phase P&L **+$5,261.51 (+5.26%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| FCX | 290 | $69.05 | $77.05 | +0.51% | +$2,320.00 (+11.59%) | $70.983 (10% trail, hwm $78.87) |
+| NEM | 64 | $114.16 | $131.00 | -0.44% | +$1,077.76 (+14.75%) | $124.3596 (7% trail, hwm $133.72) |
+| OXY | 170 | $55.52 | $59.71 | -2.59% | +$712.37 (+7.55%) | $55.9305 (10% trail, hwm $62.145) |
+| XLE | 150 | $63.48 | $62.85 | -1.24% | -$94.50 (-0.99%) | $58.23 (10% trail, hwm $64.70) |
+| XLI | 130 | $173.962385 | $178.73 | -0.84% | +$619.79 (+2.74%) | $170.495 ($9.55 trail_price, hwm $180.045) |
+| XLV | 120 | $156.202167 | $174.515 | -0.06% | +$2,197.54 (+11.72%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst is **XLE -0.99%** -- red but nowhere near the cut line.
+- +15%/+20% tighten (rule 9): none printed this session. NEM +14.75% (already on the 7% trail from Friday's +15% print -- stop never loosens); FCX +11.59% (trigger $79.41, 3.1% away); XLV +11.72% (trigger $179.63, 2.9% away). NEM +20% trigger $136.99 = 4.6% away. No stop changes.
+- **Thesis checks: all HOLD.** Energy is the soft spot -- crude red on Iran-sanctions positioning (known cause from pre-market): OXY -2.59% (still +7.55% unrealized), **XLE -1.24% to -0.99% overall = worst on book, now red**. Per this morning's plan XLE stays on rotation watch with the **decision gate Wed midday** -- one red crude day is not a broken thesis; trail $58.23 governs. FCX +0.51% copper firm (only green position today); NEM -0.44% gold pausing at records; XLI/XLV quiet drift.
+- **One auto-ratchet since market-open run: XLI** (new $9.55 trail, order 6ee0f223) hwm $179.29 -> **$180.045**, stop $169.74 -> **$170.495**. FCX/NEM/OXY/XLE/XLV unchanged.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **89.78%** -- above the 85% floor, cash 10.22% < 15% = no rule-2 violation; trim cash still queued for the post-NVDA single-name add (Wed/Thu decision).
+- **Sector concentration: Materials 29.19%** (FCX 21.23% + NEM 7.96%) -- compliant, ~$0.85K headroom; XLI 22.07%; XLV 19.89%; Energy 18.60% (OXY 9.64% + XLE 8.96%). FCX single-name 21.23% < 25% cap.
+- Positions: 6 (5-8 band OK). Weekly count **0/6**. Trail coverage: **7 GTC orders covering all 924 shares across 6 positions.**
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** FCX +15% trigger $79.41 / XLV $179.63 / NEM +20% $136.99 = same-session tighten(+trim) if printed; XLE rotation decision gate Wed midday (crude direction + NVDA week tape); ratchet watches FCX $78.88+ / NEM $133.73+ / OXY $62.15+ / XLE $64.71+ / XLI $180.05+ / XLV $176.60+.

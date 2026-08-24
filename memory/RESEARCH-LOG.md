@@ -4744,3 +4744,51 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **EXECUTE NEM tighten+trim (rules 9+13+14, one action). No new entries -- book full, all theses working. Manage-mode into the weekend.**
+
+## 2026-08-24 -- Pre-market Research (Mon, Day 80, Week 18)
+
+### Account
+- Equity: **$105,710.76** (vs last_equity $105,767.81 = -$57.05 / -0.05% overnight read)
+- **Phase P&L +$5,710.76 (+5.71%)** -- holding Friday's phase-high zone
+- Cash: **$10,761.39 (10.18%) / 89.82% deployed** -- a touch under the 90-100% target on Friday's NEM trim proceeds, above the 85% floor; cash < 15% = no rule-2 violation. Trim cash still queued for next single-name leader add per rule 14.
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **FCX 290** @ $69.05 -> $76.66 (+$2,207.28 / **+11.02%**; flat overnight) -- copper complex holding the rip; trail $69.597 (ABOVE entry, breakeven locked), hwm $77.33; +15% trigger $79.41 (3.6% away)
+  - **NEM 64** @ $114.16 -> $132.29 (+$1,160.32 / **+15.88%**; +0.54%) -- gold ~$4,650 record zone premarket (+0.6%); **7% trail** $123.0716, hwm $132.335; **+20% trigger $136.99 (3.6% away) -> 5% trail**
+  - **OXY 170** @ $55.52 -> $60.90 (+$914.67 / +9.69%; -0.65%) -- crude profit-taking premarket; trail $55.9305, hwm $62.145
+  - **XLE 150** @ $63.48 -> $63.44 (**-$6.00 / -0.06%**; -0.31%) -- slipped to breakeven on crude pullback, worst on book; trail $58.23, hwm $64.70; dead-money watch if crude rolls over
+  - **XLI 130** @ $173.962385 -> $179.62 (+$735.72 / +3.25%; -0.35%) -- dead-money watch continues; trail $169.3665, hwm $188.185; **trail EXPIRES 2026-08-28 -- replace THIS WEEK**
+  - **XLV 120** @ $156.202167 -> $175.26 (+$2,286.94 / **+12.20%**; +0.37%) -- healthcare momentum intact; trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (2.5% away, closest watch)
+- Open trail stops: **7 GTC, all 924 shares covered.** No ratchets over the weekend (no tape).
+- Weekly count: **0/6 -- resets today** (last week 1/6)
+- **Sector mix** (of $105,710.76): Materials **29.03%** (FCX 21.03% + NEM 8.01%) -- compliant, ~$1.0K headroom; XLI 22.09%; XLV 19.89%; Energy 18.80% (OXY 9.79% + XLE 9.00%); Cash 10.18%. FCX single-name 21.03% < 25% cap.
+
+### Market Context
+- **WTI ~$85.6 (-1.6%), Brent ~$91.3-93 (-1.5%)** -- profit-taking after a +6% week, ahead of an expected US announcement on tougher Iran sanctions; Hormuz premium intact underneath. First red crude morning in ~7 sessions -- OXY/XLE softening.
+- **ES ~7,690-7,700, flat** (-0.05% to +0.11%). S&P near records into a heavy catalyst week.
+- **VIX 15.13** (Fri close, -5.5%) -- calm regime.
+- **Today: NO major US releases** (Chicago Fed National Activity Index 8:30 only). BMO earnings: PDD, XPEV, NSSC -- nothing held.
+- **Week's binaries: NVDA earnings Wed AMC** (AI-trade bellwether), **GDP 2nd estimate Wed 8:30, core PCE Thu/Fri, Jackson Hole speech Fri** -- rate path + AI in one week. Treasury long-end still the macro overhang (30-yr >5%).
+- **Sector YTD: Energy +44.3% (leader), Tech +27.6%, Materials +19.0%, Industrials +16.8%, Healthcare +13.8%.** Materials/Energy/Healthcare printed new all-time highs Friday -- book aligned with leadership.
+- **Gold ~$4,650 record zone (+0.6% premarket)** on debt fears + weaker dollar -- NEM tailwind day 10.
+
+### Held-ticker News
+- **FCX**: no fresh company news; copper-complex momentum is the driver. Grasberg ramp headlines old (July). Squeeze-crack counter-signal from Thu unresolved -- trail above entry is the control.
+- **NEM**: no company news; gold record bid is the thesis, intact.
+- **OXY / XLE**: crude -1.6% premarket on Iran-sanctions positioning -- watch, trails are the control.
+- **XLI / XLV**: no company-specific catalysts.
+
+### Trade Ideas
+1. **XLI trail replacement (housekeeping, MUST land this week -- expiry 8/28):** current 10% trail (stop $169.3665, hwm $188.185) dies Friday. A fresh 10% trail from ~$179.62 would set the stop LOWER ($161.66) = rule-10 violation. Replace at market-open run with a **GTC trail at ~5.7% (trail_price ~$10.25)** so the new stop starts >= $169.3665 -- stop never moves down, 5.7% from price is outside the 3% minimum. Not a slot.
+2. **Single-name leader add (~$5-6K of the queued trim cash) -- POST-NVDA, not today:** Tech pause expired ~Aug 14, so Tech singles are legal again with fresh catalyst + leadership (Tech +27.6% YTD #2). NVDA Wed AMC is the catalyst gate for the whole complex; entering ahead of it is a coin flip, not a setup. Candidates to research Wed/Thu: post-earnings breakout leader in semis/AI complex (relative strength vs S&P, 10-12% stop, 2:1 R:R). Materials singles blocked (~$1.0K sector headroom only).
+3. **XLE rotation watch (rule 11):** worst on book at -0.06% with crude red premarket and 2 failed Energy trades already banked this quarter cycle. If crude confirms a rollover and XLE is still flat-to-red by Wed midday, it is the rotation-out candidate to fund idea 2 without new cash. No action today -- trail $58.23 governs; no discretionary exit on one red morning.
+
+### Risk Factors
+- **Crude reversal day 1**: OXY (+9.7%) and XLE (-0.1%) both exposed; Iran-sanctions headline could whip either way intraday. Trails $55.9305/$58.23 are the controls.
+- **NVDA Wed + Jackson Hole Fri**: binary macro week for a 89.8%-deployed book; VIX 15 = hedges cheap but we don't hedge, trails ratchet instead.
+- **XLV +15% trigger $179.63 only 2.5% away** -- pre-write: if printed, same-session tighten to 7% + trim 25-50% (rules 9+14; ~30-60 shares, cures nothing but locks ~$5-10K).
+- **NEM +20% trigger $136.99 (3.6% away)** -- if printed, replace 7% trail with 5%.
+- **XLI trail expiry 8/28** -- if not replaced by Thursday, 130 shares go uncovered Friday.
+
+### Decision
+**HOLD on new entries today -- manage-mode. (1) Market-open run: replace XLI trail with ~5.7% GTC trail (stop >= $169.3665, not a slot). (2) No new entries pre-NVDA; single-name Tech add is the Wed/Thu decision with the queued trim cash. (3) Pre-writes armed: XLV >= $179.63 -> 7% tighten + trim; NEM >= $136.99 -> 5% trail; FCX >= $79.41 -> 7% tighten + trim. (4) XLE on rotation watch, decision Wed midday at the earliest. Ratchet watches: FCX $77.34+ / NEM $132.34+ / OXY $62.15+ / XLE $64.71+ / XLI $188.19+ / XLV $176.60+.**

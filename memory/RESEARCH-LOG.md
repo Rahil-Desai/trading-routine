@@ -4839,3 +4839,51 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- manage-mode day 2 pre-NVDA. No new entries. Pre-writes armed (FCX $79.41 closest). XLE rotation decision Wed midday. Ratchet watches: FCX $78.88+ / NEM $133.73+ / OXY $62.15+ / XLE $64.71+ / XLI $180.05+ / XLV $176.60+.**
+
+## 2026-08-26 -- Pre-market Research (Wed, Day 82, Week 18)
+
+### Account
+- Equity: **$105,803.79** (vs last_equity $106,049.75 = -$245.96 / -0.23% overnight read)
+- **Phase P&L +$5,803.79 (+5.80%)**
+- Cash: **$10,761.39 (10.17%) / 89.83% deployed** -- above 85% floor, cash < 15% = no rule-2 violation; NEM trim cash queued, FCX trim adds to it today.
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **FCX 290** @ $69.05 -> $80.00 (+$3,175.50 / **+15.86%**; +0.11%) -- pre-market ~$80.5 near record high post-earnings copper rally; trail $71.955 (10%, hwm $79.95). **+15% TRIGGER PRINTED Tue -> EXECUTE 7% tighten + 25-50% trim (~70-145 sh) at market-open run. First action of the day.**
+  - **NEM 64** @ $114.16 -> $133.10 (+$1,212.16 / **+16.59%**; -1.51%) -- gold pausing; **7% trail** $125.8197, hwm $135.29; +20% trigger $136.99 (2.9% away) -> 5%
+  - **OXY 170** @ $55.52 -> $57.95 (+$413.17 / +4.38%; -0.79%) -- crude breaking down; trail $55.9305, hwm $62.145 -- **stop only 3.5% below price**, cushion thinning
+  - **XLE 150** @ $63.48 -> $61.71 (**-$265.50 / -2.79%**; -0.56%) -- worst on book, day 3 red; **rotation decision gate TODAY midday**; trail $58.23, hwm $64.70
+  - **XLI 130** @ $173.962385 -> $178.40 (+$576.89 / +2.55%; flat) -- $9.55 trail: stop $171.41, hwm $180.96, exp 11/20
+  - **XLV 120** @ $156.202167 -> $175.20 (+$2,279.74 / +12.16%; -0.05%) -- trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (2.5% away)
+- Open trail stops: **7 GTC, all 924 shares covered.** No overnight ratchets.
+- Weekly count: **0/6** (Week 18)
+- **Sector mix** (of $105,803.79): Materials **29.98%** (FCX 21.93% + NEM 8.05%) -- AT the 30% cap, FCX trim cures; XLI 21.92%; XLV 19.87%; Energy 18.06% (OXY 9.31% + XLE 8.75%); Cash 10.17%. FCX single-name 21.93% < 25% cap.
+
+### Market Context
+- **WTI ~$80.4 (-2.4%), Brent ~$86.5 (-2.3%)** -- crude BROKE DOWN: Hormuz-reopen diplomacy deflating the Iran risk premium + bearish US inventory build. Day 3 of the slide; the sanctions-widening bid lost. Direct hit on OXY/XLE.
+- **ES ~7,680-7,690, flat to +0.2%** premarket; tech leading, bond yields falling.
+- **VIX ~15.5-15.7** (closed 15.45-15.85 area) -- calm regime holding into a binary day.
+- **TODAY 8:30 ET: July PCE / core PCE (tracking ~0.2-0.3% m/m) + GDP 2nd estimate + durable goods** -- PCE landed TODAY, not Thu/Fri as previously logged. Inflation print pre-NVDA = macro binary in the morning.
+- **NVDA AMC** -- the market catalyst of the month ($5.2T cap, ~7.3% of S&P; est EPS ~$2.09 / rev ~$91.9B). Also AMC: CRM, CRWD, SNPS, HPQ, OKTA. Jackson Hole Fri.
+- BMO earnings: KSS, WSM, ANF, SJM, BBWI, LI, DCI -- nothing held.
+- **Sector YTD: Energy +43.1% leader, Tech +25.4%, Materials +19.1%, Industrials +16.0%, Healthcare +13.8%** -- book aligned with leadership.
+
+### Held-ticker News
+- **FCX**: pre-market ~$80.5 (+0.8%), record-high zone; post-Q2-earnings copper-proxy rally intact (Q2 beat $0.74 vs $0.62; Grasberg ramp still the known overhang).
+- **NEM**: no fresh company news; gold pausing below records, -1.5% overnight read.
+- **OXY / XLE**: no company news; crude breakdown is the story (Hormuz diplomacy + inventory build).
+- **XLI / XLV**: no company-specific catalysts.
+
+### Trade Ideas
+1. **FCX tighten + trim at market-open run (mandatory, rule 9+14 -- trigger printed Tue):** replace 10% trail with **7% trail** (from hwm ~$80, stop ~$74.4 -- never below $71.955) and **trim 25-50% (~70-145 sh @ ~$80 = $5.6-11.6K)**. Cures Materials 29.98% cap breach and funds idea 2. Not a new slot.
+2. **Post-NVDA Tech single-name add ($5-12K trim cash) -- Wed AMC print, decide Wed close/Thu:** Tech pause expired Aug 14; NVDA is the gate for the semis/AI complex. Candidates: post-print RS leader (NVDA itself on beat-and-raise breakout, or strongest sympathy name). 10-12% stop, 2:1 R:R. No entry before the print.
+3. **XLE rotation decision TODAY midday (rule 11):** crude day 3 down with the risk premium deflating; XLE -2.79% overall, worst on book, 2 Energy strikes already banked this cycle. If crude stays broken and XLE red at midday -> exit at market, bank the loss as Energy strike watch, redeploy into idea 2. Trail $58.23 remains the floor either way. OXY holds separately -- +4.4% cushion but stop only 3.5% below; let the trail decide.
+
+### Risk Factors
+- **PCE 8:30 ET + NVDA AMC same day** on an 89.8%-deployed book -- both binary; a hot PCE into NVDA could compress multiples fast. VIX 15.5 = no fear priced.
+- **Crude breakdown accelerating**: OXY stop 3.5% below price -- a -2% crude day likely stops it out (that would be Energy strike vs OXY's gain-cushion... exit would be a WIN, no strike). XLE -2.79% = strike 3 candidate if stopped.
+- **NEM +20% trigger $136.99 (2.9% away)** -> replace 7% with 5% trail; **XLV +15% $179.63 (2.5% away)** -> 7% tighten + trim. Pre-writes armed.
+- **Materials 29.98% = at cap** -- no adds until FCX trim executes.
+- Jackson Hole Fri = week's second macro binary.
+
+### Decision
+**HOLD on new entries pre-NVDA -- but two executions queued: (1) market-open run MUST execute FCX 7% tighten + 25-50% trim (printed Tue, rules 9+14). (2) XLE rotation decision TODAY midday -- crude broken, day 3. (3) Post-NVDA Tech single-name add is the Wed close/Thu decision with trim cash. Pre-writes armed: NEM >= $136.99 -> 5% trail; XLV >= $179.63 -> 7% tighten + trim. Ratchet watches: FCX $79.96+ / NEM $135.30+ / OXY $62.15+ / XLE $64.71+ / XLI $180.97+ / XLV $176.60+.**

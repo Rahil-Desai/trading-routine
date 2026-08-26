@@ -4887,3 +4887,9 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD on new entries pre-NVDA -- but two executions queued: (1) market-open run MUST execute FCX 7% tighten + 25-50% trim (printed Tue, rules 9+14). (2) XLE rotation decision TODAY midday -- crude broken, day 3. (3) Post-NVDA Tech single-name add is the Wed close/Thu decision with trim cash. Pre-writes armed: NEM >= $136.99 -> 5% trail; XLV >= $179.63 -> 7% tighten + trim. Ratchet watches: FCX $79.96+ / NEM $135.30+ / OXY $62.15+ / XLE $64.71+ / XLI $180.97+ / XLV $176.60+.**
+
+### Midday Addendum (Aug 26) -- XLE gate check
+- **Crude REBOUNDED intraday:** WTI opened down ~-2.2% but reclaimed to ~$83.03 (+0.81% real-time, Investing.com) off a $79.65 session low; Brent similar pattern. Early quotes still print red vs settlement but the tape turned. Driver mix unchanged (Hormuz-reopen diplomacy vs sanctions risk premium; inventory build) -- day-3 breakdown PAUSED, not confirmed.
+- **XLE green +0.91% at midday** ($62.625), OXY +0.24% -- Energy second-best day-change on book.
+- **Gate decision: HOLD XLE.** Pre-market exit condition ("crude stays broken AND XLE red at midday") failed both legs. Trail $58.23 governs; gate re-arms at EOD/daily-summary -- crude rolling back over + XLE red = exit call folds into the post-NVDA Thu redeploy decision.
+- No other research triggers; metals pullback (FCX -1.6%, NEM -2.1%) is digestion of Tuesday's surge, known causes.

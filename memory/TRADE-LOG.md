@@ -1377,3 +1377,31 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Rule checks (all passed):** positions 6 (trim, not exit -- count unchanged); weekly count stays **0/6** (sell = no slot); catalyst = rules 9+13+14 triggers documented in 2026-08-26 RESEARCH-LOG; no day trade (FCX held since Aug 6), PDT clean; no new entries this run -- pre-NVDA hold per plan, trim proceeds queued for the post-NVDA Tech single-name add (Wed close/Thu decision).
 
 **Post-trade:** Cash ~$18,711 (~17.7%), deployed ~82.3% -- cash > 15% BUT earmarked for the post-NVDA add within one trading day (rule-2 clock: must deploy next session, Wed close/Thu). Materials ~22.3% compliant, FCX single-name ~14.3%. **Trail coverage: 7 GTC orders covering all 824 shares across 6 positions** (FCX 190 @ $73.9257 7% / NEM 64 @ $125.8197 7% / OXY 170 @ $55.9305 / XLE 150 @ $58.23 / XLI 130 @ $171.41 $9.55-trail / XLV 80+40 @ $158.931). **Today remaining:** PCE 8:30 ET landed pre-open; XLE rotation decision midday (crude day 3 broken, -2.2% overall); NVDA AMC = Tech add gate. **Watch:** NEM +20% $136.99 -> 5% trail; XLV +15% $179.63 -> 7%+trim; ratchet watches FCX $79.96+ (new trail re-ratchets from $79.49) / NEM $135.30+ / OXY $62.15+ / XLE $64.71+ / XLI $180.97+ / XLV $176.60+.
+
+## 2026-08-26 -- Midday Scan (Day 82, Wednesday -- NO ORDERS; XLE GATE = HOLD)
+
+**Midday account (~timestamped this run):** Equity **$105,771.06** | Cash $18,711.39 (**17.69%**) | Long MV $87,059.67 (82.31% deployed) | Day P&L **-$278.69 (-0.26%)** vs last_equity $106,049.75 | Phase P&L **+$5,771.06 (+5.77%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| FCX | 190 | $69.05 | $78.63 | -1.60% | +$1,820.20 (+13.87%) | $74.6232 (7% trail, hwm $80.24) |
+| NEM | 64 | $114.16 | $132.25 | -2.14% | +$1,157.76 (+15.85%) | $125.8197 (7% trail, hwm $135.29) |
+| OXY | 170 | $55.52 | $58.55 | +0.24% | +$515.17 (+5.46%) | $55.9305 (10% trail, hwm $62.145) |
+| XLE | 150 | $63.48 | $62.625 | +0.91% | -$128.25 (-1.35%) | $58.23 (10% trail, hwm $64.70) |
+| XLI | 130 | $173.962385 | $180.175 | +1.00% | +$807.64 (+3.57%) | $171.41 ($9.55 trail_price, hwm $180.96) |
+| XLV | 120 | $156.202167 | $173.87 | -0.81% | +$2,120.14 (+11.31%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst is **XLE -1.35%** -- nowhere near the cut line.
+- +15%/+20% tighten (rule 9): no new prints. NEM +15.85% already on the 7% trail (+20% trigger $136.99 = hwm 3.6% below, not printed). FCX post-trim +13.87%, already tightened to 7% at the open -- stays (never loosen). XLV +11.31% (trigger $179.63, 3.3% away). No stop changes this run.
+- **XLE ROTATION GATE (queued from pre-market, rule 11): HOLD.** Exit condition was "crude stays broken AND XLE red at midday" -- BOTH legs failed: WTI rebounded intraday off the $79.65 low to ~$83 (+0.8% real-time after a -2.2% open; Perplexity-verified), and XLE is **green +0.91%**, the second-best day-change on the book with OXY also green. Day-3 breakdown paused, not confirmed. Trail $58.23 remains the floor; gate re-arms at EOD -- if crude rolls back over and XLE goes red, exit call moves to the daily-summary/Thu open with NVDA cash decision.
+- **Thesis checks: all HOLD.** Metals giving back a point (FCX -1.60%, NEM -2.14%) after Tuesday's surge -- normal digestion, copper/gold theses intact. XLI +1.00% pressing its hwm. XLV -0.81% drift. Energy bouncing with crude.
+- **Auto-ratchet since market-open: FCX** new 7% trail re-ratcheted hwm $79.49 -> **$80.24**, stop $73.9257 -> **$74.6232** (order 3c743414). XLI hwm $180.96 holds (price $180.175 below it); NEM $135.29 holds.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **82.31%** -- below the 85% floor on this morning's FCX trim cash ($7,950 added). Known and planned: rule-2 clock runs to next session; **post-NVDA Tech single-name add (Wed close/Thu) is the mandatory deploy.** Not a roll-forward violation yet; becomes one if Thursday passes without a placed order.
+- **Sector mix:** Materials **22.13%** (FCX 14.13% + NEM 8.00%) -- cap cured by the trim; XLI 22.14%; XLV 19.73%; Energy 18.29% (OXY 9.41% + XLE 8.88%); Cash 17.69%. FCX single-name 14.13% < 25%.
+- Positions: 6 (5-8 band OK). Weekly count **0/6** (trim = no slot). Trail coverage: **7 GTC orders covering all 824 shares across 6 positions.**
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** NVDA AMC = the catalyst gate -- Tech single-name add decision Wed close/Thu with ~$18.7K cash (MANDATORY deploy by Thu, rule 2); XLE gate re-check at EOD (crude direction); NEM +20% $136.99 / XLV +15% $179.63 / FCX re-print $79.41 pre-writes armed; ratchet watches FCX $80.25+ / NEM $135.30+ / OXY $62.15+ / XLE $64.71+ / XLI $180.97+ / XLV $176.60+.

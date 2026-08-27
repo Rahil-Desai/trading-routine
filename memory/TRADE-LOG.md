@@ -1432,3 +1432,30 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Rule checks (all passed):** positions after = 6 (XLE out, NVDA in) <= 6 ✓; weekly count **1/6** after (NVDA buy = 1st slot of Week 18; sells don't count) <= 3-this-run cap ✓; NVDA cost $18,855 = 17.91% <= 20% ✓; catalyst documented in 2026-08-27 RESEARCH-LOG ✓; no day trades (XLE held since Aug 18, NVDA no same-day exit), PDT clean ✓; Tech sector 17.91% < 30% cap ✓; Tech pause expired Aug 14, re-entry justification logged ✓.
 
 **Post-trade:** Equity $105,294.09 | Cash **$9,173.01 (8.71%) / 91.29% deployed** -- rule-2 MANDATORY deploy satisfied, back above the 85% floor. **Sector mix:** XLI 22.18%; Materials 22.18% (FCX 14.21% + NEM 8.00%); Tech 17.91% (NVDA); XLV 19.66%; Energy 9.46% (OXY only -- **sector PAUSED through ~Sep 24, no adds; OXY grandfathered on trail $55.9305**). **Trail coverage: 7 GTC orders covering all 758 shares across 6 positions** (NVDA 84 @ $202.5855 10% / FCX 190 @ $74.6232 7% / NEM 64 @ $125.8197 7% / OXY 170 @ $55.9305 / XLI 130 @ $171.41 $9.55-trail / XLV 80+40 @ $158.931). **Watch:** NVDA gap-fade risk -- trail governs; NEM +20% $136.99 -> 5% trail; XLV +15% $179.63 -> 7%+trim; jobless claims 8:30 ET landed; Warsh Jackson Hole speech Fri = macro binary.
+
+## 2026-08-27 -- Midday Scan (Day 83, Thursday -- NO ORDERS)
+
+**Midday account (~timestamped this run):** Equity **$106,069.62** | Cash $9,173.01 (**8.65%**) | Long MV $96,896.61 (91.35% deployed) | Day P&L **+$327.13 (+0.31%)** vs last_equity $105,742.49 | Phase P&L **+$6,069.62 (+6.07%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| FCX | 190 | $69.05 | $79.455 | +0.58% | +$1,976.95 (+15.07%) | $74.6232 (7% trail, hwm $80.24) |
+| NEM | 64 | $114.16 | $133.07 | +1.12% | +$1,210.24 (+16.56%) | $125.8197 (7% trail, hwm $135.29) |
+| NVDA | 84 | $224.47 | $229.52 | +9.47% | +$424.20 (+2.25%) | $206.919 (10% trail, hwm $229.91) |
+| OXY | 170 | $55.52 | $59.03 | +0.70% | +$596.77 (+6.32%) | $55.9305 (10% trail, hwm $62.145) |
+| XLI | 130 | $173.962385 | $179.23 | -0.62% | +$684.79 (+3.03%) | $171.41 ($9.55 trail_price, hwm $180.96) |
+| XLV | 120 | $156.202167 | $172.315 | -0.71% | +$1,933.54 (+10.32%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. No red positions -- worst day-chg XLV -0.71%, all six green on unrealized.
+- +15%/+20% tighten (rule 9): no NEW prints. FCX back at +15.07% -- same trigger that printed Tue and was executed Wed (7% tighten + 100-sh trim); already satisfied, no re-trim on a re-print of the same trigger. NEM +16.56% already on 7% trail (+20% trigger $136.99, hwm 3.4% below). XLV +10.32% (trigger $179.63, 4.2% away). NVDA +2.25% (fresh entry, +15% trigger $258.14). No stop changes this run.
+- **Thesis checks: all HOLD.** NVDA holding the earnings gap +9.47% at $229.52 -- blowout thesis confirmed by the tape, trail auto-ratcheting behind it. Metals firm (FCX +0.58% / NEM +1.12% gold bid). OXY +0.70% green with crude stabilized (grandfathered, Energy paused through ~Sep 24). XLI -0.62% / XLV -0.71% = quiet drift, nothing broken.
+- **Auto-ratchet since market-open: NVDA** hwm $225.095 -> **$229.91**, stop $202.5855 -> **$206.919** (order 8e55f582). FCX hwm $80.24, NEM $135.29, XLI $180.96, XLV $176.59, OXY $62.145 all held.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **91.35%** -- inside the 90-100% target; cash 8.65%. Rule-2 mandatory deploy satisfied at the open (NVDA).
+- **Sector mix:** Materials 22.26% (FCX 14.23% + NEM 8.03%); XLI 21.97%; XLV 19.49%; Tech 18.18% (NVDA); Energy 9.46% (OXY only -- PAUSED, no adds); Cash 8.65%. All caps compliant. NVDA single-name 18.18% < 25%.
+- Positions: 6 (5-8 band OK). Weekly count **1/6** (NVDA this morning). Trail coverage: **7 GTC orders covering all 758 shares across 6 positions.**
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** NVDA gap-hold into the close (trail $206.919 governs, ratchet $229.92+); NEM +20% $136.99 -> 5% trail; XLV +15% $179.63 -> 7%+trim; FCX ratchet $80.25+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+; Warsh Jackson Hole speech tomorrow = macro binary on a 91%-deployed book.

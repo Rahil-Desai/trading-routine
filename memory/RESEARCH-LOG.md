@@ -4893,3 +4893,48 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - **XLE green +0.91% at midday** ($62.625), OXY +0.24% -- Energy second-best day-change on book.
 - **Gate decision: HOLD XLE.** Pre-market exit condition ("crude stays broken AND XLE red at midday") failed both legs. Trail $58.23 governs; gate re-arms at EOD/daily-summary -- crude rolling back over + XLE red = exit call folds into the post-NVDA Thu redeploy decision.
 - No other research triggers; metals pullback (FCX -1.6%, NEM -2.1%) is digestion of Tuesday's surge, known causes.
+
+## 2026-08-27 -- Pre-market Research (Thu, Day 83, Week 18) [inline at market-open run]
+
+### Account
+- Equity: **$105,452.28** (vs last_equity $105,742.49 = -$290.21 / -0.27% overnight read)
+- **Phase P&L +$5,452.28 (+5.45%)**
+- Cash: **$18,711.19 (17.74%) / 82.26% deployed** -- BELOW 85% floor; **rule-2 clock EXPIRES TODAY: mandatory deploy this session** (FCX trim cash earmarked post-NVDA since Wed).
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **FCX 190** @ $69.05 -> $78.77 (+$1,846.80 / +14.08%; -0.29%) -- 7% trail $74.6232, hwm $80.24
+  - **NEM 64** @ $114.16 -> $131.585 (+$1,115.20 / +15.26%; flat) -- 7% trail $125.8197, hwm $135.29; +20% trigger $136.99 (4.1% away)
+  - **OXY 170** @ $55.52 -> $58.57 (+$518.57 / +5.49%; -0.09%) -- trail $55.9305, hwm $62.145
+  - **XLE 150** @ $63.48 -> $62.25 (**-$184.50 / -1.94%**; -0.29%) -- only red position, day 4 flat-to-red; **rotation gate FINAL CALL today** (rolled from Wed); trail $58.23, hwm $64.70
+  - **XLI 130** @ $173.962385 -> $179.675 (+$742.64 / +3.28%; -0.37%) -- $9.55 trail: stop $171.41, hwm $180.96
+  - **XLV 120** @ $156.202167 -> $172.51 (+$1,956.94 / +10.44%; -0.59%) -- trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (4.1% away)
+- Open trail stops: **7 GTC, all 824 shares covered.** No overnight ratchets.
+- Weekly count: **0/6** (Week 18)
+- **Sector mix** (of $105,452.28): XLI 22.15%; XLV 19.63%; Materials 22.18% (FCX 14.19% + NEM 7.99%); Energy 18.29% (OXY 9.44% + XLE 8.85%); Cash 17.74%. All caps compliant.
+
+### Market Context
+- **NVDA BLOWOUT (Wed AMC): rev $96.2B (+106% y/y, +18% q/q) vs ~$92B est; EPS $2.22 vs $2.09; GM 75.0%; guidance far above consensus (Huang: ~70% FY28 growth talk; next-Q rev forecast reported ~$108B by premarket press). Stock $209.66 close -> ~$223.6 premarket (+6.7%), reversed an initial after-hours dip.** 15th straight beat. THE Tech gate is GREEN.
+- **ES ~7,720-7,726 (+0.4-0.5%), NQ +1.0-1.1%** -- AI trade reignited, tech leading.
+- **VIX ~14.9-15.2** -- calm.
+- **WTI ~$82.2-82.6 (flat to +0.4%)**, Brent ~$88.5 -- crude STABILIZED off Tue's $79.65 low; day-3 breakdown not confirmed. Neither leg of the Wed exit condition (crude broken + XLE red) firing hard.
+- **Today: initial jobless claims 8:30 ET; Warsh's first Jackson Hole speech as Fed chair Fri** = week's remaining macro binary.
+- Sector YTD leadership: Energy still #1 YTD but momentum rolling; Tech re-accelerating on the NVDA print.
+
+### Held-ticker News
+- **FCX/NEM**: no fresh company news; metals digesting Tuesday's surge.
+- **OXY/XLE**: no company news; crude stabilization is the story.
+- **XLI/XLV**: quiet.
+
+### Trade Ideas
+1. **NVDA add (THE trade, rules 2+5+6+12): buy ~84 sh @ ~$225 (~$18.9K, ~17.9% of equity).** Catalyst: FQ2'27 blowout + guide far above consensus, breakaway gap to new highs, AI complex reignited (NQ +1%). Tech pause expired Aug 14; re-entry justification logged: fresh catalyst (beat-and-raise) AND Tech back in momentum leadership (NQ +1% leading tape, semis complex up). Stop: 10% GTC trail (~$202.5 initial). Target $270+ (+20%, 2:1 vs 10% risk). Satisfies today's MANDATORY rule-2 deploy.
+2. **XLE exit (rule 11 rotation, gate final call):** 4 sessions dead money, only red position (-1.9%), Energy momentum rolling over from YTD leadership while crude risk premium deflates. Rotation into idea 1 keeps positions at 6 (this run's cap) and upgrades the slot from laggard ETF to the strongest single-name catalyst on the tape. Sell 150 @ market (~$62.10). CONSEQUENCE LOGGED: exit at a loss = 2nd Energy failed trade in rolling 90d (XLE Jun 15 stop-out + today; no intervening winning Energy exit) -> **Energy sector PAUSED 20 trading sessions (through ~Sep 24). OXY grandfathered: hold on existing trail $55.9305, NO adds.**
+3. Watch-only: NEM +20% $136.99 -> 5% trail; XLV +15% $179.63 -> 7% tighten + trim; FCX ratchets.
+
+### Risk Factors
+- Buying a +6.7% earnings gap: fade risk. Mitigation: 10% trail from fill, size 17.9% (inside 15-20% band), thesis is guidance-driven not just the beat.
+- Jackson Hole Fri (Warsh debut) = macro binary on a ~91%-deployed book.
+- Energy pause locks the sector for a month -- accepted; OXY trail governs the remaining exposure.
+- NEM/XLV trigger pre-writes stay armed.
+
+### Decision
+**EXECUTE at market-open run: (1) SELL XLE 150 @ market (rule-11 rotation, gate call, Energy pause fires); (2) BUY NVDA 84 @ market (~17.9%), then 10% GTC trail immediately. Deployment ~82.3% -> ~91.3%, cash ~8.7% -- rule-2 satisfied. Positions stay 6. Weekly count 1/6 after (buys only).**

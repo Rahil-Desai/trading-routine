@@ -4938,3 +4938,50 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **EXECUTE at market-open run: (1) SELL XLE 150 @ market (rule-11 rotation, gate call, Energy pause fires); (2) BUY NVDA 84 @ market (~17.9%), then 10% GTC trail immediately. Deployment ~82.3% -> ~91.3%, cash ~8.7% -- rule-2 satisfied. Positions stay 6. Weekly count 1/6 after (buys only).**
+
+## 2026-08-28 -- Pre-market Research (Fri, Day 84, Week 18)
+
+### Account
+- Equity: **$105,843.83** (vs last_equity $105,581.95 = +$261.88 / +0.25% overnight read)
+- **Phase P&L +$5,843.83 (+5.84%)**
+- Cash: **$9,172.77 (8.67%) / 91.33% deployed** -- inside 90-100% target, rule-2 clean.
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **FCX 190** @ $69.05 -> $79.35 (+$1,956.94 / +14.92%; +1.19%) -- 7% trail $74.6232, hwm $80.24; +15% trigger already executed Wed (no re-trim on same trigger)
+  - **NEM 64** @ $114.16 -> $133.00 (+$1,205.76 / **+16.50%**; +0.54%) -- 7% trail $125.8197, hwm $135.29; **+20% trigger $136.99 (3.0% away) -> 5% trail. Closest pre-write.**
+  - **NVDA 84** @ $224.47 -> $227.08 (+$219.24 / +1.16%; -0.40%) -- day-2 post-blowout; 10% trail $207.423, hwm $230.47; +15% trigger $258.14 (far)
+  - **OXY 170** @ $55.52 -> $59.27 (+$637.57 / +6.76%; +0.17%) -- grandfathered (Energy PAUSED ~Sep 24); trail $55.9305, hwm $62.145
+  - **XLI 130** @ $173.962385 -> $178.80 (+$628.89 / +2.78%; flat) -- $9.55 trail: stop $171.41, hwm $180.96
+  - **XLV 120** @ $156.202167 -> $172.40 (+$1,943.74 / +10.37%; +0.48%) -- trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (4.2% away)
+- Open trail stops: **7 GTC, all 758 shares covered.** No overnight ratchets.
+- Weekly count: **1/6** (Week 18; NVDA Thu)
+- **Sector mix** (of $105,843.83): Materials 22.28% (FCX 14.24% + NEM 8.04%); XLI 21.96%; XLV 19.55%; Tech 18.02% (NVDA); Energy 9.52% (OXY only -- PAUSED, no adds); Cash 8.67%. All caps compliant; NVDA single-name 18.02% < 25%.
+
+### Market Context
+- **WTI ~$83.1 (-0.5%), Brent ~$88.3 (-0.2%)** -- stable after Thursday's bounce; Iran-Oman temporary Hormuz-corridor talks keep the risk premium deflating. No new leg down.
+- **ES ~7,739 flat (-0.04%)** after Thursday's NVDA-led rally (S&P +0.6%, Nasdaq led; NVDA closed +8.74%, added $440B). Overnight quiet ahead of Warsh.
+- **VIX 14.51 (-4.6% Thu), ~14.5 premarket** -- fear fully priced out into a binary day.
+- **TODAY = WARSH'S FIRST JACKSON HOLE KEYNOTE AS FED CHAIR (~10:00 ET)** -- the week's remaining macro binary; rates/FX vol expected, some positioning for hawkish (bond market has flirted with hike bets). Also: Chicago PMI 9:45 ET (cons ~57), UMich final 10:00 ET, **BLS preliminary payrolls benchmark revision 10:00 ET** (prior revision was -911K -- a labor-market headline risk).
+- BMO earnings: FRO, MNSO, CHA, JFIN, HAFN, BWLP -- nothing held, quiet slate. MRVL/ULTA/ADSK reported Thu AMC.
+- **Sector YTD: Energy +43.1%, Tech +25.4%, Materials +19.1%, Industrials +16.0%, Healthcare +13.8%** -- Tech re-accelerating on the NVDA print; book aligned.
+
+### Held-ticker News
+- **NVDA**: post-earnings follow-through +8.74% Thu to $227.98 (largest gain since Apr 2025); Reuters: long-term revenue runway eased AI-fade fears, chip complex rallied. Extended trading -0.7% overnight. Watch items: CFO Kress flagged legal risk on the unformalized 15% China-chip fee; analysts split on valuation (Susquehanna $210 vs consensus $270+ targets). Our entry $224.47, +1.2% -- trail $207.423 governs.
+- **FCX / NEM**: no fresh company news; metals steady overnight (NEM +0.5%, FCX +1.2% read).
+- **OXY**: no company news; crude stable, grandfathered position on trail.
+- **XLI / XLV**: quiet.
+
+### Trade Ideas
+1. **NO NEW ENTRIES TODAY -- Warsh keynote ~10 ET is a pure binary on a 91.3%-deployed book.** Nothing to deploy (cash 8.67% is working buffer), no rule-2 pressure, weekly count 1/6 with no setup worth pre-positioning ahead of a Fed-chair debut. Trails are the risk control through the speech.
+2. **Pre-writes armed (rules 9+14, same-session if printed):** NEM >= $136.99 (+20%, 3.0% away -- closest) -> replace 7% with 5% trail; XLV >= $179.63 (+15%, 4.2% away) -> 7% tighten + 25-50% trim. NVDA +15% $258.14 far; FCX +15% already executed, no re-trim.
+3. **Post-Warsh assessment at midday scan:** if the speech lands dovish and Tech follows through, evaluate whether the NVDA position's thesis strengthens (no add above 20% single-name without a fresh catalyst); if hawkish shock, let trails work -- no panic selling, -7% rule and GTC stops govern.
+
+### Risk Factors
+- **Warsh debut = binary macro on 91.3% deployment, VIX 14.5 = zero fear priced.** A hawkish surprise hits the whole book; deepest cushion FCX/NEM (+15-17%), thinnest NVDA (+1.2%, stop 8.7% below).
+- **Payrolls benchmark revision 10:00 ET** -- a large negative print is a second macro headline in the same hour.
+- **NVDA day-2 fade risk** (-0.7% extended overnight); trail $207.423, no manual action unless -7%.
+- Energy PAUSED through ~Sep 24 (no adds); OXY on trail only.
+- **Weekly review due this afternoon** (Friday).
+
+### Decision
+**HOLD -- no new entries; let the book ride Warsh behind 7 GTC trails. Pre-writes armed: NEM $136.99 -> 5% trail (closest, 3.0%); XLV $179.63 -> 7%+trim. Ratchet watches: FCX $80.25+ / NEM $135.30+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**

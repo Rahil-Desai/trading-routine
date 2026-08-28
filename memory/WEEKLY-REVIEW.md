@@ -995,3 +995,71 @@ Note: Week ending 2026-08-14 review was not logged (second missing weekly review
 ### Overall Grade: A-
 
 +3.52% -- the best absolute week of the challenge -- against a ~-1.4% S&P week = ~+5pp, the best relative week ever and the first big beat on a falling tape. The commodity-composition thesis built over 4 weeks of rotations (FCX, NEM, OXY, XLE) delivered exactly when the market turned, the SMCI -7% cut executed mechanically with a same-session Energy redeploy (cut-and-redeploy now 4-for-4), the NEM +15% trigger fired the rules-9+13+14 combo flawlessly for the second live rule-14 execution, FCX became the third breakeven-locked position, and the week closed at a new equity high ($105.8K) with all six positions green and every cap compliant. Held back from A by: the Aug 18 log blackout on the week's most consequential session plus 4 stranded side-branch commits (persistence is now the campaign's most repeated failure, 2nd straight week), the missing Aug 14 weekly review (2nd of the campaign), SMCI's -9.00% fill vs the -7% line (gap slippage, tolerable but real), and the sub-band 89.8% close with the trim cash unhunted. The offense compounded exactly as last review demanded -- now the record-keeping has to be as good as the trading.
+
+## Week ending 2026-08-28
+
+Note: Ending equity = live Alpaca read $103,666.89 at review time (Aug 28 EOD log snapshot $103,855.97 -- after-hours drift between snapshot and review). Starting basis = Alpaca last_equity $105,767.81 (authoritative Fri Aug 21 close, per anchor convention; last week's review-time live read was $105,787.50).
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $105,767.81 (Fri Aug 21 close = Mon Aug 24 open basis) |
+| Ending portfolio | $103,666.89 (Fri Aug 28 review-time; Tue EOD $106,030.27 was a fresh challenge high) |
+| Week return | -$2,100.92 (-1.99%) -- Friday's Warsh keynote day (-1.63%, worst day of the phase) was the whole loss and more |
+| S&P 500 week | +0.48% (7,674.37 -> 7,710.99, FRED/MarketWatch; Fri session -0.27%) |
+| Bot vs S&P | -2.47pp -- worst relative week since Jun 15's crude crash |
+| Trades | 3 actions: 1 entry (NVDA, 1/6 slots), 1 rotation exit (XLE, W:0/L:1), 1 FCX partial trim; open 6. Plus XLI trail replacement Mon (housekeeping) |
+| Win rate | 0% (1 full close, 0 winners) |
+| Best trade | FCX trim +15.13% realized (+$1,045.00 on 100 sh, rules 9+13+14 combo) |
+| Worst trade | XLE -2.15% realized (-$204.70, rule-11 rotation = Energy strike #2) |
+| Profit factor | 5.11 (realized: +$1,045.00 trim / -$204.70 XLE) -- realized ledger green +$840.30 despite the red week |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| XLE | $63.48 | $62.1153 | -$204.70 (-2.15%) | Rule-11 rotation Aug 27 (gate rolled Mon->Wed->Thu final call): 4 sessions dead money, only red position, crude risk premium deflating on Hormuz-corridor talks. **Energy strike #2 (XLE Jun 15 + Aug 27) -> sector PAUSED 20 sessions (~Sep 24), OXY grandfathered.** Proceeds + trim cash rotated same session into NVDA. Partial: FCX 100 sh @ $79.50 Aug 26 (+$1,045.00 / +15.13%, rules 9+13+14 -- third live rule-14 fire). |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| FCX | $69.05 (190 sh) | $76.47 | +$1,409.80 (+10.75%) | $74.6232 (7% trail post-tighten, hwm $80.24) |
+| NEM | $114.16 (64 sh) | $127.93 | +$881.28 (+12.06%) | $125.8197 (7% trail, hwm $135.29) -- nearest stop, 1.7% below; would exit +10.2% |
+| NVDA | $224.47 (84 sh) | $217.67 | -$571.20 (-3.03%) | $207.423 (10% trail, hwm $230.47) -- NEW Aug 27; -7% cut $208.76 fires before trail |
+| OXY | $55.52 (170 sh) | $59.15 | +$617.17 (+6.54%) | $55.9305 (10% trail, hwm $62.145) -- grandfathered, Energy paused |
+| XLI | $173.962385 (130 sh) | $177.30 | +$433.89 (+1.92%) | $171.41 ($9.55 trail_price GTC exp 11/20, hwm $180.96) |
+| XLV | $156.202167 (120 sh) | $171.48 | +$1,833.34 (+9.78%) | $158.931 x2 lots (10% trail, hwms $176.59) |
+
+### What Worked
+- **Third live rule-14 execution, third flawless one:** FCX printed +15% Tuesday post-midday, the pre-written combo executed as Wednesday's first action -- 100-sh trim @ $79.50 (+$1,045 realized, largest realized winner since AVGO), 10%->7% tighten (stop up only), Materials cap cured 30.01% -> 22.3% -- one cancel/sell/replace sequence. The trigger->same-session pipeline is now mechanical.
+- **The XLE rotation was disciplined, not impulsive:** gate pre-defined Monday ("crude broken AND XLE red at midday Wed"), Wednesday's check said HOLD because both legs failed (honest read, no confirmation bias), Thursday's final call exited 4-session dead money at -2.15% before it decayed to the -7% line. Rule 11 executed as written -- exit the laggard, don't ride it down.
+- **Cut-and-redeploy now 5-for-5:** XLE proceeds + FCX trim cash went into NVDA the same minute (13:41-13:42 UTC sequence), satisfying the rule-2 mandatory-deploy clock the day it expired. Zero cash drift for the fifth consecutive rotation; deployment back to 91.3% inside the band.
+- **Friday's -1.63% Warsh day drew ZERO panic orders:** all six theses checked and held (macro repricing, not single-name breaks), no stop within 3% got touched manually, trails stayed the only defense exactly as designed. The book that once agonized over -0.5% days absorbed the phase's worst day on rulebook autopilot.
+- **Persistence held all week:** every scheduled run landed on main -- no stranded side-branch commits, no missing snapshots, first clean logging week since the Aug 18 blackout. The plumbing fix from last review worked.
+
+### What Didn't Work
+- **-1.99% on a +0.48% S&P week = -2.47pp relative, the worst relative week since mid-June.** Tuesday's fresh challenge high ($106,030) was fully round-tripped by Friday's close. One hawkish keynote erased three green-to-flat sessions of work.
+- **NVDA entry timing: bought a +9% breakaway gap the session BEFORE a known Fed-chair-debut binary.** The catalyst was real (FQ2'27 blowout) and the re-entry legal, but the rule-2 clock forced the deploy on Warsh eve with VIX at 14.5 (zero fear priced) -- and day-2 gave back -4.5%, putting the newest position -3.03% with the thinnest cushion on the book. Entry quality and entry timing are separate judgments; this one got the first right and the second wrong.
+- **XLE round-trip was a 7-session, -$205 detour:** entered Aug 18 on the Hormuz-stall catalyst, the risk premium deflated within days, exited Aug 27. Second failed XLE trade of the campaign (Jun 15, Aug 27) and it armed Energy strike #2 -- the sector is now paused through ~Sep 24 with OXY grandfathered, closing off the book's YTD-leading sector (+43.1%) for a month.
+- **91% deployed into a flagged binary with no de-risk lever:** pre-market research called Warsh "a pure binary on a 91.3%-deployed book" and the only available answer was "trails govern." That is the strategy working as designed -- but the design has no intermediate posture between full-send and stop-out, and Friday cost -1.63% vs the S&P's -0.27%. High beta cuts both ways; this week it cut.
+- **Wednesday closed at 82.3% deployed, below the 85% floor** -- planned and rule-sanctioned (trim cash earmarked, rule-2 clock ran to Thursday's mandatory deploy), but it is still a sub-floor EOD print on the ledger, the first since the rule was tightened.
+
+### Key Lessons
+- **Rule interplay can force bad timing: rule 2's mandatory-deploy clock expired ON Warsh eve, converting "deploy within one day" into "deploy into a binary."** The rule exists to kill cash-drift paralysis and has been right 5 rotations running -- but a known dated macro binary inside the clock window is a real edge case. One occurrence = note it, don't rewrite it; a second occurrence justifies a "binary-eve deferral" clause (deploy allowed to slip to the post-event session, logged).
+- **Rotation exits at a small loss still arm rule-12 strikes.** Exiting XLE at -2.15% was correct rule-11 hygiene, but it counted identically to a -9% stop-out in the strike ledger and paused the YTD-leading sector. The asymmetry flagged last week (banked winners clear strikes, red exits arm them) now has teeth: when trimming dead money in a one-strike sector, the exit decision carries a 20-session opportunity cost beyond the P&L.
+- **A locked winner's trail proximity is comfort, not risk:** NEM sits 1.7% above its trail and would exit +10.2% if tagged. The correct read of Friday's stop-proximity list is that the system has already converted open risk into banked outcomes -- 5 of 6 positions cannot lose money from here on their stops.
+- **The macro binary playbook (no pre-positioning, trails govern, no panic) was executed exactly as written and still lost 1.6% -- both halves are true.** Process-correct and expensive can coexist; the alternative (discretionary pre-event de-risking) was rejected for good reasons in May. Judge the playbook over multiple binaries, not one.
+- **Composition risk migrated, not disappeared:** the book is no longer commodity-concentrated (Materials 21.9%, Energy 9.7%) but is now ~40% rate-sensitive (NVDA growth-duration + NEM gold + FCX copper all sold off together on hawkish repricing). Correlation clusters re-form under new macro regimes; the sector-cap lens doesn't see this one.
+
+### Adjustments for Next Week
+- **Monday is about Warsh follow-through: the two pressure points are NEM (trail $125.8197, 1.7% below Fri close -- exits +10.2% if tagged, let it) and NVDA (-7% cut line $208.76 sits ABOVE the $207.423 trail -- if $208.76 breaks intraday, the manual cut fires first; pre-committed, no agonizing).** If hawkish selling extends, the book de-risks itself into locked gains; no discretionary selling ahead of the stops.
+- **Pre-writes stay armed:** NEM +20% $136.99 -> 5% trail; XLV +15% $179.63 -> 7% tighten + 25-50% trim (pre-write share count Sunday); FCX +15% already executed, no re-trim on re-print; NVDA +15% $258.14 far.
+- **Energy PAUSED through ~Sep 24 -- no adds, either vehicle; OXY grandfathered on its trail.** Re-entry after expiry needs fresh catalyst + momentum leadership, logged.
+- **Cash 8.83% is working buffer, inside the band -- no rule-2 pressure.** 5/6 weekly slots available but no forced hunt: next add wants a post-Warsh regime read first (hike odds repricing = favor XLV-type defensives and pricing-power names over long-duration growth).
+- **Watch the rate-sensitivity cluster (NVDA+NEM+FCX ~36% of book) as one exposure** in daily thesis checks while the Sept-hike repricing resolves; a second correlated -1.5%+ day on hawkish headlines = evaluate trimming the weakest leg rather than waiting for three stops.
+- **Sept-hike odds are now the tape's single variable** (futures ~40%+ post-speech): pre-market research should lead with CME FedWatch odds daily until the Sept FOMC.
+
+### Strategy Rule Changes Applied This Week
+- **NONE.** The two candidate frictions -- rule 2's clock forcing a binary-eve deploy, and rule 11 rotations arming rule-12 strikes -- are both single-occurrence this week and both rules earned their keep elsewhere (5-for-5 redeploys; the strike pause correctly benched a deflating sector). Per the 2-week standard: logged, watched, not legislated.
+
+### Overall Grade: C+
+
+-1.99% against a +0.48% S&P week = -2.47pp, the worst relative week since mid-June, with Tuesday's fresh challenge high fully round-tripped by Friday's Warsh-driven -1.63% (worst day of the phase). The process was the cleanest it has ever been -- third flawless rules-9+13+14 combo (FCX +$1,045 realized), a disciplined 3-day rotation gate on XLE, cut-and-redeploy 5-for-5, zero panic orders on the binary day, all caps compliant, and the first clean logging week since the plumbing failures. But outcome counts: the NVDA deploy went in on binary eve at the rule-2 clock's insistence, the XLE round-trip armed Energy strike #2 and benched the YTD-leading sector for a month, and 91% deployment into a flagged Fed binary carried -1.63% of realized beta with no intermediate defense. Saved from C by the green realized ledger (+$840, PF 5.11), locked-winner stops on 5 of 6 positions, and rule fidelity under the worst tape of the phase. Process A, outcome D, judgment (NVDA timing) somewhere between -- the average is a C+ and the lesson is that the playbook now needs to be right about WHEN, not just WHAT.

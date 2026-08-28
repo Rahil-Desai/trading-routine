@@ -4985,3 +4985,9 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- no new entries; let the book ride Warsh behind 7 GTC trails. Pre-writes armed: NEM $136.99 -> 5% trail (closest, 3.0%); XLV $179.63 -> 7%+trim. Ratchet watches: FCX $80.25+ / NEM $135.30+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**
+
+### Afternoon Addendum (midday scan) -- WARSH VERDICT: HAWKISH
+- **Warsh's first Jackson Hole keynote (10 ET) = HAWKISH** (Perplexity, sourced to the Fed's own speech page): labor market stable, output solid, but inflation still too high -- "predominant focus right now should be on prices." Rate futures had ~40% Sept-hike odds pre-speech (CME FedWatch via Reuters) and the tape traded like those odds rose.
+- **Book reaction (midday):** equity $103,885.37, day -1.61% -- worst day of the phase but orderly. NVDA -4.17% (growth-duration unwind, no company news), NEM -3.40% (gold vs hawkish rates), FCX -1.94%, XLI -1.11%, XLV -0.43%, OXY +0.06%. No -7% breaches, no thesis breaks -- macro repricing, trails govern.
+- Payrolls benchmark revision figure not yet confirmed in sources; fold into weekly review / Monday pre-market.
+- **Decision unchanged: HOLD, no orders.** Nearest stop NEM $125.8197 (1.5%). Weekly review this afternoon.

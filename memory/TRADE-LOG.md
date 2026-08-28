@@ -1501,3 +1501,17 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log only.**
 
 **PM watch:** NEM trail $125.8197 (1.5% below) = nearest stop; NVDA hold above $215 into the close (thin cushion, trail $207.423 governs); if hawkish selling accelerates, -7% line is NVDA ~$208.76 -- trail sits just below it, rules aligned; **weekly review due this afternoon (Friday)**; ratchet watches FCX $80.25+ / NEM $135.30+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.
+
+### Aug 28 -- EOD Snapshot (Day 84, Friday)
+**Portfolio:** $103,855.97 | **Cash:** $9,172.77 (8.83%) | **Day P&L:** -$1,725.98 (-1.63%) | **Phase P&L:** +$3,855.97 (+3.86%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| FCX | 190 | $69.05 | $76.47 | -2.49% | +$1,409.80 (+10.75%) | $74.6232 (7% trail, hwm $80.24) |
+| NEM | 64 | $114.16 | $127.93 | -3.30% | +$881.28 (+12.06%) | $125.8197 (7% trail, hwm $135.29) |
+| NVDA | 84 | $224.47 | $217.67 | -4.52% | -$571.20 (-3.03%) | $207.423 (10% trail, hwm $230.47) |
+| OXY | 170 | $55.52 | $59.15 | -0.03% | +$617.17 (+6.54%) | $55.9305 (10% trail, hwm $62.145) |
+| XLI | 130 | $173.962385 | $177.30 | -0.84% | +$433.89 (+1.92%) | $171.41 ($9.55 trail_price, hwm $180.96) |
+| XLV | 120 | $156.202167 | $171.48 | -0.06% | +$1,833.34 (+9.78%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Notes:** Warsh hawkish Jackson Hole keynote drove the worst day of the phase -- $103,855.97, Day P&L **-$1,725.98 (-1.63%)** vs Alpaca last_equity $105,581.95, phase **+$3,855.97 (+3.86%)**. **No trades today** -- macro repricing, not single-name breaks; all six theses HOLD and the GTC trails did their job as the only defense needed. Weekly count stays **1/6** (Week 18: NVDA buy Thu). Damage concentrated in rate-sensitives: NVDA -4.52% to $217.67 (entry -3.03%, still 4pp above the -7% cut line, trail $207.423 = 4.5% below close); NEM -3.30% to $127.93 (**closest to stop: 1.7% above the $125.8197 trail** -- would exit +10.2%, locked winner); FCX -2.49% (+10.75%); XLI -0.84%; OXY -0.03% and XLV -0.06% flat -- defensives held. No -7% cuts (worst NVDA -3.03%). No +15%/+20% prints -- book pulled away from all triggers; nothing tightened, nothing loosened. Ratchets today: **none** -- all six hwms held on the red tape. No stops moved down. Deployment **91.17%** -- inside the 90-100% target; cash 8.83%. **Sector mix:** XLI 22.19%; Materials 21.87% (FCX 13.99% + NEM 7.88%); XLV 19.81%; Tech 17.61% (NVDA); Energy 9.68% (OXY only -- PAUSED through ~Sep 24). All caps compliant; NVDA single-name 17.61% < 25%. 6 positions (5-8 band OK). **Trail coverage: 7 GTC orders covering all 758 shares across 6 positions.** **Monday:** watch whether the Warsh repricing extends or fades -- NEM trail $125.8197 (1.7% below) and NVDA $207.423 are the pressure points; if NVDA breaks $208.76 intraday the -7% manual cut fires before the trail; NEM +20% $136.99 / XLV +15% $179.63 pre-writes stay armed; ratchet watches FCX $80.25+ / NEM $135.30+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.

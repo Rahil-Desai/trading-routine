@@ -4991,3 +4991,50 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - **Book reaction (midday):** equity $103,885.37, day -1.61% -- worst day of the phase but orderly. NVDA -4.17% (growth-duration unwind, no company news), NEM -3.40% (gold vs hawkish rates), FCX -1.94%, XLI -1.11%, XLV -0.43%, OXY +0.06%. No -7% breaches, no thesis breaks -- macro repricing, trails govern.
 - Payrolls benchmark revision figure not yet confirmed in sources; fold into weekly review / Monday pre-market.
 - **Decision unchanged: HOLD, no orders.** Nearest stop NEM $125.8197 (1.5%). Weekly review this afternoon.
+
+## 2026-08-31 -- Pre-market Research (Mon, Day 85, Week 19)
+
+### Account
+- Equity: **$104,016.36** (vs last_equity $103,777.59 = +$238.77 / +0.23% overnight read)
+- **Phase P&L +$4,016.36 (+4.02%)**
+- Cash: **$9,172.77 (8.82%) / 91.18% deployed** -- inside 90-100% target, rule-2 clean.
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **FCX 190** @ $69.05 -> $76.60 (+$1,434.50 / +10.93%; +0.20%) -- 7% trail $74.6232, hwm $80.24; **2.6% above stop**
+  - **NEM 64** @ $114.16 -> $128.40 (+$911.36 / +12.47%; +0.33%) -- 7% trail $125.8197, hwm $135.29; **2.0% above stop -- nearest**; +20% trigger $136.99 (6.7% away)
+  - **NVDA 84** @ $224.47 -> $218.77 (**-$478.80 / -2.54%**; +0.56%) -- 10% trail $207.423, hwm $230.47; **-7% manual cut line $208.76 sits ABOVE the trail -- cut fires first**
+  - **OXY 170** @ $55.52 -> $60.23 (+$800.38 / +8.48%; **+1.91% premarket on the oil spike**) -- grandfathered (Energy PAUSED ~Sep 24); trail $55.9305, hwm $62.145
+  - **XLI 130** @ $173.962385 -> $176.62 (+$345.49 / +1.53%; -0.29%) -- $9.55 trail: stop $171.41, hwm $180.96
+  - **XLV 120** @ $156.202167 -> $170.80 (+$1,751.74 / +9.35%; -0.21%) -- trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (5.2% away); **NOTE: q80 trail order expires 2026-09-11 -- re-place before expiry**
+- Open trail stops: **7 GTC, all 758 shares covered.** No overnight ratchets.
+- Weekly count: **0/6 (Week 19 fresh)**
+- **Sector mix** (of $104,016.36): XLI 22.07%; Materials 21.89% (FCX 13.99% + NEM 7.90%); XLV 19.70%; Tech 17.67% (NVDA); Energy 9.84% (OXY only -- PAUSED, no adds); Cash 8.82%. All caps compliant; NVDA single-name 17.67% < 25%.
+
+### Market Context
+- **OIL SPIKE: WTI ~$85.4 (+2.5%), Brent ~$90.5 (+2.8%)** -- collapse of US-Iran diplomatic efforts to restore normal Hormuz shipping + sweeping Iran sanctions re-inflated the risk premium overnight. Direct tailwind to OXY (paused sector -- can't add, just hold).
+- **ES ~7,693-7,708 (-0.2% to -0.4%)** -- futures red as markets ponder fresh rate-hike odds post-Warsh and front-run a heavy week (jobs data + tech earnings).
+- **VIX ~15.2 (+5% from Fri 14.43)** -- fear creeping back in, still low absolute.
+- **Today: light calendar** -- Dallas Fed Manufacturing (only notable US print), G20 finance ministers meeting (Aug 31-Sep 1). No CPI/PPI/FOMC today.
+- **Week ahead: NFP Friday Sep 4 8:30 ET = last labor print before the Sep 15-16 FOMC** (hike odds live post-Warsh). CPI Sep 11, PPI Sep 10. Earnings: AVGO, DELL, PANW, SNOW, MDB, NTAP, HPE, CRDO, CIEN, NIO.
+- BMO earnings today: SAIC + small caps -- nothing held, quiet slate.
+- **Sector YTD: Energy +43.1%, Tech +25.4%, Materials +19.1%, Industrials +16.0%, Healthcare +13.8%** -- book aligned with leadership; Energy extends on the oil spike but is PAUSED for us.
+
+### Held-ticker News
+- **NVDA**: Friday -4.3% intraday partly on a WSJ report that NVDA halted parts of its AI Compute Partnership program (smaller-cloud initiative); closed $217.55, extended trading +0.46% to ~$218.56. Post-earnings analyst targets raised (Stifel $315 cited). Position -2.54%; blowout thesis intact, headline risk noted.
+- **OXY**: no company news; the +2.5% crude spike is the story -- premarket +1.9%, strongest holding today.
+- **FCX / NEM**: no fresh company news; geopolitical escalation is a potential gold bid (NEM) -- watch.
+- **XLI / XLV**: quiet.
+
+### Trade Ideas
+1. **NO NEW ENTRIES -- HOLD.** Deployment 91.18%, cash 8.82% is working buffer, rule-2 clean, weekly 0/6 with no forced deploy. The tape is hawkish-Fed + oil-shock with futures red -- and sector caps block every obvious play: Energy PAUSED ~Sep 24 (no oil-spike chasing), Industrials at 22.07% caps any defense-name add at ~8% (too small to matter), Tech at 17.67% with NVDA's cushion thin argues against pre-positioning AVGO. Best available action is protecting +4.02% phase P&L behind 7 GTC trails.
+2. **AVGO earnings Thursday -- watch only, no pre-position.** A post-print breakout with NVDA thesis intact could justify a Tech add within the 30% cap (~12% slot max). Re-evaluate Thu/Fri.
+3. **Pre-writes armed (rules 8+9+14, same-session if printed):** NVDA breaks **$208.76** intraday -> manual -7% cut (fires BEFORE the $207.423 trail); NEM >= $136.99 (+20%) -> 5% trail; XLV >= $179.63 (+15%) -> 7% tighten + 25-50% trim.
+
+### Risk Factors
+- **Hawkish repricing + oil shock = stagflation-flavored risk-off.** NEM 2.0% and FCX 2.6% above their trails -- a -2-3% tape could fire both; acceptable, both exit as locked winners (+10-12%).
+- **NVDA thin cushion (-2.54%)**: WSJ partnership-halt headline + rate-sensitive tape; $208.76 cut line is the one manual action pre-authorized today.
+- Friday NFP is the week's macro binary on a 91%-deployed book; FOMC Sep 15-16 behind it.
+- XLV q80 trail expires Sep 11 -- re-place next week or lose coverage on 80 shares.
+
+### Decision
+**HOLD -- no orders. Let trails govern the hawkish/oil-shock open. Watch NVDA $208.76 cut line, NEM $125.82 / FCX $74.62 stops. Ratchet watches: FCX $80.25+ / NEM $135.30+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**

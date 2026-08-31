@@ -5038,3 +5038,9 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- no orders. Let trails govern the hawkish/oil-shock open. Watch NVDA $208.76 cut line, NEM $125.82 / FCX $74.62 stops. Ratchet watches: FCX $80.25+ / NEM $135.30+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**
+
+### Afternoon Addendum (midday scan) -- NEM STOPPED OUT
+- **NEM 7% trail FIRED at the open** (13:40 UTC): 64 @ $125.75, realized **+$741.76 (+10.15%)**. Flagged pre-market as nearest stop (2.0%); Warsh hawkish drift extended, gold complex soft. No Perplexity needed -- cause obvious, no sharp unexplained moves elsewhere.
+- Book at midday: $103,404 (-0.36% day). NVDA green +1.03% vs red tape; FCX now nearest stop (1.3% above $74.6232).
+- **Rule-2 clock STARTED: cash 16.65% > 15% -- deploy MANDATORY Tue Sep 1.** Tomorrow's pre-market names the candidate (Tech headroom ~12%, Materials ~16%; Energy paused; AVGO Thu is too late to wait for).
+- Decision: no orders this run. 5 positions, 6 trails, all covered.

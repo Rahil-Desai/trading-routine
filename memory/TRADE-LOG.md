@@ -1573,3 +1573,31 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | 2026-09-01 | MDT | BUY | 100 | $92.85 | $83.58 (10% GTC trail, order 56cd1813) | Pre-market contingency leg (FCX proceeds) -- conditions CONFIRMED: Q1 FY27 beat ($1.45 vs $1.39 EPS, $9.76B vs $9.55B rev, 5th straight beat), FY27 guide raised ($5.94-$6.00), green +2.3% vs $90.82 prior close. Cost $9,285 = 9.0% of book; Healthcare 29.1% (<30%) | ~$111 (+20%) | 2:1 |
 
 **Execution:** FCX trail (order 3c743414) filled 190 @ $73.88 at 13:31:08 UTC as premarket flagged. AEM market buy (order 42c9c696) filled 69 @ $196.67 13:41 UTC -- fresh-quote NBBO was IEX-wide ($184.72/$224); sized on worst-case ask, filled mid-book. 12% high-beta trail placed on fill. MDT market buy (order 39913e25) filled 100 @ $92.85 13:42 UTC; 10% trail placed on fill. Weekly count **2/6 (Week 19)** -- both buys are slots; FCX exit is not. **Post-trade: equity $103,056.34, cash $8,402.54 (8.15%), deployment 91.85% -- rule-2 CLEARED** (was 30.3% cash after FCX fill). Sector mix: XLI 21.97%; Healthcare 29.10% (XLV 20.09% + MDT 9.01%); Tech 17.60% (NVDA); Materials 13.16% (AEM); Energy 10.02% (OXY, PAUSED ~Sep 24); Cash 8.15%. All caps compliant. 6 positions (5-8 band OK). **Trail coverage: 7 GTC orders covering all 673 shares across 6 positions** (AEM trail already ratcheted to $172.99, MDT to $83.727 on first ticks). XLV q80 trail expires Sep 11 -- re-place this week. PDT clean (no day trades; both buys are swings).
+
+## 2026-09-01 -- Midday Scan (Day 86, Tuesday -- NO ORDERS; NEW BOOK SETTLING)
+
+**Midday account:** Equity **$102,932.88** | Cash $8,402.54 (8.16%) | Long MV $94,530.34 (**91.84% deployed**) | Day P&L **-$686.11 (-0.66%)** vs last_equity $103,618.99 | Phase P&L **+$2,932.88 (+2.93%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $197.64 | -- (entered today) | +$66.93 (+0.49%) | $176.5368 (12% trail, hwm $200.61) |
+| MDT | 100 | $92.85 | $92.35 | +1.88% | -$50.00 (-0.54%) | $83.9835 (10% trail, hwm $93.315) |
+| NVDA | 84 | $224.47 | $218.67 | -0.96% | -$487.20 (-2.58%) | $207.423 (10% trail, hwm $230.47) |
+| OXY | 170 | $55.52 | $60.94 | +1.26% | +$921.47 (+9.76%) | $55.9305 (10% trail, hwm $62.145) |
+| XLI | 130 | $173.962385 | $172.24 | -1.65% | -$223.91 (-0.99%) | $171.41 ($9.55 trail_price, hwm $180.96) |
+| XLV | 120 | $156.202167 | $171.125 | +0.34% | +$1,790.74 (+9.55%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst NVDA **-2.58%** (cut line $208.76, price 4.5% above; recovered off the morning lows).
+- +15%/+20% tighten (rule 9): no prints. Best OXY +9.76%, XLV +9.55% (trigger $179.63 = 5.0% away); nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** AEM +0.49% vs entry, hwm already ratcheted to $200.61 on the open pop (stop $176.5368, up from $172.87 at entry) -- gold geopolitical bid intact. MDT green +1.88% on the beat+raise, small entry drawdown is fill noise. NVDA -0.96% hawkish drift, blowout thesis intact. OXY +1.26% on firm crude (grandfathered, Energy PAUSED ~Sep 24). XLI -1.65% = hawkish-tape drift, not a break -- trail 0.5% below governs. XLV quiet.
+- **Stop proximity watch: XLI $172.24 is 0.5% above its $171.41 stop** -- nearest; would exit ~-1.5% (small loss, would be Industrials strike 1). No manual action -- never move a stop down, trail does its job.
+- Auto-ratchets since open: **AEM hwm $200.61 / stop $176.5368; MDT hwm $93.315 / stop $83.9835.** Other four hwms held.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **91.84%** -- rule-2 CLEARED by the morning AEM+MDT deploy; cash 8.16% inside 90-100% target.
+- **Sector mix:** XLI 21.75%; Healthcare 28.92% (XLV 19.95% + MDT 8.97%) -- under 30% cap, no add headroom; Tech 17.85% (NVDA); Materials 13.25% (AEM); Energy 10.06% (OXY, PAUSED); Cash 8.16%. All caps compliant. No single name > 25%.
+- Positions: 6 (5-8 band OK). Weekly count **2/6** (Week 19: AEM + MDT this morning). Trail coverage: **7 GTC orders covering all 673 shares across 6 positions.** XLV q80 trail expires Sep 11 -- re-place this week.
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** XLI trail $171.41 (0.5% below) = nearest stop; NVDA hold above $208.76 cut line; XLV +15% trigger $179.63 pre-write armed; ratchet watches AEM $200.62+ / MDT $93.32+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.

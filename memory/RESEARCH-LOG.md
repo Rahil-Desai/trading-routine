@@ -5044,3 +5044,52 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - Book at midday: $103,404 (-0.36% day). NVDA green +1.03% vs red tape; FCX now nearest stop (1.3% above $74.6232).
 - **Rule-2 clock STARTED: cash 16.65% > 15% -- deploy MANDATORY Tue Sep 1.** Tomorrow's pre-market names the candidate (Tech headroom ~12%, Materials ~16%; Energy paused; AVGO Thu is too late to wait for).
 - Decision: no orders this run. 5 positions, 6 trails, all covered.
+
+## 2026-09-01 -- Pre-market Research (Tue, Day 86, Week 19)
+
+### Account
+- Equity: **$103,169.89** (vs last_equity $103,618.99 = -$449.10 / -0.43% overnight read)
+- **Phase P&L +$3,169.89 (+3.17%)**
+- Cash: **$17,220.57 (16.69%) / 83.31% deployed -- BELOW the 85% floor. Rule-2 deploy is MANDATORY today** (clock started Mon on the NEM stop-out proceeds).
+- Daytrade count: PDT preserved (swings only)
+- **Positions (5):**
+  - **FCX 190** @ $69.05 -> $73.82 (+$906.30 / +6.91%; -2.54% premarket) -- 7% trail $74.6232, hwm $80.24; **PREMARKET PRINT IS BELOW THE STOP -- trail likely FIRES at the open (~+8% exit, WINNING Materials exit, no strike).** Trails don't trigger premarket; expect fill on regular-session open.
+  - **NVDA 84** @ $224.47 -> $218.10 (-$535.08 / -2.84%; -1.21%) -- 10% trail $207.423, hwm $230.47; -7% cut line $208.76 sits ABOVE the trail (4.3% below price) -- cut fires first
+  - **OXY 170** @ $55.52 -> $60.98 (+$928.19 / +9.83%; +1.33% on the oil bid) -- grandfathered (Energy PAUSED ~Sep 24); trail $55.9305, hwm $62.145
+  - **XLI 130** @ $173.962385 -> $174.54 (+$75.09 / +0.33%; -0.34%) -- $9.55 trail: stop $171.41 (1.8% below), hwm $180.96
+  - **XLV 120** @ $156.202167 -> $171.22 (+$1,802.14 / +9.61%; +0.40%) -- trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (4.9% away); q80 trail expires Sep 11 -- re-place this week
+- Open trail stops: **6 GTC, all 694 shares covered.** No overnight ratchets.
+- Weekly count: **0/6 (Week 19)**
+- **Sector mix** (of $103,169.89): XLI 21.99%; XLV 19.92%; Tech 17.76% (NVDA); Materials 13.60% (FCX); Energy 10.05% (OXY -- PAUSED, no adds); Cash 16.69%. All caps compliant. **Materials headroom 16.4pp (~$16.9K); jumps to ~30pp if FCX stops out.**
+
+### Market Context
+- **Oil extends: WTI ~$86-87 (+1.0-2.4%), Brent ~$90.7-91.5** -- Gulf strikes RESUMED (US-Iran hostilities re-escalated; Hormuz risk premium re-inflating). Second straight up-day; Energy still PAUSED for us.
+- **ES ~7,688-7,698 (-0.4%)** -- futures red again; market still digesting Warsh's hawkish Jackson Hole + fresh geopolitics.
+- **VIX ~15.2-15.9 (+3-6%)** -- second day creeping up from 14.4; still low absolute.
+- **Today: JOLTS 10:00 ET + ISM Manufacturing 10:00 ET** -- first labor print of the week. NFP Friday Sep 4 = the macro binary before FOMC Sep 15-16 (hike odds live post-Warsh). PPI Sep 10, CPI Sep 11.
+- **BMO earnings: MDT** (est. $1.40 / $9.6B), NIO, SSL + small caps. AMC: CRM, PANW, HPE, CRDO, DELL/MDB this week; **AVGO Thu.**
+- **Sector YTD: Energy +42-45%, Tech +29.8%, Materials +17.1%** -- Industrials/Healthcare mid-pack; Comm Svcs/Discretionary negative. Momentum scan: XLB breaking out of multi-month consolidation (copper + gold breadth); biotech (IBB +7.7% 5-day) = new risk-on leadership inside Healthcare; AEM the standout RS metal miner (+~130% 1yr, BofA top metals pick); CAT the Industrials RS leader.
+
+### Held-ticker News
+- **NVDA**: no fresh company news overnight; closed Mon +1.48% at $220.78 vs red tape, premarket -1.1% ~$218. Street targets keep rising (median ~$318). Ex-div Sep 10. WSJ partnership-halt headline faded.
+- **FCX**: no company news -- premarket weakness is hawkish-tape copper drift; the stop will do its job if hit. Copper structural bull calls intact (BofA/Jefferies/Bernstein all cite FCX).
+- **OXY**: no company news; oil re-escalation is the story -- strongest holding premarket.
+- **XLI / XLV**: quiet.
+
+### Trade Ideas
+1. **MANDATORY RULE-2 DEPLOY -- candidate named: AEM (Agnico Eagle Mines), ~$15.5K slot (~15% of book), 12% high-beta GTC trail on fill.**
+   - **Catalyst:** Gulf strikes resumed = fresh geopolitical gold bid; AEM is the strongest relative-strength name in the strongest non-paused momentum group (metals/Materials: XLB breakout, +~130% 1yr, BofA top pick). Sector cap clean: Materials 13.60% + ~15% AEM = ~28.6% < 30% even if FCX does NOT stop out.
+   - **Entry/stop/target:** buy at regular-session open (overnight NBBO stale/wide -- market-open run MUST pull a fresh quote and size shares = ~$15.5K / price). Stop = 12% trail (high-beta miner; also respects rule 10 3%-distance). Target: prior-leg extension ~+25-30% vs 12% risk = ~2:1. Risk: hawkish rates are a gold headwind (NEM soft Fri/Mon) -- but NEM exited GREEN and geopolitics now dominates; trail is the risk control.
+   - This clears rule 2: cash $17.2K - $15.5K = ~1.7% cash if FCX holds -> 98% deployed.
+2. **Contingency -- FCX trail fires at the open (premarket is below the stop):** proceeds ~$14.2K push cash back to ~15%. Market-open run then adds a SECOND deploy leg: preferred **MDT post-earnings IF beat+raise and green** (Healthcare headroom ~10pp; ~$10K starter, 10% trail) else park the FCX proceeds in a second single-name leader next session (rule-2 clock restarts, one-day legal). Do NOT chase copper back the same day it stops us out.
+3. **Pre-writes armed (same-session if printed):** NVDA breaks **$208.76** -> manual -7% cut (before the $207.423 trail); XLV >= $179.63 (+15%) -> 7% tighten + 25-50% trim; ratchet watches NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+ (FCX $80.25+ if it survives the open).
+
+### Risk Factors
+- Deploying into a red, hawkish tape is uncomfortable but mandated (rule 2 -- no roll-forward without a placed order); the 12% trail caps the damage at ~1.8% of book.
+- **FCX gap risk:** premarket $73.82 < stop $74.6232 -- a gap-down open fills below the stop (still green vs $69.05 basis unless it opens < $69).
+- NVDA cushion thin (-2.84%); $208.76 cut line is 4.3% below -- pre-authorized manual action.
+- JOLTS/ISM 10:00 ET could re-price hike odds intraday; NFP Friday is the week's binary on what will be a ~98%-deployed book.
+- XLV q80 trail expires Sep 11 -- re-place this week or 80 shares go uncovered.
+
+### Decision
+**TRADE -- mandatory rule-2 deploy: BUY AEM ~$15.5K at the open with 12% GTC trail (market-open run executes on a fresh quote). Watch FCX trail $74.6232 at the open (likely fires, winning exit); NVDA $208.76 cut line; JOLTS/ISM 10:00 ET.**

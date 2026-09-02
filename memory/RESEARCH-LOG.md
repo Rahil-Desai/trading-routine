@@ -5093,3 +5093,51 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **TRADE -- mandatory rule-2 deploy: BUY AEM ~$15.5K at the open with 12% GTC trail (market-open run executes on a fresh quote). Watch FCX trail $74.6232 at the open (likely fires, winning exit); NVDA $208.76 cut line; JOLTS/ISM 10:00 ET.**
+
+## 2026-09-02 -- Pre-market Research (Wed, Day 87, Week 19)
+
+### Account
+- Equity: **$102,700.38** (vs last_equity $102,636.70 = +$63.68 / +0.06% overnight read)
+- **Phase P&L +$2,700.38 (+2.70%)**
+- Cash: **$8,402.20 (8.18%) / 91.82% deployed** -- inside 90-100% target, rule-2 clean.
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **AEM 69** @ $196.67 -> $193.88 (-$192.51 / -1.42%; +0.22%) -- 12% trail $176.5368, hwm $200.61; 9.8% above stop. Day-2 of geopolitical gold thesis; entry drawdown = noise
+  - **MDT 100** @ $92.85 -> $91.88 (-$97.00 / -1.05%; -0.17%) -- 10% trail $83.9835, hwm $93.315; 9.4% above stop. Beat+raise thesis intact
+  - **NVDA 84** @ $224.47 -> $216.39 (**-$678.72 / -3.60%**; -0.48%) -- 10% trail $207.423, hwm $230.47; **-7% cut line $208.76 sits ABOVE the trail, 3.7% below price -- cut fires first**
+  - **OXY 170** @ $55.52 -> $61.30 (+$982.67 / +10.41%; +0.57%) -- grandfathered (Energy PAUSED ~Sep 24); trail $55.9305, hwm $62.145; **+15% trigger $63.85 (4.2% away)**
+  - **XLI 130** @ $173.962385 -> $172.27 (-$220.01 / -0.97%; -0.27%) -- $9.55 trail: stop $171.41, hwm $180.96; **0.5% ABOVE THE STOP -- nearest, any weakness fires it (~-1.5% exit = Industrials strike 1)**
+  - **XLV 120** @ $156.202167 -> $172.83 (+$1,995.34 / +10.65%; +0.68%) -- trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (3.9% away); **q80 trail expires Sep 11 -- re-place THIS WEEK**
+- Open trail stops: **7 GTC, all 673 shares covered.** No overnight ratchets.
+- Weekly count: **2/6 (Week 19: AEM + MDT Tue)**
+- **Sector mix** (of $102,700.38): Healthcare **29.14%** (XLV 20.19% + MDT 8.95% -- under cap, ZERO add headroom); XLI 21.81%; Tech 17.70% (NVDA); Materials 13.03% (AEM); Energy 10.15% (OXY -- PAUSED); Cash 8.18%. All caps compliant. No single name > 25%.
+
+### Market Context
+- **OIL SHOCK EXTENDS: WTI ~$90.8 (+5-7% Mon/Tue), Brent ~$95.6** -- US Central Command strikes / Iran escalation re-inflated the Hormuz premium; crude at new highs for the move. Inflation-via-oil is now pressuring yields and hike odds.
+- **ES ~7,635-7,650 (-0.5%)** -- Tuesday closed heavy (Dow -400+ on oil/yields); futures still soft. Hawkish-tape + oil = stagflation flavor.
+- **VIX ~16.4** (from 14.9 close Mon, 15.9 intraday Tue) -- third straight day creeping up; still moderate absolute.
+- **Today: ADP employment 8:15 ET (est ~45K)** -- first of three labor prints this week. NFP Friday Sep 4 8:30 ET = the macro binary before FOMC Sep 15-16. PPI Sep 10, CPI Sep 11.
+- **AVGO reports AFTER THE CLOSE TODAY (Wed Sep 2)** -- correction vs prior log (had it Thu). SNOW, HPE, NTAP, PVH also AMC. BMO today: OLLI, BF.B, GIII + small caps -- nothing held.
+- **Sector YTD: Energy +42.3%, Tech +27.9%, Materials +15.9%, Industrials +12.6%, Healthcare +10.1%** -- book aligned; Energy extends on the oil shock but is PAUSED for us.
+
+### Held-ticker News
+- **NVDA**: denied H100/H200 shortage rumors (says inventory sufficient); $3.5B MediaTek investment announced Mon; ex-div Sep 10. Closed Tue $217.44 (-1.51%), extended ~$216.5. No thesis break -- macro/rate pressure, not company news.
+- **AEM / MDT / OXY**: no fresh company news. OXY rides the oil escalation (strongest holding, +10.4%); AEM is the gold-geopolitics leg; MDT digesting the beat+raise.
+- **XLI / XLV**: quiet.
+
+### Trade Ideas
+1. **NO NEW ENTRIES -- HOLD.** Deployment 91.82% (target), 6 positions, weekly 2/6 after yesterday's mandatory deploy. The book is one day old in two names, the tape is red/hawkish with ADP this morning and AVGO tonight, and the caps block the obvious plays: Energy PAUSED (no oil chase), Healthcare 29.1% (zero headroom), Industrials likely exiting via XLI stop. Best action: let the new book settle behind 7 GTC trails.
+2. **AVGO tonight = Thursday's decision, not today's.** Tech 17.70%, headroom ~12%. A blowout print + NVDA thesis intact could justify a Tech add Thu within the cap; a miss on "memory-cost" margin fears is the NVDA cut-line stress test. No pre-positioning into the binary.
+3. **XLI stop watch, not a manual action:** $172.27 is 0.5% above the $171.41 trail -- a red open likely fires it (~-1.5%, Industrials strike 1, frees ~$22.3K -> rule-2 clock would start; candidate list for Thu: AVGO-driven Tech add or next RS leader -- CAT is the Industrials RS name but that sector would be 1 strike down).
+4. **Pre-writes armed (same-session if printed):** NVDA breaks **$208.76** -> manual -7% cut (fires BEFORE the $207.423 trail); XLV >= **$179.63** (+15%) -> 7% tighten + 25-50% trim; OXY >= **$63.85** (+15%) -> 7% tighten + 25-50% trim (exit-side only -- sector pause blocks adds, not sells).
+
+### Risk Factors
+- **ADP 8:15 ET + AVGO AMC = two binaries in one session** on a 91.8%-deployed book with VIX rising and zero fear premium already gone.
+- **XLI 0.5% from its stop** -- near-certain fire on any weakness; would be the first Industrials LOSS (strike 1) and drops deployment to ~70% -> mandatory deploy clock starts Thursday.
+- **NVDA -3.60% with the cut line 3.7% below** -- an AVGO warning tonight or hot inflation read could force the manual -7% cut Thursday.
+- Oil-driven inflation repricing: hike odds live into NFP Friday and FOMC Sep 15-16.
+- Healthcare 29.14% -- one strong XLV/MDT day breaches the 30% cap -> trim-into-strength readiness.
+- **XLV q80 trail expires Sep 11 -- re-place this week or 80 shares go uncovered.**
+
+### Decision
+**HOLD -- no orders. New book settles behind 7 GTC trails; ADP 8:15 ET and AVGO tonight set up Thursday's decisions. Watch XLI $171.41 (0.5% below), NVDA $208.76 cut line. Pre-writes: XLV $179.63 / OXY $63.85 -> tighten+trim. Ratchet watches: AEM $200.62+ / MDT $93.32+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**

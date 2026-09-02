@@ -1601,3 +1601,31 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log only.**
 
 **PM watch:** XLI trail $171.41 (0.5% below) = nearest stop; NVDA hold above $208.76 cut line; XLV +15% trigger $179.63 pre-write armed; ratchet watches AEM $200.62+ / MDT $93.32+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.
+
+## 2026-09-02 -- Midday Scan (Day 87, Wednesday -- NO ORDERS; GREEN BOUNCE, AVGO TONIGHT)
+
+**Midday account:** Equity **$103,805.66** | Cash $8,402.20 (8.09%) | Long MV $95,403.46 (**91.91% deployed**) | Day P&L **+$1,168.96 (+1.14%)** vs last_equity $102,636.70 | Phase P&L **+$3,805.66 (+3.81%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $195.975 | +1.30% | -$47.96 (-0.35%) | $176.5632 (12% trail, hwm $200.64) |
+| MDT | 100 | $92.85 | $93.64 | +1.74% | +$79.00 (+0.85%) | $85.1445 (10% trail, hwm $94.605) |
+| NVDA | 84 | $224.47 | $225.38 | +3.65% | +$76.44 (+0.41%) | $207.423 (10% trail, hwm $230.47) |
+| OXY | 170 | $55.52 | $60.795 | -0.25% | +$896.82 (+9.50%) | $55.9305 (10% trail, hwm $62.145) |
+| XLI | 130 | $173.962385 | $172.83 | +0.06% | -$147.21 (-0.65%) | $171.41 ($9.55 trail_price, hwm $180.96) |
+| XLV | 120 | $156.202167 | $173.08 | +0.82% | +$2,025.34 (+10.81%) | $158.931 (qty 80) / $158.931 (qty 40) (10% trail, hwms $176.59 both) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst AEM **-0.35%** (day-2 settle, +1.30% today; 9.9% above stop).
+- +15%/+20% tighten (rule 9): no prints. Best XLV +10.81% (trigger $179.63 = 3.8% away), OXY +9.50% ($63.85 = 5.0% away); nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** NVDA +3.65% to $225.38 -- back ABOVE entry (+0.41%) pre-AVGO; blowout thesis intact, cut-line pressure relieved (price 8.7% above $208.76). MDT +1.74% green on the beat+raise. AEM +1.30% -- gold geopolitical bid intact. OXY -0.25% flat digesting the oil spike (grandfathered, Energy PAUSED ~Sep 24). XLI +0.06% held above the stop on the bounce -- morning fire risk faded, thesis (drift not break) unchanged. XLV +0.82% quiet strength.
+- **Stop proximity watch: XLI $172.83 is 0.8% above its $171.41 stop** -- still nearest but off the ledge vs 0.5% premarket.
+- Auto-ratchets since last log: **AEM hwm $200.61 -> $200.64 (stop $176.5368 -> $176.5632); MDT hwm $93.315 -> $94.605 (stop $83.9835 -> $85.1445).** Other four hwms held.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **91.91%** -- inside 90-100% target; cash 8.09%. Rule-2 clean.
+- **Sector mix:** XLI 21.64%; Healthcare 29.03% (XLV 20.01% + MDT 9.02% -- under cap, zero add headroom); Tech 18.24% (NVDA); Materials 13.03% (AEM); Energy 9.96% (OXY, PAUSED); Cash 8.09%. All caps compliant. No single name > 25%.
+- Positions: 6 (5-8 band OK). Weekly count **2/6** (Week 19: AEM + MDT Tue). Trail coverage: **7 GTC orders covering all 673 shares across 6 positions.** XLV q80 trail expires Sep 11 -- re-place this week.
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** AVGO reports AFTER THE CLOSE -- sets Thursday's Tech decision; XLI trail $171.41 (0.8% below) = nearest stop; XLV +15% trigger $179.63 and OXY $63.85 pre-writes armed; ratchet watches AEM $200.65+ / MDT $94.61+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.

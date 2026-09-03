@@ -5141,3 +5141,53 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- no orders. New book settles behind 7 GTC trails; ADP 8:15 ET and AVGO tonight set up Thursday's decisions. Watch XLI $171.41 (0.5% below), NVDA $208.76 cut line. Pre-writes: XLV $179.63 / OXY $63.85 -> tighten+trim. Ratchet watches: AEM $200.62+ / MDT $93.32+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**
+
+## 2026-09-03 -- Pre-market Research (Thu, Day 88, Week 19)
+
+### Account
+- Equity: **$103,938.41** (vs last_equity $103,610.28 = +$328.13 / +0.32% overnight read)
+- **Phase P&L +$3,938.41 (+3.94%)**
+- Cash: **$8,402.20 (8.08%) / 91.92% deployed** -- inside 90-100% target, rule-2 clean.
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **AEM 69** @ $196.67 -> $199.99 (+$229.08 / +1.69%; +1.69%) -- 12% trail $176.5632, hwm $200.64; gold $4,467 (+1.2%) -- geopolitical bid extending
+  - **MDT 100** @ $92.85 -> $92.50 (-$35.00 / -0.38%; +0.35%) -- 10% trail $85.1445, hwm $94.605; beat+raise thesis intact, fill noise
+  - **NVDA 84** @ $224.47 -> $224.45 (-$1.68 / -0.01%; flat) -- 10% trail $207.423, hwm $230.47; **-7% cut line $208.76 sits ABOVE the trail, 7.0% below price** -- cushion rebuilt pre-AVGO-reaction
+  - **OXY 170** @ $55.52 -> $61.21 (+$967.37 / +10.25%; +0.49%) -- grandfathered (Energy PAUSED ~Sep 24); trail $55.9305, hwm $62.145; **+15% trigger $63.85 (4.3% away)**
+  - **XLI 130** @ $173.962385 -> $172.78 (-$153.71 / -0.68%; flat) -- $9.55 trail: stop $171.41, hwm $180.96; **0.79% above the stop -- still nearest, any weakness fires it (~-1.5% = Industrials strike 1)**
+  - **XLV 120** @ $156.202167 -> $173.05 (+$2,021.74 / +10.79%; +0.06%) -- trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (3.8% away); **q80 trail expires Sep 11 -- re-place THIS WEEK**
+- Open trail stops: **7 GTC, all 673 shares covered.** No overnight ratchets.
+- Weekly count: **2/6 (Week 19: AEM + MDT Tue)**
+- **Sector mix** (of $103,938.41): Healthcare **28.88%** (XLV 19.98% + MDT 8.90% -- under cap, ~zero add headroom); XLI 21.61%; Tech 18.14% (NVDA); Materials 13.28% (AEM); Energy 10.01% (OXY -- PAUSED); Cash 8.08%. All caps compliant. No single name > 25%.
+
+### Market Context
+- **Oil eases off the spike: WTI ~$90.1-90.5 (-0.5-0.9%), Brent ~$94.5-95.0 (-0.7-1.3%)** -- first down-day after the Gulf-strike surge; Hormuz premium holding ~$90 but no fresh escalation overnight.
+- **ES ~7,672-7,685 (flat to +0.1%)** -- stabilizing after Tue's rout; renewed AI optimism (SNOW raise) offsetting oil/yields.
+- **VIX ~15.2** (from 16.34 Mon -> 15.2 Wed close) -- fear bid unwinding, back to low-vol regime.
+- **AVGO Q3: BEAT ($3.32 vs $3.24 adj EPS, $29.59B vs $29.36B rev, +86% y/y, record 67.9% op margin) but stock -2.6 to -3.5% premarket ~$355-358 on Q4 revenue/margin OUTLOOK miss.** Sell-the-news, not a demand break -- AI capex reads intact (SNOW +, DELL +8.8% premarket). NVDA premarket flat ~$224 -- absorbing it well so far.
+- **Today: Initial claims 8:30 ET, trade balance 8:30, productivity (R) 8:30, ISM Services PMI 10:00 ET.** NFP TOMORROW 8:30 ET = the week's macro binary before FOMC Sep 15-16. PPI Sep 10, CPI Sep 11.
+- **BMO earnings: CIEN, CPB, TTC, VSXY, LE** -- nothing held. AMC: LULU, ZS, DOCU, PATH, CPRT. TSLA Cybercab event Austin today.
+- **Sector YTD: Energy +42.3%, Tech +27.9%, Materials +15.9-17.7%, Healthcare +10.1%** -- rotation model has Staples/Industrials/Materials/Energy leading, Tech lagging quadrant. Book aligned; Energy PAUSED for us.
+
+### Held-ticker News
+- **NVDA**: no fresh company news; the AVGO outlook wobble is the sector story. Premarket flat at $224.45 (entry flat) -- the -2.6% AVGO read-through NOT hitting NVDA so far. Ex-div Sep 10.
+- **AEM**: no fresh news (Jul Barnat pit-wall guidance cut is old/priced). Gold $4,467 +1.2% overnight -- thesis strengthening; hwm $200.64 within $0.65 of a new ratchet.
+- **MDT / OXY**: no fresh company news. OXY digests the oil pullback (-0.5% crude); grandfathered on trail.
+- **XLI / XLV**: quiet. XLI still parked 0.79% above its stop.
+
+### Trade Ideas
+1. **NO NEW ENTRIES -- HOLD.** Deployment 91.92% (in target), 6 positions, 2/6 weekly used, Healthcare capped, Energy paused, and NFP is tomorrow morning on a nearly-full book. AVGO's sell-the-news dip is NOT a Tech-add signal into a lagging-quadrant sector the day before NFP -- and NVDA holding flat says our existing Tech exposure is the right size. Let the trails work.
+2. **Tech add DEFERRED, conditions written:** if NVDA holds > ~$220 through the AVGO digestion AND NFP Friday lands soft-but-not-recessionary, Tech has ~7pp headroom (18.1% -> 25% NVDA single-name cap governs; sector cap 30%). Candidate stays NVDA-adjacent AI infra ONLY on a fresh catalyst -- no AVGO knife-catch today (entry would need $355 basing + reclaim; skip).
+3. **XLI stop contingency (no manual action):** $172.78 is 0.79% above $171.41. If it fires (~-1.5% exit, Industrials strike 1), ~$22.4K lands -> cash ~29% -> **rule-2 clock starts, deploy mandatory by next session.** Pre-write candidates for that branch: strongest RS leader outside Healthcare/Energy at that moment -- AEM add (Materials 13.3% + ~15% = under cap ONLY if sized <= ~$17K; check at fire time) or CAT (Industrials RS leader but sector would be strike-1 -- legal, 1 strike is not a pause).
+4. **Pre-writes armed (same-session if printed):** NVDA breaks **$208.76** -> manual -7% cut (fires BEFORE the $207.423 trail); XLV >= **$179.63** (+15%) -> 7% tighten + 25-50% trim; OXY >= **$63.85** (+15%) -> 7% tighten + 25-50% trim (exit-side only -- pause blocks adds, not sells).
+
+### Risk Factors
+- **NFP tomorrow 8:30 ET on a 91.9%-deployed book** -- the week's binary; today is positioning day, expect chop into it.
+- **AVGO digestion risk:** if the outlook-miss narrative broadens intraday, NVDA's flat premarket can crack -- cut line $208.76 is 7.0% below (cushion rebuilt, but pre-authorized manual action stands).
+- **XLI 0.79% from its stop** -- near-fire on any weakness; would start the rule-2 deploy clock into NFP.
+- Claims 8:30 / ISM Services 10:00 can re-price hike odds intraday (FOMC Sep 15-16 live post-Warsh).
+- Healthcare 28.88% -- one strong XLV/MDT day breaches the 30% cap -> trim-into-strength readiness.
+- **XLV q80 trail expires Sep 11 -- re-place this week or 80 shares go uncovered.**
+
+### Decision
+**HOLD -- no orders. 91.92% deployed behind 7 GTC trails; NFP tomorrow is the binary, AVGO dip is not our trade. Watch XLI $171.41 (0.79% below), NVDA $208.76 cut line, claims 8:30 / ISM Services 10:00. Pre-writes: XLV $179.63 / OXY $63.85 -> tighten+trim. Ratchet watches: AEM $200.65+ / MDT $94.61+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**

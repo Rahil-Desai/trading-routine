@@ -5191,3 +5191,53 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- no orders. 91.92% deployed behind 7 GTC trails; NFP tomorrow is the binary, AVGO dip is not our trade. Watch XLI $171.41 (0.79% below), NVDA $208.76 cut line, claims 8:30 / ISM Services 10:00. Pre-writes: XLV $179.63 / OXY $63.85 -> tighten+trim. Ratchet watches: AEM $200.65+ / MDT $94.61+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**
+
+## 2026-09-04 -- Pre-market Research (Fri, Day 89, Week 19)
+
+### Account
+- Equity: **$105,095.35** (vs last_equity $104,981.67 = +$113.68 / +0.11% overnight read)
+- **Phase P&L +$5,095.35 (+5.10%)** -- new phase high
+- Cash: **$8,402.20 (7.99%) / 92.01% deployed** -- inside 90-100% target, rule-2 clean.
+- Daytrade count: PDT preserved (swings only)
+- **Positions (6):**
+  - **AEM 69** @ $196.67 -> $207.55 (+$750.72 / +5.53%; +0.20%) -- 12% trail ratcheted hard Thu: **hwm $200.64 -> $207.66, stop $176.5632 -> $182.7408**; gold ~$4,470 (+1.3%) rebounding on dovish Fed talk
+  - **MDT 100** @ $92.85 -> $92.80 (-$5.00 / -0.05%; -0.32%) -- 10% trail $85.1445, hwm $94.605; beat+raise thesis intact, still fill noise
+  - **NVDA 84** @ $224.47 -> $231.40 (+$582.12 / +3.09%; +1.29%) -- closed $228.45 +1.80%, post-market ~$229.6-230.6; **price ABOVE hwm $230.47 -> ratchet pending at open (stop $207.423 -> ~$208.3+)**; -7% cut line $208.76 now nearly converged with the trail
+  - **OXY 170** @ $55.52 -> $60.12 (+$782.07 / +8.29%; -0.81%) -- grandfathered (Energy PAUSED ~Sep 24); trail $55.9305, hwm $62.145; +15% trigger $63.85 (6.2% away)
+  - **XLI 130** @ $173.962385 -> $174.56 (+$77.69 / +0.34%; flat) -- $9.55 trail: stop $171.41, hwm $180.96; **recovered to 1.84% above the stop -- off the ledge (was 0.79% Thu premarket)**
+  - **XLV 120** @ $156.202167 -> $172.81 (+$1,992.94 / +10.63%; -0.26%) -- trails $158.931 q80/q40, hwm $176.59; +15% trigger $179.63 (3.9% away); **q80 trail expires Sep 11 (next Fri) -- re-place TODAY or Monday at the latest**
+- Open trail stops: **7 GTC, all 673 shares covered.** Thu ratchet: AEM hwm $207.66 / stop $182.7408.
+- Weekly count: **2/6 (Week 19: AEM + MDT Tue)**
+- **Sector mix** (of $105,095.35): XLI 21.59%; Healthcare **28.56%** (XLV 19.73% + MDT 8.83% -- under cap, ~zero add headroom); Tech 18.50% (NVDA); Materials 13.63% (AEM); Energy 9.72% (OXY -- PAUSED); Cash 7.99%. All caps compliant. No single name > 25%.
+
+### Market Context
+- **Oil steady-to-soft: WTI ~$90.4-91.5, Brent ~$95.5** -- Hormuz premium holding ~$90-91 but no fresh escalation; second day of digestion after the Gulf-strike spike.
+- **ES ~7,680-7,685 (flat to +0.5%)** -- stabilizing; Wed/Thu bounce extended on dovish Fed-official comments (yields and dollar off highs).
+- **VIX ~14.2** (15.20 Wed close -> ~14.2) -- fear bid fully unwound, back to complacent-low regime INTO the jobs binary.
+- **Gold ~$4,470 (+1.3%)** -- rebounding from 3-week lows on the dovish drift; AEM tailwind.
+- **TODAY 8:30 ET: August NFP -- THE binary.** Consensus +42K to +58K (prior **-23K**, first negative print of the cycle), unemployment 4.1%, AHE +0.3% m/m. Last macro read before FOMC **Sep 16**. Fed speakers Hammack + Goolsbee later. PPI Sep 10, CPI Sep 11.
+- **BMO earnings: KNOP, HURC, ABM** -- nothing held. AVGO fallout settled: sell-the-news dip absorbed, AI capex reads intact.
+- **Sector YTD: Energy +42-46%, Tech +29.5%, Materials ~+17%, Industrials +12.6%, Healthcare +10.1%** -- rotation model still has Staples/Industrials/Materials/Energy leading. Book aligned; Energy PAUSED for us.
+
+### Held-ticker News
+- **NVDA**: +1.80% Thu close, firm post-market; Hugging Face $12.9B acquisition report + Thinking Machines $40B round headline the AI tape. Ex-div Sep 10 (—$0.25). Cushion to cut line ~9.8%.
+- **AEM**: no fresh company news; pure gold beta -- $4,470 rebound extends the thesis, hwm ratcheted to $207.66 Thu.
+- **MDT / OXY**: no fresh company news. OXY digesting flat crude (grandfathered, exit-side only).
+- **XLI / XLV**: quiet. XLI's stop scare has passed for now (1.84% clearance).
+
+### Trade Ideas
+1. **NO NEW ENTRIES PRE-NFP -- HOLD.** 92.01% deployed, 6 positions, 2/6 weekly, Healthcare capped, Energy paused, VIX 14 = zero fear premium into a binary whose PRIOR print was -23K. Nothing to buy at 8:29 that isn't better bought at 10:00 with the print known. Let the 7 trails carry the event.
+2. **Post-NFP Tech add (conditions from Thu, refined):** soft-but-not-recessionary print (roughly +20K to +80K, unemployment <= 4.2%) AND NVDA holding > $225 -> a NVDA add is legal (Tech 18.50%, single-name cap 25% allows ~$6.8K; sector cap 30% allows ~$12K). Would be trade 3/6. Skip on a negative NFP repeat (recession read) or a hot AHE (>0.4% = hike repricing).
+3. **XLV q80 trail re-place: DO IT at market-open run.** Expires Sep 11 -- cancel/replace q80 10% GTC (same $158.931-equivalent or better via fresh hwm). Housekeeping, not a position change -- does not count against weekly trades.
+4. **Pre-writes armed (same-session if printed):** NVDA breaks **$208.76** -> manual -7% cut (trail $207.423 just below; post-ratchet these converge); XLV >= **$179.63** (+15%) -> 7% tighten + 25-50% trim; OXY >= **$63.85** (+15%) -> 7% tighten + 25-50% trim; **AEM >= $226.17 (+15%)** -> tighten + trim (now +5.5%, the fastest mover -- added to the watch).
+
+### Risk Factors
+- **NFP 8:30 ET on a 92%-deployed book with VIX 14** -- both tails live: a second negative print = recession scare (XLI most exposed, 1.8% clearance); a hot print/AHE = hike repricing (NVDA/Tech most exposed).
+- Prior month was **-23K** -- revisions can swing the read as much as the headline.
+- Fed speakers (Hammack, Goolsbee) after the print can re-price the dovish drift that drove Thursday's bounce.
+- Healthcare 28.56% -- a strong XLV day still breaches the 30% cap -> trim-into-strength readiness.
+- **XLV q80 trail expires Sep 11 -- re-place TODAY.**
+- Oil headline risk both ways on Hormuz; OXY exit-side managed by trail.
+
+### Decision
+**HOLD into the print -- no pre-NFP orders. Market-open run: (1) re-place XLV q80 trail (expires Sep 11), (2) evaluate post-NFP NVDA add per conditions above, (3) confirm NVDA hwm ratchet. Watch: NVDA $208.76 cut line, XLI $171.41, XLV $179.63 / OXY $63.85 / AEM $226.17 tighten+trim triggers. Ratchet watches: AEM $207.67+ / MDT $94.61+ / NVDA $230.48+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.**

@@ -1661,3 +1661,30 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Post-run book:** Equity $104,712.16 | Cash $8,402.20 (8.02%) | **Trail coverage: 7 GTC orders covering all 673 shares across 6 positions** (XLV q80 $158.95 / q40 $158.931; nearest expiry now XLV q40 Oct 6). Sector mix: XLI 21.66%; Healthcare 28.63% (XLV 19.72% + MDT 8.91%); Tech 18.72% (NVDA); Materials 13.28% (AEM); Energy 9.69% (OXY, PAUSED ~Sep 24); Cash 8.02%. All caps compliant.
 
 **PM watch:** XLI trail $171.41 (1.7% below) = nearest stop; NVDA trail $209.997 governs (cut line converged); XLV $179.63 / OXY $63.85 / AEM $226.17 tighten+trim pre-writes armed; Fed speakers Hammack + Goolsbee post-NFP; ratchet watches AEM $207.67+ / MDT $94.61+ / NVDA $233.34+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.
+
+## 2026-09-04 -- Midday Scan (Day 89, Friday -- NO ORDERS; POST-NFP DRIFT, RATCHETS ONLY)
+
+**Midday account:** Equity **$104,979.08** | Cash $8,402.20 (8.00%) | Long MV $96,576.88 (**92.00% deployed**) | Day P&L **-$2.59 (flat)** vs last_equity $104,981.67 | Phase P&L **+$4,979.08 (+4.98%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $204.955 | -1.05% | +$571.67 (+4.21%) | $182.7408 (12% trail, hwm $207.66) |
+| MDT | 100 | $92.85 | $94.1538 | +1.13% | +$130.38 (+1.40%) | $85.194 (10% trail, hwm $94.66) |
+| NVDA | 84 | $224.47 | $231.595 | +1.38% | +$598.50 (+3.17%) | $211.2795 (10% trail, hwm $234.755) |
+| OXY | 170 | $55.52 | $60.10 | -0.84% | +$778.67 (+8.25%) | $55.9305 (10% trail, hwm $62.145) |
+| XLI | 130 | $173.962385 | $175.135 | +0.33% | +$152.44 (+0.67%) | $171.41 ($9.55 trail_price, hwm $180.96) |
+| XLV | 120 | $156.202167 | $171.49 | -1.02% | +$1,834.54 (+9.79%) | $159.20 (qty 80, hwm $172.30) / $158.931 (qty 40, hwm $176.59) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Every position green on entry (worst XLI +0.67%).
+- +15%/+20% tighten (rule 9): no prints. Best XLV +9.79% (trigger $179.63 = 4.7% away), OXY +8.25% ($63.85 = 6.2% away), AEM +4.21% ($226.17 far); nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** NVDA +1.38% to $231.595 post-hot-NFP -- held > $225, blowout thesis intact; trail $211.2795 now ABOVE the $208.76 cut line, trail fully governs. AEM -1.05% = gold digesting the hawkish +162K print, geopolitical bid intact (still +4.21%). MDT +1.13% beat+raise working. OXY -0.84% flat crude digestion (grandfathered, Energy PAUSED ~Sep 24). XLI +0.33% -- clearance to stop rebuilt to 2.1%, fire risk faded. XLV -1.02% healthcare drift, +9.79% cushion.
+- Auto-ratchets since open run: **NVDA hwm $233.33 -> $234.755 (stop $209.997 -> $211.2795); MDT hwm $94.605 -> $94.66 (stop $85.1445 -> $85.194); XLV q80 hwm $172.05 -> $172.30 (stop $158.95 -> $159.20).** AEM/OXY/XLI hwms held.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **92.00%** -- inside 90-100% target; cash 8.00%. Rule-2 clean.
+- **Sector mix:** XLI 21.69%; Healthcare 28.57% (XLV 19.60% + MDT 8.97% -- under 30% cap, zero add headroom); Tech 18.53% (NVDA); Materials 13.47% (AEM); Energy 9.73% (OXY, PAUSED); Cash 8.00%. All caps compliant. No single name > 25%.
+- Positions: 6 (5-8 band OK). Weekly count **2/6** (Week 19: AEM + MDT Tue; NVDA add skipped at open -- NFP +162K outside band). Trail coverage: **7 GTC orders covering all 673 shares across 6 positions** (nearest expiry XLV q40 Oct 6).
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** XLI trail $171.41 (2.1% below) = nearest stop; NVDA trail $211.2795 governs; XLV $179.63 / OXY $63.85 / AEM $226.17 tighten+trim pre-writes armed; Fed speakers Hammack + Goolsbee post-NFP; ratchet watches AEM $207.67+ / MDT $94.67+ / NVDA $234.76+ / OXY $62.15+ / XLI $180.97+ / XLV $176.60+.

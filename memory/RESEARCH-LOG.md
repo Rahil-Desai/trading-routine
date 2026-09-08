@@ -5288,3 +5288,55 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- MARKET CLOSED (Labor Day). No orders possible or needed; 7 GTC trails carry the book into Tuesday. Tue Sep 8 plan: evaluate NVDA add per conditions above, screen XLI rotation candidates, confirm ratchets. Watch: XLI $171.41 nearest stop (2.2%), XLV $179.63 / OXY $63.85 / AEM $226.17 tighten+trim triggers. Ratchet watches: AEM $207.67+ / MDT $94.75+ / NVDA $234.76+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.**
+
+## 2026-09-08 -- Pre-market Research (Tue, Day 93, Week 20 -- FIRST SESSION POST-LABOR DAY)
+
+### Account
+- Equity: **$104,752.40** (last_equity $104,861.71; **-$109.31 / -0.10%** on extended-hours marks)
+- **Phase P&L +$4,752.40 (+4.75%)** -- holding near phase highs
+- Cash: **$8,402.20 (8.02%) / 91.98% deployed** -- inside 90-100% target, rule-2 clean. Buying power $303,389 (RegT $113,155) -- irrelevant, no margin use.
+- Daytrade count: not returned by account endpoint; PDT preserved (swings only, zero round-trips in 5-day window)
+- **Positions (6, extended-hours marks):**
+  - **AEM 69** @ $196.67 -> $203.26 (+$454.71 / +3.35%; -0.72% pre) -- 12% trail $182.7408, hwm $207.66; gold -1.5% overnight = headwind
+  - **MDT 100** @ $92.85 -> $93.49 (+$64.00 / +0.69%; -0.72% pre) -- 10% trail $85.266, hwm $94.74; Wells Fargo HC conf TODAY
+  - **NVDA 84** @ $224.47 -> $231.19 (+$564.48 / +2.99%; +0.36% pre) -- 10% trail $211.2795, hwm $234.755; **above the $230 add gate, no gap**
+  - **OXY 170** @ $55.52 -> $61.00 (+$931.67 / +9.87%; +1.60% pre) -- grandfathered (Energy PAUSED ~Sep 24); trail $55.9305, hwm $62.145; +15% trigger $63.85 = 4.7% away, closest of the three
+  - **XLI 130** @ $173.962385 -> $175.27 (+$169.99 / +0.75%; flat pre) -- $9.55 trail: stop $171.41, hwm $180.96; 2.2% clearance; dead-money clock running
+  - **XLV 120** @ $156.202167 -> $170.01 (+$1,656.94 / +8.84%; -0.84% pre) -- trails $159.20 q80 (exp Dec 3) / $158.931 q40 (exp Oct 6); +15% trigger $179.63 = 5.7% away
+- Open trail stops: **7 GTC, all 673 shares covered** (XLV q80 92392985, MDT 56cd1813, AEM 8571f428, NVDA 8e55f582, XLI 6ee0f223, OXY 5c6a22b8, XLV q40 a2fda910). Nearest expiry XLV q40 Oct 6 -- no housekeeping due.
+- Weekly count: **0/6 (Week 20)**
+- **Sector mix** (of $104,752.40): XLI 21.75%; Healthcare 28.41% (XLV 19.48% + MDT 8.93% -- under cap, ~$1.6K headroom); Tech 18.54% (NVDA -- single-name room to 25% = ~$6.8K, sector room to 30% = ~$12K); Materials 13.39% (AEM); Energy 9.90% (OXY -- PAUSED); Cash 8.02%. All caps compliant.
+
+### Market Context
+- **Oil SPIKING: WTI ~$92.3-94.5 (+1% to +3%), Brent ~$97.3-99.2 -- six-week high.** US strikes on Iranian tankers + Tehran retaliation threats re-lit the Hormuz premium. OXY +1.6% pre (exit-side only). Inflation-tail risk into PPI/CPI.
+- **ES ~7,703-7,709 (-0.17% to -0.24%)**; NQ ~29,600 (+0.13%) -- mixed, slightly risk-off. Short-end yields higher; 3-yr auction today (~4.29%).
+- **VIX 15.3-15.8 (+5% to +8% from 14.53 Fri close)** -- fear bid creeping back after the holiday; no longer the 14-handle complacency regime.
+- **Gold ~$4,400 (-1.5% from ~$4,470)** -- giving back Thursday's bounce; AEM headwind today.
+- **Fed repricing post-hot-NFP (+162K):** Sept hike odds quoted anywhere from ~24% to >60% depending on source -- consensus is "no cut, hike live." FOMC **Sep 16**. **PPI Thu Sep 10 8:30 (cons +0.4% m/m vs 0.0% prior); CPI Fri Sep 11 8:30 (cons +0.4% headline / +0.2% core).** Hot prints = hike confirmation.
+- **TODAY:** NFIB small business, NY Fed consumer expectations 11:00, consumer credit 15:00, 3-yr note auction. No BMO earnings of note; **CASY / GME / TTAN AMC**. AAPL event Wed Sep 9.
+- **Idiosyncratic drags on the Nasdaq tape:** TSLA -5.9% (NHTSA Cybercab probe), ADBE -6.7% (leadership change), LULU revenue miss; DOCU beat. Canada tariff headline. **Novo Nordisk halted two heart-drug trials** -- Healthcare read-through.
+- **Sector YTD: Energy +42-45%, Tech +30%, Materials +17%, Industrials +12.6%, Healthcare +10%.** Barchart breadth: **Industrials only 10% above 20DMA / 23% above 50DMA** -- weakest breadth of the major sectors; confirms XLI dead-money read. Energy 76%/90%.
+
+### Held-ticker News
+- **NVDA**: Hugging Face ~$12.9B acquisition (confirmed by multiple outlets) + expanded AWS collaboration + Thinking Machines stake headline the tape. Pre $231.19 (+0.36%), above the $230 gate, no gap. **Resistance ~$236 = May high; hwm $234.755.** Ex-div Sep 10 ($0.25, trivial). Note: a "Citi cuts PT to $200" item surfaced in search is dated Sep 2025 -- stale, discarded.
+- **MDT**: presenting at Wells Fargo Healthcare Conference **today Sep 8** (Morgan Stanley Sep 15); Pi-Cardia up-to-$80M TAVR investment + ~$700M Cornerstone Robotics surgical-robot partnership announced this week; Q1 FY27 beat + guide raise Sep 1 intact. Constructive.
+- **AEM**: no company news; pure gold beta, -1.5% gold overnight -> ~-0.7% pre. 11.2% above stop.
+- **OXY**: no company news; crude tape does the work. +9.87%, $63.85 trigger 4.7% away.
+- **XLI**: quiet; sector breadth weakest of the majors. **XLV**: quiet; Novo trial halt is a pharma-sentiment tick, XLV -0.84% pre.
+
+### Trade Ideas
+1. **NVDA add -- CONDITIONAL, executes at market-open run (would be trade 1/6 Week 20).** Catalyst: Hugging Face + AWS + demand commentary -- genuine, multi-day. Pre-market meets both Monday gates (> $230, no gap > +3%). Macro overlay is the swing factor: ES -0.2%, VIX +5-8%, hike odds rising, PPI/CPI Thu/Fri. **Execute ONLY if at ~9:45 ET: NVDA > $230 AND ES no worse than -0.5% AND VIX < 16.5.** Size: **26 shares (~$6.0K at $231)** -> 110 shares ~$25.4K = ~24.3% of book (< 25% single-name; Tech ~24.3% < 30%). Place a SEPARATE 10% GTC trail on the 26 shares (leave order 8e55f582 on the 84 untouched; do not move any stop down). Post-add cash ~$2.4K (2.3%), deployment ~97.7%. Entry ~$231 / initial stop ~$208 (10% trail) / target $260 (+12.5%, the +15% tighten zone) -- R:R ~1.3:1 on the trail, acceptable for an ADD to a working position, not a fresh entry. **Skip if any gate fails -- no chase into $236 resistance on a hawkish tape.**
+2. **XLI rotation clock -- decision point Thu Sep 10 EOD.** +0.75% after ~3 weeks, sector breadth worst of the majors, 2.2% above trail. NOT a cut today (thesis drift, not break; exit at a gain is not an Industrials strike). **Rule: if XLI is still < +2% on entry at Thu close while SPX is flat-or-up, sell Fri Sep 11 market-open run (post-CPI) and rotate the ~$22.8K into a Materials or Tech single-name leader.** Candidate screen for midday: **NEM / FCX** (Materials leaders, room to 30% cap = ~$17.4K), **DELL** (Tech re-entry legal post-pause; room ~$12K minus any NVDA add). Reject small/illiquid RS names (EDRY, QMCO, PAYS). Energy names (SLB, CVX) illegal -- PAUSED.
+3. **Pre-writes armed (same-session if printed):** **OXY >= $63.85** (+15%; oil spike makes this the live one -- 4.7% away) -> 7% tighten + trim 43-85 sh (25-50%); **XLV >= $179.63** (+15%) -> 7% tighten + trim 30-60 sh; **AEM >= $226.17** (+15%) -> tighten + trim 17-35 sh. Healthcare 28.41% -- a +2% XLV day breaches 30% -> trim-into-strength readiness (MDT/XLV both -0.7/-0.8% pre, unlikely today).
+
+### Risk Factors
+- **Hawkish repricing into PPI Thu / CPI Fri** with +0.4% consensus on both headlines -- hot prints confirm a Sept hike; NVDA/Tech most exposed, and a NVDA add today front-runs that binary. Gates above are the guard.
+- **Oil at six-week highs on US-Iran tanker strikes** -- inflation tail + risk-off; OXY is the hedge but exit-side only.
+- **VIX +5-8% overnight** -- fear returning after holiday; post-holiday thin tape can gap either way.
+- **NVDA $236 May-high resistance** sits 2% above the add price -- a rejection there is the most likely way the add loses.
+- Gold -1.5% -> AEM soft; 11.2% cushion to stop, no action.
+- Nasdaq idiosyncratics (TSLA -5.9%, ADBE -6.7%) can bleed into index sentiment; Canada tariff headline; Novo trial halt on pharma.
+- XLI trail $171.41 (2.2%) = nearest stop; would exit ~-1.5% = Industrials strike 1 if hit.
+
+### Decision
+**HOLD pre-market -- no orders before the open. Market-open run: (1) evaluate the CONDITIONAL NVDA add (26 sh, gates: NVDA > $230, ES >= -0.5%, VIX < 16.5 at ~9:45 ET; separate 10% GTC trail on the add), (2) confirm ratchets, (3) no other entries. XLI rotation decision Thu Sep 10 EOD. Watch: OXY $63.85 (live), XLV $179.63, AEM $226.17 tighten+trim; XLI $171.41 nearest stop. Ratchet watches: AEM $207.67+ / MDT $94.75+ / NVDA $234.76+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.**

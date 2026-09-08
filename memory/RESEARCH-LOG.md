@@ -5340,3 +5340,9 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD pre-market -- no orders before the open. Market-open run: (1) evaluate the CONDITIONAL NVDA add (26 sh, gates: NVDA > $230, ES >= -0.5%, VIX < 16.5 at ~9:45 ET; separate 10% GTC trail on the add), (2) confirm ratchets, (3) no other entries. XLI rotation decision Thu Sep 10 EOD. Watch: OXY $63.85 (live), XLV $179.63, AEM $226.17 tighten+trim; XLI $171.41 nearest stop. Ratchet watches: AEM $207.67+ / MDT $94.75+ / NVDA $234.76+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.**
+
+### Afternoon Addendum (midday scan, 13:07 ET) -- XLV -2.2% / NVDA REVERSAL CAUSE CHECK
+- **XLV -2.18% to $167.71** (SPY 767.9 ~-0.4%; QQQ 720.6): Perplexity/Reuters -- Novo Nordisk discontinued two late-stage ziltivekimab cardiovascular trials (independent committee: low probability of success) + Barclays PT cut; pharma read-through hit large-cap XLV holdings. No US drug-pricing or policy headline found. Broad defensive tape: Dow -0.5%, SPX -0.4%, Nasdaq -0.3/-0.4% on oil at a six-week high (US-Iran tanker strikes) into PPI Thu / CPI Fri; Sept-hike odds ~60% post-NFP. Verdict: **sentiment tick, not thesis break -- HOLD** (+7.37% entry, 5.1% above $159.20 trail).
+- **NVDA -1.81% to $226.20** (open $233.20, high $233.66 = rejected just under $236 May-high resistance): no company-specific news; Hugging Face deal (Sep 3 announced) intact; move is semis/macro de-risking + hike repricing. The 26-sh add filled $230.81 at 9:40 ET, now -2.0% on its fill; blended 110 sh flat (+0.10%). Verdict: **HOLD** -- add stays on its own 10% trail ($207.873); no cut, no chase.
+- **Read-through to Thu XLI decision:** XLI +0.02% today while SPX -0.4% = mild RS on a down day; +0.77% on entry. Decision point unchanged (Thu Sep 10 EOD, < +2% on entry with SPX flat/up -> rotate Fri).
+- No orders at midday. Weekly count 1/6 (Week 20). Deployment 97.69%, cash $2,401.18.

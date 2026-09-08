@@ -1689,3 +1689,42 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | XLV | 120 | $156.202167 | $171.45 | 0.00% (closed) | +$1,829.74 (+9.76%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
 
 **Notes:** Labor Day -- market CLOSED, no session, no orders. Equity $104,861.71 = Alpaca last_equity (Fri carry); Day P&L **+$21.96 (+0.02%)** vs the Sep 4 EOD snapshot $104,839.75 is purely Friday's final closing marks settling (NVDA $229.77 -> $230.36, XLV $171.68 -> $171.45), not trading. Phase **+$4,861.71 (+4.86%)**, holding near phase highs. **No trades today**; weekly count **0/6 (Week 20 fresh; Week 19 closed 2/6)**. All six positions green on entry (worst XLI +0.75%, best XLV +9.76%); no -7% cuts, no +15%/+20% prints, nothing tightened, nothing loosened, no stops moved down, no ratchets (all seven hwms held -- no tape). Deployment **91.99%** -- inside 90-100% target; cash 8.01%, rule-2 clean. **Sector mix:** XLI 21.73%; Healthcare 28.60% (XLV 19.62% + MDT 8.98% -- under 30% cap, ~zero add headroom); Tech 18.45% (NVDA); Materials 13.47% (AEM); Energy 9.73% (OXY, PAUSED ~Sep 24). All caps compliant; NVDA single-name 18.45% < 25%. 6 positions (5-8 band OK). **Trail coverage: 7 GTC orders covering all 673 shares across 6 positions** (nearest expiry XLV q40 Oct 6). **Tomorrow (Tue Sep 8):** per today's pre-market -- evaluate NVDA add (holds > $230, no gap > +3%, ~$6.5K max, would be 1/6 Week 20; skip on hawkish repricing into PPI Thu / CPI Fri); screen XLI rotation candidates (dead-money clock, +0.75% after ~3 weeks); XLI trail $171.41 (2.2% below) = nearest stop; XLV $179.63 / OXY $63.85 / AEM $226.17 tighten+trim pre-writes armed; FOMC Sep 15-16; ratchet watches AEM $207.67+ / MDT $94.75+ / NVDA $234.76+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.
+
+## 2026-09-08 -- Market-Open Execution (Day 93, Tuesday -- NVDA ADD EXECUTED, 26 SH; reconstructed at midday from Alpaca order history -- the market-open run filled but did not log)
+
+**Gates at ~9:40 ET:** NVDA $230.81 (> $230 gate, open $233.20 = no gap > +3%); ES/SPX ~-0.4% (>= -0.5% gate); VIX ~15.5 (< 16.5 gate). All three passed -> add executed per pre-market plan.
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-09-08 | NVDA | BUY (add) | 26 | **$230.808462** (order 303e344d, filled 13:40:35 UTC, $6,001.02) | **$207.873** (separate 10% GTC trail, order 269907e7, hwm $230.97, expires Dec 7); original 84-sh trail 8e55f582 ($211.2795) untouched | Hugging Face ~$12.9B acquisition + AWS expansion + "supply chain flat out" demand commentary; multi-day catalyst; all three pre-written gates met. Blended entry now $225.968182 on 110 sh | $260 (+12.6% from add) | ~1.3:1 (add to a working position, per pre-market) |
+
+**Post-add book:** 110 NVDA sh = ~$25.4K at fill (~24.3% of book, < 25% single-name; Tech ~24.3% < 30%). Cash $8,402.20 -> **$2,401.18 (2.31%)**, deployment ~97.7%. Weekly count **1/6 (Week 20)**. **Trail coverage: 8 GTC orders covering all 743 shares across 6 positions.** No stop moved down.
+
+## 2026-09-08 -- Midday Scan (Day 93, Tuesday -- NO ORDERS; RISK-OFF TAPE, XLV -2.2% ON NOVO READ-THROUGH, NVDA ADD ROUND-TRIPPED TO FLAT)
+
+**Midday account (13:07 ET):** Equity **$103,814.87** | Cash $2,401.18 (2.31%) | Long MV $101,413.69 (**97.69% deployed**) | Day P&L **-$1,046.84 (-1.00%)** vs last_equity $104,861.71 | Phase P&L **+$3,814.87 (+3.81%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $203.975 | -0.37% | +$504.05 (+3.71%) | $182.7584 (12% trail, hwm $207.68) |
+| MDT | 100 | $92.85 | $92.81 | -1.44% | -$4.00 (-0.04%) | $85.266 (10% trail, hwm $94.74) |
+| NVDA | 110 | $225.968182 | $226.20 | -1.81% | +$25.50 (+0.10%) | $211.2795 (qty 84, 10% trail, hwm $234.755) / $207.873 (qty 26, 10% trail, hwm $230.97) |
+| OXY | 170 | $55.52 | $60.375 | +0.56% | +$825.42 (+8.75%) | $55.9305 (10% trail, hwm $62.145) |
+| XLI | 130 | $173.962385 | $175.30 | +0.02% | +$173.89 (+0.77%) | $171.41 ($9.55 trail_price, hwm $180.96) |
+| XLV | 120 | $156.202167 | $167.71 | -2.18% | +$1,380.94 (+7.37%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst MDT **-0.04%** (fill noise; 8.1% above stop).
+- +15%/+20% tighten (rule 9): no prints. Best OXY +8.75% ($63.85 trigger 5.8% away), XLV +7.37% ($179.63 = 7.1% away after today's drop); nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** XLV -2.18% = sector read-through from Novo halting two ziltivekimab heart-drug trials + broad defensive selling (SPX -0.4%, Dow -0.5%); no US policy/drug-pricing headline; still +7.37% on entry, 5.1% above the $159.20 trail -- sector sentiment tick, not a thesis break. NVDA -1.81% to $226.20 off a $233.66 high -- pure macro (oil six-week high on US-Iran tanker strikes, Sept hike odds ~60%, risk-off into PPI Thu / CPI Fri), no company news; Hugging Face/demand thesis intact; the add is -2.0% on its own fill and the blended position is flat (+0.10%); 6.6% above the $211.28 trail on the 84, 8.1% above $207.87 on the 26. MDT -1.44% (WFC HC conference day, sector drag). AEM -0.37% on gold -1.5%. OXY +0.56% on the crude bid (grandfathered, Energy PAUSED ~Sep 24). XLI +0.02% flat -- dead-money clock still running toward the Thu Sep 10 EOD decision.
+- **Stop proximity watch: XLI $175.30 is 2.2% above its $171.41 stop** -- still nearest; XLV q80 5.1% above $159.20 next.
+- Auto-ratchets since last log: **AEM hwm $207.66 -> $207.68 (stop $182.7408 -> $182.7584).** Other seven hwms held.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **97.69%** -- inside 90-100% target; cash 2.31%. Rule-2 clean.
+- **Sector mix:** Tech 23.97% (NVDA -- single-name < 25%, ~$1.1K headroom); XLI 21.95%; Healthcare 28.33% (XLV 19.39% + MDT 8.94% -- under cap); Materials 13.56% (AEM); Energy 9.89% (OXY, PAUSED); Cash 2.31%. All caps compliant. No single name > 25%.
+- Positions: 6 (5-8 band OK). Weekly count **1/6** (Week 20: NVDA add Tue). Trail coverage: **8 GTC orders covering all 743 shares across 6 positions.** Nearest expiry XLV q40 Oct 6.
+- Housekeeping: market-open run's NVDA add was unlogged -- entry reconstructed above from order 303e344d / trail 269907e7.
+
+**Action this run: none -- no orders placed or cancelled. Log only (plus the recovered market-open entry).**
+
+**PM watch:** NVDA $236 May-high resistance rejected today -- a close < $226 (blended entry) puts the add on the cut-line watch, trails govern ($211.28 / $207.87); XLI trail $171.41 (2.2% below) = nearest stop, Thu EOD rotation decision stands (NEM / FCX / DELL screen); XLV $159.20 trail 5.1% below after -2.2% -- Healthcare 28.33%; OXY $63.85 / XLV $179.63 / AEM $226.17 tighten+trim pre-writes armed; consumer credit 15:00, 3-yr auction; CASY/GME AMC; ratchet watches AEM $207.69+ / MDT $94.75+ / NVDA q84 $234.76+ / q26 $230.98+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.

@@ -1728,3 +1728,39 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log only (plus the recovered market-open entry).**
 
 **PM watch:** NVDA $236 May-high resistance rejected today -- a close < $226 (blended entry) puts the add on the cut-line watch, trails govern ($211.28 / $207.87); XLI trail $171.41 (2.2% below) = nearest stop, Thu EOD rotation decision stands (NEM / FCX / DELL screen); XLV $159.20 trail 5.1% below after -2.2% -- Healthcare 28.33%; OXY $63.85 / XLV $179.63 / AEM $226.17 tighten+trim pre-writes armed; consumer credit 15:00, 3-yr auction; CASY/GME AMC; ratchet watches AEM $207.69+ / MDT $94.75+ / NVDA q84 $234.76+ / q26 $230.98+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.
+
+## 2026-09-10 -- XLI TRAIL STOP FILLED (Day 95, Thursday -- reconstructed at Fri Sep 11 midday from Alpaca order history; no Sep 9-11 runs committed)
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-09-10 | XLI | SELL (trail stop fill) | 130 | **$170.94** (order 6ee0f223, $9.55 trail_price GTC, filled 13:31:58 UTC ~9:32 ET) | -- | Entry $173.962385 -> exit $170.94 = **-$392.91 realized (-1.74%)**, proceeds $22,222.20. Stop hit at the open Thu (post-PPI +0.4% m/m, oil > $100, yields up). Dead-money clock was already running (+0.75% after ~3 weeks, weakest sector breadth); rotation was pre-planned for Fri Sep 11 -- the trail did it a day early. **Industrials strike 1** (rolling 90d; ETF counts). Not a weekly trade slot. | -- | -- |
+
+**Post-exit book:** 5 positions (5-8 band floor). Cash $2,401.18 -> **$24,622.87 (~24%)** -- **RULE-2 BREACH: cash > 15%; mandatory deploy on the next session (no roll-forward without a placed order).** Trail coverage: 7 GTC orders covering all 549 shares across 5 positions.
+
+## 2026-09-11 -- Midday Scan (Day 96, Friday -- NO ORDERS; CPI IN-LINE HEADLINE / CORE +0.3% HOT; CASH 24% AFTER XLI STOP-OUT)
+
+**Midday account (13:06 ET):** Equity **$101,775.25** | Cash $24,622.87 (24.19%) | Long MV $77,152.38 (**75.81% deployed**) | Day P&L **+$123.46 (+0.12%)** vs last_equity $101,651.79 | Phase P&L **+$1,775.25 (+1.78%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $199.22 | +1.29% | +$175.95 (+1.30%) | $183.6032 (12% trail, hwm $208.64) |
+| MDT | 100 | $92.85 | $90.445 | -1.28% | -$240.50 (-2.59%) | $85.266 (10% trail, hwm $94.74) |
+| NVDA | 110 | $225.968182 | $219.12 | +0.35% | -$753.30 (-3.03%) | $211.2795 (qty 84, 10% trail, hwm $234.755) / $207.873 (qty 26, 10% trail, hwm $230.97) |
+| OXY | 170 | $55.52 | $61.05 | -0.18% | +$940.17 (+9.96%) | $56.016 (10% trail, hwm $62.24) |
+| XLV | 120 | $156.202167 | $165.57 | -0.05% | +$1,124.14 (+6.00%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst NVDA **-3.03%** blended (3.6% above the $211.28 q84 trail = nearest stop in book); MDT -2.59% (5.7% above $85.266).
+- +15%/+20% tighten (rule 9): no prints. Best OXY +9.96% ($63.85 trigger 4.6% away), XLV +6.00% ($179.63 = 8.5% away); nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** NVDA -3.0% on entry after three straight red days (Sep 8 -2.0%, Sep 9 -0.9%, Sep 10 -2.4%) -- broad semis/growth de-risking on oil > $100 + higher yields + Blackwell-to-China export-control chatter; Hugging Face deal and demand thesis intact, +0.35% today post-CPI; trails govern ($211.28 / $207.87), no cut. MDT -2.6% -- no company-specific negative (Wall Street Zen Buy->Hold Sep 5 only; FY27 raise + Cornerstone/Pi-Cardia deals intact), post-rally drift, sector soft; HOLD on trail. XLV +6.0% flat today; Healthcare 28.41% under cap. AEM +1.3% on gold bid. OXY +10.0% grandfathered (Energy PAUSED ~Sep 24).
+- **CPI (8:30):** headline +0.4% m/m / 3.4% y/y = consensus; **core +0.3% m/m (cons +0.2%)** / 2.4% y/y in line. Hot-core tick keeps the Sep 16 hike live. SPY $765.64 / QQQ $716.31 ~flat-to-slightly-red at midday; book +0.12%.
+- Auto-ratchets since Sep 8 midday log: **AEM hwm $207.68 -> $208.64 (stop $182.7584 -> $183.6032); OXY hwm $62.145 -> $62.24 (stop $55.9305 -> $56.016).** NVDA q84/q26, MDT, XLV q80/q40 hwms held.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- **Deployment 75.81% / cash 24.19% -- RULE-2 BREACH (hard floor 85%).** XLI stop-out landed the cash Thu Sep 10; today's market-open run (the "next session") did not deploy and left no log. Midday scan scope is exits/tightens only and no pre-market research exists for today -> **Mon Sep 14 market-open run MUST place an order: rotate ~$15-22K into a Materials or Tech single-name leader (NEM / FCX / DELL screen per Sep 8 plan). Energy PAUSED; Healthcare ~zero headroom.**
+- **Sector mix:** Tech 23.68% (NVDA -- single-name < 25%); Healthcare 28.41% (XLV 19.52% + MDT 8.89%); Materials 13.51% (AEM); Energy 10.20% (OXY, PAUSED); Cash 24.19%. All caps compliant. Industrials 0% (strike 1 on the book).
+- Positions: 5 (5-8 band -- at floor). Weekly count **1/6** (Week 20: NVDA add Tue; XLI stop-out is an exit, not a slot). Trail coverage: **7 GTC orders covering all 549 shares across 5 positions.** Nearest expiry XLV q40 Oct 6.
+- Housekeeping: Sep 9 / Sep 10 / Sep 11 runs (pre-market, market-open, EOD) left no commits -- XLI exit reconstructed above from order 6ee0f223. Sep 8 EOD snapshot also missing.
+
+**Action this run: none -- no orders placed or cancelled. Log only (plus the recovered XLI stop-out).**
+
+**PM watch:** NVDA q84 $211.28 (3.6% below) = nearest stop; XLV q80 $159.20 (3.8%); MDT $85.27 (5.7%); OXY $63.85 / XLV $179.63 / AEM $226.17 tighten+trim pre-writes armed; FOMC Sep 15-16 with hike live post-hot-core; **Mon Sep 14 = mandatory deploy day**; ratchet watches AEM $208.65+ / MDT $94.75+ / NVDA q84 $234.76+ / q26 $230.98+ / OXY $62.25+ / XLV q80 $172.31+ / q40 $176.60+.

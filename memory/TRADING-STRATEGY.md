@@ -21,7 +21,11 @@ Beating the index means OUT-returning it -- holding index-proxy ETFs or megacaps
 8. Cut losers at -7% manually.
 9. Tighten trail: 7% at +15%, 5% at +20%.
 10. Never within 3% of current price; never move a stop down.
-11. Rotate fast: exit dead money (flat laggards, stalled/broken theses) to free capital for stronger setups. Don't let slots rot.
+11. Rotate fast: exit dead money (flat laggards, stalled/broken theses) to free capital for stronger setups. Don't let slots rot. DEAD-MONEY CLOCK (added 2026-09-11 after XLE Aug 27 and XLI Sep 10 -- both flagged dead money in a weekly review, both handed multi-day "decision point" gates, both exited at a loss and armed a sector strike before the gate fired; a same-session exit would have closed each one green):
+    - Trigger: any position < +2% on entry after 20 trading sessions, OR any position flagged dead money in a weekly review. Either fires the clock.
+    - Action: exit at the NEXT market-open run, same session. No multi-day gates, no "final call Thursday", no waiting on a rotation candidate -- rule 2's clock covers the redeploy.
+    - Only exception: a fresh, named catalyst for the position logged in that session's pre-market research buys exactly ONE extension of 5 sessions. After that the exit is unconditional.
+    - Exit at a gain is not a sector strike; exit at a loss is (rule 12 applies unchanged).
 12. Follow sector AND single-name momentum. SECTOR STRIKE RULE (rewritten 2026-07-24; prior "exit a sector after 2 consecutive failed trades" left vehicle-counting, "consecutive," and reset undefined -- ambiguity exposed live by the Jul 17 AVGO entry 11 min after the XLK strike-2 stop-out):
     - Failed trade = ANY position in a GICS sector (ETF or single-name -- both count) closed at a loss.
     - 2 failed trades in the same sector within a rolling 90 days with no intervening winning exit in that sector = sector PAUSED for 20 trading sessions from the second stop-out. No new entries in a paused sector, either vehicle.

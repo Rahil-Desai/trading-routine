@@ -1728,3 +1728,11 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log only (plus the recovered market-open entry).**
 
 **PM watch:** NVDA $236 May-high resistance rejected today -- a close < $226 (blended entry) puts the add on the cut-line watch, trails govern ($211.28 / $207.87); XLI trail $171.41 (2.2% below) = nearest stop, Thu EOD rotation decision stands (NEM / FCX / DELL screen); XLV $159.20 trail 5.1% below after -2.2% -- Healthcare 28.33%; OXY $63.85 / XLV $179.63 / AEM $226.17 tighten+trim pre-writes armed; consumer credit 15:00, 3-yr auction; CASY/GME AMC; ratchet watches AEM $207.69+ / MDT $94.75+ / NVDA q84 $234.76+ / q26 $230.98+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.
+
+## 2026-09-10 -- Trail Stop Fill (Day 95, Thursday -- XLI STOPPED OUT; reconstructed 2026-09-14 pre-market from Alpaca order history -- the Sep 9-11 runs did not commit)
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-09-10 | XLI | SELL | 130 | $170.94 | -- | $9.55 GTC trail FIRED 13:31:58 UTC (order 6ee0f223, stop $171.41, hwm $180.96; gap fill -$0.47/sh below stop) on the post-PPI hawkish tape. Realized **-$392.91 (-1.74%)** vs $173.962385 entry (Aug 24). Dead-money position (never > +2% on entry in ~3 weeks) -- the Thu EOD rotation decision was pre-empted by the trail. **Industrials STRIKE 1** (loss exit, rolling 90d; sector NOT paused). NOT a weekly slot (auto-trail exit) | -- | -- |
+
+**Post-fill book (as of Fri Sep 11 close / Mon Sep 14 pre-market):** 5 positions (AEM 69, MDT 100, NVDA 110, OXY 170, XLV 120); cash **$24,622.87 (24.31%)**, deployment **75.69% -- BELOW the 85% floor. Rule-2 clock started Thu Sep 10; deploy MANDATORY Mon Sep 14** (one session late -- Fri's run never executed or logged). **Trail coverage: 7 GTC orders covering all 569 shares across 5 positions.** Ratchets over the gap: AEM hwm $207.68 -> $208.64 (stop $183.6032); OXY hwm $62.145 -> $62.24 (stop $56.016). No stops moved down. Weekly count Week 20 closed **1/6** (NVDA add Tue Sep 8). Equity Fri close $101,847.01; phase +$1,847.01 (+1.85%).

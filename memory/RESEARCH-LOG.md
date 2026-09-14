@@ -5346,3 +5346,63 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - **NVDA -1.81% to $226.20** (open $233.20, high $233.66 = rejected just under $236 May-high resistance): no company-specific news; Hugging Face deal (Sep 3 announced) intact; move is semis/macro de-risking + hike repricing. The 26-sh add filled $230.81 at 9:40 ET, now -2.0% on its fill; blended 110 sh flat (+0.10%). Verdict: **HOLD** -- add stays on its own 10% trail ($207.873); no cut, no chase.
 - **Read-through to Thu XLI decision:** XLI +0.02% today while SPX -0.4% = mild RS on a down day; +0.77% on entry. Decision point unchanged (Thu Sep 10 EOD, < +2% on entry with SPX flat/up -> rotate Fri).
 - No orders at midday. Weekly count 1/6 (Week 20). Deployment 97.69%, cash $2,401.18.
+
+## 2026-09-14 -- Pre-market Research (Mon, Day 99, Week 21 -- FOMC WEEK; XLI STOPPED OUT SEP 10, SEP 9-11 RUNS UNLOGGED; CASH 24% = MANDATORY RULE-2 DEPLOY; NVDA 0.5% ABOVE TRAIL)
+
+### Logging Gap (housekeeping first)
+- **Last committed run = Sep 8 midday.** No pre-market / midday / EOD entries for Sep 9, 10, 11 and no Week 20 weekly review reached the repo. Reconstructed from Alpaca order history:
+  - **XLI 130 sh: $9.55 GTC trail (order 6ee0f223) FIRED Thu Sep 10 13:31:58 UTC @ $170.94** (stop $171.41, hwm $180.96; gap fill -$0.47/sh). Realized **-$392.91 (-1.74%)** vs $173.962385 entry. **Industrials STRIKE 1** (loss exit; rolling 90d). Proceeds ~$22.2K sat idle Thu + Fri. Logged to TRADE-LOG this run.
+  - No other fills Sep 9-11. All other GTC trails intact.
+- **Rule-2 clock: cash > 15% since Thu Sep 10 close = two sessions. Deploy is MANDATORY today -- already one session late.**
+
+### Account
+- Equity: **$101,270.75** (last_equity $101,847.01 Fri close; **-$576.26 / -0.57%** on extended-hours marks -- NVDA/AEM pre-market bleed)
+- **Phase P&L +$1,270.75 (+1.27%)** -- down from +$4,861 (+4.86%) at the Sep 7 snapshot; ~-$3.6K week of NVDA drawdown + XLI stop-out + Fri XLV/AEM fade.
+- Cash: **$24,622.87 (24.31%) / 75.69% deployed -- BELOW the 85% hard floor.** Buying power $313,106 (RegT $125,894) -- irrelevant, no margin use.
+- Daytrade count: not returned by account endpoint; PDT preserved (zero same-day round-trips; all exits were GTC trails).
+- **Positions (5, extended-hours marks):**
+  - **AEM 69** @ $196.67 -> $195.92 (-$51.75 / -0.38%); pre $194.80 (-2.8%) -> ~-0.95% on entry -- 12% trail **$183.6032** (hwm $208.64, ratcheted from $207.68); 6.1% clearance at pre
+  - **MDT 100** @ $92.85 -> $91.56 (-$129.00 / -1.39%) -- 10% trail $85.266 (hwm $94.74); 6.9% clearance; Morgan Stanley HC conf Tue Sep 15
+  - **NVDA 110** @ $225.968182 -> **$212.26 (-$1,507.90 / -6.07%); pre -2.76%** -- trails **$211.2795 (q84, hwm $234.755) = 0.46% below pre**; $207.873 (q26, hwm $230.97) = 2.07% below; **blended -7% cut line $210.15 = 1.0% below.** Trail is regular-hours only -> fires at the open if pre holds.
+  - **OXY 170** @ $55.52 -> $62.44 (+$1,176.47 / +12.47%; +1.6% Fri) -- grandfathered (Energy PAUSED ~Sep 24); trail **$56.016** (hwm $62.24, ratcheted from $62.145); **+15% trigger $63.85 = 2.3% away -- LIVE today on oil +2.4-3%**
+  - **XLV 120** @ $156.202167 -> $166.75 (+$1,265.74 / +6.75%) -- trails $159.20 q80 (exp Dec 3, 4.5% below) / $158.931 q40 (exp Oct 6); +15% trigger $179.63 = 7.7% away
+- Open trail stops: **7 GTC, all 569 shares covered** (AEM 8571f428, MDT 56cd1813, NVDA 8e55f582 q84 + 269907e7 q26, OXY 5c6a22b8, XLV 92392985 q80 + a2fda910 q40). Nearest expiry XLV q40 Oct 6, then OXY Oct 19 -- no housekeeping due this week.
+- Ratchets since Sep 8 midday: **AEM hwm $207.68 -> $208.64 (stop $182.7584 -> $183.6032); OXY hwm $62.145 -> $62.24 (stop $55.9305 -> $56.016).** Other five hwms held. No stops moved down.
+- Weekly count: **0/6 (Week 21 fresh; Week 20 closed 1/6 -- NVDA add Tue Sep 8; XLI exit was an auto-trail, not a slot)**
+- **Sector mix** (of $101,270.75): Tech 23.06% (NVDA); Healthcare 28.80% (XLV 19.76% + MDT 9.04% -- ~$1.2K headroom); Materials 13.35% (AEM -- room to 30% ~$16.9K); Energy 10.48% (OXY -- PAUSED); **Industrials 0% (XLI gone; strike 1, NOT paused)**; Cash 24.31%. All caps compliant; no single name > 25%.
+- **Strike ledger (rolling 90d):** Energy PAUSED through ~Sep 24 (XOM May 27 + XLE Jun 15). Tech: XLK Jul 17 = strike 1 (DELL Jun 3 aged out) -> **a NVDA loss exit today = strike 2 = Tech PAUSED 20 sessions (~through Oct 12).** Industrials: XLI Sep 10 = strike 1. Materials clean (NEM +10.15%, FCX +6.99% winning exits). Healthcare clean.
+
+### Market Context
+- **Oil back above $100: WTI ~$102.4 (+2.4%), Brent ~$107.5-107.8 (+2.9%)** -- Houthi strikes threatening Saudi exports; Middle East crude grades quoted ~$120. **Hormuz talks TODAY in Salalah, Oman (GCC foreign ministers + Iran FM)** -- a shipping framework = oil reversal; collapse = spike. OXY exit-side only.
+- **ES ~7,600-7,632 (-0.4% to -0.8%); NQ ~29,360 (-1.1% to -1.5%); Dow flat/+0.6%.** AI-sentiment rotation (AI IPO pipeline shake-up on safety concerns, "reassessing AI outlook") + oil. Semis leading down. Friday's SPX +0.86% to 7,656.98 (week -0.80%) being given back.
+- **VIX 17.5-18.0 (+10-13% from 15.84 Fri close; 17.84 Thu).** Sep VIX futures 17.3, Oct 19.0 -- FOMC premium.
+- **Gold ~$4,306-4,350 (~-1%)** -- oil-driven hawkish repricing pressuring bullion; AEM -2.8% pre.
+- **Fed: hike ~90% priced for Wed Sep 16 14:00** after CPI Fri (+0.4% m/m headline, 3.4% y/y; **core +0.3% vs 0.2% exp**, 2.4% y/y) and PPI Thu (+0.4% m/m, 5.4% y/y). 10-yr near 5%. BoJ/BoE also this week.
+- **TODAY:** no US data; 3M/6M bill auctions 15:30. Earnings: CBRL / HAIN BMO (irrelevant), PLAY AMC. Nothing held reports. Week: FOMC Wed, LEN/GIS Wed-Thu, quad-witching + S&P rebalance effective Fri close (BE, others join Sep 21).
+- **Sector YTD: Energy +47.7%, Tech +30.7%, Materials +13.3%, Industrials ~+12%, Healthcare ~+10%, Utilities +0.6%, Comm Svcs -3.8%, Cons Disc -5.0%.** Breadth NARROW: only 3 S&P names at 52-wk highs Thu (ADM, HPQ, SWKS); Barchart S&P 25% above 20DMA / 39% above 50DMA (Energy 67%/81%). September large-cap leaders: DELL +33%, SWKS +31%, BE +29%.
+
+### Held-ticker News
+- **NVDA**: four-day slide -- Sep 9 $225.73 (-2.0%), Sep 10 $218.36 (-2.4%: valuation, yields, profit-taking, director Stevens $235.6M sale), Sep 11 $218.29 flat, **pre $212.26 (-2.76%)** on the AI-rotation tape. No thesis-level company news (Hugging Face deal intact; Hyundai leaning on NVDA interim = minor positive). Price action broke $218 support; May high $236.54 now 11% overhead. **Trail governs at the open.**
+- **AEM**: Sep 8 sold Delta + Helm Bay projects to Vizsla Copper (C$32M shares + royalties/milestones); Sep 9 Jefferies conf (growth clusters, record FCF; flagged diesel-cost exposure and Canadian Malartic pit-wall movement); $0.45 dividend pays Sep 15; Zacks to Hold. Pre -2.8% is gold beta + risk-off, not company. Thesis (geopolitical gold bid, $4.3K gold) intact; 6.1% above stop.
+- **OXY**: no company news; crude >$100 does the work. **$63.85 trim trigger 2.3% away = the live pre-write.**
+- **MDT**: no fresh news found; MS HC conf Tue. -1.39% = fill noise + sector drag. **XLV**: quiet; +6.75%, 4.5% above q80 trail.
+
+### Trade Ideas
+1. **MANDATORY RULE-2 DEPLOY at the market-open run -- one slot ~$15K (14.8% of book) -> cash 24.3% -> ~9.5%.** Legal universe is narrow: Energy PAUSED; Tech off-limits today (NVDA at its trail -- an exit pauses Tech, and headroom is ~$7K even if it holds); Healthcare capped (~$1.2K); AEM add rejected (don't add to a name -2.8% pre on falling gold). That leaves Industrials (0%, strike 1 -- open) and defensives.
+   - **PRIMARY: BE (Bloom Energy) -- Industrials/electrical equipment, the strongest RS single-name with a hard-dated catalyst.** Catalyst: **S&P 500 inclusion effective Sep 21 (index buying into Fri Sep 18 close)** + AI data-center on-site power demand + Q2 rev $1.07B (+165% y/y), FY guide raised to $3.9-4.2B, UBS PT $325 (from $300). Fri close $275.75 (+6.7%), +~29% Sep. **Size 54 sh (~$14.9K at $276).** High-beta -> **12% GTC trail (initial stop ~$243)**. Target $335 (+21%) -> ~1.8:1 on the 12% trail (2.3:1 vs a -9% cut). Industrials 0% -> 14.7% (< 30% cap). Would be trade 1/6 Week 21. **Gates at ~9:45 ET: BE not gapped > +4% (> $287 = no chase) AND not opened < -3% (< $267 = catalyst failing) AND ES no worse than -1.0% AND VIX < 19.5.** Note: a BE loss exit would be Industrials strike 2 -> Industrials paused; accepted.
+   - **FALLBACK if BE fails its own gate but macro gates pass: WMT (Consumer Staples, Strong Buy consensus, defensive RS, ~$107).** ~140 sh (~$15K), 10% GTC trail (~$96), target $125 (+17%) -> 1.7:1. Staples 0% -> 14.8%. Lower beta into the Fed binary.
+   - **FLOOR if macro gates fail (ES < -1.0% or VIX >= 19.5): rule 2 still requires a placed order today -> half-slot WMT (~70 sh, ~$7.5K) at market-open; second half at midday only if ES recovers to > -0.5%.** No roll-forward without an order.
+2. **NVDA -- pre-written, no discretion.** (a) If NVDA opens < $211.2795 the q84 trail fires (~-5.9% on that lot, ~-$1,108). **Same run: cut the 26-sh rump at market** (rump is -8% on its own $230.81 fill = past the -7% rule-8 line; a $5.5K rump is not a position). Full exit ~-$1,620 (-6.5%). **Tech strike 2 -> Tech PAUSED ~20 sessions (through ~Oct 12); log it.** Proceeds ~$23.2K -> cash ~33% post-BE -> **second mandatory deploy Tue Sep 15 (pre-FOMC) ~$15-18K: screen Materials copper leader (FCX re-entry legal), Financials, Industrials #2; no Tech/Energy.** (b) If NVDA opens >= $211.28: HOLD on trails; **manual cut of all 110 sh if it prints < $210.15 (blended -7%)** at market-open or midday -- whole position, no rump. No add under any scenario.
+3. **OXY trim-into-strength -- LIVE: >= $63.85 (+15%) -> same session: cancel 5c6a22b8, re-place 7% trail on the remaining lot, trim 43-85 sh (25-50%) at market.** Exit-side legal under the Energy pause; proceeds join the deploy pool (Tue leg). XLV $179.63 / AEM $226.17 tighten+trim pre-writes stay armed (far).
+
+### Risk Factors
+- **FOMC Wed 14:00 with a hike ~90% priced** -- a 50bp tail or hawkish dots on a 10-yr near 5%; deploying ~$15K today is rule 2 forcing a binary-eve entry again (the same friction flagged in the Aug 28 review). Mitigation: gates, 12% trail, hard-dated index-flow catalyst.
+- **AI-sentiment rotation: NQ -1.5%, semis leading down, NVDA 0.5% from its trail.** A Tech stop-out benches the YTD #2 sector for 20 sessions with Energy already benched -- the book's only legal momentum would be Materials + Industrials.
+- **Oil >$100 both ways:** Hormuz talks in Oman today -- a deal reverses crude (OXY $63.85 trigger slips, but risk-on); collapse spikes crude (OXY trigger fires, broad risk-off, AEM diesel-cost headline).
+- **BE is extended (+29% Sep) and high-beta** -- gap risk both ways; shareholder class-action noise; a -12% trail on a $15K slot = ~$1.8K risk (1.8% of book).
+- Gold -1% / AEM -2.8% pre -> flat-to-red on entry; 6.1% cushion, no action.
+- Healthcare 28.80% -- a +1.5% XLV day breaches 30% -> trim-into-strength readiness.
+- **Logging plumbing failed Sep 9-11 (three days + weekly review).** Every run this week must verify the commit landed; Week 20 review to be back-filled Fri.
+
+### Decision
+**HOLD pre-market -- no orders before the open. Market-open run (in order): (1) NVDA -- let the q84 trail govern; if it fires, cut the 26-sh rump same run and log Tech strike 2 / Tech PAUSED; if it holds, manual cut of all 110 below $210.15. (2) MANDATORY rule-2 deploy: BE 54 sh (~$14.9K) + 12% GTC trail if gates pass (no gap > +4%, no open < -3%, ES >= -1.0%, VIX < 19.5); else WMT ~140 sh + 10% trail; else half-slot WMT -- an order MUST print today. (3) OXY >= $63.85 -> 7% tighten + 25-50% trim same session. (4) If NVDA exits, Tue Sep 15 = second mandatory deploy (Materials/Financials/Industrials screen in Tue pre-market). Watch: NVDA $211.28 / $210.15; OXY $63.85 (live); AEM $183.60 (6.1%), XLV $159.20 (4.5%), MDT $85.27 (6.9%). Ratchet watches: AEM $208.65+ / MDT $94.75+ / NVDA q84 $234.76+ / q26 $230.98+ / OXY $62.25+ / XLV q80 $172.31+ / q40 $176.60+.**

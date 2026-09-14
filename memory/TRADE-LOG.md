@@ -1728,3 +1728,37 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log only (plus the recovered market-open entry).**
 
 **PM watch:** NVDA $236 May-high resistance rejected today -- a close < $226 (blended entry) puts the add on the cut-line watch, trails govern ($211.28 / $207.87); XLI trail $171.41 (2.2% below) = nearest stop, Thu EOD rotation decision stands (NEM / FCX / DELL screen); XLV $159.20 trail 5.1% below after -2.2% -- Healthcare 28.33%; OXY $63.85 / XLV $179.63 / AEM $226.17 tighten+trim pre-writes armed; consumer credit 15:00, 3-yr auction; CASY/GME AMC; ratchet watches AEM $207.69+ / MDT $94.75+ / NVDA q84 $234.76+ / q26 $230.98+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.
+
+## 2026-09-10 -- XLI Trail Fired (Day 95, Thursday -- RECONSTRUCTED 2026-09-14 from Alpaca order history; no Sep 9-13 runs logged)
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-09-10 | XLI | SELL | 130 | $170.94 | -- | $9.55 trail_price GTC (order 6ee0f223, stop $171.41, hwm $180.96) fired 13:31 UTC. Realized **-$392.91 (-1.74%)** vs $173.962385 entry. **Industrials strike 1** (rolling 90d). Dead-money clock resolved by the trail, not the Fri rotation | -- | -- |
+
+## 2026-09-14 -- Market-Open Execution (Day 97, Monday -- NVDA OUT (TRAIL + RULE-8 CUT), GOOGL + AMZN IN; RULE-2 MANDATORY DEPLOY 58% -> 90%)
+
+**Gates at 9:40 ET:** cash 41.7% (rule-2 breach after XLI Thu + NVDA 84 today); SPY ~$759 (-0.7%); VIX 15.84; oil WTI ~$103; FOMC Wed (25 bp hike ~85-90% priced). Tech PAUSED (strike 2 today), Energy PAUSED (~Sep 24), Healthcare capped -> deploy into Comm Services + Discretionary leaders per today's RESEARCH-LOG.
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-09-14 | NVDA | SELL | 84 | $209.37 | -- | 10% GTC trail (order 8e55f582, stop $211.2795, hwm $234.755) fired 13:33 UTC on the gap-down open (slippage -$1.91/sh). Realized **-$1,268.40 (-5.65%)** vs $224.47. **Tech strike 2** (SMCI Aug 18 strike 1, no winning Tech exit since) -> **Tech PAUSED 20 sessions (~Oct 12)** | -- | -- |
+| 2026-09-14 | NVDA | SELL (rule-8 cut) | 26 | $209.353846 | -- | Cancelled q26 trail 269907e7 ($207.873), market SOLD 13:41 UTC (order 3b0747a0). -9.3% on the $230.808462 add fill (-7.4% blended) = mandatory -7% cut. Realized **-$557.82 (-9.29%)** on the lot; full NVDA campaign realized **-$1,826.22** | -- | -- |
+| 2026-09-14 | GOOGL | BUY | 58 | **$344.881896** (order 101cd0de, filled 13:45:38 UTC, $20,003.15) | **$310.527** (10% GTC trail, order f6c69479, hwm $345.03, expires Dec 11) | AdX antitrust: judge rejected DOJ forced-divestiture + Gemini/Workspace AI cadence + cloud growth; +1.5% today vs SPY -0.7% (RS on a hawkish tape); 1-yr +40.6% vs SPX +16.2%; ~18% below May peak. Comm Services (clean sector, 0 strikes). Rule-2 mandatory deploy | $410 (+19%) | ~1.9:1 (trail) / 2.7:1 (-7% cut) |
+| 2026-09-14 | AMZN | BUY | 68 | **$254.15** (order 8759a70b, filled 13:45:33 UTC, $17,282.20) | **$228.59451** (10% GTC trail, order 258fad3c, hwm $253.9939, expires Dec 11) | Reported up-to-$60B Qualcomm data-center chip deal + AWS AI capex on its own terms; +1.94% Fri, flat today while AI-infra (VRT/GEV) -7-11% = RS within the theme. Discretionary (clean sector, 0 strikes). Rule-2 mandatory deploy | $300 (+18%) | ~1.8:1 (trail) / 2.6:1 (-7% cut) |
+
+**Rule checks (all passed):** positions after = 6 (NVDA out, GOOGL + AMZN in) <= 6 ✓; run count 2 buys <= 3 ✓; weekly count **2/6** (Week 21: GOOGL + AMZN; sells don't count) ✓; GOOGL cost $20,003 = 19.78% <= 20% ✓; AMZN cost $17,282 = 17.08% <= 20% ✓; catalysts documented in 2026-09-14 RESEARCH-LOG ✓; no day trades (NVDA held since Aug 27 / Sep 8; no same-day exits on the buys), PDT clean ✓; Comm Services 19.78% / Discretionary 17.08% < 30% ✓; neither sector paused or striked ✓. Rejected: VRT/GEV/CAT (Industrials AI-power gapping -7-11%, strike 1), FCX/NEM (Materials sold -4%), GS/XLF (no RS), META (30% Comm Services cap with GOOGL), DELL/Tech (PAUSED), Energy (PAUSED), PG/WMT (not leaders, Staples strike 1).
+
+**Post-trade book (9:47 ET):** Equity **$101,080.79** | Cash **$10,367.80 (10.26%)** | Long MV $90,712.99 (**89.74% deployed** -- floor cleared, at the 90% target) | Day P&L -$766.22 (-0.75%) vs last_equity $101,847.01 | Phase P&L +$1,080.79 (+1.08%).
+
+| Ticker | Shares | Entry | Now | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------------|------|
+| AEM | 69 | $196.67 | $194.38 | -$158.01 (-1.16%) | $183.6032 (12% trail, hwm $208.64) |
+| AMZN | 68 | $254.15 | $253.90 | -$17.00 (-0.10%) | $228.59451 (10% trail, hwm $253.9939) |
+| GOOGL | 58 | $344.881896 | $344.725 | -$9.10 (-0.04%) | $310.527 (10% trail, hwm $345.03) |
+| MDT | 100 | $92.85 | $93.21 | +$36.00 (+0.39%) | $85.266 (10% trail, hwm $94.74) |
+| OXY | 170 | $55.52 | $62.58 | +$1,200.27 (+12.72%) | $56.583 (10% trail, hwm $62.87) |
+| XLV | 120 | $156.202167 | $167.34 | +$1,336.54 (+7.13%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
+
+**Sector mix:** Healthcare 29.09% (XLV 19.87% + MDT 9.22% -- capped, no adds); Comm Services 19.78% (GOOGL); Discretionary 17.08% (AMZN); Materials 13.27% (AEM); Energy 10.52% (OXY, PAUSED ~Sep 24); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Cash 10.26%. All caps compliant; no single name > 25%. 6 positions (5-8 band OK). **Trail coverage: 7 GTC orders covering all 585 shares across 6 positions** (nearest expiry XLV q40 Oct 6). No stop moved down. Ratchets during the Sep 9-13 gap: AEM hwm $207.68 -> $208.64 (stop $182.7584 -> $183.6032); OXY hwm $62.145 -> $62.87 (stop $55.9305 -> $56.583).
+
+**PM watch:** OXY $63.85 +15% pre-write LIVE (2.0% away) -> 7% tighten + trim 43-85 sh same session; AEM $183.60 = nearest stop (5.5% below); FOMC Wed 14:00 ET -- no adds before the decision; XLV $179.63 / AEM $226.17 pre-writes armed; ratchet watches AEM $208.65+ / MDT $94.75+ / OXY $62.88+ / XLV q80 $172.31+ / q40 $176.60+ / GOOGL $345.04+ / AMZN $254.00+.

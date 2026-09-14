@@ -5346,3 +5346,19 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - **NVDA -1.81% to $226.20** (open $233.20, high $233.66 = rejected just under $236 May-high resistance): no company-specific news; Hugging Face deal (Sep 3 announced) intact; move is semis/macro de-risking + hike repricing. The 26-sh add filled $230.81 at 9:40 ET, now -2.0% on its fill; blended 110 sh flat (+0.10%). Verdict: **HOLD** -- add stays on its own 10% trail ($207.873); no cut, no chase.
 - **Read-through to Thu XLI decision:** XLI +0.02% today while SPX -0.4% = mild RS on a down day; +0.77% on entry. Decision point unchanged (Thu Sep 10 EOD, < +2% on entry with SPX flat/up -> rotate Fri).
 - No orders at midday. Weekly count 1/6 (Week 20). Deployment 97.69%, cash $2,401.18.
+
+## 2026-09-14 -- Midday Addendum (Mon, Day 99, Week 21 -- NO PRE-MARKET ENTRY LOGGED TODAY; written at the 13:08 ET midday scan)
+
+### Context recovered from Alpaca order history (no logs Sep 8 PM -> Sep 14 AM)
+- **Sep 10 13:31 UTC:** XLI $9.55 trail fired, 130 @ $170.94, realized -$392.91 (-1.74%). Industrials strike 1.
+- **Sep 14 13:33 UTC:** NVDA 10% trail fired, 84 @ $209.37 (-6.73%); **13:41 UTC** 26-sh add lot cut at market $209.353846 (-9.30%). Campaign -$1,826.22 (-7.35%). **Tech strike 2 (SMCI Aug 18 + NVDA Sep 14) -> Tech PAUSED through ~Oct 12.**
+- **Sep 14 13:45 UTC:** BOUGHT GOOGL 58 @ $344.881896 ($20,003) + AMZN 68 @ $254.15 ($17,282); 10% GTC trails on both ($313.083 / $229.5495). Weekly count 2/6 (Week 21).
+
+### Intraday cause check (Perplexity, 13:08 ET)
+- **NVDA $226 (Sep 8) -> ~$209 today:** renewed US AI-chip export-control / licensing pressure on China sales + broad AI-capex/"AI leadership" repricing; no earnings event, no single downgrade. Exit was the trail doing its job on a thesis that broke on policy, not fundamentals -- no re-entry possible anyway (Tech paused).
+- **GOOGL +2.5% / AMZN flat:** rotation out of semis into diversified AI platforms (GOOGL / AMZN / MSFT) on Google Cloud AI-monetization sentiment; no negative company headlines. Supports the morning entries; both are non-Tech GICS (Comm Services / Cons Disc), legal under the pause.
+- **Gold / AEM -1.55%:** real-rate repricing after last week's PPI/CPI into FOMC; no AEM-specific news. HOLD, 6.9% above trail.
+- **Tape:** SPY $762.4 / QQQ $711.4 midday (SPX futures were higher pre, Nasdaq weaker); no US data today; **FOMC Sep 15-16** is the week's binary; MDT presents at Morgan Stanley HC conf Tue.
+
+### Decision
+**HOLD -- no midday orders.** No -7% cuts, no +15%/+20% prints, no thesis breaks. **OXY $63.85 (+15%) is 2.85% away -- live pre-write: 7% tighten + trim 43-85 sh same session.** Cash 10.23% / 89.77% deployed (under 90% target, above 85% floor, rule-2 trigger not tripped) -- Tue pre-market names a one-slot (~$5-10K) candidate outside Tech/Energy/Healthcare-cap or documents an FOMC hold. Nearest stop XLV q80 $159.20 (4.9%).

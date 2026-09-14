@@ -1728,3 +1728,49 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 **Action this run: none -- no orders placed or cancelled. Log only (plus the recovered market-open entry).**
 
 **PM watch:** NVDA $236 May-high resistance rejected today -- a close < $226 (blended entry) puts the add on the cut-line watch, trails govern ($211.28 / $207.87); XLI trail $171.41 (2.2% below) = nearest stop, Thu EOD rotation decision stands (NEM / FCX / DELL screen); XLV $159.20 trail 5.1% below after -2.2% -- Healthcare 28.33%; OXY $63.85 / XLV $179.63 / AEM $226.17 tighten+trim pre-writes armed; consumer credit 15:00, 3-yr auction; CASY/GME AMC; ratchet watches AEM $207.69+ / MDT $94.75+ / NVDA q84 $234.76+ / q26 $230.98+ / OXY $62.15+ / XLI $180.97+ / XLV q80 $172.31+ / q40 $176.60+.
+
+## 2026-09-10 -- XLI Trail Stop Fired (Day 95, Thursday -- reconstructed at Sep 14 midday from Alpaca order history; NO session logged Sep 8 PM through Sep 14 AM: no Sep 8-11 EOD snapshots, no Sep 9-14 pre-market/market-open entries)
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-09-10 | XLI | SELL | 130 | $170.94 | -- | $9.55 trail_price GTC (order 6ee0f223, stop $171.41, hwm $180.96) FIRED at the open 13:31 UTC, one session before the pre-written Thu EOD rotation decision. Realized **-$392.91 (-1.74%)** vs $173.962385 entry. Dead-money exit at a small loss -- **Industrials strike 1** (rolling 90 days). NOT a slot (auto-trail exit) | -- | -- |
+
+## 2026-09-14 -- Market-Open Execution (Day 99, Monday -- NVDA FULLY EXITED (84 trail + 26 manual cut), GOOGL + AMZN ENTERED; reconstructed at midday from Alpaca order history -- the market-open run filled but did not log)
+
+| Date | Ticker | Side | Shares | Price | Stop | Thesis | Target | R:R |
+|------|--------|------|--------|-------|------|--------|--------|-----|
+| 2026-09-14 | NVDA | SELL | 84 | $209.37 | -- | 10% GTC trail (order 8e55f582, stop $211.2795, hwm $234.755) FIRED at the open 13:33 UTC (gap fill -$1.91/sh) on a week of AI-chip export-control / AI-capex de-risking, no earnings event. Realized **-$1,268.40 (-6.73%)** vs $224.47 entry. NOT a slot | -- | -- |
+| 2026-09-14 | NVDA | SELL (manual cut) | 26 | $209.353846 | -- | Rule-8 mandatory cut: add lot -9.30% on its $230.808462 fill, blended 110-sh position -7.35%. Trail 269907e7 ($207.873) cancelled 13:41 UTC, market sold same minute (order 3b0747a0). Realized **-$557.82 (-9.30%)** on the lot. **Full NVDA campaign realized -$1,826.22 (-7.35%)** on 110 sh / $24,856.50 cost. **Tech strike 2** (SMCI Aug 18 strike 1, no intervening Tech winning exit) -> **Tech PAUSED 20 sessions through ~Oct 12; no Tech entries either vehicle.** NOT a slot | -- | -- |
+| 2026-09-14 | GOOGL | BUY | 58 | **$344.881896** (order 101cd0de, filled 13:45 UTC, $20,003.15 = 19.7% of book) | **$313.083** (10% GTC trail, order f6c69479, hwm $347.87, expires Dec 11) | Rotation of NVDA/XLI proceeds into the diversified AI-platform leader: Google Cloud / AI-monetization RS vs semis (GOOGL +2.5% today while NVDA broke down). GICS Communication Services -- legal under the Tech pause. Thesis reconstructed at midday; no pre-market entry was logged today | ~$400 (+16%) | ~1.6:1 |
+| 2026-09-14 | AMZN | BUY | 68 | **$254.15** (order 8759a70b, filled 13:45 UTC, $17,282.20 = 17.0% of book) | **$229.5495** (10% GTC trail, order 258fad3c, hwm $255.055, expires Dec 11) | Same rotation: AWS / AI-platform beneficiary grouped with GOOGL-MSFT in the move out of chips into platforms. GICS Consumer Discretionary -- legal under the Tech pause. Thesis reconstructed at midday | ~$295 (+16%) | ~1.6:1 |
+
+**Post-trade book:** Cash $2,401.18 + $22,222.20 (XLI Sep 10) + $23,030.28 (NVDA) - $37,285.35 (buys) = **$10,367.80 (10.23%)**, deployment **89.77%** -- a hair under the 90% target, above the 85% floor; rule-2 trigger (>15% cash) NOT tripped. Weekly count **2/6 (Week 21: GOOGL + AMZN Mon)**. **Trail coverage: 7 GTC orders covering all 585 shares across 6 positions.** No stop moved down. PDT clean (NVDA 26 lot bought Sep 8 = swing, not a day trade).
+
+## 2026-09-14 -- Midday Scan (Day 99, Monday -- NO ORDERS; NEW BOOK SETTLING POST-NVDA EXIT, TECH PAUSED, OXY 2.8% FROM +15% TRIGGER)
+
+**Midday account (13:08 ET):** Equity **$101,393.92** | Cash $10,367.80 (10.23%) | Long MV $91,026.12 (**89.77% deployed**) | Day P&L **-$453.09 (-0.44%)** vs last_equity $101,847.01 (Fri Sep 11 close) | Phase P&L **+$1,393.92 (+1.39%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $197.25 | -1.55% | +$40.02 (+0.29%) | $183.6032 (12% trail, hwm $208.64) |
+| AMZN | 68 | $254.15 | $254.90 | -0.73% | +$51.00 (+0.29%) | $229.5495 (10% trail, hwm $255.055) |
+| GOOGL | 58 | $344.881896 | $346.955 | +2.50% | +$120.24 (+0.60%) | $313.083 (10% trail, hwm $347.87) |
+| MDT | 100 | $92.85 | $92.95 | +2.19% | +$10.00 (+0.11%) | $85.266 (10% trail, hwm $94.74) |
+| OXY | 170 | $55.52 | $62.08 | +1.01% | +$1,115.27 (+11.82%) | $56.673 (10% trail, hwm $62.97) |
+| XLV | 120 | $156.202167 | $167.49 | +1.29% | +$1,354.54 (+7.23%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. All six positions green on entry; worst AEM / AMZN +0.29%.
+- +15%/+20% tighten (rule 9): no prints. **OXY +11.82% -- $63.85 trigger now 2.85% away (closest of the challenge)**; XLV +7.23% ($179.63 = 7.3% away). Nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** AEM -1.55% = gold repricing on higher real-rate expectations after last week's PPI/CPI into FOMC Sep 15-16 (Perplexity: no AEM-specific headline); +0.29% entry, 6.9% above the $183.60 trail. GOOGL +2.50% day 1 -- platform rotation thesis confirming; AMZN -0.73% day 1, fill noise, 9.9% above trail. MDT +2.19% / XLV +1.29% -- Healthcare bid on a defensive tape (MDT at Morgan Stanley conf Sep 15). OXY +1.01% (grandfathered, Energy PAUSED ~Sep 24).
+- **Stop proximity watch: XLV q80 $167.49 is 4.9% above its $159.20 stop** -- nearest; AEM 6.9%, MDT 8.3%, OXY 8.7%, GOOGL 9.8%, AMZN 9.9%.
+- Auto-ratchets since last log (Sep 8 midday): **AEM hwm $207.68 -> $208.64 (stop $182.7584 -> $183.6032); OXY hwm $62.145 -> $62.97 (stop $55.9305 -> $56.673).** MDT / XLV hwms held. GOOGL/AMZN trails ratcheted to $347.87 / $255.055 on first ticks.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **89.77%** -- 0.23pp under the 90% target, above the 85% floor; rule-2 mandatory-deploy trigger (>15% cash) NOT tripped. Cash $10,367.80 = ~one small slot; pre-market Tue decides (FOMC Wed = binary, no midday chase).
+- **Sector mix:** Healthcare 28.99% (XLV 19.82% + MDT 9.17% -- under 30% cap, ~$1.0K headroom); Comm Services 19.85% (GOOGL); Cons Disc 17.09% (AMZN); Materials 13.42% (AEM); Energy 10.41% (OXY, PAUSED ~Sep 24); **Tech 0% (PAUSED ~Oct 12)**; Cash 10.23%. All caps compliant. No single name > 25%.
+- Positions: 6 (5-8 band OK). Weekly count **2/6** (Week 21: GOOGL + AMZN Mon). Trail coverage: **7 GTC orders covering all 585 shares across 6 positions.** Nearest expiry XLV q40 Oct 6, then OXY Oct 19.
+- Housekeeping: **six sessions unlogged (Sep 8 PM -> Sep 14 AM)** -- XLI stop-out, NVDA exit, GOOGL/AMZN entries reconstructed above from order history. Tape: SPY $762.4 / QQQ $711.4 at 13:08 ET.
+
+**Action this run: none -- no orders placed or cancelled. Log only (plus the recovered Sep 10 and Sep 14 market-open entries).**
+
+**PM watch:** **OXY >= $63.85 (+15%) = 2.85% away -> 7% tighten + trim 43-85 sh same session**; XLV q80 $159.20 (4.9% below) = nearest stop; FOMC Sep 15-16 -- new GOOGL/AMZN lots carry only 10% trails into the binary; Tech PAUSED ~Oct 12 (no DELL/semis re-entry), Energy PAUSED ~Sep 24; cash 10.23% -> Tue pre-market names a one-slot candidate or documents the FOMC hold; ratchet watches AEM $208.65+ / AMZN $255.06+ / GOOGL $347.88+ / MDT $94.75+ / OXY $62.98+ / XLV q80 $172.31+ / q40 $176.60+.

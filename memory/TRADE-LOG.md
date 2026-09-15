@@ -1740,3 +1740,32 @@ Rotation buys: XLK 65 sh @ $190.41 (Tech ETF, opens fresh Tech sector exposure -
 | 2026-09-14 | AMZN | BUY | 68 | $254.15 | $230.355 (10% GTC trail, order 258fad3c, hwm $255.95, exp Dec 11) | Same-session redeploy (order 8759a70b, 13:45 UTC, $17,282 = 17.0% of book). Cons Disc single-name. Sector NOT in YTD leadership (Cons Disc -5.1%) -- flagged for Friday review. Original research entry lost with the log gap | -- (not recorded) | -- |
 
 **Post-reconstruction book (Sep 14 close, Alpaca last_equity $101,516.69):** 6 positions -- AEM 69, AMZN 68, GOOGL 58, MDT 100, OXY 170, XLV 120 = 585 shares; **7 GTC trails covering all 585 shares** (AMZN, GOOGL, XLV q80, MDT, AEM, OXY, XLV q40). Cash $10,367.80 (10.2%). Week 21 count **2/6** (GOOGL + AMZN Mon). Sector pauses: **Tech ~Oct 12, Energy ~Sep 24 (OXY grandfathered)**; strikes on ledger: Industrials 1 (XLI Sep 10), Staples 1 (XLP Aug 10). Healthcare 29.1% (capped). Sep 9-11 EOD snapshots and CPI/PPI reads are NOT recoverable -- gap acknowledged.
+
+## 2026-09-15 -- Midday Scan (Day 100, Tuesday -- NO ORDERS; FOMC DAY 1 RISK-OFF, OXY +14.37% SITS 0.56% UNDER THE +15% TRIGGER)
+
+**Midday account (13:06 ET):** Equity **$101,201.93** | Cash $10,367.80 (10.24%) | Long MV $90,834.13 (**89.76% deployed**) | Day P&L **-$314.76 (-0.31%)** vs last_equity $101,516.69 | Phase P&L **+$1,201.93 (+1.20%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $196.605 | -0.48% | -$4.49 (-0.03%) | $183.6032 (12% trail, hwm $208.64) |
+| AMZN | 68 | $254.15 | $249.12 | -1.74% | -$342.04 (-1.98%) | $230.355 (10% trail, hwm $255.95) |
+| GOOGL | 58 | $344.881897 | $343.83 | -1.59% | -$61.01 (-0.31%) | $314.919 (10% trail, hwm $349.91) |
+| MDT | 100 | $92.85 | $94.5293 | +0.78% | +$167.93 (+1.81%) | $85.266 (10% trail, hwm $94.74) |
+| OXY | 170 | $55.52 | $63.495 | +2.78% | +$1,355.82 (+14.37%) | $57.2085 (10% trail, hwm $63.565) |
+| XLV | 120 | $156.202167 | $167.825 | +0.05% | +$1,394.74 (+7.44%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst AMZN **-1.98%** (cut line $236.36 = 5.1% below; 7.5% above the $230.355 trail). GOOGL -0.31% (cut line $320.74 = 6.7% below).
+- +15%/+20% tighten (rule 9) + trim (rule 14): **no print.** OXY +14.37% at $63.495 -- trail hwm $63.565 confirms the intraday high stayed under the **$63.85 trigger (0.56% away)**. Pre-write stands, unchanged: on a >= $63.85 print -> cancel trail 5c6a22b8, SELL 43-85 sh market, fresh 7% GTC trail on the rump (stop >= $57.2085 -- never move down). Exit-side action is legal under the Energy pause. Nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** AMZN -1.74% = 21 Air cargo-crash pause headline + pre-FOMC risk-off (long-duration names sold); day 2, no thesis break. GOOGL -1.59% off the $349.39 close -- same risk-off, Waymo/data-center news constructive; day 2. OXY +2.78% on WTI > $100 (grandfathered, Energy PAUSED ~Sep 24). MDT +0.78% into the Morgan Stanley HC conf remarks 4:05pm ET (MiniMed exchange-offer arb not pressuring yet). AEM -0.48% on soft gold (flat on entry, 6.6% above stop). XLV flat.
+- **Stop proximity watch:** AMZN 7.5% above its trail = nearest; XLV q80 5.1% above $159.20 next.
+- Auto-ratchets since pre-market: **OXY hwm $62.97 -> $63.565 (stop $56.673 -> $57.2085).** Other six hwms held (AEM $208.64, AMZN $255.95, GOOGL $349.91, MDT $94.74, XLV $172.30 / $176.59).
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **89.76%** -- 24 bps under the 90% target, above the 85% floor; cash 10.24% < 15%, rule-2 clock not triggered. Thu Sep 17 post-FOMC top-up (AEM add primary) stands per pre-market.
+- **Sector mix:** Comm Svcs 19.71% (GOOGL); Cons Disc 16.74% (AMZN); Healthcare 29.24% (XLV 19.90% + MDT 9.34% -- under 30% cap, ~$0.8K headroom); Materials 13.40% (AEM); Energy 10.67% (OXY, PAUSED); Tech 0% (PAUSED ~Oct 12); Cash 10.24%. All caps compliant. No single name > 25%.
+- Positions: 6 (5-8 band OK). Weekly count **2/6** (Week 21: GOOGL + AMZN Mon). Trail coverage: **7 GTC orders covering all 585 shares across 6 positions.** Nearest expiry XLV q40 Oct 6.
+- Housekeeping: remote main carries this morning's pre-market commit (8f74c06) -- log chain intact after the Sep 9-14 gap. No Perplexity call this run (every move has an obvious macro/headline cause).
+
+**Action this run: none -- no orders placed or cancelled. Log only.**
+
+**PM watch:** OXY $63.85 tighten+trim trigger 0.56% away with crude > $100 -- EOD run must execute if printed; AMZN $236.36 / GOOGL $320.74 manual cut lines (trails $230.36 / $314.92 below); MDT Morgan Stanley remarks 4:05pm ET; FOMC decision Wed 2pm ET (true binary -- no adds before); XLV $179.63 / AEM $226.17 pre-writes armed; ratchet watches AEM $208.65+ / AMZN $255.96+ / GOOGL $349.92+ / MDT $94.75+ / OXY $63.57+ / XLV q80 $172.31+ / q40 $176.60+.

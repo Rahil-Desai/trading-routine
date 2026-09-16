@@ -5455,3 +5455,10 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- no orders before the FOMC decision (2:00pm ET). Market-open run today: (1) all 7 trails confirmed live, no ratchets; (2) OXY $63.85 tighten+trim NOT printed -- no action; (3) NO adds (cash 10.26% < 15%, binary pending). Thu Sep 17 market-open: top-up per idea 2 (AEM add primary, gold > $4,400 gate). Watch: GOOGL $320.74 / AMZN $236.36 cut lines; XLV $179.63, AEM $226.17, OXY $63.85 pre-writes; Tech PAUSED ~Oct 12, Energy PAUSED ~Sep 24, Healthcare 29.22% capped.**
+
+### 2026-09-16 -- Afternoon Addendum (midday scan, 13:06 ET, pre-FOMC)
+- **Sharp mover:** OXY **-4.72%** to $60.52 (worst in book today). Perplexity (13:06 ET): **WTI -3.9% to ~$101.7, Brent ~$104.4** -- US Energy Secretary Wright said Saudi Arabia's damaged East-West pipeline should resume within days (supply-fear unwind off the >$105 4-month high), plus a surprise US crude inventory build. No OXY company news -- pure crude beta. Crude still > $100 = thesis intact; trail $57.393 (5.2% below) governs. +15% trigger $63.85 now 5.5% away -- trim pre-write unlikely to fire this week unless crude re-rallies.
+- **FOMC:** decision NOT released as of 13:06 ET (2:00pm ET). Hike ~90% priced; hold = dovish surprise. No adds before the print (plan unchanged).
+- Rest of book quiet into the decision: AEM +0.59% (gold firm), XLV +0.36%, MDT +0.13%, GOOGL +0.06%, AMZN -0.29%. Equity $100,767.54 (-0.38% day), 89.71% deployed.
+- **Decision: HOLD -- no orders.** EOD run: read the FOMC reaction, re-check GOOGL $320.74 / AMZN $236.36 cut lines, confirm OXY trail live. Thu top-up per idea 2 stands.
+- **Log-chain fix:** `origin/main` stuck at Sep 8 (5a4a75f); Sep 15-16 commits are on branch `claude/adoring-cray-ryxo0o` only. Cause = 20 unmerged run PRs (#195-#214); Sep 9-14 runs are recoverable from PRs #207-#213. PR for this branch opened this run; merge queue oldest-first to restore the chain.

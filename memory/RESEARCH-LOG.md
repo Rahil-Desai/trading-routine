@@ -5461,4 +5461,4 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - **FOMC:** decision NOT released as of 13:06 ET (2:00pm ET). Hike ~90% priced; hold = dovish surprise. No adds before the print (plan unchanged).
 - Rest of book quiet into the decision: AEM +0.59% (gold firm), XLV +0.36%, MDT +0.13%, GOOGL +0.06%, AMZN -0.29%. Equity $100,767.54 (-0.38% day), 89.71% deployed.
 - **Decision: HOLD -- no orders.** EOD run: read the FOMC reaction, re-check GOOGL $320.74 / AMZN $236.36 cut lines, confirm OXY trail live. Thu top-up per idea 2 stands.
-- **Log-chain fix:** `origin/main` stuck at Sep 8 (5a4a75f); Sep 15-16 commits are on branch `claude/adoring-cray-ryxo0o` only. PR to main opened this run.
+- **Log-chain fix:** `origin/main` stuck at Sep 8 (5a4a75f); Sep 15-16 commits are on branch `claude/adoring-cray-ryxo0o` only. Cause = 20 unmerged run PRs (#195-#214); Sep 9-14 runs are recoverable from PRs #207-#213. PR for this branch opened this run; merge queue oldest-first to restore the chain.

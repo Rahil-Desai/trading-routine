@@ -1132,3 +1132,144 @@ Note: Ending equity = live Alpaca read $104,812.05 at review time (Sep 4 EOD log
 ### Overall Grade: A-
 
 +1.00% on a +0.19% S&P week = +0.81pp, with the book torn down and rebuilt mid-week and every closed trade green -- the first 100% win-rate week of the campaign. The system did all of it: two tightened trails banked +$1,659 across NEM and FCX (full campaigns green on both), the mandatory rule-2 deploy absorbed a double stop-out morning in 11 minutes with both new entries (AEM +4.1%, MDT +1.4%) green by Friday, and the pre-written NFP band turned a 3x-consensus print into a one-line skip instead of a chase. Held back from A by: the Sep 3 logging gap (one missing day after two clean weeks), XLI's un-gated dead money (+0.75% in 6+ weeks, parked near its stop half the week), sub-band sizing on MDT (9%) that leaves a third of the book in sleeves too small to matter, and a rate-sensitivity cluster that grew into FOMC Sep 16 rather than shrinking. The offense and defense both executed; next week is about pruning the laggard and carrying the cluster through the Fed without giving the alpha back.
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/cool-pasteur-odmzkn` (PR #209) -- the Sep 11 review ran but never reached main._
+
+## Week ending 2026-09-11
+
+Note: Ending equity = live Alpaca read $101,802.00 at review time (21:04 UTC, post-close; Alpaca last_equity $101,651.79 = Thu Sep 10 close, balance_asof 2026-09-10). Starting basis = last_equity $104,861.71 (Fri Sep 4 close = Mon Sep 7 Labor Day carry, per anchor convention). S&P closes: 7,718.60 (Sep 4) -> 7,656.98 (Sep 11 official; Perplexity's first pass quoted an intraday 7,675.09 and was corrected). Four-session week (Labor Day Mon). **Wed Sep 9, Thu Sep 10 and Fri Sep 11 have NO log entries and NO commits on any branch** -- the XLI stop-out and the cash-floor breach below were reconstructed from Alpaca order history at this review.
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $104,861.71 (Fri Sep 4 close = Mon Sep 7 carry) |
+| Ending portfolio | $101,802.00 (Fri Sep 11 review-time; Thu close $101,651.79) |
+| Week return | -$3,059.71 (-2.92%) |
+| S&P 500 week | -0.80% (7,718.60 -> 7,656.98) |
+| Bot vs S&P | -2.12pp |
+| Trades | 2 actions: 1 add (NVDA +26 sh Tue, 1/6 slots), 1 trail exit (XLI Thu open -- loser); open 5 |
+| Win rate | 0% (1 closed, 0 winners) |
+| Best trade | OXY +10.53% unrealized (+$994.03; no realized winner this week) |
+| Worst trade | XLI -1.74% realized (-$392.91, $9.55 trail fired Thu open) |
+| Profit factor | 0.00 (realized -$392.91, zero realized gains) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| XLI | $173.962385 | $170.94 | -$392.91 (-1.74%) | $9.55 trail_price GTC (stop $171.41, hwm $180.96, order 6ee0f223) fired at Thu Sep 10 open 13:31 UTC, gap fill -$0.47/sh below stop. Full campaign: 130 @ $171.67 Jun 1, +30 @ $181.60 Jul 8, -30 @ $181.87 Jul 9, rump 130 stopped after 14+ weeks. Flagged dead money in the Sep 4 review; Thu-EOD rotation gate written Sep 8 -- the stop got there first. **Industrials strike 1** (rule 12, rolling 90d). Not logged by any run -- reconstructed here from Alpaca. |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| AEM | $196.67 (69 sh) | $200.50 | +$264.27 (+1.95%) | $183.6032 (12% trail, hwm $208.64) -- 8.4% below |
+| MDT | $92.85 (100 sh) | $90.75 | -$210.00 (-2.26%) | $85.266 (10% trail, hwm $94.74) -- 6.0% below |
+| NVDA | $225.968182 (110 sh, blended after +26 @ $230.808462 Sep 8) | $218.37 | -$836.03 (-3.36%; add tranche -5.39% on fill) | $211.2795 (q84, hwm $234.755) / $207.873 (q26, hwm $230.97) -- 3.25% / 4.8% below; **nearest stop in book** |
+| OXY | $55.52 (170 sh) | $61.37 | +$994.03 (+10.53%) | $56.016 (10% trail, hwm $62.24, ratcheted this week) -- grandfathered, Energy PAUSED ~Sep 24 |
+| XLV | $156.202167 (120 sh) | $165.14 | +$1,072.54 (+5.72%) | $159.20 (q80, exp Dec 3) / $158.931 (q40, exp Oct 6) -- 3.6% / 3.8% below |
+
+Book at close: 5 positions (5-8 band OK), **cash $24,622.87 (24.19%) / deployment 75.81% -- BELOW the 85% hard floor since Thu open, two sessions**. Sector mix: Healthcare 28.38% (XLV 19.47% + MDT 8.91%); Tech 23.60% (NVDA -- single-name < 25%, ~$1.4K headroom); Materials 13.59% (AEM); Energy 10.25% (OXY, PAUSED); Industrials 0%. Trail coverage: **7 GTC orders covering all 569 shares across 5 positions** (nearest expiry XLV q40 Oct 6). Week moves: NVDA -5.21%, XLV -3.68%, MDT -3.63%, AEM -2.07%, OXY +2.21%.
+
+### What Worked
+- **The XLI trail did the job the rotation gate didn't:** the $9.55 GTC trail exited the laggard at -1.74% on Thu's gap-down open, with no run watching. Without it the position would have ridden a -2.9% week in the weakest-breadth sector with nobody logging. Stops as the non-negotiable risk control (rule 7) is what kept a bad week from being a worse one.
+- **OXY grandfathered sleeve was the only green mover (+2.21% week, +10.53% on entry)** and ratcheted its trail ($55.9305 -> $56.016, hwm $62.24). Oil at six-week highs on Hormuz strikes = the one exposure that hedged the hawkish-repricing tape. $63.85 tighten+trim trigger is now 2.9% away, the live pre-write.
+- **NVDA add followed its pre-written gates exactly** (NVDA > $230, ES >= -0.5%, VIX < 16.5 at ~9:45 ET -- all three checked and logged), sized to keep single-name < 25% and Tech < 30%, with a separate 10% GTC trail on the tranche and the original 84-sh trail untouched. The process was right even though the trade is wrong so far.
+- **No stop moved down, no cap breached, no -7% cut triggered** (worst NVDA -3.36% blended; add tranche -5.39% on fill, cut line $214.65 not reached). All 569 shares covered by 7 GTC trails through a week where three of five sessions had no supervision.
+
+### What Didn't Work
+- **Three unlogged sessions (Wed Sep 9, Thu Sep 10, Fri Sep 11):** no pre-market, market-open, midday or EOD entries, no commits on main or any side branch. Worst logging week of the campaign, after Sep 3's gap and Sep 8's unlogged market-open fill. The XLI stop-out and the cash-floor breach were discovered here, two sessions late.
+- **Rule-2 violation live:** XLI's ~$22.2K exit Thu open took cash from 2.3% to 24.19% and deployment to 75.81%, below the 85% hard floor. Friday's market-open run -- the session the Sep 8 plan had earmarked for the XLI rotation and redeploy -- never executed. Idle cash > 15% has now rolled one full session. Monday Sep 14 is a mandatory deploy, no exceptions.
+- **Dead money handed a multi-day gate for the second time, and lost for the second time:** XLI was flagged Sep 4, given a "Thu Sep 10 EOD decision point" on Sep 8 (at +0.77%, $175.30), and stopped out Thu open at -1.74%. A same-session rule-11 exit Tue would have banked ~+$174 and kept Industrials strike-free. XLE Aug 27 (gate rolled Mon->Wed->Thu, exit -2.15%, Energy strike) was the identical pattern. Net cost of the two gates: ~-$1,150 realized and two sector strikes vs green exits.
+- **NVDA add front-ran the exact binary the research named:** "a NVDA add today front-runs that binary" was written Tue pre-market, the gates passed on tape conditions alone, and the fill at $230.81 was 2% under $236 May-high resistance with PPI/CPI/FOMC inside 8 sessions. Rejected the same day; -5.39% on the add, blended position -3.36%, now 23.6% of book with the trail 3.25% below.
+- **Downside capture 3.6x:** -2.92% on a -0.80% S&P week (last week 5x upside capture on +0.19%). The rate cluster flagged in the last two reviews (NVDA + XLV + AEM, ~57% of book) took the PPI/CPI repricing on the chin: NVDA -5.2%, XLV -3.7%, MDT -3.6%. Sector caps still can't see this exposure; nothing was trimmed into it.
+
+### Key Lessons
+- **Dead money gets a same-session exit, not a decision point.** Two for two (XLE, XLI): every multi-day rotation gate has ended as a loss-exit plus a sector strike, and each would have closed green on the day it was flagged. The gate exists to avoid "impulsive" exits, but the stop is 2% away on a flat position -- the impulse risk is nil and the gap risk is real. **Codified in rule 11 this week (see Strategy Rule Changes below).**
+- **Tape gates are not catalyst gates.** NVDA's add gates (price, ES, VIX) all measured the 9:45 ET tape, none measured the calendar. An add inside 3 sessions of a tier-1 macro print, at resistance, is a chase wearing a catalyst label. Conditional entries need a calendar leg ("no tier-1 print within 3 sessions" or an explicit post-print band, like the Sep 4 NFP band that worked).
+- **Logging is the control loop, not the paperwork.** The cash floor was breached for two sessions because the runs that would have seen it never wrote. Every rule with a clock (rule 2's one-day grace, rule 11's rotation, rule 14's same-session trim) assumes a run observes the state. A missed run is a missed rule check, and three in a row is the largest operational risk in the campaign right now.
+- **Downside capture on a five-name book is a sizing problem, not a stop problem.** Stops capped single-name damage; they did nothing for a correlated -3% to -5% across three names keyed to one Fed repricing. With FOMC inside a week, correlated exposure > 50% of book needs either a trim or a sleeve that moves the other way (OXY was the only one, at 10%).
+
+### Adjustments for Next Week
+- **MONDAY SEP 14 = MANDATORY RULE-2 DEPLOY. Cash $24.6K (24.19%), deployment 75.81% -- $9.4K clears the 85% floor, $14.4K reaches 90%.** Target: two single-name legs of ~$8-10K each, both named with numeric gates in Monday pre-market, orders placed at the market-open run regardless of FOMC proximity (rule 2 has no macro exception). Headroom: **Materials ~$16.7K to cap** (NEM / FCX re-entry -- both full campaigns green, sector strike-free), **Tech ~$6.5K sector / ~$1.4K NVDA single-name** (no NVDA add), **Healthcare zero**, **Energy PAUSED ~Sep 24**, **Industrials strike 1** (legal, but weakest breadth -- pass). Weekly count fresh 0/6.
+- **FOMC Wed Sep 16 -- hike odds elevated post PPI (+0.4% m/m, 5.4% y/y) and CPI (core +0.3% vs +0.2% cons).** NVDA trail $211.28 is 3.25% below, XLV q80 $159.20 is 3.6% below: a -3.5% Fed day stops out ~43% of the book at the open. Pre-writes: **NVDA add tranche (26 sh) manual cut at $214.65 (-7% on its $230.81 fill)** if printed Mon/Tue before the Fed -- the blended -7% line ($210.15) sits below the trail, so the trail governs the 84. No new Tech before the Fed decision beyond the rule-2 deploy above.
+- **Logging backfill Monday pre-market, before any trade work:** one-line EOD stubs for Sep 9 (no equity read available), Sep 10 (close $101,651.79, XLI stop-out) and Sep 11 (review-time $101,802.00), plus the XLI trail-exit trade-log row (130 @ $170.94, 13:31 UTC Sep 10, order 6ee0f223). Same pattern as the Aug 19 and Sep 3 backfills. Every run this week opens with a "previous session logged? Y/N" check.
+- **Pre-writes armed:** OXY >= **$63.85** (+15%) -> 7% tighten + trim 43-85 sh (2.9% away -- the live one on the crude tape); XLV >= $179.63 and AEM >= $226.17 far (8.8% / 12.8%). Energy pause expires ~Sep 24: OXY exit-side only until then.
+- **Rule-11 dead-money clock now numeric (below).** Current book check: MDT -2.26% after 8 sessions (clock at 8/20, not yet); AEM +1.95% after 8 sessions (8/20). Neither fires Monday; both are on the clock.
+
+### Strategy Rule Changes Applied This Week
+- **Rule 11 amended -- DEAD-MONEY CLOCK.** Trigger: any position < +2% on entry after 20 trading sessions, or flagged dead money in a weekly review. Action: exit at the next market-open run, same session, no multi-day gates. One extension (5 sessions) only on a fresh named catalyst logged in pre-market research; then unconditional. Exit at a gain = no strike. Rationale: XLE Aug 27 and XLI Sep 10 both flagged, both gated, both exited at a loss with a sector strike before the gate fired; a same-session exit would have closed each green. Two instances, two weeks apart, ~-$1,150 combined.
+
+### Overall Grade: D
+
+-2.92% on a -0.80% S&P week = -2.12pp, the only closed trade a loser, three of four sessions unlogged, and the book sitting at 75.8% deployed -- below the hard floor -- for two sessions with no run to catch it. The mechanical layer held: the XLI trail exited the laggard at -1.74% with nobody watching, all 569 shares stayed covered, no stop moved down, no cap breached, and the NVDA add ran its gates by the book. But the judgment layer failed twice on lessons already written -- dead money got a decision point instead of an exit (second time, second loss, second strike), and an add went out into a three-print macro window the research itself called a binary. Not an F because the system's defenses worked and the phase is still +1.80%; not a C because a rule-2 breach is live going into FOMC week and the process gap that let it happen is unexplained. Monday is a mandatory deploy and a mandatory backfill; the week is graded on whether both happen at the open.
+
+## Week ending 2026-09-18
+
+Note: Ending equity = live Alpaca read $100,885.70 at review time (21:04 UTC, post-close; Alpaca last_equity $101,101.89 = Thu Sep 17 close, balance_asof 2026-09-17; Fri day P&L -$216.19 / -0.21%). Starting basis = last_equity $101,847.01 (Fri Sep 11 close, per the Sep 14 EOD snapshot; the recovered Sep 11 EOD snapshot printed $101,840.01). S&P closes: 7,656.98 (Sep 11) -> 7,628.19 (Sep 18, Investing.com; -0.13% Fri). **The Sep 11 weekly review, the rule-11 amendment and 23 run-log blocks from Sep 3 / Sep 8-18 existed only on unmerged `claude/*` run branches (PRs never merged) -- all recovered into main by this review.** Two-week context (Sep 4 close $104,861.71 -> $100,885.70): **-$3,976.01 (-3.79%) vs S&P -1.17% (7,718.60 -> 7,628.19) = -2.62pp.**
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $101,847.01 (Fri Sep 11 close = Mon Sep 14 open basis) |
+| Ending portfolio | $100,885.70 (Fri Sep 18 review-time) |
+| Week return | -$961.31 (-0.94%) |
+| S&P 500 week | -0.38% (7,656.98 -> 7,628.19) |
+| Bot vs S&P | -0.56pp (two-week: -2.62pp; phase +0.89%, down from +4.86% on Sep 4) |
+| Trades | 3 actions: 1 exit (NVDA Mon -- 84-sh trail + 26-sh manual close, one campaign, loser), 2 entries (GOOGL + AMZN Mon, 2/6 slots); planned trade 3/6 (~$5K top-up) never executed Thu or Fri; open 6 |
+| Win rate | 0% (1 closed campaign, 0 winners) -- second straight week with no realized winner |
+| Best trade | GOOGL +1.51% unrealized (+$302.65, new Mon); best in book XLV +7.62% unrealized; no realized winner |
+| Worst trade | NVDA -7.35% realized (-$1,826.22 on $24,856 cost; core lot -6.73%, Sep 8 add lot -9.30%) |
+| Profit factor | 0.00 (realized -$1,826.22, zero realized gains) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+| NVDA (core) | $224.47 (84 sh, Aug 27) | $209.37 | -$1,268.40 (-6.73%) | 10% GTC trail (order 8e55f582, stop $211.2795, hwm $234.755) fired at the Mon Sep 14 open 13:33 UTC on the AI-slowdown gap (Anthropic/OpenAI/xAI execs' slow-down calls; NVDA -3.4% on the day). Gap fill -$1.91/sh below stop. |
+| NVDA (add) | $230.808462 (26 sh, Sep 8) | $209.353846 | -$557.82 (-9.30%) | Add lot closed market 13:41 UTC (order 3b0747a0) 8 min after the core trail fired; its own trail 269907e7 ($207.873) cancelled. Past its -7% line ($214.65). Campaign total **-$1,826.22 (-7.35%)**. **Tech STRIKE 2** (SMCI Aug 18 + NVDA Sep 14, no intervening Tech win) -> **Tech PAUSED 20 sessions from Sep 14 (~Oct 12)**, either vehicle. |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+| AEM | $196.67 (69 sh) | $195.90 | -$53.13 (-0.39%) | $183.6032 (12% trail, hwm $208.64) -- 6.3% below; week -2.29% |
+| AMZN | $254.15 (68 sh) | $254.50 | +$23.80 (+0.14%) | $230.355 (10% trail, hwm $255.95) -- 9.5% below; -7% cut $236.36 -- NEW Sep 14 |
+| GOOGL | $344.881897 (58 sh) | $350.10 | +$302.65 (+1.51%) | $323.469 (10% trail, hwm $359.41 -- ratcheted Fri from $349.91; trail now ABOVE the $320.74 cut line) -- 7.6% below -- NEW Sep 14 |
+| MDT | $92.85 (100 sh) | $92.13 | -$72.00 (-0.78%) | $85.266 (10% trail, hwm $94.74) -- 7.5% below; day 14, flat -- **rule-11 dead-money clock FIRES (flagged here) -> exit Mon market-open** |
+| OXY | $55.52 (170 sh) | $58.84 | +$564.47 (+5.98%) | $57.393 (10% trail, hwm $63.77) -- **2.5% below, nearest stop**; grandfathered, Energy PAUSED ~Sep 24; week -4.12% |
+| XLV | $156.202167 (120 sh) | $168.11 | +$1,428.94 (+7.62%) | $159.20 (q80, $13.10 trail_price, exp Dec 3) / $158.931 (q40, 10% trail, exp Oct 6) -- 5.3% / 5.5% below |
+
+Book at close: 6 positions (5-8 band OK), cash $10,367.80 (10.28%), **deployment 89.72% -- 28 bps under the 90% target all five sessions, above the 85% floor; rule-2 clock not triggered (cash < 15%)**. Sector mix: Healthcare 29.13% (XLV 20.00% + MDT 9.13% -- capped); Comm Svcs 20.13% (GOOGL); Cons Disc 17.15% (AMZN); Materials 13.40% (AEM); Energy 9.92% (OXY, PAUSED ~Sep 24); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Staples 0% (strike 1). Trail coverage: **7 GTC orders covering all 585 shares** (nearest expiry XLV q40 Oct 6). No stop moved down all week. PDT clean.
+
+### What Worked
+- **The stops carried the NVDA exit exactly as designed:** the 84-sh trail fired at the Monday open on a sector-wide gap, the add lot was closed 8 minutes later past its own -7% line, and the rule-12 strike ledger paused Tech the same morning. A 24%-of-book position on a -3.4% NVDA day cost -1.8% of book and nothing more.
+- **Same-session rule-2 redeploy for the 7th consecutive time:** GOOGL + AMZN filled 12 minutes after the NVDA fire (13:45 UTC), each with a named catalyst (AdX antitrust ruling / Qualcomm-AWS chip deal), single-name RS on the day, 10% GTC trails placed the same minute, 19.8% / 17.1% sizing under every cap. Cash 24.2% (Fri) -> 10.2% (Mon 13:45), deployment 58% -> 89.8% in one session. Both flat-to-green at week end on a -0.38% S&P.
+- **FOMC discipline held on an 89.7%-deployed book:** no adds Tue/Wed into a hike-vs-hold binary; the 25 bp hike + hawkish Warsh presser produced a -1.14% Wednesday with zero stop-outs and zero forced actions; Thursday's +1.06% bounce recovered it. Nothing was chased and nothing was sold into the hole.
+- **Mechanical layer clean every session:** 7 GTC trails on all 585 shares, GOOGL ratcheted twice (hwm $349.91 -> $359.41, stop $314.92 -> $323.47, now above the manual cut line), no stop moved down, no cap breached, every -7% / +15% / +20% line checked and logged by the runs that executed.
+- **The Sep 16 midday run root-caused the "lost" runs** -- every scheduled run pushes to a fresh `claude/*` branch and opens a PR that nobody merges. Nothing was lost: this review recovered 23 log blocks (Sep 3 EOD, Sep 8 EOD, Sep 11 midday/EOD, all four Sep 14 runs, Sep 16 pre-market/midday, Sep 17 market-open/midday, Sep 18 pre-market/market-open/midday), the Sep 11 weekly review and its rule-11 amendment into main.
+
+### What Didn't Work
+- **Zero realized winners for the second straight week and a -3.79% fortnight vs S&P -1.17%.** Phase alpha went from +4.86% (Sep 4) to +0.89%: four points given back in two weeks, almost all of it the NVDA campaign (-$1,826) plus the XLI dead-money exit (-$393). The Sep 8 add at $230.81 -- six sessions before the stop, into a sector already carrying strike 1 -- contributed -$558 of that.
+- **The ~$5K top-up (trade 3/6) never happened.** Planned Tue for Thu -> Thu: AEM gate failed both legs (gold < $4,400, AEM < $200), C/JPM fallbacks red at the open, Financials blocked as a 7th line -> Fri: AEM gate failed again at open and midday, Financials fallback blocked again by the same cap. Deployment sat 89.7-89.8% every session -- legal (cash < 15%) but the plan's own "do not roll past Friday" rolled past Friday. Twice.
+- **Workflow prompt vs rulebook mismatch blocked the trade both days:** the cloud market-open prompt hard-checks <= 6 positions / <= 3 trades per run / <= 20% per position; TRADING-STRATEGY.md and the local commands say 5-8 / 6 per week / 25%. The stricter set was honored (correctly), and it is what killed the Financials entry Thu and Fri. Not fixable from the rulebook -- needs a human decision.
+- **37.3% of book (GOOGL + AMZN) sits in the two weakest YTD sectors** (Comm Svcs, Cons Disc). Rule 6/12's sector-momentum leg failed at entry; both are megacap S&P proxies, which the Mission line says cannot win. They were the rule-2 escape hatch on a morning when Tech (paused), Energy (paused), Healthcare (capped) and Industrials (strike 1) had closed most of the leadership universe. +1.5% / +0.1% after a week = not losing, not winning.
+- **OXY round-tripped +14.55% -> +5.98% untrimmed.** Tue close hwm $63.77 vs the +15% trim trigger $63.85 -- an $0.08 miss -- then -6.47% Wed on crude + the hawkish Fed. ~$810 of unrealized gain given back; the position now sits 2.5% above its trail, and the Energy pause (~Sep 24) means a fire is a one-way exit.
+- **Scheduled-run reliability was the week's largest operational failure:** ~9 of 15 weekday runs did not reach main at run time (all four Sep 14 runs, Wed pre-market, all three Thu runs, Fri pre-market/market-open/midday). They executed and pushed to PR branches, but each downstream run re-derived state from Alpaca, rewrote the same reconstructions (the XLI stop-out was reconstructed four separate times), and could not see the prior run's pre-writes -- Friday's market-open never saw Thursday's fallback screen.
+
+### Key Lessons
+- **Adds are entries, not housekeeping.** The NVDA add went into a sector carrying strike 1, lifted Tech to 24% of book, and was underwater within a session. Watch-rule (not legislated yet): no add to a position in a sector carrying an open strike, and no add unless the position is > +5% on entry.
+- **A rule-2 clock against a closed universe produces proxies.** When four of six leadership sectors are paused, capped or struck, "mandatory deploy today" pushes capital into whatever is legal, not what leads. Before the pause/strike/cap stack closes the universe, the deploy should shrink (top-up to the 85-90% band with one leg) rather than fill 2 x 20% with megacaps.
+- **The +15% trim threshold is binary and a $0.08 miss cost ~$810.** Same texture as MTUM (Jul, created rule 14): a position peaks just under the trigger and round-trips. Second instance. Candidate rule for next review, not applied yet: "peak >= +13% unrealized and a >= 5pp drop from that peak before +15% prints = trim 25% same session."
+- **Workflow prompt != rulebook.** Two runs (Thu, Fri) found the trade, passed every strategy rule, and were blocked by a hard check the strategy does not contain. Until the prompts are reconciled, plan around 6 positions: rotations, not a 7th slot.
+- **Infra is the biggest P&L lever right now.** The runs are executing correctly; main is not seeing them. Runs that push to main (EOD, weekly review) must also recover stranded run branches, as this review did, or every Monday starts from a stale rulebook and lost pre-writes.
+
+### Adjustments for Next Week
+- **Mon Sep 21 market-open = MDT -> Financials RS-leader rotation (rule-11 dead-money clock: MDT -0.78% at day 14, flagged here -> exit at the next market-open, no gate).** SELL MDT 100 sh market (~$9.2K; Healthcare takes strike 1 on a sub-1% loss -- acceptable). BUY one Financials single name from **IBKR / TRV / BNY / STT** (pick Monday pre-market on catalyst + RS; both IBKR +41.5% and TRV +31.8% YTD out-run the S&P; hike beneficiaries; Financials 0% of book, no strikes, no pause). Size **~$14-15K = MDT proceeds + ~$5K of the idle sleeve** -> deployment ~95%; 12% GTC trail (IBKR) or 10% (TRV/BNY/STT) placed the same minute. Trade 1/6 Week 22. Positions stay at 6 (workflow cap). Skip conditions: candidate gap > +3%, SPX gap < -1%.
+- **AEM add (~25 sh, 12% trail) is the secondary leg only if gold > $4,400 AND AEM > $200 at Monday open, and only if cash after the rotation is still > 10%.** Otherwise no add.
+- **OXY: hands off.** Trail $57.393 = 2.5% below; a fire is a +3.4% winning exit (no Energy strike) and there is no re-entry (pause to ~Sep 24; after that fresh catalyst + leadership required, logged). $63.85 tighten+trim pre-write stays armed but is 8.5% away.
+- **Pre-writes armed:** XLV >= $179.63 (+15%) -> 7% tighten + trim 30-60 sh; AEM >= $226.17 -> tighten + trim 17-35 sh; GOOGL >= $396.61 -> tighten + trim; AMZN -7% cut < $236.36 (trail $230.355 below). GOOGL is trail-governed ($323.469 > cut line).
+- **GOOGL + AMZN (37.3%): no adds to either.** If both close red on entry Fri Sep 25 with SPX up, write the rule-11 exit for the weaker one that day; the 20-session < +2% clock lands Oct 12.
+- **Infra (every run, starting Mon pre-market):** `git fetch origin` and list `claude/*` branches ahead of main before reading memory; if any exist, recover them first (this review's method: insert-only, chronological, banner line). The EOD run pushes to main -- it should carry the day's stranded pre-market/market-open/midday blocks with it. **Human action needed:** merge or close the 20+ open run PRs, and reconcile the cloud market-open prompt (6 positions / 3 trades / 20%) with the rulebook (5-8 / 6 per week / 25%).
+- **Calendar:** Energy pause expiry ~Sep 24; PCE Fri Sep 25; XLV q40 trail expires Oct 6 (re-place by Oct 2); Tech pause expiry ~Oct 12.
+
+### Strategy Rule Changes Applied This Week
+- **None new.** The **rule-11 DEAD-MONEY CLOCK** amendment written in the Sep 11 review was stranded on an unmerged branch and is applied to main today (text unchanged). **MDT is its first live trigger** (flagged dead money in this review -> exit Mon Sep 21 market-open). The OXY near-miss trim rule and the "no add into a struck sector" rule are logged as candidates, not legislated -- one instance each.
+
+### Overall Grade: C-
+
+-0.94% on a -0.38% S&P week = -0.56pp, no realized winner for the second week running, and the fortnight sits at -3.79% vs -1.17% with the phase alpha down to +0.89%. The mechanical layer earned its keep: the NVDA trail capped a 24%-of-book position at -1.8% of book on a sector gap, the redeploy filled 12 minutes later with named catalysts and trails, FOMC week produced zero forced actions, and every share stayed covered every session. What failed was execution of the plan and the quality of what it bought: the top-up slipped Thursday and Friday (gates plus a workflow cap the rulebook does not know about), OXY gave back nine points untrimmed on an $0.08 miss, and 37% of the book is now in megacap proxies from laggard sectors because the rule-2 clock ran against a universe the bot's own pauses had closed. Not a D because no rule was breached and the damage was a third of last week's; not a C because for the second week the only closed trade was a loser and the week's one planned entry never happened. Monday is graded on the MDT rotation executing at the open and on whether the runs reach main.

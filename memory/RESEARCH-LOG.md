@@ -5347,6 +5347,149 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 - **Read-through to Thu XLI decision:** XLI +0.02% today while SPX -0.4% = mild RS on a down day; +0.77% on entry. Decision point unchanged (Thu Sep 10 EOD, < +2% on entry with SPX flat/up -> rotate Fri).
 - No orders at midday. Weekly count 1/6 (Week 20). Deployment 97.69%, cash $2,401.18.
 
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/adoring-cray-yxkgbb` -- this run executed but its PR was never merged to main._
+## 2026-09-11 -- Afternoon Addendum (midday scan, 13:06 ET; no pre-market entry for today was committed)
+
+- **CPI (Aug, 8:30 ET):** headline **+0.4% m/m / 3.4% y/y** (= cons); **core +0.3% m/m (cons +0.2%)** / 2.4% y/y (= cons). Hot-core tenth keeps a Sep 16 hike live. Midday tape: SPY $765.64, QQQ $716.31, ~flat. No clean VIX/FedWatch read from Perplexity.
+- **NVDA $219.12 (-3.0% on blended entry):** three red days Sep 8-10 (-2.0% / -0.9% / -2.4%, close $218.36 Thu), +0.35% today. Causes per Perplexity: broad semis/growth de-risking on oil > $100 + higher yields; Blackwell-reaching-China export-control report (Singapore probing DELL/SMCI customers); Hugging Face deal still framed as "set to buy" with resistance concerns; GS Communacopia Sep 10 no positive catalyst. Rare Sep 8 divergence: SOX +1.6% vs NVDA -1.9% (INTC +9%, AMD +6%). Verdict: **HOLD on trails ($211.28 q84 / $207.87 q26); no cut, no add.** Thesis-break trigger to watch: a confirmed export-control action or deal collapse.
+- **MDT $90.445 (-2.6% on entry):** no company-specific negative in Sep 8-11 window (Wall Street Zen Buy->Hold Sep 5 is noise; FY27 raise, Cornerstone $700M, Pi-Cardia intact; Cramer "quandary" Sep 8). Post-rally drift + sector soft. Verdict: **HOLD**, 5.7% above $85.266 trail.
+- **XLI stop-out Thu Sep 10 09:32 ET at $170.94** (-1.74%, -$392.91) -- pre-planned rotation executed by the trail a day early on the post-PPI/oil-spike gap. **Industrials strike 1.** Cash now **$24,622.87 (24.19%) = rule-2 breach.** Deploy candidates for Mon Sep 14 market-open (fresh pre-market research required): **NEM / FCX** (Materials, room to 30% cap ~$16.8K), **DELL** (Tech, room ~$6.4K sector / careful: NVDA already 23.7%). Energy PAUSED ~Sep 24; Healthcare 28.41% ~zero headroom; Industrials strike 1 (not paused -- one loss).
+- No orders at midday. Weekly count 1/6 (Week 20). Deployment 75.81%.
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/charming-euler-s9v1e5` -- this run executed but its PR was never merged to main._
+## 2026-09-14 -- Pre-market Research (Mon, Day 99, Week 21 -- FOMC WEEK; XLI STOPPED OUT SEP 10, SEP 9-11 RUNS UNLOGGED; CASH 24% = MANDATORY RULE-2 DEPLOY; NVDA 0.5% ABOVE TRAIL)
+
+### Logging Gap (housekeeping first)
+- **Last committed run = Sep 8 midday.** No pre-market / midday / EOD entries for Sep 9, 10, 11 and no Week 20 weekly review reached the repo. Reconstructed from Alpaca order history:
+  - **XLI 130 sh: $9.55 GTC trail (order 6ee0f223) FIRED Thu Sep 10 13:31:58 UTC @ $170.94** (stop $171.41, hwm $180.96; gap fill -$0.47/sh). Realized **-$392.91 (-1.74%)** vs $173.962385 entry. **Industrials STRIKE 1** (loss exit; rolling 90d). Proceeds ~$22.2K sat idle Thu + Fri. Logged to TRADE-LOG this run.
+  - No other fills Sep 9-11. All other GTC trails intact.
+- **Rule-2 clock: cash > 15% since Thu Sep 10 close = two sessions. Deploy is MANDATORY today -- already one session late.**
+
+### Account
+- Equity: **$101,270.75** (last_equity $101,847.01 Fri close; **-$576.26 / -0.57%** on extended-hours marks -- NVDA/AEM pre-market bleed)
+- **Phase P&L +$1,270.75 (+1.27%)** -- down from +$4,861 (+4.86%) at the Sep 7 snapshot; ~-$3.6K week of NVDA drawdown + XLI stop-out + Fri XLV/AEM fade.
+- Cash: **$24,622.87 (24.31%) / 75.69% deployed -- BELOW the 85% hard floor.** Buying power $313,106 (RegT $125,894) -- irrelevant, no margin use.
+- Daytrade count: not returned by account endpoint; PDT preserved (zero same-day round-trips; all exits were GTC trails).
+- **Positions (5, extended-hours marks):**
+  - **AEM 69** @ $196.67 -> $195.92 (-$51.75 / -0.38%); pre $194.80 (-2.8%) -> ~-0.95% on entry -- 12% trail **$183.6032** (hwm $208.64, ratcheted from $207.68); 6.1% clearance at pre
+  - **MDT 100** @ $92.85 -> $91.56 (-$129.00 / -1.39%) -- 10% trail $85.266 (hwm $94.74); 6.9% clearance; Morgan Stanley HC conf Tue Sep 15
+  - **NVDA 110** @ $225.968182 -> **$212.26 (-$1,507.90 / -6.07%); pre -2.76%** -- trails **$211.2795 (q84, hwm $234.755) = 0.46% below pre**; $207.873 (q26, hwm $230.97) = 2.07% below; **blended -7% cut line $210.15 = 1.0% below.** Trail is regular-hours only -> fires at the open if pre holds.
+  - **OXY 170** @ $55.52 -> $62.44 (+$1,176.47 / +12.47%; +1.6% Fri) -- grandfathered (Energy PAUSED ~Sep 24); trail **$56.016** (hwm $62.24, ratcheted from $62.145); **+15% trigger $63.85 = 2.3% away -- LIVE today on oil +2.4-3%**
+  - **XLV 120** @ $156.202167 -> $166.75 (+$1,265.74 / +6.75%) -- trails $159.20 q80 (exp Dec 3, 4.5% below) / $158.931 q40 (exp Oct 6); +15% trigger $179.63 = 7.7% away
+- Open trail stops: **7 GTC, all 569 shares covered** (AEM 8571f428, MDT 56cd1813, NVDA 8e55f582 q84 + 269907e7 q26, OXY 5c6a22b8, XLV 92392985 q80 + a2fda910 q40). Nearest expiry XLV q40 Oct 6, then OXY Oct 19 -- no housekeeping due this week.
+- Ratchets since Sep 8 midday: **AEM hwm $207.68 -> $208.64 (stop $182.7584 -> $183.6032); OXY hwm $62.145 -> $62.24 (stop $55.9305 -> $56.016).** Other five hwms held. No stops moved down.
+- Weekly count: **0/6 (Week 21 fresh; Week 20 closed 1/6 -- NVDA add Tue Sep 8; XLI exit was an auto-trail, not a slot)**
+- **Sector mix** (of $101,270.75): Tech 23.06% (NVDA); Healthcare 28.80% (XLV 19.76% + MDT 9.04% -- ~$1.2K headroom); Materials 13.35% (AEM -- room to 30% ~$16.9K); Energy 10.48% (OXY -- PAUSED); **Industrials 0% (XLI gone; strike 1, NOT paused)**; Cash 24.31%. All caps compliant; no single name > 25%.
+- **Strike ledger (rolling 90d):** Energy PAUSED through ~Sep 24 (XOM May 27 + XLE Jun 15). Tech: XLK Jul 17 = strike 1 (DELL Jun 3 aged out) -> **a NVDA loss exit today = strike 2 = Tech PAUSED 20 sessions (~through Oct 12).** Industrials: XLI Sep 10 = strike 1. Materials clean (NEM +10.15%, FCX +6.99% winning exits). Healthcare clean.
+
+### Market Context
+- **Oil back above $100: WTI ~$102.4 (+2.4%), Brent ~$107.5-107.8 (+2.9%)** -- Houthi strikes threatening Saudi exports; Middle East crude grades quoted ~$120. **Hormuz talks TODAY in Salalah, Oman (GCC foreign ministers + Iran FM)** -- a shipping framework = oil reversal; collapse = spike. OXY exit-side only.
+- **ES ~7,600-7,632 (-0.4% to -0.8%); NQ ~29,360 (-1.1% to -1.5%); Dow flat/+0.6%.** AI-sentiment rotation (AI IPO pipeline shake-up on safety concerns, "reassessing AI outlook") + oil. Semis leading down. Friday's SPX +0.86% to 7,656.98 (week -0.80%) being given back.
+- **VIX 17.5-18.0 (+10-13% from 15.84 Fri close; 17.84 Thu).** Sep VIX futures 17.3, Oct 19.0 -- FOMC premium.
+- **Gold ~$4,306-4,350 (~-1%)** -- oil-driven hawkish repricing pressuring bullion; AEM -2.8% pre.
+- **Fed: hike ~90% priced for Wed Sep 16 14:00** after CPI Fri (+0.4% m/m headline, 3.4% y/y; **core +0.3% vs 0.2% exp**, 2.4% y/y) and PPI Thu (+0.4% m/m, 5.4% y/y). 10-yr near 5%. BoJ/BoE also this week.
+- **TODAY:** no US data; 3M/6M bill auctions 15:30. Earnings: CBRL / HAIN BMO (irrelevant), PLAY AMC. Nothing held reports. Week: FOMC Wed, LEN/GIS Wed-Thu, quad-witching + S&P rebalance effective Fri close (BE, others join Sep 21).
+- **Sector YTD: Energy +47.7%, Tech +30.7%, Materials +13.3%, Industrials ~+12%, Healthcare ~+10%, Utilities +0.6%, Comm Svcs -3.8%, Cons Disc -5.0%.** Breadth NARROW: only 3 S&P names at 52-wk highs Thu (ADM, HPQ, SWKS); Barchart S&P 25% above 20DMA / 39% above 50DMA (Energy 67%/81%). September large-cap leaders: DELL +33%, SWKS +31%, BE +29%.
+
+### Held-ticker News
+- **NVDA**: four-day slide -- Sep 9 $225.73 (-2.0%), Sep 10 $218.36 (-2.4%: valuation, yields, profit-taking, director Stevens $235.6M sale), Sep 11 $218.29 flat, **pre $212.26 (-2.76%)** on the AI-rotation tape. No thesis-level company news (Hugging Face deal intact; Hyundai leaning on NVDA interim = minor positive). Price action broke $218 support; May high $236.54 now 11% overhead. **Trail governs at the open.**
+- **AEM**: Sep 8 sold Delta + Helm Bay projects to Vizsla Copper (C$32M shares + royalties/milestones); Sep 9 Jefferies conf (growth clusters, record FCF; flagged diesel-cost exposure and Canadian Malartic pit-wall movement); $0.45 dividend pays Sep 15; Zacks to Hold. Pre -2.8% is gold beta + risk-off, not company. Thesis (geopolitical gold bid, $4.3K gold) intact; 6.1% above stop.
+- **OXY**: no company news; crude >$100 does the work. **$63.85 trim trigger 2.3% away = the live pre-write.**
+- **MDT**: no fresh news found; MS HC conf Tue. -1.39% = fill noise + sector drag. **XLV**: quiet; +6.75%, 4.5% above q80 trail.
+
+### Trade Ideas
+1. **MANDATORY RULE-2 DEPLOY at the market-open run -- one slot ~$15K (14.8% of book) -> cash 24.3% -> ~9.5%.** Legal universe is narrow: Energy PAUSED; Tech off-limits today (NVDA at its trail -- an exit pauses Tech, and headroom is ~$7K even if it holds); Healthcare capped (~$1.2K); AEM add rejected (don't add to a name -2.8% pre on falling gold). That leaves Industrials (0%, strike 1 -- open) and defensives.
+   - **PRIMARY: BE (Bloom Energy) -- Industrials/electrical equipment, the strongest RS single-name with a hard-dated catalyst.** Catalyst: **S&P 500 inclusion effective Sep 21 (index buying into Fri Sep 18 close)** + AI data-center on-site power demand + Q2 rev $1.07B (+165% y/y), FY guide raised to $3.9-4.2B, UBS PT $325 (from $300). Fri close $275.75 (+6.7%), +~29% Sep. **Size 54 sh (~$14.9K at $276).** High-beta -> **12% GTC trail (initial stop ~$243)**. Target $335 (+21%) -> ~1.8:1 on the 12% trail (2.3:1 vs a -9% cut). Industrials 0% -> 14.7% (< 30% cap). Would be trade 1/6 Week 21. **Gates at ~9:45 ET: BE not gapped > +4% (> $287 = no chase) AND not opened < -3% (< $267 = catalyst failing) AND ES no worse than -1.0% AND VIX < 19.5.** Note: a BE loss exit would be Industrials strike 2 -> Industrials paused; accepted.
+   - **FALLBACK if BE fails its own gate but macro gates pass: WMT (Consumer Staples, Strong Buy consensus, defensive RS, ~$107).** ~140 sh (~$15K), 10% GTC trail (~$96), target $125 (+17%) -> 1.7:1. Staples 0% -> 14.8%. Lower beta into the Fed binary.
+   - **FLOOR if macro gates fail (ES < -1.0% or VIX >= 19.5): rule 2 still requires a placed order today -> half-slot WMT (~70 sh, ~$7.5K) at market-open; second half at midday only if ES recovers to > -0.5%.** No roll-forward without an order.
+2. **NVDA -- pre-written, no discretion.** (a) If NVDA opens < $211.2795 the q84 trail fires (~-5.9% on that lot, ~-$1,108). **Same run: cut the 26-sh rump at market** (rump is -8% on its own $230.81 fill = past the -7% rule-8 line; a $5.5K rump is not a position). Full exit ~-$1,620 (-6.5%). **Tech strike 2 -> Tech PAUSED ~20 sessions (through ~Oct 12); log it.** Proceeds ~$23.2K -> cash ~33% post-BE -> **second mandatory deploy Tue Sep 15 (pre-FOMC) ~$15-18K: screen Materials copper leader (FCX re-entry legal), Financials, Industrials #2; no Tech/Energy.** (b) If NVDA opens >= $211.28: HOLD on trails; **manual cut of all 110 sh if it prints < $210.15 (blended -7%)** at market-open or midday -- whole position, no rump. No add under any scenario.
+3. **OXY trim-into-strength -- LIVE: >= $63.85 (+15%) -> same session: cancel 5c6a22b8, re-place 7% trail on the remaining lot, trim 43-85 sh (25-50%) at market.** Exit-side legal under the Energy pause; proceeds join the deploy pool (Tue leg). XLV $179.63 / AEM $226.17 tighten+trim pre-writes stay armed (far).
+
+### Risk Factors
+- **FOMC Wed 14:00 with a hike ~90% priced** -- a 50bp tail or hawkish dots on a 10-yr near 5%; deploying ~$15K today is rule 2 forcing a binary-eve entry again (the same friction flagged in the Aug 28 review). Mitigation: gates, 12% trail, hard-dated index-flow catalyst.
+- **AI-sentiment rotation: NQ -1.5%, semis leading down, NVDA 0.5% from its trail.** A Tech stop-out benches the YTD #2 sector for 20 sessions with Energy already benched -- the book's only legal momentum would be Materials + Industrials.
+- **Oil >$100 both ways:** Hormuz talks in Oman today -- a deal reverses crude (OXY $63.85 trigger slips, but risk-on); collapse spikes crude (OXY trigger fires, broad risk-off, AEM diesel-cost headline).
+- **BE is extended (+29% Sep) and high-beta** -- gap risk both ways; shareholder class-action noise; a -12% trail on a $15K slot = ~$1.8K risk (1.8% of book).
+- Gold -1% / AEM -2.8% pre -> flat-to-red on entry; 6.1% cushion, no action.
+- Healthcare 28.80% -- a +1.5% XLV day breaches 30% -> trim-into-strength readiness.
+- **Logging plumbing failed Sep 9-11 (three days + weekly review).** Every run this week must verify the commit landed; Week 20 review to be back-filled Fri.
+
+### Decision
+**HOLD pre-market -- no orders before the open. Market-open run (in order): (1) NVDA -- let the q84 trail govern; if it fires, cut the 26-sh rump same run and log Tech strike 2 / Tech PAUSED; if it holds, manual cut of all 110 below $210.15. (2) MANDATORY rule-2 deploy: BE 54 sh (~$14.9K) + 12% GTC trail if gates pass (no gap > +4%, no open < -3%, ES >= -1.0%, VIX < 19.5); else WMT ~140 sh + 10% trail; else half-slot WMT -- an order MUST print today. (3) OXY >= $63.85 -> 7% tighten + 25-50% trim same session. (4) If NVDA exits, Tue Sep 15 = second mandatory deploy (Materials/Financials/Industrials screen in Tue pre-market). Watch: NVDA $211.28 / $210.15; OXY $63.85 (live); AEM $183.60 (6.1%), XLV $159.20 (4.5%), MDT $85.27 (6.9%). Ratchet watches: AEM $208.65+ / MDT $94.75+ / NVDA q84 $234.76+ / q26 $230.98+ / OXY $62.25+ / XLV q80 $172.31+ / q40 $176.60+.**
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/kind-johnson-otfsy8` -- this run executed but its PR was never merged to main._
+## 2026-09-14 -- Pre-market Research (Mon, Day 97, Week 21 -- RUN INLINE AT MARKET-OPEN; NO SEP 9-13 LOGS EXIST, GAP RECONSTRUCTED FROM ALPACA ORDER HISTORY)
+
+### Account
+- Equity: **$101,184.39** at 9:40 ET (last_equity $101,847.01; **-$662.62 / -0.65%** on the open)
+- **Phase P&L +$1,184.39 (+1.18%)** -- gave back ~$3.7K since the Sep 8 midday print ($104,752 pre-market Sep 8)
+- Cash: **$42,209.95 (41.7%) / 58.3% deployed** -- **RULE-2 BREACH, mandatory deploy this session.** Buying power $333,968 (irrelevant, no margin).
+- Daytrade count: not returned; PDT clean (swings only, no round-trips in window)
+- **Gap reconstruction (Sep 9-13, no runs logged):**
+  - **XLI trail FIRED Thu Sep 10 13:31 UTC -- SOLD 130 @ $170.94** (stop $171.41, hwm $180.96). Realized **-$392.91 (-1.74%)** vs $173.962385 entry. **Industrials strike 1** (rolling 90d). ~$22.2K to cash Thursday -- never redeployed Fri.
+  - **NVDA 84-sh trail FIRED TODAY 13:33 UTC -- SOLD 84 @ $209.37** (stop $211.2795, hwm $234.755; gap-down slippage -$1.91/sh). Realized **-$1,268.40 (-5.65%)** vs $224.47. **Tech strike 2** (SMCI Aug 18 = strike 1; no winning Tech exit since) -> **TECH PAUSED 20 sessions from today (~Oct 12).** DELL/any Tech entry illegal.
+  - **NVDA 26-sh add** (Sep 8 @ $230.81) now $209.25 = **-9.3% on its fill / -7.4% blended -> rule-8 mandatory cut** (trail $207.873 is 0.7% below, but the rule is manual at -7%). Cut executes at market-open run.
+- **Positions (5 at 9:40 ET, live marks):**
+  - **AEM 69** @ $196.67 -> $194.115 (-$176 / -1.30%; **-3.12% day**) -- 12% trail $183.6032, hwm $208.64 (ratcheted from $207.68 during the gap); 5.4% above stop
+  - **MDT 100** @ $92.85 -> $93.545 (+$69.50 / +0.75%; +2.84% day) -- 10% trail $85.266, hwm $94.74; MiniMed exchange offer launched today, MS HC conf Tue
+  - **NVDA 26** @ $230.81 fill -> $209.245 (**-$561 / -9.3%**) -- CUT TODAY (rule 8)
+  - **OXY 170** @ $55.52 -> $62.64 (+$1,210 / +12.83%; +1.92% day) -- grandfathered (Energy PAUSED ~Sep 24); trail $56.583, hwm $62.87 (ratcheted from $62.145); **+15% trigger $63.85 = 1.9% away -- LIVE pre-write**
+  - **XLV 120** @ $156.202167 -> $167.86 (+$1,399 / +7.46%; +1.51% day) -- trails $159.20 q80 / $158.931 q40; +15% $179.63 = 7.0% away
+- Open trail stops after the NVDA 84 fill: **6 GTC** (NVDA q26 269907e7 -- to be cancelled for the cut; XLV q80 92392985; MDT 56cd1813; AEM 8571f428; OXY 5c6a22b8; XLV q40 a2fda910). Nearest expiry XLV q40 Oct 6.
+- Weekly count: **0/6 (Week 21 fresh)**; run-cap 3 buys / 6 positions / 20% per position.
+- **Sector mix (of $101,184):** Healthcare 29.15% (XLV 19.91% + MDT 9.24% -- CAPPED, no adds); Materials 13.24% (AEM); Energy 10.52% (OXY, PAUSED); Tech 5.38% (NVDA rump, exiting; PAUSED); Industrials 0% (strike 1); Cash 41.7%.
+- **Open sectors for deployment:** Communication Services, Consumer Discretionary, Financials, Utilities, Real Estate (clean); Industrials + Staples (strike 1 each -- allowed, one more loss pauses); Materials (~$17K room). **Closed:** Tech (paused), Energy (paused), Healthcare (capped).
+
+### Market Context
+- **Oil: WTI ~$103, Brent ~$109** -- Hormuz premium fully lit. Inflation tail into FOMC.
+- **ES -0.4% to -0.8% pre; SPY ~$759 at 9:43 ET (~-0.7%), QQQ ~$704 (-2.4% since Sep 8 vs SPY -1.2%)** -- Tech/AI-infra leading the selling: VRT ~$230-240 vs $257 Fri close (-7 to -11%), GEV well off; "AI executives urge slower frontier development" + US-Canada tariff escalation headlines.
+- **VIX 15.84** (< 16.5; not a panic tape, a hawkish one).
+- **Last week: CPI Aug headline +0.4% m/m / 3.4% y/y, core +0.3% m/m / 2.4% y/y -- core monthly hot -> Sept hike odds ~85-90% for 25 bp. FOMC Wed Sep 16 14:00 ET + SEP/dots + presser (Chair Warsh).** Also Wed: retail sales, IP. Thu: LEN earnings. Fri: triple witching.
+- **Sector tape:** last week Energy + Tech led, Materials/Discretionary/Industrials/Real Estate lagged. YTD: Energy +42-46%, Materials +16%, Industrials +13%, Healthcare +10%. **Today's RS: Communication Services -- GOOGL $343.5 (+1.5% vs $338.50 Fri), META $660.5 (+1.9% vs $648.03) green on a red tape.** Financials soft (GS $1,007 vs $1,029 Fri, -2.2%). Gold miners hit (AEM -3.1%, NEM soft); FCX ~$68 vs $71.07 (-4%). Defensives flat (PG ~$147, WMT ~$108.7).
+- **Today:** no major US data; T-bill auctions 15:30.
+
+### Held-ticker News
+- **NVDA**: no company-specific shock -- AI-spending-slowdown narrative + tariff risk-off + semis broadly weak; $218 Fri -> $209 open. Both lots exiting (trail + rule-8 cut). Tech paused.
+- **MDT**: launched exchange offer to complete MiniMed separation (tax-free split-off); FY27 guide raise intact; MS HC conf Sep 15. Constructive, +2.8% today.
+- **AEM**: Q2 record FCF on $4,483/oz realized; $0.45 dividend payable Sep 15. Today -3.1% = gold sold on hike odds/dollar. 5.4% above the 12% trail -- hold, no action.
+- **OXY**: crude $103 -> +1.9%, +12.83% on entry. **$63.85 +15% pre-write LIVE (1.9% away): 7% tighten + trim 43-85 sh same session.**
+- **XLV**: +1.5%, defensive bid; +7.46%. 52-wk +19.4%.
+
+### Trade Ideas
+1. **GOOGL -- BUY 58 sh @ ~$343.77 (~$19.9K, 19.7% of equity) -- EXECUTES THIS RUN (trade 1/3 run-cap, 1/6 week).** Sector: Communication Services (clean, 0 strikes, 0% held). Catalyst: judge rejected DOJ bid to force the AdX divestiture (antitrust overhang lifted) + Gemini AI feature push across Workspace + cloud growth; **+1.5% today vs SPY -0.7% = relative strength on a hawkish tape**; 1-yr +40.6% vs SPX +16.2%. Down ~18% from the May peak (~$413) = room to re-rate, not a chase. Stop: 10% GTC trail (~$309). Target $410 (May-peak retest, +19%). R:R ~1.9:1 on the trail, 2.7:1 on the rule-8 cut.
+2. **AMZN -- BUY 68 sh @ ~$257 (~$17.5K, 17.3% of equity) -- EXECUTES THIS RUN (trade 2/3 run-cap, 2/6 week).** Sector: Consumer Discretionary (clean, 0 strikes, 0% held). Catalyst: reported up-to-$60B Qualcomm data-center chip purchase (AI-infra capex on Amazon's own terms) + AWS/NVDA collaboration; +1.94% Fri, holding flat today while the AI-infra complex is -7-11% = relative strength within the theme. Stop: 10% GTC trail (~$231). Target $300 (+16.7%). R:R ~1.7:1 on the trail, 2.4:1 on the rule-8 cut.
+3. **Rejected:** VRT/GEV/CAT/ETN (Industrials AI-power -- gapping down 7-11% today, -12% 1-mo; falling knife + Industrials strike 1); FCX/NEM (Materials -4%/soft, gold/copper sold into the hike); GS/XLF (Financials -2%, no RS); META (would breach the 30% Comm Services cap alongside GOOGL); DELL/any Tech (PAUSED); SLB/CVX (Energy PAUSED); PG/WMT (defensive, not leaders; Staples strike 1).
+4. **Post-deploy book:** 6 positions (AEM, MDT, OXY, XLV, GOOGL, AMZN); cash ~$10.2K (~10%), **deployment ~89.9%** -- floor cleared, inside/at the 90% target. Sector mix: Healthcare 29.2%, Comm Svcs 19.7%, Discretionary 17.3%, Materials 13.2%, Energy 10.5%. All caps compliant.
+5. **Pre-writes armed:** OXY >= $63.85 -> 7% tighten + trim 43-85 sh (LIVE); XLV >= $179.63 -> tighten + trim 30-60 sh; AEM >= $226.17 -> tighten + trim 17-35 sh.
+
+### Risk Factors
+- **FOMC Wed -- 25 bp hike ~85-90% priced; the dots/presser are the binary.** A hawkish path = another leg down in growth; two fresh mega-cap entries carry that. Trails are the guard; no adds before Wed.
+- **Oil $103 / Hormuz** -- inflation tail + risk-off; OXY is the hedge (exit-side only, paused sector).
+- **AI-infra unwind** (VRT/GEV/NVDA) can bleed into AMZN/GOOGL (both are AI capex payers, not sellers -- less exposed, not immune).
+- **Tariff escalation (US-Canada)** headline risk.
+- AEM 5.4% above the 12% trail after -3.1% -- a gold flush stops it out at a small loss = Materials strike 1.
+- Deploying ~$37K into a -0.7% tape is rule-2-mandated, not tape-chosen: cash sat at 24% from Thu and 47% after today's NVDA exits; the rulebook removes the roll-forward option.
+
+### Decision
+**DEPLOY at the market-open run: (1) cancel NVDA q26 trail + market SELL 26 NVDA (rule-8 cut); (2) BUY 58 GOOGL (~$19.9K) + 10% GTC trail; (3) BUY 68 AMZN (~$17.5K) + 10% GTC trail. No third buy (6-position cap). Deployment 58% -> ~90%. Watch OXY $63.85 (1.9% away) tighten+trim; AEM $183.60 trail = nearest stop (5.4%). Tech PAUSED ~Oct 12; Energy PAUSED ~Sep 24; Industrials + Staples strike 1; Healthcare capped. Ratchet watches AEM $208.65+ / MDT $94.75+ / OXY $62.88+ / XLV q80 $172.31+ / q40 $176.60+.**
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/adoring-cray-wkwoy3` -- this run executed but its PR was never merged to main._
+## 2026-09-14 -- Midday Addendum (Mon, Day 99, Week 21 -- NO PRE-MARKET ENTRY LOGGED TODAY; written at the 13:08 ET midday scan)
+
+### Context recovered from Alpaca order history (no logs Sep 8 PM -> Sep 14 AM)
+- **Sep 10 13:31 UTC:** XLI $9.55 trail fired, 130 @ $170.94, realized -$392.91 (-1.74%). Industrials strike 1.
+- **Sep 14 13:33 UTC:** NVDA 10% trail fired, 84 @ $209.37 (-6.73%); **13:41 UTC** 26-sh add lot cut at market $209.353846 (-9.30%). Campaign -$1,826.22 (-7.35%). **Tech strike 2 (SMCI Aug 18 + NVDA Sep 14) -> Tech PAUSED through ~Oct 12.**
+- **Sep 14 13:45 UTC:** BOUGHT GOOGL 58 @ $344.881896 ($20,003) + AMZN 68 @ $254.15 ($17,282); 10% GTC trails on both ($313.083 / $229.5495). Weekly count 2/6 (Week 21).
+
+### Intraday cause check (Perplexity, 13:08 ET)
+- **NVDA $226 (Sep 8) -> ~$209 today:** renewed US AI-chip export-control / licensing pressure on China sales + broad AI-capex/"AI leadership" repricing; no earnings event, no single downgrade. Exit was the trail doing its job on a thesis that broke on policy, not fundamentals -- no re-entry possible anyway (Tech paused).
+- **GOOGL +2.5% / AMZN flat:** rotation out of semis into diversified AI platforms (GOOGL / AMZN / MSFT) on Google Cloud AI-monetization sentiment; no negative company headlines. Supports the morning entries; both are non-Tech GICS (Comm Services / Cons Disc), legal under the pause.
+- **Gold / AEM -1.55%:** real-rate repricing after last week's PPI/CPI into FOMC; no AEM-specific news. HOLD, 6.9% above trail.
+- **Tape:** SPY $762.4 / QQQ $711.4 midday (SPX futures were higher pre, Nasdaq weaker); no US data today; **FOMC Sep 15-16** is the week's binary; MDT presents at Morgan Stanley HC conf Tue.
+
+### Decision
+**HOLD -- no midday orders.** No -7% cuts, no +15%/+20% prints, no thesis breaks. **OXY $63.85 (+15%) is 2.85% away -- live pre-write: 7% tighten + trim 43-85 sh same session.** Cash 10.23% / 89.77% deployed (under 90% target, above 85% floor, rule-2 trigger not tripped) -- Tue pre-market names a one-slot (~$5-10K) candidate outside Tech/Energy/Healthcare-cap or documents an FOMC hold. Nearest stop XLV q80 $159.20 (4.9%).
+
 ## 2026-09-15 -- Pre-market Research (Tue, Day 100, Week 21 -- FOMC DAY 1; BOOK RESET AFTER NVDA/XLI STOP-OUTS)
 
 ### Account
@@ -5455,3 +5598,254 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- no orders before the FOMC decision (2:00pm ET). Market-open run today: (1) all 7 trails confirmed live, no ratchets; (2) OXY $63.85 tighten+trim NOT printed -- no action; (3) NO adds (cash 10.26% < 15%, binary pending). Thu Sep 17 market-open: top-up per idea 2 (AEM add primary, gold > $4,400 gate). Watch: GOOGL $320.74 / AMZN $236.36 cut lines; XLV $179.63, AEM $226.17, OXY $63.85 pre-writes; Tech PAUSED ~Oct 12, Energy PAUSED ~Sep 24, Healthcare 29.22% capped.**
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/charming-euler-4cid1l` -- this run executed but its PR was never merged to main._
+## 2026-09-16 -- Pre-market Research (Wed, Day 101, Week 21 -- FOMC DECISION DAY 2:00pm ET; HIKE ~80-90% PRICED; OXY 1.09% UNDER THE +15% TRIGGER)
+
+### Account
+- Equity: **$101,411.18** (last_equity $101,147.90 = Sep 15 close; **+$263.28 / +0.26%** on extended-hours marks)
+- **Phase P&L +$1,411.18 (+1.41%)**
+- Cash: **$10,367.80 (10.22%) / 89.78% deployed** -- 22 bps under the 90% target, above the 85% floor; rule-2 clock NOT triggered (cash < 15%). Buying power $296,393 (RegT $111,779) -- irrelevant, no margin use.
+- Daytrade count: not returned by account endpoint; PDT preserved (swings only, zero round-trips in 5-day window)
+- **Positions (6, extended-hours marks):**
+  - **AEM 69** @ $196.67 -> $199.96 (+$227.01 / +1.67%; +1.55% pre on gold +1%) -- 12% trail $183.6032, hwm $208.64; 8.2% above stop; RBC PT $210 -> $225; +15% trigger $226.17 = 13.1% away
+  - **AMZN 68** @ $254.15 -> $249.30 (-$329.80 / -1.91%; +0.35% pre) -- 10% trail $230.355, hwm $255.95; -7% cut line **$236.36 = 5.2% below**; 7.6% above stop; day 3, worst in book
+  - **GOOGL 58** @ $344.881897 -> $345.63 (+$43.39 / +0.22%; +0.19% pre) -- 10% trail $314.919, hwm $349.91; -7% cut line **$320.74 = 7.2% below**; 8.9% above stop; day 3
+  - **MDT 100** @ $92.85 -> $93.50 (+$65.00 / +0.70%; -0.27% pre) -- 10% trail $85.266, hwm $94.74; 8.8% above stop; MiniMed exchange offer live (7% discount)
+  - **OXY 170** @ $55.52 -> $63.16 (+$1,298.87 / **+13.76%**; -0.57% pre on crude -1/-2% overnight) -- grandfathered (Energy PAUSED ~Sep 24); trail $57.393, hwm $63.77; **+15% trigger $63.85 = 1.09% away -- LIVE pre-write, day 3 on watch**
+  - **XLV 120** @ $156.202167 -> $168.00 (+$1,415.74 / +7.55%; +0.20% pre) -- trails $159.20 q80 (exp Dec 3) / $158.931 q40 (exp Oct 6); 5.2% above the q80 trail; +15% trigger $179.63 = 6.9% away
+- Open trail stops: **7 GTC, all 585 shares covered** (AMZN 258fad3c, GOOGL f6c69479, XLV q80 92392985, MDT 56cd1813, AEM 8571f428, OXY 5c6a22b8, XLV q40 a2fda910). No ratchets overnight (hwms unchanged from EOD). Nearest expiry XLV q40 Oct 6 -- no housekeeping due.
+- Weekly count: **2/6 (Week 21: GOOGL + AMZN Mon)**
+- **Sector mix** (of $101,411.18): Comm Svcs 19.77% (GOOGL); Cons Disc 16.72% (AMZN); Healthcare 29.10% (XLV 19.88% + MDT 9.22% -- under 30% cap, ~$0.9K headroom); Materials 13.61% (AEM -- room to 30% = ~$16.6K); Energy 10.59% (OXY -- PAUSED); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Cash 10.22%. All caps compliant. No single name > 25%.
+
+### Market Context
+- **Oil: WTI ~$103.7-105.1, Brent ~$107.6-108.4** -- printed a 4-month high > $105 overnight (Hormuz/Saudi-strike premium), easing -1/-2% into the US morning. Still > $100 = OXY tailwind (exit-side only) + inflation tail.
+- **ES ~7,667-7,673 (+0.1% to +0.2%), NQ ~29,350 (+0.35%)** -- modest bounce after Tue's SPX -0.45% / Nasdaq -0.78% close (7,585.73). Pre-Fed positioning, not conviction.
+- **VIX 16.90-17.05 (-1% to -2% from 17.20 close)** -- 17-handle holding into the decision; Oct VIX future 18.45 = market pricing post-Fed vol, not relief.
+- **Gold ~$4,375 (+1%)** -- reclaiming ground from $4,330s; still under the $4,400 AEM-add gate.
+- **FOMC TODAY 2:00pm ET + SEP/dots, Chair Warsh presser 2:30pm.** Hike odds **~80-90%** (CME FedWatch ~90% as of Sep 11 post-CPI; Morgan Stanley earlier framed 50-50). First hike in 3 years is largely priced -- the swing factor is guidance/dots and whether Warsh signals one-and-done vs a path. 10-yr reported above 5%.
+- **Last week's prints (recovered from the log gap): Aug CPI +0.4% m/m / 3.4% y/y headline, core +0.3% m/m (BLS Sep 11; core y/y cited at 2.4% -- inconsistent with headline, unverified); Aug PPI +0.4% m/m (goods +1.1%, services +0.1%).** Hot enough to cement the hike.
+- **TODAY:** Retail sales 8:30 (cons +0.8% m/m vs -0.6% prior; core est +0.2%), import/export prices 8:30, business inventories + NAHB HMI 10:00 (cons 37 vs 35), EIA crude 10:30, **FOMC 2:00 / presser 2:30.** Earnings: ISPR / LUXE BMO (immaterial), **LEN AMC** (housing read on a hike). **Nothing held reports.**
+- **Sector YTD: Energy +47.6%, Tech +27.7%, Materials +11.9%, Industrials +9.2%, Healthcare +8.4%, Financials +3.4%, Comm Svcs -3.1%, Cons Disc -7.1%.** 1-month: Energy +6.6%, Tech -3.2%, Materials -3.5%, Industrials -9.2%. Leadership = Energy (PAUSED) / Tech (PAUSED); Materials is the only open leader and it is fading on 1M. Book still carries 36.5% in the two YTD-laggard sectors (GOOGL/AMZN).
+
+### Held-ticker News
+- **AMZN**: no fresh company news; pre quotes scattered $248.5-252.3 (feed-timestamp noise), Alpaca mark $249.30 (+0.35%). 21 Air / cargo-crash headline aged out. Long-duration = most Fed-sensitive name in book.
+- **GOOGL**: -1.2% Tue on yields/oil/AI-regulation chatter, no single catalyst; pre flat ($345.63). Constructive AI/Cloud narrative intact (three-day rally into $380 resistance last week). Day 3, +0.22%.
+- **MDT**: Morgan Stanley HC conf (CFO Pieton, Sep 15) -- growth framed around AI, pulsed-field ablation, targeted M&A; no guidance change. **MiniMed exchange offer live since Sep 14 (7% discount, >= 80.1% split-off)** -- arb selling pressure possible through the offer window; stock +3.2% Mon, flat Tue ($93.73). 8.8% cushion.
+- **OXY**: no company news; pure crude beta. WTI at a 4-month high overnight then -1/-2% -> pre $63.16 (-0.57%). Trigger $63.85 needs a +1.09% print.
+- **AEM**: **RBC PT raised $210 -> $225**; Delta/Helm Bay project sale to Vizsla Copper (minor); Q2 record FCF at $4,483 realized gold. Gold +1% -> pre +1.55%. Best RS name in book today.
+- **XLV**: quiet; no sector-level driver. Healthcare 29.10% -- a +3% XLV day breaches the 30% cap.
+
+### Trade Ideas
+1. **OXY +15% pre-write -- THE LIVE ONE (1.09% away, day 3 on watch).** If OXY prints **>= $63.85** intraday: (a) cancel trail 5c6a22b8, (b) SELL 43-85 sh market (25-50% trim), (c) place fresh **7% GTC trail** on the rump (stop >= $57.393 -- never move down). Exit-side action is legal under the Energy pause. Trim proceeds (~$2.7-5.4K) join the cash sleeve. NOT a weekly slot. Crude -1/-2% overnight makes a pre-2pm print less likely than yesterday; a hawkish Fed + strong dollar could push it further away -- no chasing, the trigger is the trigger.
+2. **Post-FOMC top-up to 90-95% -- Thu Sep 17 market-open run, NOT today.** Sleeve ~$10.4K (+ any OXY trim). **Primary: AEM add** (Materials room ~$16.6K; single-name room to 25% ~$11.6K). Gates unchanged: gold > $4,400 AND AEM > $200 at Thu open with no gap > +3%. Gold $4,375 / AEM $199.96 pre = both gates ~0.5% short today; a dovish-leaning presser (one-and-done) likely clears both, a hawkish dot path likely fails both. Size ~25 sh (~$5K) -> AEM ~18.4% of book; separate 12% GTC trail; entry ~$200 / stop ~$176 / target $246 (+23%) = ~2:1. RBC $225 PT supports. **Secondary (Materials, if AEM gates fail but sector holds): FCX / NEM screen at Wed midday** -- same 12% trail, ~$5K. Fallback if Materials breaks down post-Fed: no forced deploy into a broken tape Thu; Fri is the rule-2 hard deadline (cash 10.2% < 15%, so no violation yet). Would be trade 3/6.
+3. **GOOGL / AMZN FOMC management -- HOLD, lines pre-written.** Manual -7% cuts: **AMZN < $236.36** (5.2% below), **GOOGL < $320.74** (7.2% below); trails $230.36 / $314.92 sit just below each. A hawkish surprise (hike + steep dots) is the scenario that tests AMZN first. No adds (sector-momentum flag stands for Friday review). No pre-emptive selling into the decision -- the trails are the risk control.
+4. **Standing pre-writes:** XLV >= $179.63 (+15%, 6.9% away) -> 7% tighten + trim 30-60 sh (also cures any Healthcare cap breach); AEM >= $226.17 (+15%) -> tighten + trim 17-35 sh.
+
+### Risk Factors
+- **FOMC 2pm on an 89.8%-deployed book: hike ~80-90% priced, so the tail is the dots/presser.** Hawkish path (2+ more hikes) = long-duration sell-off -> GOOGL/AMZN (36.5% of book) lead down; AMZN cut line 5.2% away is the nearest manual line. Dovish one-and-done = relief rally, clears the Thu AEM gates.
+- **10-yr > 5% + oil > $100** -- dual valuation/inflation headwind; consumer read-through on AMZN.
+- **Retail sales 8:30** -- a hot print (+0.8% cons) adds to the hawkish case before the decision.
+- **Healthcare 29.10% = 0.9pp under cap** -- any +3% XLV day forces a trim-on-strength; MDT MiniMed arb window pressure is the offset.
+- **OXY trigger 1.09% away with crude fading** -- risk is a whipsaw print above $63.85 then a reversal; rule 14 says same-session trim on the print regardless.
+- **Materials 1M -3.5%** -- the only open leadership sector is losing momentum; a Thu AEM add is a single-name RS bet (RBC PT, gold +1%), not a sector-momentum bet. Log the justification if executed.
+- **Deployment 89.78% = 22 bps under target** -- Thu top-up is mandatory-in-spirit; do not roll past Friday.
+
+### Decision
+**HOLD -- no new entries before the FOMC decision (2:00pm ET). Market-open run today: (1) confirm all 7 trails live and ratchets (AEM $208.65+ / AMZN $255.96+ / GOOGL $349.92+ / MDT $94.75+ / OXY $63.78+ / XLV q80 $172.31+ / q40 $176.60+), (2) execute the OXY >= $63.85 tighten+trim if printed, (3) NO adds. Midday: run the FCX/NEM secondary screen for Thu. Thu Sep 17 market-open: post-FOMC top-up per idea 2 (AEM add primary, gates gold > $4,400 AND AEM > $200, no gap > +3%). Watch: AMZN $236.36 / GOOGL $320.74 cut lines; XLV $179.63, AEM $226.17 pre-writes; Tech PAUSED ~Oct 12, Energy PAUSED ~Sep 24, Healthcare 29.10% capped.**
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/adoring-cray-ryxo0o` -- this run executed but its PR was never merged to main._
+### 2026-09-16 -- Afternoon Addendum (midday scan, 13:06 ET, pre-FOMC)
+- **Sharp mover:** OXY **-4.72%** to $60.52 (worst in book today). Perplexity (13:06 ET): **WTI -3.9% to ~$101.7, Brent ~$104.4** -- US Energy Secretary Wright said Saudi Arabia's damaged East-West pipeline should resume within days (supply-fear unwind off the >$105 4-month high), plus a surprise US crude inventory build. No OXY company news -- pure crude beta. Crude still > $100 = thesis intact; trail $57.393 (5.2% below) governs. +15% trigger $63.85 now 5.5% away -- trim pre-write unlikely to fire this week unless crude re-rallies.
+- **FOMC:** decision NOT released as of 13:06 ET (2:00pm ET). Hike ~90% priced; hold = dovish surprise. No adds before the print (plan unchanged).
+- Rest of book quiet into the decision: AEM +0.59% (gold firm), XLV +0.36%, MDT +0.13%, GOOGL +0.06%, AMZN -0.29%. Equity $100,767.54 (-0.38% day), 89.71% deployed.
+- **Decision: HOLD -- no orders.** EOD run: read the FOMC reaction, re-check GOOGL $320.74 / AMZN $236.36 cut lines, confirm OXY trail live. Thu top-up per idea 2 stands.
+- **Log-chain fix:** `origin/main` stuck at Sep 8 (5a4a75f); Sep 15-16 commits are on branch `claude/adoring-cray-ryxo0o` only. Cause = 20 unmerged run PRs (#195-#214); Sep 9-14 runs are recoverable from PRs #207-#213. PR for this branch opened this run; merge queue oldest-first to restore the chain.
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/kind-johnson-x9ak6d` -- this run executed but its PR was never merged to main._
+## 2026-09-17 -- Pre-market Research (Thu, Day 102, Week 21 -- POST-FED TOP-UP DAY; 25 bp HIKE DELIVERED, HAWKISH DOTS)
+
+### Account
+- Equity: **$100,854.09** (last_equity $99,957.47; **+$896.62 / +0.90%** on extended-hours marks)
+- **Phase P&L +$854.09 (+0.85%)**
+- Cash: **$10,367.80 (10.28%) / 89.72% deployed** -- 28 bps under the 90% target, above the 85% floor; rule-2 clock NOT triggered (cash < 15%). Buying power $294,833 (RegT $111,222) -- irrelevant, no margin use.
+- Daytrade count: not returned by account endpoint; PDT preserved (swings only, zero round-trips in 5-day window; closed-order history shows no fills since the Sep 14 GOOGL/AMZN entries)
+- **Positions (6, 11:03 UTC extended-hours marks):**
+  - **AEM 69** @ $196.67 -> $199.44 (+$191.13 / +1.41%; **+1.98% vs Wed close**) -- 12% trail $183.6032, hwm $208.64; 7.9% above stop; **Thu add gate NOT met: AEM $199.44 < $200 (marginal), gold $4,308-4,370 < $4,400 (both feeds)**
+  - **AMZN 68** @ $254.15 -> $249.51 (-$315.52 / **-1.83%**; +1.44%) -- 10% trail $230.355, hwm $255.95; -7% cut line **$236.36 = 5.3% below**; 7.7% above stop; day 4
+  - **GOOGL 58** @ $344.881897 -> $346.80 (+$111.25 / +0.56%; +1.15%) -- 10% trail $314.919, hwm $349.91; -7% cut line **$320.74 = 7.5% below**; day 4
+  - **MDT 100** @ $92.85 -> $93.15 (+$30.00 / +0.32%; +0.59%) -- 10% trail $85.266, hwm $94.74; 8.5% above stop
+  - **OXY 170** @ $55.52 -> $59.30 (+$642.67 / **+6.81%**; -0.10%) -- grandfathered (Energy PAUSED ~Sep 24); trail $57.393, hwm $63.77 -- **NEAREST STOP, 3.2% below**; +15% trigger $63.85 now 7.7% away (dormant)
+  - **XLV 120** @ $156.202167 -> $168.78 (+$1,509.71 / +8.05%; +0.60%) -- trails $159.20 q80 (exp Dec 3, 5.7% below) / $158.931 q40 (exp Oct 6); +15% trigger $179.63 = 6.4% away
+- Open trail stops: **7 GTC, all 585 shares covered** (AMZN 258fad3c $230.355, GOOGL f6c69479 $314.919, XLV q80 92392985 $159.20, MDT 56cd1813 $85.266, AEM 8571f428 $183.6032, OXY 5c6a22b8 $57.393, XLV q40 a2fda910 $158.931). **No overnight ratchets** -- all seven hwms unchanged from the Sep 16 EOD snapshot. Nearest expiry XLV q40 Oct 6.
+- Weekly count: **2/6 (Week 21: GOOGL + AMZN Mon)**
+- **Sector mix** (of $100,854.09): Comm Svcs 19.94% (GOOGL); Cons Disc 16.82% (AMZN); Healthcare 29.32% (XLV 20.08% + MDT 9.24% -- under 30% cap, ~$0.7K headroom); Materials 13.64% (AEM); Energy 10.00% (OXY, PAUSED); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Financials 0%; Staples 0%; Cash 10.28%. All caps compliant. No single name > 25%.
+
+### Market Context
+- **FOMC RESULT: 25 bp HIKE to 3.75-4.00%, unanimous** (first hike since 2023). **Dots: 16 of 18 see at least one more hike this year** -- hawkish. Warsh presser: price stability first, growth strong, labor tight. Reaction Wed: Dow -631 (low -757), S&P 7,585.73 (-0.45%), Nasdaq -0.78%, **10-yr ~5%**, yields surged. Gold sold to ~$4,235 intraday post-decision, recovered to $4,308-4,370 premarket.
+- **Oil holding > $100: WTI ~$102-104, Brent ~$105-108** -- no relief from the hike; OXY flat premarket after Wed's -6.5%.
+- **ES ~7,667 / NQ ~29,349 premarket** per the futures feed (firm); Alpaca extended-hours marks on GOOGL/AMZN/AEM +1.2-2.0% agree -- **bounce bid after the Fed-day flush**. Treat as a relief bounce until 8:30 data clears.
+- **VIX 17.71 (Wed close, from 17.20)**; Cboe delayed spot ~16 premarket (unverified). Fear regime intact, not spiking.
+- **TODAY 8:30 ET: Initial jobless claims, Housing Starts, Philly Fed manufacturing.** A hot Philly Fed / low claims print extends the hawkish leg. No CPI/PPI (next CPI Oct 14). BMO earnings: IPHA, IH, VFS, DAVA, KNDI, UPXI, RZLT -- nothing material. **Nothing held reports.**
+- **Sector YTD: Energy +43-44% (leader); Cons Disc -7.7% (worst), Comm Svcs / Utilities weak.** **Fed-day leaders: Financials + Consumer Staples; Tech in the lagging quadrant.** Financials/Staples = the pre-committed fallback lane for today's top-up. Book still carries 36.8% in the two YTD laggard sectors (Friday review flag stands).
+
+### Held-ticker News
+- **AMZN**: **$2.4B long-term Generac backup-generator deal for data centers (deliveries 2027-28) + warrants on ~$340M of GNRC stock**; raised US ops minimum wage to $20/hr (~$24 avg) + grocery/banking benefits. Closed $245.96 (-0.99%), AH $247.81, Alpaca mark $249.51 (+1.44%). Constructive on AI-infra positioning; wage raise = small margin headwind. No thesis break.
+- **GOOGL**: Closed $342.87 (-0.61%). Wed: renewed antitrust/regulatory focus + heavy AI capex + a Pixel security incident. **Thu: Alphabet + Blackstone secure $22B in bank loans for Crux AI's TPU buildout**; report of new ad-tech rules and an antitrust monitor. Mark $346.80 (+1.15%). Two-way: AI-infra scale vs regulatory drag. No thesis break.
+- **MDT**: no fresh headline; MiniMed exchange-offer window still open (7% discount arb pressure possible). Mark +0.59%.
+- **OXY**: no company news (research feed could not attribute Wed's -6.47% beyond crude off the $105 high + hawkish Fed). Crude back > $102 overnight; mark $59.30 flat. **Trail $57.393 = 3.2% below -- first stop to fire on a crude down day.** Note: a $57.39 stop-out = +3.4% on entry = WINNING exit -> resets the Energy strike count under rule 12 (intervening winning exit).
+- **AEM**: gold $4,308-4,313 (TradingEconomics premarket) / $4,369.80 +0.85% (other feed) -- both < $4,400 gate. Mark $199.44 (+1.98%). No company news.
+- **XLV**: quiet, +0.60%. Staples/defensives led Fed day; Healthcare not cited.
+
+### Trade Ideas
+1. **Post-Fed top-up to 90-95% (~$5K, trade 3/6) -- TODAY at the market-open run. Must not roll past Friday.**
+   - **Primary (AEM add ~25 sh) -- gate currently FAILED on both legs** (gold $4,308-4,370 < $4,400; AEM $199.44 < $200). Re-check at the open: fires only if gold > $4,400 AND AEM prints $200.01-$201.44 (< +3% gap vs $195.57 close). Gold needs +2% from the low feed -- **treat as unlikely; do not wait for it.**
+   - **Fallback A (primary today): Citigroup C -- ~$5K notional (~37 sh at the ~$135 Wed close).** Catalyst: 25 bp hike + one more dotted = NIM tailwind; Financials led Fed day. RS: **C +18.5% YTD** (vs JPM +10.2%, BAC +9.9%), 52-wk high $147.96 (8.7% above). Entry: market at open IF C > Wed close AND Financials green at 9:35 ET; **10% GTC trail (~$121.60 at $135)**; -7% manual cut ~$125.67; target 1 = $147.96 52-wk high retest (+9.5%), target 2 = $154 (+14%, 2:1 on the cut line). Financials sector would be ~5% of book (no cap issue). NOT Tech/Energy/Healthcare -- lane is legal.
+   - **Fallback B (alternate): JPM -- ~$5K notional (~14 sh at the ~$349 Wed close).** Cleanest large-cap NIM beneficiary; 52-wk high $366.50 (4.8% above). 10% GTC trail (~$314); cut ~$324.50; target $366.50 then $398. Lower R:R than C -- use only if C gaps > +3% or trades red while JPM is green.
+   - **PRICE-DATA CAVEAT:** Alpaca latest-quote endpoint returned stale closing-auction bids for non-held names (C $126.80, JPM $327.37 -- ~6% below the Perplexity closes $135.13 / $348.92). **Market-open run MUST size off the live quote, not these numbers.**
+   - **Skip conditions:** SPX gaps < -1% at the open, candidate gaps > +3%, or 8:30 data triggers a second hawkish leg (10-yr > 5.10%). If skipped today, it becomes MANDATORY Friday (trade 3/6) -- no third roll.
+2. **OXY -- nearest stop, 3.2% cushion. HOLD, trail governs, no manual action.** Grandfathered under the Energy pause; a $57.393 stop-out is a winning exit (+3.4%) and resets Energy strikes. +15% pre-write ($63.85: cancel 5c6a22b8, SELL 43-85 sh, fresh 7% trail, stop >= $57.393) stays armed but dormant (7.7% away).
+3. **GOOGL / AMZN day-4 management -- HOLD, lines pre-written.** Manual -7% cuts **GOOGL < $320.74, AMZN < $236.36** (trails $314.92 / $230.36 just below). Both bouncing premarket (+1.2% / +1.4%). No adds (sector-momentum flag). If either closes red on entry Friday with SPX up, rotate per rule 11 at the weekly review -- not before.
+4. **Standing pre-writes:** XLV >= $179.63 (+15%, 6.4% away) -> 7% tighten + trim 30-60 sh (also cures any Healthcare cap breach); AEM >= $226.17 (+15%) -> tighten + trim 17-35 sh.
+
+### Risk Factors
+- **Hawkish Fed path (16/18 dots for another hike, 10-yr ~5%)** -- long-duration names GOOGL/AMZN = 36.8% of book with 7.5% / 5.3% cushions to the manual cut lines. The premarket bounce can fade on 8:30 data.
+- **Oil > $100 sustained** = inflation loop that keeps the Fed hawkish; OXY is the hedge but sits 3.2% from its trail -- first to fire on a crude reversal.
+- **8:30 ET claims / Philly Fed / Housing Starts** -- a hot print = second hawkish leg = skip the top-up today (rolls to Fri, mandatory).
+- **Financials entry into a hiking cycle**: NIM tailwind vs credit-cycle risk; the research feed notes Financials have been under a relative-strength ceiling as a sector -- the case is single-name RS (C +18.5% YTD), not sector leadership. 10% trail is the control.
+- **GOOGL regulatory drag** (antitrust monitor, ad-tech rules, Pixel security incident) vs AI-infra scale ($22B Crux loans) -- two-way headline risk.
+- **MDT MiniMed exchange-offer arb** -- 8.5% cushion; quiet tape.
+- **Price-data quality:** Alpaca latest-quote bids stale for non-held names; Perplexity could not verify USB/PNC/GS prices, S&P YTD, or XLF's Fed-day move -- candidate ranking rests on C/JPM data only.
+- **Deployment 89.72% = 28 bps under target** -- not a violation; today's top-up is the third scheduled attempt (Tue plan -> Wed FOMC hold -> Thu) and must not roll past Friday.
+- **Persistence:** this entry commits to the session branch and lands on main via PR (cloud-run branch constraint) -- market-open run must verify it is on main before treating it as the catalyst gate; if absent, re-run STEPS 1-3 inline (as on Sep 16).
+
+### Decision
+**TOP-UP (conditional) at the market-open run -- otherwise HOLD. (1) Confirm all 7 trails live; ratchet watches AEM $208.65+ / AMZN $255.96+ / GOOGL $349.92+ / MDT $94.75+ / OXY $63.78+ / XLV q80 $172.31+ / q40 $176.60+. (2) AEM add only if gold > $4,400 AND AEM $200.01-$201.44 at the open (unlikely). (3) Else BUY C ~$5K (~37 sh, size off the LIVE quote) if C > $135.13 AND Financials green at 9:35 ET, 10% GTC trail same session -- JPM ~14 sh alternate; skip on SPX < -1% gap / candidate gap > +3% / hawkish 8:30 leg, then MANDATORY Friday. Trade 3/6. (4) OXY $57.393 nearest stop -- trail governs. (5) GOOGL $320.74 / AMZN $236.36 cut lines; XLV $179.63, AEM $226.17, OXY $63.85 pre-writes armed. Tech PAUSED ~Oct 12, Energy PAUSED ~Sep 24, Healthcare 29.32% capped.**
+
+**Market-open addendum (13:45 UTC, this entry reached the session branch via PR #216 -- fast-forwarded onto the market-open branch, treated as the catalyst gate):**
+- 8:30 data: **initial claims 196K (cons 208K, prior 206K, lowest since mid-July)** -- tight labor = mild hawkish lean, but the tape shrugged: ES ~7,688 (+0.9%), NQ +1.1-1.2%, **VIX ~16.0 (-9.8%)**, 10-yr pulling back from 5% per commentary. No second hawkish leg.
+- Gold live **$4,255-4,326** (Kitco / MetalCharts; GLD $399.06) -- AEM gate leg 1 FAILED; AEM $199.79 at 13:41 -> $198.995 at 13:45 -- leg 2 FAILED. Primary dead.
+- **Fallback A (C) FAILED its own entry condition: C $131.63/131.75 live (13:45 UTC) = -2.6% vs the $135.13 Wed close -- red, not > close.** Financials weak on the day per the catalyst feed. **Fallback B (JPM) also red: $347.80/348.12 vs $348.92 close (-0.3%)** -- alternate requires JPM green while C red; not met.
+- Sector table (research feed): Energy +43.2% YTD / +2.1% wk; Tech +27.8% / -0.2%; Materials +11.1% / -2.7%; Financials **+2.1% / -1.5% ("weakening")**; Staples +7.3% / -0.6%; Comm Svcs -4.0% / **+1.1% (best wk)**; Cons Disc -7.7% / -1.2%. GS -10.8% 1M (18.7% off high), COST -6% 1M (18% off high), WMT -5.6% 1M (20% off high) -- none are RS leaders; JPM 4.8% off its high is the only near-high name in the lane.
+- **Workflow cap conflict flagged:** market-open hard check = "positions after trade <= 6" (precedent Aug 22: treated as a binding workflow cap). Book is at 6, so C/JPM as a NEW 7th line fails the check even when the entry gate is met. Legal top-up paths under the cap = AEM add (gate), an add to an existing line, or a rule-11 swap (exit dead money, then buy). **Friday resolution pre-write:** (a) AEM add if gold > $4,400 AND AEM > $200 at the open; else (b) **rule-11 swap: MDT (+0.03% on entry, flat 12 sessions since Sep 1, MiniMed arb overhang) -> C or JPM (whichever is green vs its prior close at 9:35 ET, ~$9.3K, 10% GTC trail same minute).** MDT exit at >= $92.85 = winning/flat exit (no Healthcare strike); if MDT is under $92.85 at the open, exit anyway only if the buy candidate is green -- log it as Healthcare strike 1. Sells are not slots; the buy = trade 3/6. Cash stays 10.29% < 15% -- rule-2 clock not triggered; the Friday deploy is the plan's own "no third roll" commitment, not a rule-2 breach.
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/charming-euler-ztli9o` -- this run executed but its PR was never merged to main._
+## 2026-09-18 -- Pre-market Research (Fri, Day 103, Week 21 -- TOP-UP DEADLINE + WEEKLY REVIEW DAY)
+
+### Account
+- Equity: **$101,748.92** (last_equity $101,101.89; **+$647.03 / +0.64%** on early marks)
+- **Phase P&L +$1,748.92 (+1.75%)**
+- Cash: **$10,367.80 (10.19%) / 89.81% deployed** -- 19 bps under the 90% target, above the 85% floor; rule-2 clock NOT triggered (cash < 15%) but the Thu top-up slipped (three missed runs Thu) -- **plan says it must not roll past today**. Buying power $297,338 (RegT $112,117) -- irrelevant, no margin use.
+- Daytrade count: not returned by account endpoint; PDT preserved (swings only, zero round-trips; last fill Sep 14)
+- **Positions (6, ~08:20 ET marks):**
+  - **AEM 69** @ $196.67 -> $203.89 (+$498.01 / +3.67%; **+1.25% today**) -- 12% trail $183.6032, hwm $208.64; 9.9% above stop; add gate: AEM > $200 **MET**, gold > $4,400 **NOT met** (~$4,374)
+  - **AMZN 68** @ $254.15 -> $252.40 (-$119.00 / -0.69%; +0.48%) -- 10% trail $230.355, hwm $255.95; -7% cut line **$236.36 = 6.4% below**; day 5
+  - **GOOGL 58** @ $344.881897 -> $356.36 (+$665.73 / +3.33%; **+2.60% today**) -- 10% trail $314.919, hwm $349.91; **trading ABOVE hwm -> ratchet expected at the open (~$320.72 if $356.36 holds)**; cut line $320.74 moot while green; day 5
+  - **MDT 100** @ $92.85 -> $92.77 (-$8.00 / -0.09%; flat) -- 10% trail $85.266, hwm $94.74; 8.8% above stop
+  - **OXY 170** @ $55.52 -> $58.82 (+$560.95 / +5.94%; **-0.79% today** on WTI -1.5%) -- grandfathered (Energy PAUSED ~Sep 24); trail $57.393, hwm $63.77; **nearest stop, 2.5% below**; +15% trigger $63.85 = 8.6% away (dead for now)
+  - **XLV 120** @ $156.202167 -> $168.37 (+$1,460.26 / +7.79%; -0.26%) -- trails $159.20 q80 (exp Dec 3) / $158.931 q40 (exp Oct 6); +15% trigger $179.63 = 6.7% away
+- Open trail stops: **7 GTC, all 585 shares covered** (AMZN 258fad3c, GOOGL f6c69479, XLV q80 92392985, MDT 56cd1813, AEM 8571f428, OXY 5c6a22b8, XLV q40 a2fda910). **No overnight ratchets** -- all seven hwms unchanged from the Sep 17 EOD snapshot. Nearest expiry XLV q40 Oct 6.
+- Weekly count: **2/6 (Week 21: GOOGL + AMZN Mon)** -- top-up today = trade 3/6.
+- **Sector mix** (of $101,748.92): Comm Svcs 20.31% (GOOGL); Cons Disc 16.87% (AMZN); Healthcare 28.97% (XLV 19.86% + MDT 9.12% -- under 30% cap, ~$1.0K headroom); Materials 13.83% (AEM); Energy 9.83% (OXY, PAUSED); Financials 0%; Staples 0%; Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Cash 10.19%. All caps compliant. No single name > 25%.
+
+### Market Context
+- **Fed (Wed) confirmed: 25 bp HIKE to 3.75-4.00%, unanimous 12-0; dots signal ONE MORE hike in 2026; Warsh: inflation "excessively high."** Dow -631 post-presser Wed, 10-yr back > 5%, 2-yr at 2-yr high, dollar bid. Thu = relief bounce (S&P ~+1%, Nasdaq ~+1.6%, VIX -12%).
+- **ES ~7,706-7,720 (+1.1% to +1.2%) pre-market -- risk-on second day**; NQ stronger. **Gap < +3% -> top-up gate on the index is CLEAR.** SPY $762.4 Thu close.
+- **VIX spot 15.05 (-2.5%, 7:40am)**, Thu close 15.44 -- contained, post-event vol crush.
+- **Oil fading: WTI ~$100.88 (-1.5%), Brent ~$103.06 (-2.6%)** -- off the $105 four-month high; WTI testing $100. Negative for OXY (2.5% above trail), marginal positive for the long-duration book.
+- **Gold ~$4,374 (+0.3%)** -- range $4,340-4,382 across feeds; **$26 (0.6%) short of the $4,400 AEM-add gate.**
+- **Today's releases:** Industrial Production 9:15am ET; State Employment 10:00am ET; BoJ decision overnight Fri JST (global-yield read-through). No CPI/PPI. **Monthly/quarterly opex (third Friday -- triple-witching-style volume/whipsaw risk, unconfirmed by exchange source).**
+- **Earnings BMO: nothing material** (TRT only; PGR monthly release). **Nothing held reports.**
+- **Sector YTD:** Energy +44.2% / Tech +30.6% / Materials +11.8% / Health Care +9.1% / Industrials +9.0% / Staples +7.5% / Real Estate +6.4% / Financials +2.0% / Utilities -2.3% / **Comm Svcs -4.6% / Cons Disc -6.7%** (book carries **37.2% in the two bottom sectors** -- weekly-review flag stands). Inside Materials, precious-metals names (WPM #1 3-mo emerging leader, NEM) are out-running copper (SCCO, FCX).
+
+### Held-ticker News
+- **AMZN**: multi-year **Generac backup-generator deal** (~$2.4B 2027-28 deliveries, up to $8B through 2033, warrants on ~1.69M GNRC shares) -- data-center buildout confirmation; FTC Prime settlement payouts + higher warehouse pay floor also in the tape. Closed $251.19 (+2.13%), pre $252.40. No thesis break.
+- **GOOGL**: no fresh company headline; **pre-market $356.36 (+2.6%)** -- momentum continuation post-Fed. Will ratchet the trail at the open if it holds.
+- **MDT**: FDA clearance for LigaSure RAS Maryland jaw on the Hugo robot (Sep 16); MiniMed exchange offer (>= 80.1% split-off, discount arb) still open; $0.72 dividend ex-date Sep 25. Flat pre.
+- **OXY**: no company news; pure crude beta, WTI -1.5% -> -0.8% pre. Trail $57.393 is 2.5% below -- let it govern.
+- **AEM**: no company news; gold +0.3%, AEM +1.25% pre -- best-in-book momentum (3 straight green days).
+- **XLV**: quiet, -0.26% pre.
+
+### Trade Ideas
+1. **TOP-UP TODAY -- ~$5K, trade 3/6, market-open run. Index gap +1.1% (< 3%) = gate clear. Do NOT roll past today.**
+   - **AEM add gate: FAILED on the gold leg** (AEM $203.89 > $200 MET; gold ~$4,374 < $4,400). Per the standing plan the gold miss routes to the fallback -- **unless gold prints > $4,400 by the open**, in which case revert to primary: AEM add **~25 sh (~$5.1K)** -> AEM ~18.8% of book (Materials ~18.8%, room OK); separate **12% GTC trail**; entry ~$204 / stop ~$180 / target $246 = ~1.8:1 (accept, leader in the only open leadership sector).
+   - **FALLBACK (base case): Financials single-name RS leader -- IBKR (primary) or TRV (secondary).** Rationale: Fed hiked with one more dot -- direct rate/float beneficiaries; both out-running the S&P YTD (IBKR +41.5%, TRV +31.8%); Financials 0% of book -> diversifies the 37.2% Comm Svcs/Cons Disc laggard concentration; legal sector (no strikes, no pause).
+     - **IBKR: ~60 sh (~$5.0K @ ~$84 Thu close)** -> 4.9% of book; **12% GTC trail** (high-beta broker; stop ~$74); target ~$100 (+19%) = ~1.6-2:1 on a 10-12% risk. Skip if gap > +3% at the open or if it opens red vs SPX +1%.
+     - **TRV: ~14 sh (~$5.0K @ ~$357)** -> 4.9% of book; **10% GTC trail** (stop ~$321); target ~$410 (+15%) = ~1.5:1 -- lower beta, take only if IBKR fails the open check.
+   - **No ETF sleeve deploys (rule 6). No Tech/Energy (paused). Healthcare headroom ~$1.0K only. Staples has no verified RS leader (WMT unconfirmed) -- skip.**
+2. **GOOGL ratchet + momentum -- HOLD, no add.** Pre $356.36 > hwm $349.91 -> trail ratchets automatically to ~$320.72 on the open print; verify at market-open. +15% trigger **$396.61** (far). Sector (Comm Svcs -4.6% YTD) still a laggard -- single-name RS is the only thesis; no adds.
+3. **OXY -- trail governs, 2.5% away.** WTI testing $100; a $57.393 stop-out would be a **realized win (+3.4% on entry)**, NOT an Energy strike, and would lift cash to ~20% -> rule-2 clock starts -> redeploy Mon (trade 4/6). Pre-write nothing; no manual action; exit-side only under the pause. +15% pre-write ($63.85) stands but is 8.6% away.
+4. **Standing pre-writes:** XLV >= $179.63 (+15%, 6.7% away) -> 7% tighten + trim 30-60 sh; AEM >= $226.17 (+15%) -> tighten + trim 17-35 sh; AMZN < $236.36 manual cut (6.4% below); GOOGL cut line moot while green (trail $314.92 -> ~$320.72 after ratchet).
+5. **Weekly review this afternoon:** flag (a) 37.2% of book in the two bottom-YTD sectors, (b) third missed scheduled run in the week (Thu top-up slipped a day), (c) top-up executed/not today, (d) OXY stop proximity.
+
+### Risk Factors
+- **Opex Friday + post-Fed day-2 chase** -- +1.1% futures into monthly/quarterly expiry can whipsaw; do not chase a > +3% index gap and do not enter into an opening spike (use the 9:45-10:15 window if the first 15 min are disorderly).
+- **Hawkish path is not over** -- dots show one more 2026 hike, 10-yr > 5%, 2-yr at 2-yr highs; long-duration GOOGL/AMZN (37.2% of book) remain the rate-sensitive exposure; trails govern.
+- **OXY 2.5% from trail with WTI testing $100** -- likely first stop-out in the book; acceptable (green exit), but cash would jump to ~20% and start the rule-2 clock.
+- **Gold $26 short of the AEM gate** -- a small overnight move flips the primary/fallback decision; check gold at 9:30 before choosing.
+- **IBKR beta** -- broker names can gap on volume/rate headlines; 12% trail, 5% sizing keeps risk ~0.6% of book.
+- **Deployment 89.81%** -- not a violation, but the top-up already slipped one day; today is the hard deadline per plan.
+- **Research quality:** Perplexity 429-rate-limited on the parallel batch -- retried sequentially, all queries succeeded (no WebSearch fallback needed). Candidate quotes are Thu-close (wide pre-market spreads); size off live prints at the open.
+
+### Decision
+**TRADE -- execute the ~$5K top-up at the market-open run (trade 3/6, deadline today): (1) confirm all 7 trails live and read the GOOGL ratchet (~$320.72 if $356+ holds); (2) if gold > $4,400 AND AEM > $200 at 9:30 -> AEM add ~25 sh, 12% GTC trail; else -> IBKR ~60 sh (or TRV ~14 sh if IBKR opens red vs SPX), 12%/10% GTC trail; skip only on an index gap > +3% or a disorderly opex open (then execute by midday, not Monday); (3) no adds to GOOGL/AMZN/OXY/XLV/MDT; (4) OXY trail governs. Watch: OXY $57.393 (2.5%), AMZN $236.36 cut line; XLV $179.63 / AEM $226.17 / OXY $63.85 pre-writes; Tech PAUSED ~Oct 12, Energy PAUSED ~Sep 24, Healthcare 28.97% capped (~$1.0K headroom). Weekly review Fri PM.**
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/kind-johnson-q9xfru` -- this run executed but its PR was never merged to main._
+## 2026-09-18 -- Pre-market Research (Fri, Day 103, Week 21 -- TRIPLE WITCHING; TOP-UP DEADLINE DAY; WEEKLY REVIEW PM) [inline at market-open run -- 6:00 CT pre-market run never reached main; Thu Sep 17 pre-market/market-open/midday also missing]
+
+### Account
+- Equity: **$101,619.41** (last_equity $101,101.89; **+$517.52 / +0.51%** on 13:42 UTC marks)
+- **Phase P&L +$1,619.41 (+1.62%)**
+- Cash: **$10,367.80 (10.20%) / 89.80% deployed** -- 20 bps under the 90% target, above the 85% floor; rule-2 clock NOT triggered (cash < 15%). Buying power $296,817 (RegT) -- irrelevant, no margin use.
+- Daytrade count: not returned by account endpoint; PDT preserved (swings only, zero round-trips in 5-day window; last fill Sep 14)
+- **Positions (6, 13:42 UTC marks):**
+  - **AEM 69** @ $196.67 -> $199.005 (+$161.12 / +1.19%; **-1.17% today**) -- 12% trail $183.6032, hwm $208.64; 8.4% above stop. **Add gate: AEM > $200 = FAILED ($199.005), gold > $4,400 = FAILED (~$4,382)**
+  - **AMZN 68** @ $254.15 -> $252.68 (-$99.96 / -0.58%; +0.59%) -- 10% trail $230.355, hwm $255.95; -7% cut line **$236.36 = 6.5% below**; 9.7% above stop; day 5
+  - **GOOGL 58** @ $344.881897 -> $357.9945 (+$760.53 / **+3.80%**; **+3.07% today**, best in book) -- 10% trail **RATCHETED overnight/at open: hwm $349.91 -> $359.38, stop $314.919 -> $323.442** (now above the $320.74 manual cut line -- trail governs); 10.7% above stop; day 5
+  - **MDT 100** @ $92.85 -> $92.425 (-$42.50 / -0.46%; -0.37%) -- 10% trail $85.266, hwm $94.74; 8.4% above stop. **Day 13, flat = rule-11 dead-money candidate** (Healthcare capped, so it can never be added to)
+  - **OXY 170** @ $55.52 -> $58.7001 (+$540.69 / +5.73%; -1.00%) -- grandfathered (Energy PAUSED ~Sep 24); trail $57.393, hwm $63.77; **nearest stop, 2.3% below**; +15% trigger $63.85 = 8.8% away (dormant)
+  - **XLV 120** @ $156.202167 -> $168.80 (+$1,511.74 / +8.06%; -0.01%) -- trails $159.20 q80 (exp Dec 3) / $158.931 q40 (exp Oct 6); +15% trigger $179.63 = 6.4% away
+- Open trail stops: **7 GTC, all 585 shares covered** (AMZN 258fad3c, GOOGL f6c69479, XLV q80 92392985, MDT 56cd1813, AEM 8571f428, OXY 5c6a22b8, XLV q40 a2fda910). One ratchet since the Sep 17 EOD snapshot: **GOOGL hwm $359.38 / stop $323.442**. Other six hwms unchanged. Nearest expiry XLV q40 Oct 6.
+- Weekly count: **2/6 (Week 21: GOOGL + AMZN Mon)** -- note: this cloud run's stored prompt hard-checks **<= 6 positions / <= 3 trades per week / <= 20% per position**, stricter than routines/market-open.md (8 / 6 / 25%) and TRADING-STRATEGY.md. Stricter set honored this run; discrepancy flagged for the weekly review.
+- **Sector mix** (of $101,619.41): Comm Svcs 20.43% (GOOGL); Cons Disc 16.91% (AMZN); Healthcare 29.03% (XLV 19.93% + MDT 9.10% -- under 30% cap, ~$1.0K headroom); Materials 13.51% (AEM); Energy 9.82% (OXY, PAUSED); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Cash 10.20%. All caps compliant. No single name > 25%.
+
+### Market Context
+- **Triple witching today** (index futures/options + stock options expire) -- volume/volatility lift, open prints unreliable for gate decisions. Only data: state employment 10:00 ET. Fed blackout over -- speakers are a live driver.
+- **FOMC recap (Sep 16): 25 bp HIKE to 3.75-4.00%, dots signal ONE MORE hike this year;** Warsh: hike "removes a dose of accommodation," inflation "too high and broad-based." Hawkish, but Thu was a relief bounce (S&P ~+1%, Nasdaq ~+1.6%).
+- **ES ~7,720 premarket (+~1% vs the Sep 16 7,586 close), VIX 15.41** (from 17.2 Wed) -- fear regime reversed; SPY $760.90 at 13:40 UTC.
+- **Oil PULLING BACK: WTI feeds $95.6-101.6** (Twelve Data $95.59, Yahoo $96.19, Investing $100.56 -- contract/timestamp spread), down from $103-105 mid-week. OXY -1.0%, 2.3% above its trail -- **most likely stop-out in the book**. Energy exit-side only.
+- **Gold ~$4,382 ($4,373-4,393 across feeds)** -- firm off Wed's $4,335 but under the $4,400 add gate. AEM -1.17% at the open despite flat gold = no confirmation.
+- **Sector YTD unchanged** (Energy / Tech / Materials lead; Cons Disc / Comm Svcs lag) -- research feed 429'd on the fresh sector query; no new read.
+
+### Held-ticker News
+- **GOOGL +3.07%**: ad-tech-case regulatory backdrop turning more favorable + renewed AI/cloud optimism; follow-through on Thu's +1.30%. Trail ratcheted. No action -- +15% trigger $396.61 is 10.8% away.
+- **AMZN / MDT / OXY / AEM / XLV**: no company-specific headlines found (research feed thin / rate-limited). Moves are macro: OXY on crude, AEM on gold-miner beta, MDT quiet (MiniMed exchange-offer window still open).
+
+### Trade Ideas
+1. **AEM add ~25 sh (~$5K, trade 3) -- GATE FAILED at the open on BOTH legs** (AEM $199.005 < $200 and fading -0.83% -> -1.17% in the first 12 min; gold ~$4,382 < $4,400). Passes every hard check (positions stay 6; week 3/3; AEM -> ~18.5% of book; Materials 18.5% < 30%) -- the gate is the only blocker, and buying the day's weakest name in the book on a triple-witching open is exactly what the gate exists to prevent. **Carried to the midday run: execute 25 sh market + separate 12% GTC trail IF AEM > $200 AND gold > $4,400 at 13:00 ET;** entry ~$200 / stop ~$176 / target $246 = ~1.9:1.
+2. **Financials/Staples single-name RS fallback -- BLOCKED this run.** Screen output: IBKR + TRV (CNBC top-5 relative-strength this week), BNY + STT (52-week highs, +58.9% / +74.7% 1Y -- custody/NII hike beneficiaries), PG (Staples). Premarket movers: ITW +7.1% (Industrials strike 1, and a > +3% gap = skip), SYY +2.9%, BFb +2.4%, CE +2.4%, SCCO +3.3%. Any of these would be position **7 -- fails this run's <= 6 hard check.** Route via rotation (idea 3) instead of a fresh slot.
+3. **Rotation for the weekly review (PM today) -> Monday market-open:** **MDT out** (day 13, -0.46%, flat = rule-11 dead money; Healthcare capped so no upside path; MiniMed arb overhang) -> **one Financials RS leader in** (IBKR / TRV / BNY / STT -- pick on Monday pre-market catalyst + RS check; single name only per rule 6). Keeps positions at 6, redeploys ~$9.2K + the idle $10.4K sleeve -> ~95%+. Healthcare would take strike 1 on a sub-1% loss -- acceptable. Pre-write sizing Monday.
+4. **OXY -- nearest stop, 2.3% below** with crude fading: trail governs, no manual action, no add (paused). If it fires, Energy strike 1 counts as a WIN exit (+5.7%) -> no sector strike.
+5. **Standing pre-writes:** XLV >= $179.63 (+15%) -> 7% tighten + trim 30-60 sh; AEM >= $226.17 (+15%) -> tighten + trim 17-35 sh; GOOGL >= $396.61 (+15%) -> tighten + trim; AMZN -7% cut < $236.36 (trail $230.355 below).
+
+### Risk Factors
+- **Triple witching + post-hike digestion** -- open prints noisy; a Fed speaker reiterating "one more hike" can reverse Thu's relief.
+- **OXY 2.3% from its trail with WTI fading toward $95** -- highest stop-out probability in the book; exit is a winner (+5.7%), no strike.
+- **Top-up slippage now 2 sessions** (Thu runs missed; Fri gate failed). Rule 2 not breached (cash 10.2% < 15%) but the drift toward paralysis is the documented failure mode -- midday gate re-check + Monday rotation are the fix, not another "next week."
+- **Book still 37.3% in the two YTD-laggard sectors** (GOOGL 20.4% + AMZN 16.9%) -- GOOGL is now earning its slot (+3.8%, ratcheting); AMZN flat-to-red day 5. Weekly review flag stands.
+- **Scheduled-run reliability:** Sep 17 pre-market, market-open, midday and Sep 18 pre-market all failed to reach main (4 misses this week). Cloud prompt hard-check numbers (6 / 3 / 20%) disagree with the repo routines (8 / 6 / 25%) -- needs a human decision.
+
+### Decision
+**NO ORDERS at the market-open run. AEM add gate failed both legs at the open (AEM $199.005 / gold ~$4,382) with AEM fading; Financials RS fallback blocked by this run's <= 6 position hard check (would be position 7). Hold is legal: cash 10.20% < 15%, deployment 89.80% > 85% floor. Midday run (13:00 ET): re-check the AEM gate (AEM > $200 AND gold > $4,400) and execute 25 sh + 12% GTC trail if met. Weekly review PM: approve MDT -> Financials RS leader rotation for Monday market-open (idea 3). Watch OXY $57.393 (2.3%), AMZN $236.36 cut line; XLV $179.63 / AEM $226.17 / GOOGL $396.61 pre-writes; Tech PAUSED ~Oct 12, Energy PAUSED ~Sep 24, Healthcare 29.03% capped.**
+
+_Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/adoring-cray-a32x5b` -- this run executed but its PR was never merged to main._
+## 2026-09-18 -- Midday (Fri, Day 103, Week 21) [no pre-market or market-open entry today -- both runs never reached main; this addendum is the day's first research record]
+
+### Afternoon Addendum (midday scan, 13:07 ET) -- GOOGL SPIKE CAUSE CHECK / TAPE
+- **GOOGL new hwm $359.41 early, faded to $349.49 (+0.62%):** Perplexity/Investing.com -- Evercore (Mahaney) PT raised to $450 from $420 on proprietary search-share data, plus AI/TPU upgrade chatter and the Sep 16 ad-tech antitrust ruling (no forced breakup). Pre-open $355.59 (+2.4%), premarket range $353-356. No single hard news item; catalyst cluster, then fade with the tape. Verdict: **HOLD** -- trail ratcheted to $323.469 (above the $320.74 cut line), +1.34% on entry.
+- **Tape:** flat-to-soft intraday (ES ~-0.1%, NQ ~+0.2%); VIX ~15.5 (Sep futures 17.93). The "+1.14% S&P / +1.69% Nasdaq" prints in the feed are Thu's close, not today.
+- **Gold ~$4,393 (+2.8% feed print, unverified) -- still < $4,400 gate; AEM $199.70 < $200 gate.** AEM-add top-up gate fails on both legs at midday.
+- **WTI ~$100 / Brent ~$102** -- third straight decline (Thu settle $101.91 / $104.82). OXY -0.75% to $58.845, trail $57.393 now 2.5% below = nearest stop. Grandfathered under the Energy pause; trail governs, no manual action.
+- **AMZN / OXY / AEM / MDT:** no verified company-specific news today.
+- No orders at midday. Weekly count 2/6 (Week 21). Deployment 89.74%, cash $10,367.80 (10.26%).
+- **Open item for EOD + weekly review:** the mandated Fri ~$5K top-up (trade 3/6) did not execute -- pre-market and market-open runs missed again; AEM gate failing; Financials/Staples single-name RS fallback screen still unrun. Decide at EOD: run the screen and queue a Mon Sep 21 open entry, or log the rule-5 slippage explicitly.

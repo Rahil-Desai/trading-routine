@@ -5455,3 +5455,14 @@ Reasoning: (a) rule 8 is non-discretionary at -8.08%; (b) cutting without redepl
 
 ### Decision
 **HOLD -- no orders before the FOMC decision (2:00pm ET). Market-open run today: (1) all 7 trails confirmed live, no ratchets; (2) OXY $63.85 tighten+trim NOT printed -- no action; (3) NO adds (cash 10.26% < 15%, binary pending). Thu Sep 17 market-open: top-up per idea 2 (AEM add primary, gold > $4,400 gate). Watch: GOOGL $320.74 / AMZN $236.36 cut lines; XLV $179.63, AEM $226.17, OXY $63.85 pre-writes; Tech PAUSED ~Oct 12, Energy PAUSED ~Sep 24, Healthcare 29.22% capped.**
+
+## 2026-09-18 -- Midday (Fri, Day 103, Week 21) [no pre-market or market-open entry today -- both runs never reached main; this addendum is the day's first research record]
+
+### Afternoon Addendum (midday scan, 13:07 ET) -- GOOGL SPIKE CAUSE CHECK / TAPE
+- **GOOGL new hwm $359.41 early, faded to $349.49 (+0.62%):** Perplexity/Investing.com -- Evercore (Mahaney) PT raised to $450 from $420 on proprietary search-share data, plus AI/TPU upgrade chatter and the Sep 16 ad-tech antitrust ruling (no forced breakup). Pre-open $355.59 (+2.4%), premarket range $353-356. No single hard news item; catalyst cluster, then fade with the tape. Verdict: **HOLD** -- trail ratcheted to $323.469 (above the $320.74 cut line), +1.34% on entry.
+- **Tape:** flat-to-soft intraday (ES ~-0.1%, NQ ~+0.2%); VIX ~15.5 (Sep futures 17.93). The "+1.14% S&P / +1.69% Nasdaq" prints in the feed are Thu's close, not today.
+- **Gold ~$4,393 (+2.8% feed print, unverified) -- still < $4,400 gate; AEM $199.70 < $200 gate.** AEM-add top-up gate fails on both legs at midday.
+- **WTI ~$100 / Brent ~$102** -- third straight decline (Thu settle $101.91 / $104.82). OXY -0.75% to $58.845, trail $57.393 now 2.5% below = nearest stop. Grandfathered under the Energy pause; trail governs, no manual action.
+- **AMZN / OXY / AEM / MDT:** no verified company-specific news today.
+- No orders at midday. Weekly count 2/6 (Week 21). Deployment 89.74%, cash $10,367.80 (10.26%).
+- **Open item for EOD + weekly review:** the mandated Fri ~$5K top-up (trade 3/6) did not execute -- pre-market and market-open runs missed again; AEM gate failing; Financials/Staples single-name RS fallback screen still unrun. Decide at EOD: run the screen and queue a Mon Sep 21 open entry, or log the rule-5 slippage explicitly.

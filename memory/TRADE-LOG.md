@@ -2220,3 +2220,33 @@ _Recovered 2026-09-21 (pre-market) from unmerged run branch `claude/relaxed-meit
 **Sector mix** (of $101,125.71): Financials 24.04% (IBKR 14.57% + BNY 9.48%); Comm Svcs 20.30% (GOOGL); Healthcare 20.01% (XLV only -- strike 1); Cons Disc 17.18% (AMZN); Materials 13.53% (AEM); Energy 0% (PAUSED ~Sep 24, then fresh-catalyst re-entry only); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Staples 0% (strike 1); Cash 4.94%. All caps compliant; no single name > 25%. 6 positions (5-8 band OK). **Trail coverage: 7 GTC orders covering all 537 shares across 6 positions** (BNY 84d202e6 / IBKR abb17739 / AMZN 258fad3c / GOOGL f6c69479 / XLV q80 92392985 / AEM 8571f428 / XLV q40 a2fda910; nearest expiry XLV q40 Oct 6 -- re-place by Oct 2). No stop moved down; no manual stops placed. Ratchet since Fri: AMZN only (above).
 
 **PM watch:** IBKR $85.69 / BNY $144.03 / AMZN $236.36 manual cut lines (all trails sit below them); nearest stops XLV q80 $159.20 (5.6% below) and AEM $183.60 (7.4%); XLV $179.63 / AEM $226.17 / GOOGL $396.61 / AMZN $292.27 pre-writes armed; new +15% pre-writes IBKR $105.96 / BNY $178.10 -> 7% tighten + trim 25-50%; ratchet watches AEM $208.65+ / AMZN $256.67+ / GOOGL $359.42+ / IBKR $92.08+ / BNY $154.58+ / XLV q80 $172.31+ / q40 $176.60+. Cash 4.94% -- no further adds needed this week; AEM add stays OFF. Energy pause expiry ~Thu Sep 24 (no re-entry without a fresh catalyst + leadership, logged). Midday: exits/tightens only.
+
+## 2026-09-22 -- Midday Scan (Day 105, Tuesday -- NO ORDERS; FINANCIALS -2% ON TECH ROTATION, NEW LONGS HOLD, 4 HWM RATCHETS)
+
+**Midday account (13:05 ET):** Equity **$100,912.31** | Cash $4,997.54 (4.95%) | Long MV $95,914.77 (**95.05% deployed**) | Day P&L **-$610.19 (-0.60%)** vs last_equity $101,522.50 | Phase P&L **+$912.31 (+0.91%)**
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $201.395 | +1.98% | +$326.03 (+2.40%) | $183.6032 (12% trail, hwm $208.64) |
+| AMZN | 68 | $254.15 | $254.42 | -1.56% | +$18.36 (+0.11%) | $233.541 (10% trail, hwm $259.49) |
+| BNY | 62 | $154.867097 | $151.28 | -1.70% | -$222.40 (-2.32%) | $139.1985 (10% trail, hwm $154.665) |
+| GOOGL | 58 | $344.881897 | $350.955 | -1.13% | +$352.24 (+1.76%) | $327.753 (10% trail, hwm $364.17) |
+| IBKR | 160 | $92.14 | $91.10 | -2.26% | -$166.40 (-1.13%) | $82.6628 (12% trail, hwm $93.935) |
+| XLV | 120 | $156.202167 | $170.06 | +0.62% | +$1,662.94 (+8.87%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst **BNY -2.32%** (cut line $144.03 = 4.8% below; trail $139.1985 = 8.0% below). IBKR -1.13% (cut line $85.69 = 5.9% below; trail $82.6628 = 9.3% below). Both are day-2 holds.
+- +15%/+20% tighten (rule 9) + trim (rule 14): **no print.** XLV +8.87% ($179.63 = 5.6% away). Nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** IBKR -2.26% / BNY -1.70% = **sector move, not single-name** -- Perplexity/Investing.com: "financial sector stocks tumbled Tuesday, wealth management and banking names leading declines, as traders rotate into tech" (PayPal/Meta AI deal headline); no downgrade or company news on either. Hike-cycle NII + RS thesis intact after one rotation day; both well above cut lines. GOOGL -1.13% / AMZN -1.56% -- AMZN headline flow = Meta Muse AI shopping-agent block vs AI capex, no thesis item; GOOGL no company news. AEM +1.98% to $201.395 with gold ~$4,356 (-0.6% feed print) -- AEM outperforming the metal; no company news. XLV +0.62%, quiet.
+- **Auto-ratchets since Mon open (4):** GOOGL hwm $359.41 -> **$364.17** (stop $323.469 -> $327.753, 13:50 UTC today); AMZN hwm $256.66 -> **$259.49** (stop $230.994 -> $233.541, Mon 19:24 UTC); IBKR hwm $92.07 -> **$93.935** (stop $81.0216 -> $82.6628, Mon 19:35 UTC); BNY hwm $154.575 -> **$154.665** (stop $139.1175 -> $139.1985, Mon 13:43 UTC). AEM / XLV hwms unchanged.
+- **Stop proximity watch:** XLV q80 $159.20 = **nearest, 6.4% below** (q40 $158.931 6.5%); GOOGL $327.753 6.6%; BNY 8.0%; AMZN 8.2%; AEM 8.8%; IBKR 9.3%. Nothing inside 3%.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **95.05%** -- inside the 90-100% target; cash 4.95%, rule-2 clock clear.
+- **Sector mix** (of $100,912.31): Financials 23.74% (IBKR 14.44% + BNY 9.29%); Healthcare 20.22% (XLV, strike 1); Comm Svcs 20.17% (GOOGL); Cons Disc 17.14% (AMZN); Materials 13.77% (AEM); Energy 0% (PAUSED ~Sep 24); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Staples 0% (strike 1); Cash 4.95%. All caps compliant. No single name > 25%.
+- Positions: 6 (5-8 band OK). Weekly count **2/6** (Week 22: IBKR + BNY Mon). Trail coverage: **7 GTC orders covering all 537 shares across 6 positions** (BNY 84d202e6 / IBKR abb17739 / AMZN 258fad3c / GOOGL f6c69479 / XLV q80 92392985 / AEM 8571f428 / XLV q40 a2fda910). Nearest expiry XLV q40 Oct 6 -- re-place by Oct 2. PDT clean.
+- **Run-log gap:** no 2026-09-21 EOD snapshot and no 2026-09-22 pre-market entry on main -- both runs missed/unmerged. This is the first Sep 22 record. Sep 21 close (from last_equity): equity $101,522.50, Day +$441.69 (+0.44%) vs the Sep 18 EOD $101,115.31 -- must-backfill flag for the EOD run.
+- One Perplexity call this run (Financials drop cause + tape) -- afternoon addendum in RESEARCH-LOG.
+
+**Action this run: none -- no orders placed or cancelled. Log only. No ClickUp (no trade).**
+
+**PM watch:** IBKR $85.69 / BNY $144.03 / AMZN $236.36 manual cut lines (all trails below them; a second -2% Financials day puts BNY ~-4%, still a hold unless a name-specific break); nearest stops XLV q80 $159.20 (6.4%) / GOOGL $327.753 (6.6%); XLV $179.63 / AEM $226.17 / GOOGL $396.61 / AMZN $292.27 / IBKR $105.96 / BNY $178.10 pre-writes armed (7% tighten + 25-50% trim); ratchet watches AEM $208.65+ / AMZN $259.50+ / GOOGL $364.18+ / IBKR $93.94+ / BNY $154.67+ / XLV q80 $172.31+ / q40 $176.60+. Cash 4.95% -- no adds needed; AEM add OFF. Energy pause expiry ~Thu Sep 24 (fresh catalyst + leadership required for re-entry). EOD run: write the Sep 21 EOD snapshot backfill alongside today's.

@@ -5907,3 +5907,15 @@ _Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/adoring-c
 
 ### Decision
 **HOLD pre-market -- no orders before the open (positions and stops verified: 7 GTC on 585 sh, no ratchets since Fri). Market-open run (~9:40 ET), in order: (1) SELL MDT 100 sh market (cancel 56cd1813 first) -- rule-11 exit, Healthcare strike 1; (2) BUY IBKR ~160 sh (~$14.6K, 14.5%) + 12% GTC trail same minute, gates: IBKR open <= +3% (~$94.2), SPX gap >= -1%; fallback BK ~95 sh + 10% trail; (3) OXY: trail $57.393 governs -- if it fires, midday redeploys ~$5-10K (BK / Materials leader / AEM-add gate re-check) same session; (4) no AEM add today (post-rotation cash < 10%). Watch: OXY $57.393 (1.4%); AMZN ratchet $255.96+; AMZN $236.36 cut; XLV $179.63 / AEM $226.17 / GOOGL $396.61 / AMZN $292.27 pre-writes; ratchet watches AEM $208.65+ / GOOGL $359.42+ / OXY $63.78+ / XLV q80 $172.31+ / q40 $176.60+. Energy pause expires ~Thu Sep 24; Tech ~Oct 12; XLV q40 trail re-place by Oct 2.**
+
+## 2026-09-22 -- Midday (Tue, Day 105, Week 22) [no pre-market entry today -- run never reached main; this addendum is the day's first research record]
+
+### Afternoon Addendum (midday scan, 13:05 ET) -- FINANCIALS DROP CAUSE CHECK / TAPE
+- **IBKR -2.26% / BNY -1.70% (day 2 of both):** Perplexity/Investing.com -- "Financial sector stocks tumbled Tuesday, with wealth management and banking names leading declines, as traders rotate into tech" (PayPal surge on a Meta AI deal the headline). No IBKR/BNY/HOOD/SCHW downgrade or company news found. Verdict: **HOLD both** -- sector rotation day, not a thesis break; IBKR -1.13% on entry (cut $85.69), BNY -2.32% (cut $144.03). Reassess only on a name-specific item or a -7% print.
+- **AMZN -1.56%:** MarketBeat flow = investors weighing Amazon's block of Meta's Muse AI shopping agent vs AI/logistics/AWS capex; trading near its 50-day. Not a thesis item; +0.11% on entry, trail ratcheted to $233.541 (hwm $259.49 Mon). HOLD.
+- **GOOGL -1.13%:** no company news; hwm ratcheted to $364.17 early today (stop $327.753), +1.76% on entry. HOLD.
+- **Gold ~$4,356 (-0.6% feed print) / AEM $201.395 (+1.98%, Alpaca)** -- AEM outrunning the metal; feed quotes ($198, -0.24%) are stale vs the live print. Gold < $4,400 gate; AEM add stays OFF regardless (cash 4.95%).
+- **XLV +0.62%** -- defensives bid on the rotation day; +8.87% on entry, $179.63 trigger 5.6% away.
+- **Tape:** Perplexity could not return verified S&P / Nasdaq / VIX / 10-yr / WTI levels this call; book read = tech up, financials down, defensives/gold miners up (Day P&L -0.60%, all of it IBKR/BNY/AMZN/GOOGL).
+- No orders at midday. Weekly count 2/6 (Week 22). Deployment 95.05%, cash $4,997.54 (4.95%).
+- **Open items for EOD:** backfill the Sep 21 EOD snapshot (last_equity $101,522.50, +0.44% d/d); Energy pause expires ~Thu Sep 24 (re-entry needs fresh catalyst + leadership, none logged); XLV q40 trail expires Oct 6 -- re-place by Oct 2.

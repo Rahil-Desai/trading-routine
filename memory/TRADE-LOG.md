@@ -2220,3 +2220,34 @@ _Recovered 2026-09-21 (pre-market) from unmerged run branch `claude/relaxed-meit
 **Sector mix** (of $101,125.71): Financials 24.04% (IBKR 14.57% + BNY 9.48%); Comm Svcs 20.30% (GOOGL); Healthcare 20.01% (XLV only -- strike 1); Cons Disc 17.18% (AMZN); Materials 13.53% (AEM); Energy 0% (PAUSED ~Sep 24, then fresh-catalyst re-entry only); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Staples 0% (strike 1); Cash 4.94%. All caps compliant; no single name > 25%. 6 positions (5-8 band OK). **Trail coverage: 7 GTC orders covering all 537 shares across 6 positions** (BNY 84d202e6 / IBKR abb17739 / AMZN 258fad3c / GOOGL f6c69479 / XLV q80 92392985 / AEM 8571f428 / XLV q40 a2fda910; nearest expiry XLV q40 Oct 6 -- re-place by Oct 2). No stop moved down; no manual stops placed. Ratchet since Fri: AMZN only (above).
 
 **PM watch:** IBKR $85.69 / BNY $144.03 / AMZN $236.36 manual cut lines (all trails sit below them); nearest stops XLV q80 $159.20 (5.6% below) and AEM $183.60 (7.4%); XLV $179.63 / AEM $226.17 / GOOGL $396.61 / AMZN $292.27 pre-writes armed; new +15% pre-writes IBKR $105.96 / BNY $178.10 -> 7% tighten + trim 25-50%; ratchet watches AEM $208.65+ / AMZN $256.67+ / GOOGL $359.42+ / IBKR $92.08+ / BNY $154.58+ / XLV q80 $172.31+ / q40 $176.60+. Cash 4.94% -- no further adds needed this week; AEM add stays OFF. Energy pause expiry ~Thu Sep 24 (no re-entry without a fresh catalyst + leadership, logged). Midday: exits/tightens only.
+
+## 2026-09-23 -- Market-Open Execution (Day 106, Wednesday -- NO ORDERS; NO PLANNED BUYS (95% DEPLOYED), BNY / IBKR / AMZN CUT LINES NOT HIT, AEM -4.2% ON GOLD BUT 5.8% ABOVE ITS TRAIL)
+
+**Catalyst gate:** today's pre-market entry reached the remote only on branch `claude/charming-euler-60iu8f` (unmerged) -- read from that branch; the 2026-09-23 RESEARCH-LOG entry is the gate. Main's last research entry is still Mon Sep 21. Five run logs now stranded on PR branches (Sep 21 midday `adoring-cray-sk2m6z`, Sep 21 EOD `relaxed-meitner-hms0kf`, Sep 22 pre-market `charming-euler-d9l59g`, Sep 22 midday `adoring-cray-vyxpks`, Sep 23 pre-market `charming-euler-60iu8f`) -- all insert-only; human to merge.
+
+**Account (13:43 UTC / 9:43 ET):** Equity **$100,179.93** | Cash $4,997.54 (4.99%) | Long MV $95,182.39 (**95.01% deployed**) | Day P&L **-$966.62 (-0.96%)** vs Alpaca last_equity $101,146.55 | Phase P&L **+$179.93 (+0.18%)**. SPY $772.08 (~-0.2% vs Tue) -- SPX gap >= -1% ✓ (moot, no buys planned).
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $194.92 | -4.24% | -$120.75 (-0.89%) | $183.6032 (12% trail, hwm $208.64) |
+| AMZN | 68 | $254.15 | $251.69 | -1.29% | -$167.28 (-0.97%) | $233.541 (10% trail, hwm $259.49) |
+| BNY | 62 | $154.867097 | $150.14 | -0.02% | -$293.08 (-3.05%) | $139.1985 (10% trail, hwm $154.665) |
+| GOOGL | 58 | $344.881897 | $347.055 | -1.17% | +$126.04 (+0.63%) | $327.753 (10% trail, hwm $364.17) |
+| IBKR | 160 | $92.14 | $92.0512 | +0.19% | -$14.21 (-0.10%) | $82.6628 (12% trail, hwm $93.935) |
+| XLV | 120 | $156.202167 | $170.44 | +0.32% | +$1,708.54 (+9.12%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
+
+**Rule checks & decisions (13:40-13:45 UTC):**
+- **No planned buys today** (pre-market decision: 95.05% deployed, cash 4.95%, weekly 2/6 -- no deploy obligation, no adds). Workflow hard checks (positions <= 6, trades <= 3, cost <= 20%, catalyst logged, PDT room) not exercised.
+- **BNY -7% cut contingency (idea 1) -- NOT triggered:** $150.14 vs the $144.03 line = **4.1% above**; flat on the day (Financials not extending Tue's -1.7%). Trail $139.1985 = 7.3% below. Hold; line stays armed for midday.
+- **IBKR cut $85.69 -- NOT triggered** ($92.05, 6.9% above; +0.19% today). **AMZN cut $236.36 -- NOT triggered** ($251.69, 6.1% above).
+- **XLV +15% pre-write $179.63 -- no print** ($170.44, +9.12% on entry, 5.4% away). Nothing tightened, nothing loosened.
+- **AEM -4.24% today** ($194.92; last trade $195.44 13:42 UTC; IEX quote $170.28/$221.78 too wide to use) on gold rolling over (~$4,330 pre-market). -0.89% on entry; trail $183.6032 = **5.8% below**; -7% cut line $182.90 sits under the trail, so the trail governs. **Rule-11 clock: day 16, lands at the Sep 29 close ($200.60 line)** -- now 2.8% under it. Hold on the trail; no action, no extension (Scout stake is not a thesis catalyst). Add OFF.
+- **Trail coverage confirmed: 7 GTC orders covering all 537 shares across 6 positions** (BNY 84d202e6 / IBKR abb17739 / AMZN 258fad3c / GOOGL f6c69479 / XLV q80 92392985 / AEM 8571f428 / XLV q40 a2fda910). **No ratchets overnight** -- all seven hwms match the Sep 23 pre-market read. Closed-order history: no fills or cancels since Mon's four (OXY/MDT sells, IBKR/BNY buys).
+- **Stop proximity:** GOOGL $327.753 = **nearest, 5.6% below**; AEM 5.8%; XLV q80 6.6% / q40 6.8%; AMZN 7.2%; BNY 7.3%; IBKR 10.2%. Nothing inside 3%. No manual stops placed; nothing moved down.
+- Energy pause expires ~Thu Sep 24 -- **no re-entry** (crude 6th down day, WTI ~$90; rule 12 fresh-catalyst + leadership condition not met). Tech paused ~Oct 12.
+- Deployment **95.01%** -- inside the 90-100% band; cash 4.99%, rule-2 clock clear. PDT clean (no day trades). Weekly count **2/6** (Week 22: IBKR + BNY Mon). Positions 6.
+- **Sector mix** (of $100,179.93): Financials 23.99% (IBKR 14.70% + BNY 9.29%); Healthcare 20.42% (XLV; strike 1); Comm Svcs 20.09% (GOOGL); Cons Disc 17.08% (AMZN); Materials 13.43% (AEM); Energy 0% (PAUSED ~Sep 24); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Staples 0% (strike 1); Cash 4.99%. All caps compliant; no single name > 25%.
+
+**Action this run: none -- no orders placed or cancelled. Log only. No ClickUp (no trade).**
+
+**PM watch:** BNY $144.03 (4.1%) / IBKR $85.69 (6.9%) / AMZN $236.36 (6.1%) manual cut lines (all trails below them) -- BNY fire = cancel 84d202e6 + SELL 62 sh market, Financials strike 1, same-session redeploy ~$8.5K into XLV 50 sh + 10% trail (Healthcare -> ~28.6% < 30%) or a verified Healthcare RS single name; nearest stops GOOGL $327.753 (5.6%) / AEM $183.60 (5.8%) -- AEM is the gold-tape risk today; flash PMIs 9:45 / Barr 10:05 (post-run); XLV $179.63 (+15% trim, 5.4%) / AEM $226.17 / GOOGL $396.61 / AMZN $292.27 / IBKR $105.96 / BNY $178.10 pre-writes armed; ratchet watches AEM $208.65+ / AMZN $259.50+ / GOOGL $364.18+ / IBKR $93.94+ / BNY $154.67+ / XLV q80 $172.31+ / q40 $176.60+. AEM rule-11 line $200.60 at the Sep 29 close. XLV q40 trail re-place by Oct 2. Midday: exits/tightens only.

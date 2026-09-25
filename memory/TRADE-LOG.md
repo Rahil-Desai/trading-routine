@@ -2220,3 +2220,32 @@ _Recovered 2026-09-21 (pre-market) from unmerged run branch `claude/relaxed-meit
 **Sector mix** (of $101,125.71): Financials 24.04% (IBKR 14.57% + BNY 9.48%); Comm Svcs 20.30% (GOOGL); Healthcare 20.01% (XLV only -- strike 1); Cons Disc 17.18% (AMZN); Materials 13.53% (AEM); Energy 0% (PAUSED ~Sep 24, then fresh-catalyst re-entry only); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Staples 0% (strike 1); Cash 4.94%. All caps compliant; no single name > 25%. 6 positions (5-8 band OK). **Trail coverage: 7 GTC orders covering all 537 shares across 6 positions** (BNY 84d202e6 / IBKR abb17739 / AMZN 258fad3c / GOOGL f6c69479 / XLV q80 92392985 / AEM 8571f428 / XLV q40 a2fda910; nearest expiry XLV q40 Oct 6 -- re-place by Oct 2). No stop moved down; no manual stops placed. Ratchet since Fri: AMZN only (above).
 
 **PM watch:** IBKR $85.69 / BNY $144.03 / AMZN $236.36 manual cut lines (all trails sit below them); nearest stops XLV q80 $159.20 (5.6% below) and AEM $183.60 (7.4%); XLV $179.63 / AEM $226.17 / GOOGL $396.61 / AMZN $292.27 pre-writes armed; new +15% pre-writes IBKR $105.96 / BNY $178.10 -> 7% tighten + trim 25-50%; ratchet watches AEM $208.65+ / AMZN $256.67+ / GOOGL $359.42+ / IBKR $92.08+ / BNY $154.58+ / XLV q80 $172.31+ / q40 $176.60+. Cash 4.94% -- no further adds needed this week; AEM add stays OFF. Energy pause expiry ~Thu Sep 24 (no re-entry without a fresh catalyst + leadership, logged). Midday: exits/tightens only.
+
+## 2026-09-25 -- Midday Scan (Day 108, Friday -- NO ORDERS; FOUR HWM RATCHETS SINCE MON; FINANCIALS PAIR RED BUT INSIDE NOISE; SEP 22-24 RUNS NEVER REACHED MAIN)
+
+**Midday account (13:04 ET):** Equity **$99,493.56** | Cash $4,997.54 (5.02%) | Long MV $94,496.02 (**94.98% deployed**) | Day P&L **+$236.20 (+0.24%)** vs last_equity $99,257.36 | Phase P&L **-$506.44 (-0.51%)** (from +$1,125.71 at the Sep 21 post-trade mark -- -$1.6K over four unlogged sessions)
+
+| Ticker | Shares | Entry | Now | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-----|---------|----------------|------|
+| AEM | 69 | $196.67 | $194.765 | +0.46% | -$131.45 (-0.97%) | $183.6032 (12% trail, hwm $208.64) |
+| AMZN | 68 | $254.15 | $250.615 | +0.50% | -$240.38 (-1.39%) | $233.541 (10% trail, hwm $259.49 -- ratcheted from $256.66 / $230.994) |
+| BNY | 62 | $154.867097 | $149.395 | -0.53% | -$339.27 (-3.53%) | $139.1985 (10% trail, hwm $154.665 -- ratcheted from $154.575 / $139.1175) |
+| GOOGL | 58 | $344.881897 | $343.805 | +0.42% | -$62.46 (-0.31%) | $327.753 (10% trail, hwm $364.17 -- ratcheted from $359.41 / $323.469) |
+| IBKR | 160 | $92.14 | $90.08 | +0.29% | -$329.60 (-2.24%) | $82.6628 (12% trail, hwm $93.935 -- ratcheted from $92.07 / $81.0216) |
+| XLV | 120 | $156.202167 | $169.89 | +0.01% | +$1,642.54 (+8.76%) | $159.20 (qty 80, $13.10 trail_price, hwm $172.30) / $158.931 (qty 40, 10% trail, hwm $176.59) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none. Worst **BNY -3.53%** (cut line $144.03 = 3.6% below; trail $139.1985 = 6.8% below). IBKR -2.24% (cut line $85.69 = 4.9% below; trail $82.6628 = 8.2% below). AMZN -1.39% (cut line $236.36 = 5.7% below; trail $233.541 = 6.8% below). AEM -0.97%, GOOGL -0.31%.
+- +15%/+20% tighten (rule 9) + trim (rule 14): **no print.** XLV +8.76% ($179.63 = 5.7% away). Nothing tightened, nothing loosened.
+- **Thesis checks: all HOLD.** Financials pair (IBKR/BNY, day 4) both red on entry with no fresh news pull -- BNY -3.53% is inside the 10% trail's noise band, no cut line hit; sector near-term momentum was already flagged negative at entry. Rule-11 20-session clock on both lands ~Oct 19. GOOGL/AMZN both green today (+0.4-0.5%), rule-11 clock Oct 12. AEM flat with gold. XLV quiet. All intraday moves < 0.6% -- no Perplexity call warranted.
+- **Auto-ratchets since the Sep 21 post-trade mark: 4** -- AMZN hwm $256.66 -> $259.49 (stop $233.541); BNY $154.575 -> $154.665 ($139.1985); GOOGL $359.41 -> $364.17 ($327.753); IBKR $92.07 -> $93.935 ($82.6628). AEM ($208.64) and XLV ($172.30 / $176.59) unchanged. GOOGL trail sits above the $320.74 manual cut line -- trail governs.
+- **Stop proximity watch:** GOOGL $327.753 = **nearest, 4.7% below**; AEM 5.7% above $183.6032; XLV q80 6.3% above $159.20; AMZN / BNY 6.8%; IBKR 8.2%.
+- 3% / move-down rules: no manual stops placed; nothing moved down.
+- Deployment **94.98%** -- inside the 90-100% target; cash 5.02%, rule-2 clock not triggered.
+- **Sector mix** (of $99,493.56): Financials 23.80% (IBKR 14.49% + BNY 9.31%); Healthcare 20.49% (XLV -- strike 1); Comm Svcs 20.04% (GOOGL); Cons Disc 17.13% (AMZN); Materials 13.51% (AEM); Energy 0% (pause expired ~Sep 24 -- fresh catalyst + leadership required to re-enter); Tech 0% (PAUSED ~Oct 12); Industrials 0% (strike 1); Staples 0% (strike 1); Cash 5.02%. All caps compliant. No single name > 25%.
+- Positions: 6 (5-8 band OK). Weekly count **2/6** (Week 22: IBKR + BNY Mon). Closed-order history: no fills or cancels since the Sep 21 rotation. Trail coverage: **7 GTC orders covering all 537 shares across 6 positions** (BNY 84d202e6 / IBKR abb17739 / AMZN 258fad3c / GOOGL f6c69479 / XLV q80 92392985 / AEM 8571f428 / XLV q40 a2fda910). Nearest expiry XLV q40 Oct 6 -- **re-place by Oct 2**. PDT clean.
+- **Run-log gap:** no TRADE-LOG or RESEARCH-LOG entries on main for Sep 22, 23, 24 or today's pre-market/market-open (last main commit = Sep 21 market-open). This entry is the week's first record since Monday. Midday scan is exit-side only -- no entries placed.
+
+**Action this run: none -- no orders placed or cancelled. Log only. No ClickUp (no trade).**
+
+**PM watch:** BNY $144.03 / IBKR $85.69 / AMZN $236.36 manual cut lines (all trails below them); nearest stop GOOGL $327.753 (4.7%); XLV $179.63 / AEM $226.17 / GOOGL $396.61 / AMZN $292.27 / IBKR $105.96 / BNY $178.10 pre-writes armed (7% tighten + trim 25-50%); ratchet watches AEM $208.65+ / AMZN $259.50+ / BNY $154.67+ / GOOGL $364.18+ / IBKR $93.94+ / XLV q80 $172.31+ / q40 $176.60+. Weekly review this afternoon: backfill Sep 22-24 (phase P&L flipped negative, -$1.6K on the week), Financials pair review, XLV q40 re-place deadline Oct 2, recover any Sep 22-25 run branches that never merged.

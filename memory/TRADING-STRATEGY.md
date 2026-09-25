@@ -36,6 +36,7 @@ Beating the index means OUT-returning it -- holding index-proxy ETFs or megacaps
 14. TRIM-INTO-STRENGTH (added 2026-07-03 after 8 consecutive weeks of the same paragraph in the weekly review and MTUM +8.66% Tue -> +0.30% Thu round-trip on week 9). Two independent triggers, either fires the trim:
     - Any single position at +15% unrealized (regardless of book %): trim 25-50% same session as the +15% print. Pairs with rule 9's +15% trail tighten -- the tighten locks the floor, the trim locks the cash.
     - Any single position drifted over 25% of book AND carrying >+5% unrealized: trim 25-50% same session as the cap breach is observed at EOD or midday.
+    - NEAR-MISS GIVEBACK (added 2026-09-25 after OXY peaked +14.55% on Sep 15 -- $0.08 under the +15% line -- and exited +3.33% on its trail Sep 21, ~$1,060 of gain given back; same texture as the MTUM Jul round-trip that created this rule): any position whose trail high-water mark has printed >= +12% on entry AND whose close is >= 5pp below that peak before the +15% trim has fired = trim 25% at the next market-open run. Checked at every EOD run (hwm vs close). The 12% floor keeps it off ordinary 10%-trail noise.
     - Trim executes SAME SESSION as trigger. No "wait for confirmation," no "next-day," no "if it holds." Pre-write the exact share count Sunday research time for any position within 3pp of a trigger threshold.
     - Trim proceeds fund next high-conviction single-name leader add per rule 6 (not automatic re-deploy to ETF).
 

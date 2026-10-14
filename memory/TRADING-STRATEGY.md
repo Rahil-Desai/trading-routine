@@ -13,6 +13,7 @@ Beating the index means OUT-returning it -- holding index-proxy ETFs or megacaps
 ## Core Rules
 1. NO OPTIONS -- ever.
 2. STAY DEPLOYED: 90-100% target, hard floor 85%. Idle cash > 15% past ONE trading day = mandatory deploy on the next session, not a logged exception. The previous "log a specific blocking reason" loophole is removed -- a session with cash > 15% may not roll forward without a placed order.
+    - CLOSED-UNIVERSE FILL (added 2026-10-02 after three consecutive instances: Sep 14 GOOGL/AMZN and Sep 21 IBKR/BNY filled 2 x ~20% slots with laggard-sector names under a mandatory deploy and produced three of the phase's four worst realized losses; Sep 29 VLO filled ONE leg in the #1 YTD sector and was the only green entry of the month): when >= 3 of the six leadership sectors (Tech, Energy, Healthcare, Financials, Industrials, Materials) are paused, capped or on strike 1, the mandatory deploy fills to the 90% band with ONE leg only, in a sector above the S&P YTD, with a named single-name catalyst. The second slot stays open for the first sector that clears. A megacap S&P proxy or a name in a sector below the S&P YTD never satisfies the clock -- a sub-90% book with one leader beats a 95% book with two proxies. Residual cash under 15% with no legal home is logged, not forced.
 3. 5-8 positions at a time. Max 25% per position (highest-conviction only; typical 15-20%).
 4. Up to 6 new trades per week (PDT only limits same-day round-trips, not swings).
 5. Bias to ACTION: take the best available setup each week. A good setup at full deployment beats a perfect setup left in cash. Don't wait for certainty.
@@ -36,8 +37,10 @@ Beating the index means OUT-returning it -- holding index-proxy ETFs or megacaps
 14. TRIM-INTO-STRENGTH (added 2026-07-03 after 8 consecutive weeks of the same paragraph in the weekly review and MTUM +8.66% Tue -> +0.30% Thu round-trip on week 9). Two independent triggers, either fires the trim:
     - Any single position at +15% unrealized (regardless of book %): trim 25-50% same session as the +15% print. Pairs with rule 9's +15% trail tighten -- the tighten locks the floor, the trim locks the cash.
     - Any single position drifted over 25% of book AND carrying >+5% unrealized: trim 25-50% same session as the cap breach is observed at EOD or midday.
+    - NEAR-MISS GIVEBACK (added 2026-09-25 after OXY peaked +14.55% on Sep 15 -- $0.08 under the +15% line -- and exited +3.33% on its trail Sep 21, ~$1,060 of gain given back; same texture as the MTUM Jul round-trip that created this rule): any position whose trail high-water mark has printed >= +12% on entry AND whose close is >= 5pp below that peak before the +15% trim has fired = trim 25% at the next market-open run. Checked at every EOD run (hwm vs close). The 12% floor keeps it off ordinary 10%-trail noise.
     - Trim executes SAME SESSION as trigger. No "wait for confirmation," no "next-day," no "if it holds." Pre-write the exact share count Sunday research time for any position within 3pp of a trigger threshold.
     - Trim proceeds fund next high-conviction single-name leader add per rule 6 (not automatic re-deploy to ETF).
+    - Rule-13 cap trims (sector > 30%) are ONE order sized to land the sector at ~29.5%, not the minimum share count to reach 30.00% (clarified 2026-10-02 after two 1-sh VLO trims on Oct 1 and Oct 2 re-breached within hours). Same rule-10 mechanics: new trail on the remaining lot placed at >= the cancelled stop FIRST, then the sell.
 
 ## Entry Checklist
 - Specific catalyst? (earnings, breakout, rotation, news)

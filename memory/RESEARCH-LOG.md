@@ -5907,3 +5907,58 @@ _Recovered 2026-09-18 (weekly review) from unmerged run branch `claude/adoring-c
 
 ### Decision
 **HOLD pre-market -- no orders before the open (positions and stops verified: 7 GTC on 585 sh, no ratchets since Fri). Market-open run (~9:40 ET), in order: (1) SELL MDT 100 sh market (cancel 56cd1813 first) -- rule-11 exit, Healthcare strike 1; (2) BUY IBKR ~160 sh (~$14.6K, 14.5%) + 12% GTC trail same minute, gates: IBKR open <= +3% (~$94.2), SPX gap >= -1%; fallback BK ~95 sh + 10% trail; (3) OXY: trail $57.393 governs -- if it fires, midday redeploys ~$5-10K (BK / Materials leader / AEM-add gate re-check) same session; (4) no AEM add today (post-rotation cash < 10%). Watch: OXY $57.393 (1.4%); AMZN ratchet $255.96+; AMZN $236.36 cut; XLV $179.63 / AEM $226.17 / GOOGL $396.61 / AMZN $292.27 pre-writes; ratchet watches AEM $208.65+ / GOOGL $359.42+ / OXY $63.78+ / XLV q80 $172.31+ / q40 $176.60+. Energy pause expires ~Thu Sep 24; Tech ~Oct 12; XLV q40 trail re-place by Oct 2.**
+
+## 2026-10-14 -- Pre-market Research [inline at market-open run, 9:40-9:45 ET] (Wed, Day 121, Week 25 -- HOT SEPTEMBER CPI; 6/6 SLOTS FILLED, 90.06% DEPLOYED; MEMORY GAP SEP 30 -> OCT 13 RECONSTRUCTED FROM ALPACA FILLS)
+
+### Infra (first)
+- `git fetch` at 13:40 UTC: main is at `e0fe36d` (EOD snapshot Sep 29). **No run entry on main for Sep 30 through Oct 13** (10 sessions) and no run branches left on the remote -- every pre-market / market-open / midday / EOD / weekly-review record for those sessions is lost. Alpaca order history is the only source: fills reconstructed in today's TRADE-LOG entry.
+- No 2026-10-14 pre-market entry existed -> pre-market STEPS 1-3 run inline here. Perplexity: 5 of 8 first-pass queries 429'd on the parallel burst; all re-run sequentially and answered (no WebSearch fallback needed).
+- This run pushes to `claude/kind-johnson-ei6stb` + opens a PR (harness branch rule). **Human: merge to main** so tomorrow's runs see the gap reconstruction and the AMZN clock date below.
+
+### Account (13:41 UTC / 9:41 ET, market open)
+- Equity: **$104,504.74** (last_equity $104,002.31; +$502.43 / +0.48%). **Phase P&L +$4,504.74 (+4.50%)** -- up from the Sep 29 phase low of -2.16%.
+- Cash: **$10,384.11 (9.94%) / 90.06% deployed** -- 6 bps over the 90% target, above the 85% floor; rule-2 clock NOT triggered (cash < 15%). Buying power $305,074 -- irrelevant, no margin use.
+- Daytrade count: not returned by account endpoint; PDT clean (closed-order history: no same-day round trips; last fill NVDA buy Oct 13).
+- **Positions (6):**
+  - **AMZN 68** @ $254.15 -> $258.89 (+$322.32 / +1.86%; +0.12%) -- 10% trail 258fad3c $237.33, hwm $263.70 (ratcheted since Sep 29 from $259.49 / $233.541); 8.3% above stop; -7% cut $236.36 (trail governs). **Day 23 (Sep 14 entry) -- rule-11 dead-money clock: < +2% after 20 sessions (threshold $259.23). See Decision.**
+  - **GOOGL 58** @ $344.881897 -> $357.91 (+$755.63 / +3.78%; +1.17%) -- 10% trail f6c69479 $327.753, hwm $364.17; 8.4% above stop; +15% trigger $396.61 = 10.8% away. Day 23, above +2% -- clock clear.
+  - **MPC 22** @ $401.93 -> $478.57 (+$1,686.08 / **+19.07%**; +0.33%) -- **7% trail cb60d580 $447.33, hwm $481.00**; 6.5% above stop. Entered Oct 1 (29 sh), trimmed 7 sh Oct 8 @ $462.04 (+15% rule-14 trim, trail tightened 12% -> 7%). **+20% trigger $482.32 = 0.8% away -> tighten to 5% same session it prints.**
+  - **NVDA 48** @ $224.57 -> $225.84 (+$60.96 / +0.57%; **-1.17%**) -- 12% trail a75bec6f $201.2032, hwm $228.64; 10.9% above stop; -7% cut $208.85. Day 2 (Oct 13 entry, Tech pause expired ~Oct 12).
+  - **VLO 30** @ $389.403 -> $457.17 (+$2,033.01 / **+17.40%**; +0.16%) -- **7% trail f392a8d3 $429.2134, hwm $461.5198**; 6.1% above stop. 44 sh bought Sep 29/30, 14 sh trimmed Oct 1/2/5/9 (rule-14). **+20% trigger $467.28 = 2.2% away -> tighten to 5%.**
+  - **XLV 120** @ $156.202167 -> $172.26 (+$1,926.94 / +10.28%; +1.53%) -- trails 92392985 q80 $159.68 ($13.10 trail_price, hwm $172.78, exp Dec 3; 7.3% below) / **adbbd3dd q40 $165.98 ($6.80 trail_price, hwm $172.78, exp Dec 31; 3.6% below = nearest stop in the book)** -- q40 re-placed Oct 2 as planned. +15% trigger $179.63 = 4.3% away.
+- Open trail stops: **7 GTC, all 346 shares covered** (NVDA a75bec6f / VLO f392a8d3 / MPC cb60d580 / XLV q40 adbbd3dd / AMZN 258fad3c / GOOGL f6c69479 / XLV q80 92392985). Nearest expiry XLV q80 Dec 3. No stop within 3% of price. Nothing to move.
+- Weekly count: **1/6 (Week 25: NVDA Oct 13)**. Cloud market-open prompt hard-checks <= 6 positions / <= 3 trades / <= 20% per position -- **book is at the 6-position cap, so no new name can pass today.**
+- **Sector mix** (of $104,504.74): **Energy 23.20%** (VLO 13.12% + MPC 10.08%; 0 strikes, ~$7.1K headroom to the 30% cap); Comm Svcs 19.86% (GOOGL); Healthcare 19.78% (XLV; strike 1 MDT Sep 21); Cons Disc 16.85% (AMZN); Tech 10.37% (NVDA; pause expired ~Oct 12); **Financials 0% -- PAUSED (strike 2: BNY Sep 28 + IBKR Oct 1 -> 20 sessions from Oct 1 = ~Oct 29)**; Materials 0% (strike 1 AEM Sep 28); Industrials 0% (strike 1); Staples 0% (strike 1); Cash 9.94%. All caps compliant; no single name > 25%.
+
+### Market Context
+- **September CPI (8:30 ET) HOT: headline +0.6% m/m / 3.7% y/y (est 3.6%); core +0.3% m/m / 2.6% y/y (est +0.2% / 2.5%).** ES flipped from +0.1-0.2% to **-0.24%** on the print; **SPY $775.19 at 9:45 ET = -0.37% vs Tue close $778.03** (SPX gap >= -1% gate would pass -- moot, no buy today). VIX futures ~17.5 (Nov). Beige Book 2:00 ET; Bowman speaks. Thu: PPI (+0.5% m/m est, core +0.5%), retail sales (+0.3%), claims, Philly Fed; Chair Warsh Thu evening.
+- **Oil:** WTI ~$94.8-95.9 (+0.7%), Brent ~$105.7-107.4 -- Saudi-Houthi strikes near Aramco facilities + Hormuz risk vs. a possible US-Russia deal lifting Russian diesel exports and OPEC+ output +900 kbpd to 39.07 mbpd; US crude -3.2 Mbbl. Diesel tight, refining margins elevated.
+- **Banks:** BAC + MS reported pre-open (no verified post-print moves at 9:40); GS beat Tue ($17.01 adj EPS / $18.68B rev), faded from +3.6-4% pre. Irrelevant for entries -- Financials PAUSED.
+- **Sectors:** Energy = October MTD leader (+5.5% median constituent), led again Tue (+1.6-1.76%); **Healthcare MTD laggard (-4.2% median), worst sector Tue (-1.32%)**; last week Staples +4.0% / Utilities +3.9% / Energy +3.6% led, Real Estate -0.4% / Industrials +0.1% / Tech +0.4% lagged; Tech weakest Mon.
+- **RS screen (this week):** MPC +35% (RSI 82), PTC +35% (RSI 79), PSX +8.8% (RSI 76), VLO +6.8% (1-yr RS leader, +132.6%), CEG +12.25% (20-yr PPA with Alphabet), META +1.9%, MU +4.1%, SNDK +1.9%. Top-decile vs SPY screen: SUNC, SNDK, AXTI, MRNA, IOVA.
+- **Refiners:** 3-2-1 crack ~$64.83/bbl Oct 6 (multidecade high) but **-$2.21/bbl w/w off the peak**; Mizuho downgraded PSX / DK / PARR to Neutral (~4% avg upside left), raised 2026 crack assumption to ~$42 but models normalization from 2028; MPC consensus PT (~$330) far below price though Citi at $518; VLO flagged RSI > 75. Earnings setup still bullish into Q3 prints; R:R on adds is poor.
+
+### Held-ticker News
+- **NVDA:** closed Tue $228.52 (+0.97%) after four down sessions; $250M / 5-yr UK AI-safety commitment, LSEG market-data partnership, Doctolib / Genesis AI investments. -1.2% at the open on the hot CPI.
+- **GOOGL:** no company-specific headline; pre $351.66 (+0.6%), opened $357.9 -- strongest name in the book today. CEG-Alphabet 20-yr PPA (Tue) is a datacenter-power read-through.
+- **AMZN:** reported ~**$7B acquisition of AI startup Decart** (AWS / Trainium), offset by an analyst downgrade + possible UK marketplace-tax measures. Closed Tue $258.62 (-0.37%). Q3 earnings expected late Oct (date unverified).
+- **MPC:** +4.07% Tue to $477.50, 12-month high; Citi PT $518; refining-margin estimate revisions into Q3 earnings.
+- **VLO:** no new company headline; rode the refiner tape (+6.8% w/w).
+- **XLV:** Healthcare -1.32% Tue, weakest sector; MTD laggard. +1.5% at the open today (defensive bid on hot CPI).
+
+### Trade Ideas
+1. **No new entry today** -- book is at the cloud prompt's 6-position cap; deployment 90.06% is inside the 90-100% band; cash 9.94% < 15%. The only legal action would be an add to an existing name: rejected -- Energy adds (VLO/MPC) are RSI 75-82 with rule-14 trims already taken and sector 23.2% of book; GOOGL/AMZN/NVDA adds into a hot-CPI, yields-up tape raise growth concentration (already 47.1% of book); XLV is the MTD-laggard sector. Idle $10.4K is 6 bps over target, not a rule-2 breach.
+2. **MPC +20% tighten pre-write:** MPC >= **$482.32** -> cancel cb60d580 (7%), place 5% GTC trail on 22 sh (new trail first, then cancel if Alpaca allows the overlap; else cancel-then-place same minute).
+3. **VLO +20% tighten pre-write:** VLO >= **$467.28** -> cancel f392a8d3 (7%), place 5% GTC trail on 30 sh.
+4. **XLV +15% pre-write:** XLV >= **$179.63** -> tighten both trails to 7% (q80 92392985 / q40 adbbd3dd) + trim 30-60 sh same session.
+5. **AMZN rule-11 clock (see Decision):** unconditional exit at the **Oct 19 market-open** if still < +2% ($259.23). Replacement must avoid Financials (paused) and keep Energy under 30%: candidates **CEG** (Utilities; Alphabet 20-yr PPA, +12% w/w, 0 strikes), **MU** (Tech; memory upcycle, Tech room 19.6% to cap), **PTC** (Tech; +35% w/w, RSI 79 -- only on a pullback). META ruled out (Comm Svcs would breach 30% with GOOGL).
+
+### Risk Factors
+- Hot core CPI -> yields up / Fed-easing odds down; 47.1% of book is megacap growth (GOOGL 19.9% + AMZN 16.9% + NVDA 10.4%). NVDA 2 sessions old, -1.2% today.
+- Refiners stretched (RSI 75-82) with crack spreads rolling off a multidecade peak; Energy 23.2% of book, both names on 7% trails (6.1-6.5% clearance).
+- XLV q40 trail $165.98 is the nearest stop (3.6%); a Healthcare flush fires it for a +6.3% win (no strike).
+- Thu: PPI + retail sales + Warsh. Fri: follow-through.
+- Memory gap: 10 sessions of run logs lost; any pre-writes / extensions logged Sep 30-Oct 13 are unknown -- reconciled conservatively below.
+
+### Decision
+**HOLD -- no orders this run.** 6/6 slots filled (cloud cap), 90.06% deployed, hot CPI, every held name > 3% above its stop, no -7% cuts, no +20%/+15% prints at the open. **AMZN rule-11:** day 23 at +1.86% -- the clock fired on the Oct 12 run (day 21), whose log is lost; AMZN was not exited Oct 12 or 13. Today's named catalyst (reported ~$7B Decart AI acquisition + Q3 earnings inside the window) qualifies for the ONE 5-session extension. Because an Oct 12 extension cannot be ruled out, the extension is dated **from Oct 12, not today: unconditional exit at the Oct 19 market-open if AMZN < +2% ($259.23)** -- no second extension under any catalyst. Midday: exits/tightens only; MPC $482.32 / VLO $467.28 -> 5% trails, XLV $179.63 -> 7% + trim; ratchet watches AMZN $263.71+ / GOOGL $364.18+ / MPC $481.01+ / NVDA $228.65+ / VLO $461.52+ / XLV $172.79+.

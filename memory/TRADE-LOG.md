@@ -314,6 +314,30 @@ New cost basis deployed: $67,406.97. Combined with XLE $19,876, total deployment
 
 **Decision:** No new entries midday. Cash 22.3% breaches 15% floor as of today's stop-out; rule = mandatory deploy on NEXT session (Thu) if still > 15%. AVGO AMC Thursday is the binary AI-capex catalyst -- preserve dry powder until post-print, then scout from SANM/LYB/GNRC/SNDK/TPL watchlist for a high-conviction breakout. Weekly count stays 4/6 (exit not new entry). Risk reduced: tech-single-name buffer gone; remaining book is 3 sector ETFs + multi-sector momentum factor = lower idiosyncratic risk, all stops ratcheting on fresh hwm. EOD: full snapshot.
 
+## 2026-06-05 -- Midday Scan (HOLD; NFP tape red but no rule trigger)
+
+**Midday account:** Equity $97,942.91 | Cash $13,711.12 (14.0%) | Day P&L -$1,822.32 (-1.83%) | Phase P&L -$2,057.09 (-2.06%)
+
+| Ticker | Shares | Entry | Now | Intraday | Unrealized P&L | Stop |
+|--------|--------|-------|-----|----------|----------------|------|
+| MTUM | 75 | $315.5848 | $311.07 | -4.54% | -$338.61 (-1.43%) | $298.34 (10% trail, hwm $331.49) |
+| XLB | 363 | $51.18168 | $50.795 | -1.60% | -$140.36 (-0.76%) | $46.98 (10% trail, hwm $52.1999) |
+| XLE | 340 | $58.460 | $57.965 | -1.34% | -$168.35 (-0.85%) | $55.53 (10% trail, hwm $61.70) |
+| XLI | 130 | $171.67 | $175.03 | -0.64% | +$436.80 (+1.96%) | $158.80 (10% trail, hwm $176.44) |
+
+**Midday Rule Checks:**
+- -7% manual cut: none triggered (worst MTUM unrealized -1.43%; intraday -4.54% but cushion vs entry intact).
+- +15% / +20% trail-tighten: none eligible (best XLI +1.96%).
+- Thesis crack: none. NFP-driven broad-tape risk-off; MTUM (momentum factor) the most rate-sensitive name in book = expected reaction, not a single-name break. XLI/XLB/XLE thesis unchanged (Leadership sectors; AVGO AI-capex tailwind intact post-blowout Thu).
+- 3% / never-move-down: no manual stop moves. All armed trails in place at Alpaca.
+- Fresh hwm ratchet: none (all four positions intraday red; no new highs since prior session).
+- Sector concentration: Energy 20.1% / Materials 18.8% / Industrials 23.2% / Multi-sector momentum 23.8% / Tech 0% = compliant (all under 30% cap, all under 25% per-position).
+- Deployment: $84,232 / $97,943 = 86.0%, clears 85% floor.
+
+**Action: NONE.** No cuts, no tightens, no new entries. NFP print delivered broad red tape; trails handle downside automatically. No ClickUp notification (no action taken).
+
+**PM watch:** MTUM cushion to trail (4.1%) thinnest; if continuation lower toward $298.34, let trigger automatically. XLE buffer 4.2% to trail; failed energy trade #2 risk if WTI breaks lower. Weekly review session this afternoon -- 1 slot unused, week 5 closes 5/6 trades. Phase P&L -$2,057 (-2.06%) is fresh campaign low post-XOM/DELL stop-outs; week 5 lessons (failed Tech #1, energy on 1-strike) get full retrospective in WEEKLY-REVIEW.md.
+
 ### Jun 04 -- EOD Snapshot (Day 26, Thursday)
 **Portfolio:** $99,783.85 | **Cash:** $13,711.13 (13.74%) | **Day P&L:** -$55.17 (-0.06%) | **Phase P&L:** -$216.15 (-0.22%)
 

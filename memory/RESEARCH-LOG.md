@@ -7804,3 +7804,14 @@ _Recovered 2026-10-22 (EOD) from sibling midday branch `claude/adoring-cray-4moh
 
 ### Decision
 **DEPLOY: XOM ~70 sh market at the open read if gates (a)-(d) pass, 10% GTC trail inside 20 s -> deployment ~88.4% (floor restored, inside the 85-90 band; leg 2 Tue if < 90%). Fallbacks per ideas 2-4. Week 28 count after: 1/6 (cloud 1/3).**
+
+### Afternoon Addendum (midday scan, 12:23 ET / 17:23 UTC) -- UNH -2.5% / CVX -2.2% CAUSE CHECK: NO COMPANY ITEM ON EITHER (OIL -4% ON IRAN TALKS; HEALTHCARE GIVEBACK), NEM +3% ON GOLD +1%, ISM 55.5 HOT -> ALL FIVE HOLD, NO ORDERS
+
+- **Tape:** SPY $759.35 (+0.47% vs Fri $755.78) -- buy-the-dip bounce after Fri's SPX -1.8% / NDX -2.9%; VIX ~19.4 (not timestamped); XLE $68.25 soft. **ISM Manufacturing (10:00 ET): 55.5 vs 54.7 consensus / 54.5 prior = 10th straight expansion, production best since 2021; Prices Paid 75.2 vs 77.5 consensus / 77.9 prior (cooler).** Hot growth + cooler prices = mildly supportive for Energy / Materials, neutral for the Dec-hike pricing. AAPL / PLTR AMC; US midterms Tue.
+- **CVX -2.16% (session 2, -$224):** WTI ~$99.80 (-4.15%) / Brent ~$110 (-3%) on Iran-talks headlines -- pure commodity beta, no CVX company item (Oct 30 Q3 double beat stands). Same move that failed XOM's gate (a) at the open; Energy leg stays re-gated for Tue. Cut $219.03 = 4.9% below. **HOLD.**
+- **UNH -2.47% (lot 1 session 11 / lot 2 session 1, -$224 blended):** no company-specific headline found (no CMS / Medicare Advantage / guidance / legal item); XLV -0.30% -> single-name giveback of Fri's +1.2% on the sector bid. Lot-1 trail $383.90 = 3.3% below = the governing line (fire = Healthcare strike 2). **HOLD** -- lot-1 rule-11 day-20 clock ~Nov 13 unchanged.
+- **NEM +3.05% (-$271 on the fill):** gold ~$3,915 (+1%) retracing Fri's -3% hawkish-hold drop; no company item. Cut $103.54 = 5.8% below. **HOLD.**
+- **COST +2.15% (+$756):** no item; Oct comps due Wed Nov 4 AMC. Trail ratcheted to $930.72 (now above the $926.57 cut). **HOLD.**
+- **XLV -0.30% (+18.00% chain basis):** defensive drift; q40 $181.19 = 1.7% below = nearest stop in book (a fire = +15.1% WIN, no strike). **HOLD.**
+- **Book:** equity $101,384.44, Day P&L +$443.54 (+0.44%) vs SPY +0.47% -- in line; COST + NEM carry, CVX + UNH drag. **Deployment 79.62%, cash 20.38% = 85% floor BREACH session 2 (logged at the open; one leg per session, UNH 10 sh already placed -> no second leg).** $5,454 short of 85%, $10,523 short of 90%. Week 28 count 1/6 rulebook (1/3 cloud); 5 positions / 371 sh / 7 GTC trails `new`. No orders at midday.
+- **Tue pre-market:** XOM re-gate is leg 1 of exception session 3 (gate off Mon's close, -1% line, SPX gap >= -1%, open <= +3%, 10% trail, ~70 sh); Healthcare headroom ~$728 = no fallback there; search the closed universe for ONE non-Energy, non-Healthcare, non-Staples, non-Materials name above the S&P YTD with a named catalyst -- if none, log it and re-derive the pace rather than extend the exception.

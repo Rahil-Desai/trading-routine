@@ -1,6 +1,8 @@
 # Lints CLAUDE.md, .claude/commands, skills, agents and settings with claude-rules-linter.
 # Report only: results go to the job log and the job summary page; the job never fails.
-# To enforce later, add e.g. `fail-under: "90"` or `fail-on: error` under `with:`.
+# This repo is public, and GitHub doesn't let public repos use actions from a private repo,
+# so this runs the linter from npm. It skips with a notice until the package is published.
+# To enforce later, add `--fail-under 90` or `--fail-on error` to the crl command.
 name: Claude rules lint
 
 on:
@@ -28,7 +30,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Rahil-Desai/claude-rules-linter@main
+      - uses: actions/setup-node@v4
         with:
-          # Code scanning on private repos needs GitHub Code Security, so keep SARIF upload off.
-          upload-sarif: "false"
+          node-version: 22
+      - name: Run claude-rules-linter
+        run: |
+          if ! npm view claude-rules-linter version > /dev/null 2>&1; then
+            echo "::notice::claude-rules-linter is not published to npm yet; skipping."
+            exit 0
+          fi
+          npx --yes claude-rules-linter@0 . --summary "$GITHUB_STEP_SUMMARY"

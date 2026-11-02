@@ -48,7 +48,15 @@ bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"sell","type":"st
 If also blocked, queue the stop in TRADE-LOG as "PDT-blocked, set tomorrow AM".
 
 STEP 6 -- Append each trade to memory/TRADE-LOG.md (matching existing format):
-Date, ticker, side, shares, entry price, stop level, thesis, target, R:R.
+Date, ticker, side, shares, entry price, stop level, thesis, target, R:R, confidence, horizon.
+New trade tables use this header (older tables without the last two columns stay as they are -- don't rewrite them):
+| Date | Ticker | Side | Shares | Entry | Stop | Thesis | Target | R:R | Confidence | Horizon |
+- Confidence (BUY rows): 0-100, your honest odds the trade works -- target hit, or price above entry
+  at the end of the horizon, without the stop hitting first. A plain number, e.g. 65.
+- Horizon (BUY rows): how long the thesis needs to play out, as Nd / Nw / Nm (e.g. 10d, 3w, 2m).
+- SELL / trim / stop-change rows: write -- in both columns.
+Then check the new rows: python3 scripts/check_trade_log.py --since $DATE
+If it flags a row, fix that row before committing. (Skip the check if python3 is unavailable; it never blocks a trade.)
 
 STEP 7 -- Notification: only if a trade was placed.
 bash scripts/clickup.sh "<tickers, shares, fill prices, one-line why>"

@@ -23,5 +23,6 @@ Args: SYMBOL SHARES SIDE (buy or sell). If missing, ask.
 6. For BUYs, immediately place 10% trailing stop GTC:
    bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"sell","type":"trailing_stop","trail_percent":"10","time_in_force":"gtc"}'
    If Alpaca rejects with PDT error, fall back to fixed stop 10% below entry.
-7. Log to memory/TRADE-LOG.md with full thesis, entry, stop, target, R:R.
+7. Log to memory/TRADE-LOG.md with full thesis, entry, stop, target, R:R, confidence (0-100) and horizon (e.g. 3w).
+   Same columns and meaning as market-open STEP 6; ask for confidence and horizon if not given.
 8. bash scripts/clickup.sh with trade details.

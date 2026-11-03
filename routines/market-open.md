@@ -36,6 +36,10 @@ STEP 3 -- Hard-check rules BEFORE every order. Skip any trade that fails and log
 - Position cost <= 25% of equity
 - Catalyst documented in today's RESEARCH-LOG
 - daytrade_count leaves room (PDT: 3/5 rolling business days)
+If no new name passes these checks and the session owes a rule-2 leg, apply
+TRADING-STRATEGY rule 2 NO LEGAL LEG: top up a qualifying existing leader
+(same checks + new GTC trail on the added lot), else log BLOCKED UNIVERSE
+(one blocking reason per sector) instead of a floor breach.
 
 STEP 4 -- Execute the buys (market orders, day TIF):
 bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"buy","type":"market","time_in_force":"day"}'

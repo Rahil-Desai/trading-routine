@@ -23,6 +23,7 @@ Defined in .claude/commands/ (local) and routines/ (cloud). Five scheduled runs 
 - Max 25% per position (typical 15-20%).
 - Up to 6 new trades per week.
 - 90-100% capital deployed; hard floor 85%. Idle cash beyond one trading day = rule violation.
+- No legal new name? Top up an existing green leader (not paused, within caps, new trail). Nothing legal at all = log BLOCKED UNIVERSE, not a floor breach (rule 2, NO LEGAL LEG).
 - Hunt individual high-beta/relative-strength leaders; ETFs are deployment vehicles, not the core.
 - 10% trailing stop on every position as a real GTC order (up to 12% for high-beta).
 - Cut losers at -7% manually.

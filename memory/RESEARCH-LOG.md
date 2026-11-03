@@ -7861,3 +7861,14 @@ _Recovered 2026-10-22 (EOD) from sibling midday branch `claude/adoring-cray-4moh
 
 ### Decision
 **DEPLOY: XOM 59 sh market at the 9:41 ET read (gates (a)-(d) passed), 10% GTC trail inside 15 s -> deployment 79.56% -> ~90.0% (floor restored same session; staged-fill exception closed inside the 3-session limit; rule-2 clock clear). Week 28 count after: 2/6 (cloud 2/3); 6/6 positions -> no further entry this week unless an exit frees a slot. Executed -- see the TRADE-LOG entry.**
+
+### Afternoon Addendum (midday scan, 13:07 ET / 18:07 UTC) -- COST -1.85% / NEM -1.2% CAUSE CHECK: NO COMPANY ITEM ON EITHER (COST OCT COMPS WED AMC; GOLD SOURCE READ +1.9%, TIMING UNCERTAIN), CVX / XOM SOFT ON A FIRM OIL TAPE (WTI ~$98 +1.8%), UNH +1.0% -> ALL SIX HOLD, NO ORDERS; HEALTHCARE 29.75% = $249 UNDER THE CAP
+
+- **Tape (Perplexity, one call 13:08 ET; late-morning sources, not a synchronized print):** S&P ~7,560 (+0.25%) / Nasdaq ~25,313 (+0.6%) / VIX ~21.0 (-0.8%) / 10-yr ~4.92% / WTI ~$98.16 (+1.8%) / gold ~$3,948 (+1.9%). Mon close: SPX 7,541.40 (-0.51%) / NDX 25,164 (-1.07%) / VIX 21.15. Midterm election day; AAPL -4% / PLTR -7% on guides. **JOLTS (Sep, consensus ~7.1M) and factory orders results not returned by the source set.**
+- **COST -1.85% (+2.51% on entry, session 10, +$500):** no company item dated Nov 2-3; giveback of Mon's +2.2% into Wed's Oct comps (AMC). Trail $938.31 = 8.1% below, governs. **HOLD.**
+- **NEM -1.22% (-3.21% on entry, session 5, -$658):** no company item; the gold +1.9% read is likely an earlier-session snapshot (NEM / GDX drift says gold is flat-to-soft at 1 PM) -- commodity beta either way, not a thesis break. Cut $103.54 = 3.9% below. **HOLD.**
+- **CVX -0.59% (-3.86% on entry, session 3, -$400) / XOM -0.88% vs Mon close (-0.75% on today's fill, session 1, -$80):** WTI +1.8% rebounding after Mon's -7%; no company item on either (Q3 double beats Oct 30 stand; XOM UBS / JPM PT raises). CVX cut $219.03 = 3.3% below = nearest cut in book. **HOLD both.**
+- **UNH +1.02% (+0.20% blended):** no item; lot-1 rule-11 day-20 clock ~Nov 13 unchanged. **HOLD.**
+- **XLV +0.14% (+18.34% chain basis):** q40 $181.19 = 2.0% below = nearest stop in book (a fire = +15.1% WIN, no strike). **HOLD.**
+- **Book:** equity $100,785.14, Day P&L -$610.25 (-0.60%) vs SPX ~+0.25% -- underperforming on COST / NEM / XOM. **Deployment 90.00%, cash 10.00% = floor held (restored at the open).** Week 28 count 2/6 rulebook (2/3 cloud); 6 positions / 430 sh / 8 GTC trails `new`; XOM hwm ratcheted to $179.68 ($161.712). **Healthcare 29.75% = $249 under the rule-13 cap -> no trim; re-test at EOD.** No orders at midday.
+- **EOD:** exit-side only. If Healthcare reads > 30%, ONE trim (UNH lot 2 ~2 sh, new trail first). Any stop-out redeploys same session (Energy the only legal home; a CVX / XOM loss exit pauses Energy -> BLOCKED UNIVERSE).

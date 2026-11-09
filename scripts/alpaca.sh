@@ -37,6 +37,9 @@ case "$cmd" in
   quote)
     sym="${1:?usage: quote SYM}"
     curl -fsS -H "$H_KEY" -H "$H_SEC" "$DATA/stocks/$sym/quotes/latest" ;;
+  trade)
+    sym="${1:?usage: trade SYM}"
+    curl -fsS -H "$H_KEY" -H "$H_SEC" "$DATA/stocks/$sym/trades/latest" ;;
   orders)
     status="${1:-open}"
     curl -fsS -H "$H_KEY" -H "$H_SEC" "$API/orders?status=$status" ;;

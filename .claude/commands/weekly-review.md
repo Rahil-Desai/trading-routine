@@ -49,7 +49,11 @@ One-line takeaway: <...>
 Grade: <letter>"
 
 STEP 7 -- COMMIT AND PUSH (mandatory):
+Run each git command below as its OWN separate Bash call, exactly as written.
+No shell variables or substitutions ($DATE, $(...), ${...}), no &&, ;, or pipes,
+no `git -c` flags, no heredocs, single-line -m message only.
+Replace YYYY-MM-DD with today's date typed out literally (e.g. 2026-11-09).
 git add memory/WEEKLY-REVIEW.md memory/TRADING-STRATEGY.md
-git commit -m "weekly review $DATE"
+git commit -m "weekly review YYYY-MM-DD"
 git push origin main
-If TRADING-STRATEGY.md didn't change, add just WEEKLY-REVIEW.md. On push failure: rebase and retry.
+If TRADING-STRATEGY.md didn't change, add just WEEKLY-REVIEW.md. On push failure: run git pull --rebase origin main, then run git push origin main again (separate calls). Never force-push.

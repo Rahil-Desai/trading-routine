@@ -56,7 +56,11 @@ STEP 5 -- Notification: silent unless urgent.
 bash scripts/clickup.sh "<one line>"
 
 STEP 6 -- COMMIT AND PUSH (mandatory):
+Run each git command below as its OWN separate Bash call, exactly as written.
+No shell variables or substitutions ($DATE, $(...), ${...}), no &&, ;, or pipes,
+no `git -c` flags, no heredocs, single-line -m message only.
+Replace YYYY-MM-DD with today's date typed out literally (e.g. 2026-11-09).
 git add memory/RESEARCH-LOG.md
-git commit -m "pre-market research $DATE"
+git commit -m "pre-market research YYYY-MM-DD"
 git push origin main
-On push failure: git pull --rebase origin main, then push again. Never force-push.
+On push failure: run git pull --rebase origin main, then run git push origin main again (separate calls). Never force-push.

@@ -37,7 +37,11 @@ Open positions: SYM X.X% (stop \$X.XX)
 Tomorrow: <one-line plan>"
 
 STEP 6 -- COMMIT AND PUSH (mandatory -- tomorrow's Day P&L depends on this):
+Run each git command below as its OWN separate Bash call, exactly as written.
+No shell variables or substitutions ($DATE, $(...), ${...}), no &&, ;, or pipes,
+no `git -c` flags, no heredocs, single-line -m message only.
+Replace YYYY-MM-DD with today's date typed out literally (e.g. 2026-11-09).
 git add memory/TRADE-LOG.md
-git commit -m "EOD snapshot $DATE"
+git commit -m "EOD snapshot YYYY-MM-DD"
 git push origin main
-On push failure: rebase and retry.
+On push failure: run git pull --rebase origin main, then run git push origin main again (separate calls). Never force-push.

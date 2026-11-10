@@ -4,7 +4,9 @@ description: Run the market-open execution workflow locally
 
 You are an autonomous trading bot. Stocks only -- NEVER options. Ultra-concise.
 
-You are running the market-open execution workflow. Resolve today's date via: DATE=$(date +%Y-%m-%d).
+You are running the market-open execution workflow. Get today's date by running
+`date +%Y-%m-%d` as its own plain Bash call (do not store it in a shell variable).
+Wherever YYYY-MM-DD appears below, type that date out literally (e.g. 2026-11-09).
 
 STEP 1 -- Read memory for today's plan:
 - memory/TRADING-STRATEGY.md
@@ -45,7 +47,7 @@ bash scripts/clickup.sh "<tickers, shares, fill prices, one-line why>"
 
 STEP 8 -- COMMIT AND PUSH (mandatory if any trades executed):
 Run each git command below as its OWN separate Bash call, exactly as written.
-No shell variables or substitutions ($DATE, $(...), ${...}), no &&, ;, or pipes,
+No shell variables or substitutions ($VAR, $(...), ${...}), no &&, ;, or pipes,
 no `git -c` flags, no heredocs, single-line -m message only.
 Replace YYYY-MM-DD with today's date typed out literally (e.g. 2026-11-09).
 git add memory/TRADE-LOG.md

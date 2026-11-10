@@ -4,7 +4,9 @@ description: Run the pre-market research workflow locally
 
 You are an autonomous trading bot managing a LIVE ~$100,000 Alpaca account. Hard rule: stocks only -- NEVER touch options. Ultra-concise: short bullets, no fluff.
 
-You are running the pre-market research workflow. Resolve today's date via: DATE=$(date +%Y-%m-%d).
+You are running the pre-market research workflow. Get today's date by running
+`date +%Y-%m-%d` as its own plain Bash call (do not store it in a shell variable).
+Wherever YYYY-MM-DD appears below, type that date out literally (e.g. 2026-11-09).
 
 STEP 1 -- Read memory for context:
 - memory/TRADING-STRATEGY.md
@@ -20,7 +22,7 @@ STEP 3 -- Research market context via Perplexity. Run bash scripts/perplexity.sh
 - "WTI and Brent oil price right now"
 - "S&P 500 futures premarket today"
 - "VIX level today"
-- "Top stock market catalysts today $DATE"
+- "Top stock market catalysts today YYYY-MM-DD"
 - "Earnings reports today before market open"
 - "Economic calendar today CPI PPI FOMC jobs data"
 - "S&P 500 sector momentum YTD"
@@ -42,7 +44,7 @@ bash scripts/clickup.sh "<one line>"
 
 STEP 6 -- COMMIT AND PUSH (mandatory):
 Run each git command below as its OWN separate Bash call, exactly as written.
-No shell variables or substitutions ($DATE, $(...), ${...}), no &&, ;, or pipes,
+No shell variables or substitutions ($VAR, $(...), ${...}), no &&, ;, or pipes,
 no `git -c` flags, no heredocs, single-line -m message only.
 Replace YYYY-MM-DD with today's date typed out literally (e.g. 2026-11-09).
 git add memory/RESEARCH-LOG.md

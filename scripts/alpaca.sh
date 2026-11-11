@@ -40,6 +40,9 @@ case "$cmd" in
   trade)
     sym="${1:?usage: trade SYM}"
     curl -fsS -H "$H_KEY" -H "$H_SEC" "$DATA/stocks/$sym/trades/latest" ;;
+  snapshot)
+    sym="${1:?usage: snapshot SYM}"
+    curl -fsS -H "$H_KEY" -H "$H_SEC" "$DATA/stocks/$sym/snapshot" ;;
   orders)
     status="${1:-open}"
     curl -fsS -H "$H_KEY" -H "$H_SEC" "$API/orders?status=$status" ;;
@@ -58,7 +61,7 @@ case "$cmd" in
   close-all)
     curl -fsS -H "$H_KEY" -H "$H_SEC" -X DELETE "$API/positions" ;;
   *)
-    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|orders|order|cancel|cancel-all|close|close-all> [args]" >&2
+    echo "Usage: bash scripts/alpaca.sh <account|positions|position|quote|trade|snapshot|orders|order|cancel|cancel-all|close|close-all> [args]" >&2
     exit 1 ;;
 esac
 echo

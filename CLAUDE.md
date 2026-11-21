@@ -36,6 +36,17 @@ Defined in .claude/commands/ (local) and routines/ (cloud). Five scheduled runs 
 
 Use bash scripts/alpaca.sh, scripts/perplexity.sh, scripts/clickup.sh. Never curl these APIs directly.
 
+## Trade Log Integrity
+
+Runs sometimes can't push to main and land on claude/* branches instead; the next run then can't see
+those entries. That is how the same Sep/Oct fills got logged 2-6 times.
+- Before appending any BUY/SELL row -- including fills reconstructed from Alpaca order history or copied
+  from another branch -- check memory/TRADE-LOG.md doesn't already have it (same date, ticker, side, shares, price).
+- Before committing: python3 scripts/trade_log_dupes.py --baseline-ref origin/main
+  If it reports a new duplicate, delete the row you just added. Never edit or delete rows already on main.
+- If git push origin main is refused (not a rebase conflict), say "PUSH TO MAIN BLOCKED" in the ClickUp
+  message and at the top of the PR body, so the routine's "Allow unrestricted branch pushes" setting gets fixed.
+
 ## Communication Style
 
 Ultra concise. No preamble. Short bullets. Match existing memory file formats exactly -- don't reinvent tables.

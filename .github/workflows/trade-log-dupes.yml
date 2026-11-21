@@ -1,0 +1,32 @@
+# Flags PRs that would log a fill that's already in memory/TRADE-LOG.md on the base branch
+# (e.g. a run branch that reconstructed trades another run already logged). Duplicates already
+# on main are history and are ignored. Report-only: it shows a red check but doesn't block merging
+# unless branch protection is turned on for it.
+name: trade-log duplicates
+
+on:
+  pull_request:
+    paths:
+      - memory/TRADE-LOG.md
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check for new duplicate fills
+        run: |
+          BASE="origin/${{ github.base_ref || 'main' }}"
+          # Compare the merge result GitHub checked out against the base branch.
+          python3 scripts/trade_log_dupes.py --baseline-ref "$BASE"
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests
